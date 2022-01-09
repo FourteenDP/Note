@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "communityThemeSortOrder": "download",
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "useTab": false,
+  "vimMode": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "~附件",
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "communityPluginSortOrder": "download"
+}
