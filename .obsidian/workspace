@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "ba8439ab2d2f5996",
+    "type": "split",
+    "children": [
+      {
+        "id": "64005806be3de2f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021面试复习.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6015379668b8a54c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc8ebff1dde9507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "877abaaccc8c97ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ed20c26f553db13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdd512709bf4ee30",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "b105e6a105c3707c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4562c018f793ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf254ce72212bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021面试复习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d128f0eb0b327e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021面试复习.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2b770b3c8ea318d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "340732f8f09c09c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021面试复习.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335,
+    "collapsed": true
+  },
+  "active": "64005806be3de2f4",
+  "lastOpenFiles": [
+    "2021面试复习.md",
+    "~附件/盒子模型.png",
+    "盒子模型.png.md",
+    "伪兴趣爱好.md",
+    "想做的软件.md",
+    "前端开发知识点.md",
+    "比较感兴趣值得去了解的编程语言.md",
+    "可以去了解的语言.md",
+    "编程范式.md",
+    "Vim操作大全.md"
+  ]
+}
