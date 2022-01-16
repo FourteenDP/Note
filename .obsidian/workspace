@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "64005806be3de2f4",
+        "id": "c66a0f13fd4f88e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "自考本科/中国近现代史纲要/中国近代史纲要时间轴.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "自考本科/中国近现代史纲要/中国近代史纲要时间轴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "自考本科/中国近现代史纲要/中国近代史纲要时间轴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "自考本科/中国近现代史纲要/中国近代史纲要时间轴.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "width": 335,
     "collapsed": true
   },
-  "active": "64005806be3de2f4",
+  "active": "c66a0f13fd4f88e6",
   "lastOpenFiles": [
-    "README.md",
     "自考本科/中国近现代史纲要/中国近代史纲要时间轴.md",
+    "自考本科/中国近现代史纲要/中国近代史思维导图.pdf",
+    "README.md",
     "比较感兴趣值得去了解的编程语言.md",
     "2021面试复习.md",
     "编程范式.md",
     "前端开发知识点.md",
     "伪兴趣爱好.md",
     "想做的软件.md",
-    "~附件/盒子模型.png",
-    "盒子模型.png.md"
+    "~附件/盒子模型.png"
   ]
 }
