@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 334
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   },
   "active": "bbd545651faa6a09",
   "lastOpenFiles": [
+    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
+    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近代史纲要时间轴.md",
     "未命名.md",
     "前端开发知识点.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近代史纲要时间轴.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
     "编程范式.md",
     "自考本科/中国近现代史纲要/中国近现代历史文献选集/2012-/2014/在纪念邓小平同志诞辰110周年座谈会上的讲话.md",
     "自考本科/中国近现代史纲要/中国近现代历史文献选集/1976-1989/在民主和法制的轨道上解决问题——会见亚洲开发银行理事会第二十二届年会代表时的讲话.md",
