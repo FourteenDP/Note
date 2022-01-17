@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "前端开发知识点.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 254
   },
   "right": {
     "id": "b105e6a105c3707c",
