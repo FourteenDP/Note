@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 23,
-  "cssTheme": "Atom",
+  "baseFontSize": 25,
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "myTheme"
   ],
