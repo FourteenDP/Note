@@ -1,9 +1,7 @@
 {
-  "baseFontSize": 25,
-  "cssTheme": "Obsidian Nord",
-  "enabledCssSnippets": [
-    "myTheme"
-  ],
+  "baseFontSize": 21,
+  "cssTheme": "",
+  "enabledCssSnippets": [],
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
