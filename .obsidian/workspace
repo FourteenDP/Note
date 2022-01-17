@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd545651faa6a09",
+        "id": "a3120161c214cb7f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -127,9 +118,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335
+    "width": 342
   },
-  "active": "bbd545651faa6a09",
+  "active": "a3120161c214cb7f",
   "lastOpenFiles": [
     "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
     "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近代史纲要时间轴.md",
