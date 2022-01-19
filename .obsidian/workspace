@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3120161c214cb7f",
+        "id": "4dc1a1c51505a443",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "参考资料/ZK-历史/中国近代史纲要时间轴/中国近代史纲要时间轴.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -22,14 +27,6 @@
         "id": "5bc8ebff1dde9507",
         "type": "tabs",
         "children": [
-          {
-            "id": "877abaaccc8c97ae",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "8ed20c26f553db13",
             "type": "leaf",
@@ -52,12 +49,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "877abaaccc8c97ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 447
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "参考资料/ZK-历史/中国近代史纲要时间轴/中国近代史纲要时间轴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "参考资料/ZK-历史/中国近代史纲要时间轴/中国近代史纲要时间轴.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "参考资料/ZK-历史/中国近代史纲要时间轴/中国近代史纲要时间轴.md"
+              }
             }
           }
         ],
@@ -118,19 +128,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 388.5,
+    "collapsed": true
   },
-  "active": "a3120161c214cb7f",
+  "active": "4dc1a1c51505a443",
   "lastOpenFiles": [
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近代史纲要时间轴.md",
-    "未命名.md",
-    "前端开发知识点.md",
-    "编程范式.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/2012-/2014/在纪念邓小平同志诞辰110周年座谈会上的讲话.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/1976-1989/在民主和法制的轨道上解决问题——会见亚洲开发银行理事会第二十二届年会代表时的讲话.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/英人在华的残暴行动.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/中日二十一条不平等条约.md",
-    "自考本科/中国近现代史纲要/中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md"
+    "参考资料/ZK-历史/中国近代史纲要时间轴/中国近代史纲要时间轴.md",
+    "Z自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近代史纲要时间轴.md",
+    "Z自考本科/中国近现代史纲要/中国近现代历史文献选集/中国近现代历史文献选集.md",
+    "参考资料/ZK-中国近代史纲要/README.md",
+    "伪兴趣爱好.md",
+    "想做的软件.md",
+    "README.md",
+    "Z自考本科/中国近现代史纲要/中国近现代历史文献选集/1976-1989/必须旗帜鲜明地反对动乱.md",
+    "Z自考本科/中国近现代史纲要/中国近现代历史文献选集/1976-1989/告全体共产党员和全国人民书.md",
+    "Z自考本科/中国近现代史纲要/中国近代史思维导图.pdf"
   ]
 }
