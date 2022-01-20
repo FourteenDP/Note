@@ -5,4 +5,3 @@
 - [sdlyyxy/Chinese-Modern-Contemporary-History-Anthology: 中国近现代历史文献选集 (github.com)](https://github.com/sdlyyxy/Chinese-Modern-Contemporary-History-Anthology)
 - [deepcc/zhongguojinxiandaishishijianzhou: 中国近现代史时间轴 (github.com)](https://github.com/deepcc/zhongguojinxiandaishishijianzhou)
 - [ztjryg4/ChineseModernHistoryMap: 中国近代史可视化/中国近代史事件地图 (github.com)](https://github.com/ztjryg4/ChineseModernHistoryMap)
-- 顺口溜
