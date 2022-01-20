@@ -10656,7 +10656,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
     const plugin = this.plugin;
     containerEl.empty();
     containerEl.createEl("h2", { text: "Git Backup settings" });
-    new import_obsidian.Setting(containerEl).setName("Vault backup interval (minutes)").setDesc("Commit and push changes every X minutes. (See below setting for further configuration!) To disable automatic backup, specify negative value or zero (default)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
+    new import_obsidian.Setting(containerEl).setName("Vault backup interval (minutes)").setDesc("每隔X分钟提交并推送更改。(进一步的配置请参见下面的设置!)若要禁用自动备份，请指定负值或零(默认值)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
       if (!isNaN(Number(value))) {
         plugin.settings.autoSaveInterval = Number(value);
         plugin.saveSettings();
