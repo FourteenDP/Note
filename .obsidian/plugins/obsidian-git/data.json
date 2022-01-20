@@ -1,0 +1,18 @@
+{
+  "commitMessage": "{{hostname}}-上传时间:{{date}}/修改数:{{numFiles}}}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 1,
+  "autoPullInterval": 1,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "updateSubmodules": true,
+  "gitPath": "",
+  "customMessageOnAutoBackup": true,
+  "autoBackupAfterFileChange": true,
+  "mergeOnPull": true,
+  "treeStructure": false
+}

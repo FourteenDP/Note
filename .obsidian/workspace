@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0-参考资料/ZK-中国近现代史纲要/相关连接临时.md",
+            "file": "999-模板/合并模板.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466
+    "width": 212
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-参考资料/ZK-中国近现代史纲要/相关连接临时.md",
+                "file": "999-模板/合并模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-参考资料/ZK-中国近现代史纲要/相关连接临时.md",
+                "file": "999-模板/合并模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-参考资料/ZK-中国近现代史纲要/相关连接临时.md"
+                "file": "999-模板/合并模板.md"
               }
             }
           }
@@ -133,6 +133,7 @@
   },
   "active": "4dc1a1c51505a443",
   "lastOpenFiles": [
+    "999-模板/合并模板.md",
     "0-参考资料/ZK-中国近现代史纲要/相关连接临时.md",
     "4-临时笔记/2021面试复习.md",
     "4-临时笔记/比较感兴趣值得去了解的编程语言.md",
@@ -141,7 +142,6 @@
     "4-临时笔记/伪兴趣爱好.md",
     "4-临时笔记/未命名.md",
     "4-临时笔记/想做的软件.md",
-    "999-附件/图片/Vue生命周期.png",
-    "999-附件/图片/盒子模型.png"
+    "999-附件/图片/Vue生命周期.png"
   ]
 }
