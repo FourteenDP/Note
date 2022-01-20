@@ -11,7 +11,7 @@
   "showStatusBar": true,
   "updateSubmodules": true,
   "gitPath": "",
-  "customMessageOnAutoBackup": true,
+  "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "mergeOnPull": true,
   "treeStructure": false
