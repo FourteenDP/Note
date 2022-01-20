@@ -6,6 +6,3 @@
 - [deepcc/zhongguojinxiandaishishijianzhou: 中国近现代史时间轴 (github.com)](https://github.com/deepcc/zhongguojinxiandaishishijianzhou)
 - [ztjryg4/ChineseModernHistoryMap: 中国近代史可视化/中国近代史事件地图 (github.com)](https://github.com/ztjryg4/ChineseModernHistoryMap)
 - 顺口溜
-
-
-  [[/F:/Note/0-参考资料/ZK-中国近现代史纲要/文献选集/1840-1949/新文化运动.md]]
