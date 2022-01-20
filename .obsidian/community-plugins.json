@@ -1,3 +1,5 @@
 [
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "convert-url-to-iframe",
+  "obsidian-link-converter"
 ]
