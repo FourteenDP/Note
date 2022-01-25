@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G0-收集箱/比较感兴趣值得去了解的编程语言.md",
-            "mode": "source",
+            "file": "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G0-收集箱/比较感兴趣值得去了解的编程语言.md",
+                "file": "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G0-收集箱/比较感兴趣值得去了解的编程语言.md",
+                "file": "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G0-收集箱/比较感兴趣值得去了解的编程语言.md"
+                "file": "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md"
               }
             }
           }
@@ -140,11 +139,11 @@
   },
   "active": "09d06b5af2f93242",
   "lastOpenFiles": [
+    "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
     "G0-收集箱/比较感兴趣值得去了解的编程语言.md",
     "README.md",
     "G0-收集箱/伪兴趣爱好.md",
     "G2-笔记/ZK-中国近现代史纲要/README.md",
-    "G1-参考资料/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
     "G1-参考资料/ZK-中国近现代史纲要/纲要思维导图/中国近代史思维导图.pdf",
     "1-进行中/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
     "0-参考资料/ZK-中国近现代史纲要/时间轴/中国近代史时间轴.md",
