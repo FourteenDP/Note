@@ -2,5 +2,6 @@
   "editor": false,
   "file-explorer": false,
   "graph": false,
-  "search": false
+  "search": false,
+  "git-view": false
 }

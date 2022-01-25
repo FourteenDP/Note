@@ -10656,22 +10656,22 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
     const plugin = this.plugin;
     containerEl.empty();
     containerEl.createEl("h2", { text: "Git Backup settings" });
-    new import_obsidian.Setting(containerEl).setName("库备份时间间隔(分钟)").setDesc("每隔X分钟提交并推送更改。(进一步的配置请参见下面的设置!)若要禁用自动备份，请指定负值或零(默认值)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
+    new import_obsidian.Setting(containerEl).setName("Vault backup interval (minutes)").setDesc("Commit and push changes every X minutes. (See below setting for further configuration!) To disable automatic backup, specify negative value or zero (default)").addText((text2) => text2.setValue(String(plugin.settings.autoSaveInterval)).onChange((value) => {
       if (!isNaN(Number(value))) {
         plugin.settings.autoSaveInterval = Number(value);
         plugin.saveSettings();
         if (plugin.settings.autoSaveInterval > 0) {
           plugin.clearAutoBackup();
           plugin.startAutoBackup(plugin.settings.autoSaveInterval);
-          new import_obsidian.Notice(`启用自动备份! 每 ${plugin.settings.autoSaveInterval} 分钟.`);
+          new import_obsidian.Notice(`Automatic backup enabled! Every ${plugin.settings.autoSaveInterval} minutes.`);
         } else if (plugin.settings.autoSaveInterval <= 0) {
-          plugin.clearAutoBackup() && new import_obsidian.Notice("禁用自动备份!");
+          plugin.clearAutoBackup() && new import_obsidian.Notice("Automatic backup disabled!");
         }
       } else {
-        new import_obsidian.Notice("请指定一个有效的数字.");
+        new import_obsidian.Notice("Please specify a valid number.");
       }
     }));
-    new import_obsidian.Setting(containerEl).setName("如果开启，在上次更改后每隔X分钟进行一次自动备份。在编辑文件时防止自动备份。如果关闭，每隔X分钟自动备份一次。它独立于上次的更改.").addToggle((toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
+    new import_obsidian.Setting(containerEl).setName("If turned on, do auto backup every X minutes after last change. Prevents auto backup while editing a file. If turned off, do auto backup every X minutes. It's independent from last change.").addToggle((toggle) => toggle.setValue(plugin.settings.autoBackupAfterFileChange).onChange((value) => {
       plugin.settings.autoBackupAfterFileChange = value;
       plugin.saveSettings();
       plugin.clearAutoBackup();
