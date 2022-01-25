@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "848e815189ae40bf",
+        "id": "09d06b5af2f93242",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0-收集箱/比较感兴趣值得去了解的编程语言.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -19,9 +24,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc8ebff1dde9507",
+        "id": "06921f42ea8af414",
         "type": "tabs",
         "children": [
+          {
+            "id": "877abaaccc8c97ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdd512709bf4ee30",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
           {
             "id": "8ed20c26f553db13",
             "type": "leaf",
@@ -38,22 +59,6 @@
             }
           },
           {
-            "id": "cdd512709bf4ee30",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "877abaaccc8c97ae",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "cb0e472d14fde247",
             "type": "leaf",
             "state": {
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 434
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0-收集箱/比较感兴趣值得去了解的编程语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0-收集箱/比较感兴趣值得去了解的编程语言.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0-收集箱/比较感兴趣值得去了解的编程语言.md"
+              }
             }
           }
         ],
@@ -129,8 +138,9 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "848e815189ae40bf",
+  "active": "09d06b5af2f93242",
   "lastOpenFiles": [
+    "0-收集箱/比较感兴趣值得去了解的编程语言.md",
     "README.md",
     "0-收集箱/伪兴趣爱好.md",
     "1-进行中/ZK-中国近现代史纲要/README.md",
@@ -139,7 +149,6 @@
     "1-进行中/ZK-中国近现代史纲要/中国近现代史事件可视化地图.md",
     "0-参考资料/ZK-中国近现代史纲要/时间轴/中国近代史时间轴.md",
     "0-参考资料/ZK-中国近现代史纲要/文献选集/README.md",
-    "0-参考资料/ZK-中国近现代史纲要/时间轴/readme.md",
-    "1-进行中/ZK-中国近现代史纲要/未命名.md"
+    "0-参考资料/ZK-中国近现代史纲要/时间轴/readme.md"
   ]
 }
