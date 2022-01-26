@@ -1,9 +1,10 @@
 [
-  "markdown-prettifier",
   "convert-url-to-iframe",
   "obsidian-link-converter",
   "obsidian-git",
   "obsidian-activity-history",
   "obsidian-admonition",
-  "obsidian-outliner"
+  "hotkey-helper",
+  "obsidian-outliner",
+  "obsidian-linter"
 ]
