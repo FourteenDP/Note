@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+            "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md"
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/README.md"
               }
             }
           }
@@ -136,13 +136,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368,
-    "collapsed": true
+    "width": 368
   },
   "active": "3b7e22e45cc9963f",
   "lastOpenFiles": [
-    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/README.md",
+    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
     "G1-资料/ZK-自考本科/ZK-马克思主义基本原理概论/未命名.md",
     "G2-项目/ZK-中国近现代史纲要/README.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
