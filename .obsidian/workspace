@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G2-项目/ZK-中国近现代史纲要/README.md",
+            "file": "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/00-中国近现代史相关视频/未命名.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G2-项目/ZK-中国近现代史纲要/README.md",
+                "file": "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/00-中国近现代史相关视频/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G2-项目/ZK-中国近现代史纲要/README.md",
+                "file": "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/00-中国近现代史相关视频/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G2-项目/ZK-中国近现代史纲要/README.md"
+                "file": "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/00-中国近现代史相关视频/未命名.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "3b7e22e45cc9963f",
   "lastOpenFiles": [
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/00-中国近现代史相关视频/未命名.md",
     "G2-项目/ZK-中国近现代史纲要/README.md",
-    "G1-资料/ZK-中国近现代史纲要/06-中国近现代史纲要题目/README.md",
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/06-中国近现代史纲要题目/README.md",
     "G1-参考资料/ZK-中国近现代史纲要/history/README.md",
-    "G1-资料/ZK-中国近现代史纲要/04-中国近代史纲要思维导图/README.md",
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/04-中国近代史纲要思维导图/README.md",
     "G1-参考资料/ZK-中国近现代史纲要/中国近代史思维导图/中国近代史思维导图.pdf",
-    "G1-资料/ZK-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "G1-资料/ZK-中国近现代史纲要/05-中国近现代历史文献选集/README.md",
-    "G1-资料/ZK-中国近现代史纲要/02-中国近代史时间轴/README.md",
-    "G1-资料/ZK-中国近现代史纲要/01-中国近现代史事件可视化地图/README.md",
-    "G1-资料/ZK-中国近现代史纲要/01-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md"
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/05-中国近现代历史文献选集/README.md",
+    "G1-资料/ZK-自考本科/ZK-中国近现代史纲要/02-中国近代史时间轴/README.md"
   ]
 }
