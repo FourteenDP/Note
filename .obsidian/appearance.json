@@ -1,7 +1,9 @@
 {
   "baseFontSize": 26,
   "cssTheme": "Atom",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "myTheme"
+  ],
   "translucency": false,
   "theme": "obsidian"
 }
