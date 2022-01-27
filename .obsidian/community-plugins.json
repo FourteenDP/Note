@@ -12,5 +12,11 @@
   "obsidian-activity-history",
   "obsidian-mind-map",
   "table-extended",
-  "cm-chs-patch"
+  "cm-chs-patch",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "workbench-obsidian",
+  "oz-image-plugin",
+  "note-refactor-obsidian",
+  "dataview"
 ]
