@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8280e40adfa6c20",
+        "id": "f19c4dfc4f504abb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 537
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
+                "file": "README.md"
               }
             }
           }
@@ -136,20 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510,
-    "collapsed": true
+    "width": 510
   },
-  "active": "a8280e40adfa6c20",
+  "active": "f19c4dfc4f504abb",
   "lastOpenFiles": [
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/06-中国近现代史纲要题目/中国近现代史纲要题目.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要思维导图.md",
-    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
     "README.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
-    "中国近代史的前奏.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史的前奏.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/1919年~1949年五四运动到新中国成立（30年）新民主主义革命时期.md"
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/1919年~1949年五四运动到新中国成立（30年）新民主主义革命时期.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/1937年7月~1945年8月：八年抗日.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/1949年~1956年：新民主主义社会.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/洋务运动.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史的起点.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近现代史纲要思维导图.pdf"
   ]
 }
