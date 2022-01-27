@@ -2,9 +2,15 @@
   "convert-url-to-iframe",
   "obsidian-link-converter",
   "obsidian-git",
-  "obsidian-activity-history",
   "obsidian-admonition",
   "hotkey-helper",
   "obsidian-outliner",
-  "obsidian-linter"
+  "obsidian-linter",
+  "table-editor-obsidian",
+  "sliding-panes-obsidian",
+  "obsidian-enhancing-mindmap",
+  "obsidian-activity-history",
+  "obsidian-mind-map",
+  "table-extended",
+  "cm-chs-patch"
 ]

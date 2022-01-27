@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c8a85f4ab396c5",
+        "id": "d8619c350c90b9e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
-            "mode": "preview",
+            "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
+            "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#自考",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +67,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 221
+    "width": 576
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,28 +127,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G2-项目/ZK-自考本科/ZY-网络工程080903.md"
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md"
               }
+            }
+          },
+          {
+            "id": "054aacf069718739",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 420
   },
-  "active": "b9c8a85f4ab396c5",
+  "active": "d8619c350c90b9e9",
   "lastOpenFiles": [
-    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
     "README.md",
-    "G0-信箱/比较感兴趣值得去了解的编程语言.md",
-    "G0-信箱/编程范式.md",
-    "G0-信箱/前端开发知识点.md",
-    "G0-信箱/伪兴趣爱好.md",
-    "G0-信箱/想做的软件.md",
-    "G0-信箱/2021面试复习.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/README.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md"
+    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/06-中国近现代史纲要题目/中国近现代史纲要题目.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/五分钟梳理中国近代史纲要时间轴及复习思路.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-中国近代史思维导图PDF/中国近代史思维导图.pdf"
   ]
 }
