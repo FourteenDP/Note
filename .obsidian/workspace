@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "f19c4dfc4f504abb",
   "lastOpenFiles": [
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "README.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史的前奏.md",
@@ -147,7 +148,6 @@
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/1949年~1956年：新民主主义社会.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/洋务运动.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史的起点.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近现代史纲要思维导图.pdf"
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md"
   ]
 }
