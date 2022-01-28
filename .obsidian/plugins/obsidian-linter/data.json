@@ -82,5 +82,7 @@
   },
   "lintOnSave": true,
   "displayChanged": false,
-  "foldersToIgnore": []
+  "foldersToIgnore": [
+    "~模板"
+  ]
 }
