@@ -4,7 +4,6 @@
   "obsidian-git",
   "obsidian-admonition",
   "hotkey-helper",
-  "obsidian-outliner",
   "obsidian-linter",
   "table-editor-obsidian",
   "sliding-panes-obsidian",
@@ -18,5 +17,7 @@
   "workbench-obsidian",
   "oz-image-plugin",
   "note-refactor-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-outliner",
+  "obsidian-excalidraw-plugin"
 ]

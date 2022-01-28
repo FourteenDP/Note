@@ -19,5 +19,6 @@
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
   "communityPluginSortOrder": "download",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "tabSize": 2
 }
