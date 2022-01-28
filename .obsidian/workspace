@@ -15,6 +15,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "18fac0a448ecaa2a",
+        "type": "leaf",
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01-鸦片战争前的中国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01-鸦片战争前的中国.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01-鸦片战争前的中国.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,7 +142,7 @@
     "width": 586,
     "collapsed": true
   },
-  "active": "22db0a80bc42874b",
+  "active": "18fac0a448ecaa2a",
   "lastOpenFiles": [
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01-鸦片战争前的中国.md",
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02-鸦片战争前的世界.md",
