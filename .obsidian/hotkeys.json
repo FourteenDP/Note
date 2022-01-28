@@ -37,7 +37,8 @@
   "obsidian-tidy-footnotes:tidy-footnotes": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "S"
     }
