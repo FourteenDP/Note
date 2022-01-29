@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+            "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393,
-    "collapsed": true
+    "width": 393
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md"
+                "file": "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md"
               }
             }
           }
@@ -154,12 +153,12 @@
   },
   "active": "56874d02a145d23b",
   "lastOpenFiles": [
+    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
     "A0-工作台/中国近代史纲要工作台.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图PDF.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
-    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
     "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近现代史纲要思维导图.pdf",
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
