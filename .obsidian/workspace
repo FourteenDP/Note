@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G0-信箱/前端开发知识点.md",
+            "file": "G0-信箱/伪兴趣爱好.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G0-信箱/前端开发知识点.md",
+                "file": "G0-信箱/伪兴趣爱好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G0-信箱/前端开发知识点.md",
+                "file": "G0-信箱/伪兴趣爱好.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G0-信箱/前端开发知识点.md"
+                "file": "G0-信箱/伪兴趣爱好.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "b487b799ff2c9fec",
   "lastOpenFiles": [
+    "G0-信箱/伪兴趣爱好.md",
     "G0-信箱/前端开发知识点.md",
     "G0-信箱/编程范式.md",
     "G0-信箱/2021面试复习.md",
@@ -148,7 +149,6 @@
     "A0-工作台/中国近代史纲要工作台.md",
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
     "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
-    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02-鸦片战争前的世界.md",
-    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md"
+    "G2-项目/ZK-自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02-鸦片战争前的世界.md"
   ]
 }
