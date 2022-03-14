@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G0-信箱/未命名.md",
+            "file": "G0-信箱/前端面试题.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G0-信箱/未命名.md",
+                "file": "G0-信箱/前端面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G0-信箱/未命名.md",
+                "file": "G0-信箱/前端面试题.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G0-信箱/未命名.md"
+                "file": "G0-信箱/前端面试题.md"
               }
             }
           }
@@ -140,7 +140,7 @@
   },
   "active": "b487b799ff2c9fec",
   "lastOpenFiles": [
-    "G0-信箱/未命名.md",
+    "G0-信箱/前端面试题.md",
     "G0-信箱/前端开发知识点.md",
     "G0-信箱/想做的软件.md",
     "G0-信箱/伪兴趣爱好.md",
