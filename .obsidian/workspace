@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "887a41e0a01b6b99",
+        "id": "e882488145e8145d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A0-工作台/中国近代史纲要.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534
+    "width": 316
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A0-工作台/中国近代史纲要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A0-工作台/中国近代史纲要.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A0-工作台/中国近代史纲要.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,17 +129,17 @@
     "width": 586,
     "collapsed": true
   },
-  "active": "887a41e0a01b6b99",
+  "active": "e882488145e8145d",
   "lastOpenFiles": [
-    "A0-工作台/中国近代史纲要.md",
-    "自考本科/ZY-网络工程080903.md",
-    "G0-信箱/编程范式.md",
+    "拾肆/辞职通知-邓某某-范文.md",
+    "编程范式.md",
+    "前端开发知识点.md",
+    "前端面试题.md",
+    "优质博客.md",
+    "css实现文本超出显示省略号.md",
+    "JavaScript截图.md",
     "README.md",
-    "需整理.md",
-    "G0-信箱/前端开发知识点.md",
-    "G0-信箱/前端面试题.md",
-    "G1-资料/JavaScript截图.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
-    "中国近代史纲要工作台.md"
+    "TODO前端工作笔记.md",
+    "TODO浏览器URL限制.md"
   ]
 }
