@@ -29,3 +29,4 @@ white-space:nowrap; //溢出不换行
 ## 无固定宽度省略号的显示
 
 - 在需要文本超出显示省略号盒子上添加`width: fit-content`属性
+- 在`flex`盒子添加`min-width:0`属性
