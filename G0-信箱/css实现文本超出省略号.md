@@ -2,10 +2,10 @@
 aliases: 
 tags: 
 date created: 2022-03-31 21:50:57
-date modified: 2022-03-31 22:02:01
+date modified: 2022-03-31 22:03:23
 ---
 
-# DIV盒子文字内容超出省略号
+# DIV盒子文字内容省略号
 
 ## CSS
 
@@ -27,5 +27,5 @@ white-space:nowrap; //溢出不换行
 ```
 
 ## 无固定宽度省略号的显示
+
 - 在需要超出显示省略号盒子上添加`width: fit-content`属性
-- 
