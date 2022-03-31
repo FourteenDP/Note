@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G0-信箱/前端面试题.md",
+            "file": "A0-工作台/中国近代史纲要.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G0-信箱/前端面试题.md",
+                "file": "A0-工作台/中国近代史纲要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G0-信箱/前端面试题.md",
+                "file": "A0-工作台/中国近代史纲要.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G0-信箱/前端面试题.md"
+                "file": "A0-工作台/中国近代史纲要.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "887a41e0a01b6b99",
   "lastOpenFiles": [
-    "G0-信箱/前端面试题.md",
-    "G0-信箱/前端开发知识点.md",
-    "G0-信箱/编程范式.md",
-    "G1-资料/JavaScript截图.md",
-    "G2-项目/ZK-自考本科/ZY-网络工程080903.md",
-    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
     "A0-工作台/中国近代史纲要.md",
-    "中国近代史纲要工作台.md",
-    "G3-笔记/辞职通知-邓某某-范文.md",
-    "G3-笔记/css实现文本超出显示省略号.md"
+    "自考本科/ZY-网络工程080903.md",
+    "G0-信箱/编程范式.md",
+    "README.md",
+    "需整理.md",
+    "G0-信箱/前端开发知识点.md",
+    "G0-信箱/前端面试题.md",
+    "G1-资料/JavaScript截图.md",
+    "G1-资料/ZK-自考本科/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+    "中国近代史纲要工作台.md"
   ]
 }
