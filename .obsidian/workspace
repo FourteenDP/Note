@@ -7,8 +7,13 @@
         "id": "e882488145e8145d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "编程范式.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程范式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程范式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程范式.md"
+              }
             }
           }
         ],
@@ -131,15 +140,15 @@
   },
   "active": "e882488145e8145d",
   "lastOpenFiles": [
-    "拾肆/辞职通知-邓某某-范文.md",
     "编程范式.md",
+    "2021前端面试复习.md",
     "前端开发知识点.md",
     "前端面试题.md",
     "优质博客.md",
     "css实现文本超出显示省略号.md",
     "JavaScript截图.md",
     "README.md",
-    "TODO前端工作笔记.md",
-    "TODO浏览器URL限制.md"
+    "TODO浏览器URL限制.md",
+    "TODO前端工作笔记.md"
   ]
 }
