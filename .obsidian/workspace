@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "G0-信箱/div盒子文字内容超出省略号.md",
+            "file": "G0-信箱/2021前端面试复习.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G0-信箱/div盒子文字内容超出省略号.md",
+                "file": "G0-信箱/2021前端面试复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G0-信箱/div盒子文字内容超出省略号.md",
+                "file": "G0-信箱/2021前端面试复习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G0-信箱/div盒子文字内容超出省略号.md"
+                "file": "G0-信箱/2021前端面试复习.md"
               }
             }
           }
@@ -140,7 +140,8 @@
   },
   "active": "b487b799ff2c9fec",
   "lastOpenFiles": [
-    "G0-信箱/div盒子文字内容超出省略号.md",
+    "G0-信箱/2021前端面试复习.md",
+    "G0-信箱/css实现文本超出盒子省略号.md",
     "A0-工作台/中国近代史纲要工作台.md",
     "G0-信箱/解决方案.md",
     "优质博客.md",
@@ -148,7 +149,6 @@
     "G0-信箱/想做的软件.md",
     "G0-信箱/伪兴趣爱好.md",
     "G0-信箱/比较感兴趣值得去了解的编程语言.md",
-    "G0-信箱/2021面试复习.md",
     "G0-信箱/前端面试题.md"
   ]
 }
