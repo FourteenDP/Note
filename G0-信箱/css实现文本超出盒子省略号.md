@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-03-31 21:50:57
-date modified: 2022-03-31 21:57:00
+date modified: 2022-03-31 22:02:01
 ---
 
 # DIV盒子文字内容超出省略号
@@ -18,6 +18,14 @@ white-space:nowrap; //溢出不换行
 ```
 
 ### 多行
-``` css
 
+```css
+  display: -webkit-box;
+  overflow: hidden;  
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 ```
+
+## 无固定宽度省略号的显示
+- 在需要超出显示省略号盒子上添加`width: fit-content`属性
+- 
