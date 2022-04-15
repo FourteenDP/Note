@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "JavaScript截图.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript截图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript截图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "JavaScript截图.md"
               }
             }
           }
@@ -141,15 +140,15 @@
   },
   "active": "e83ed7c50abde03a",
   "lastOpenFiles": [
-    "README.md",
+    "JavaScript截图.md",
     "TODO浏览器URL限制.md",
     "TODO前端工作笔记.md",
+    "README.md",
     "前端开源项目.md",
     "自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
     "中国近代史纲要工作台.md",
     "前端面试题.md",
     "前端开发知识点.md",
-    "公司使用个人账号待注销.md",
-    "自考本科/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md"
+    "公司使用个人账号待注销.md"
   ]
 }
