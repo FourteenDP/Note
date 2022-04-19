@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-03-31 22:45:36
-date modified: 2022-04-19 20:24:45
+date modified: 2022-04-19 20:26:12
 ---
 
 # 需整理
@@ -16,3 +16,4 @@ date modified: 2022-04-19 20:24:45
 - DSL
 - 体积碰撞
 - filter缓存
+- LRU缓存
