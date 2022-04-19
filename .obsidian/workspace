@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "前端开源项目.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -141,14 +141,14 @@
   "active": "e83ed7c50abde03a",
   "lastOpenFiles": [
     "前端开源项目.md",
-    "前端开发知识点.md",
+    "优质博客.md",
+    "JavaScript截图.md",
     "公司使用个人账号待注销.md",
     "编程范式.md",
-    "TODO前端工作笔记.md",
-    "JavaScript截图.md",
-    "TODO浏览器URL限制.md",
-    "README.md",
-    "自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md",
-    "中国近代史纲要工作台.md"
+    "前端开发知识点.md",
+    "前端面试题.md",
+    "2021前端面试复习.md",
+    "css实现文本超出显示省略号.md",
+    "README.md"
   ]
 }
