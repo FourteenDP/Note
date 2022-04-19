@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO.md",
-            "mode": "source",
+            "file": "前端开源项目.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "前端开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "前端开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "前端开源项目.md"
               }
             }
           }
@@ -140,12 +140,12 @@
   },
   "active": "a5f5219f81431754",
   "lastOpenFiles": [
+    "前端开源项目.md",
     "TODO.md",
     "坑.md",
     "README.md",
     "TODO前端工作笔记.md",
     "前端开发知识点.md",
-    "前端开源项目.md",
     "前端面试题.md",
     "JavaScript截图.md",
     "TODO浏览器URL限制.md",
