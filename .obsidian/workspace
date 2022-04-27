@@ -15,6 +15,45 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "39aa6b7db7c864a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "95db577a255a0098",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "css实现文本超出显示省略号.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d59655be53cd649b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "css实现文本超出显示省略号.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -141,14 +180,14 @@
   "active": "a5f5219f81431754",
   "lastOpenFiles": [
     "TODO前端工作笔记.md",
+    "README.md",
+    "css实现文本超出显示省略号.md",
+    "conflict-files-obsidian-git.md",
     "TODO浏览器URL限制.md",
     "JavaScript截图.md",
-    "css实现文本超出显示省略号.md",
     "优质博客.md",
     "前端面试题.md",
     "前端开源项目.md",
-    "TODO.md",
-    "坑.md",
-    "README.md"
+    "TODO.md"
   ]
 }
