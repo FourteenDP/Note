@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "优质博客.md",
+            "file": "JavaScript截图.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -57,14 +57,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "2845b1b9c5db778e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -86,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "优质博客.md",
+                "file": "JavaScript截图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "优质博客.md",
+                "file": "JavaScript截图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "优质博客.md"
+                "file": "JavaScript截图.md"
               }
             }
           }
@@ -140,15 +132,15 @@
   },
   "active": "d59655be53cd649b",
   "lastOpenFiles": [
+    "JavaScript截图.md",
+    "css实现文本超出显示省略号.md",
     "优质博客.md",
     "前端开源项目.md",
     "前端开发知识点.md",
-    "css实现文本超出显示省略号.md",
     "README.md",
     "TODO前端工作笔记.md",
     "conflict-files-obsidian-git.md",
     "TODO浏览器URL限制.md",
-    "JavaScript截图.md",
     "前端面试题.md"
   ]
 }

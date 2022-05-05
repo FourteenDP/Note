@@ -1,11 +1,11 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
 date created: 2022-03-31 21:50:57
-date modified: 2022-04-19 20:20:58
+date modified: 2022-04-19 20:21:03
 ---
 
-# CSS实现文本超出显示省略号
+# CSS 实现文本超出显示省略号
 
 ## CSS
 
@@ -28,5 +28,5 @@ white-space:nowrap; //溢出不换行
 
 ## 无固定宽度省略号的显示
 
-- 在需要文本超出显示省略号盒子上添加`width: fit-content`属性
-- 在`flex`盒子等较复杂的布局下，可以尝试在需超出显示省略号的元素盒子上添加`min-width:0`属性，并且在dom结构树当前最外的盒子添加`width:100%`属性
+- 在需要文本超出显示省略号盒子上添加 `width: fit-content` 属性
+- 在 `flex` 盒子等较复杂的布局下，可以尝试在需超出显示省略号的元素盒子上添加 `min-width:0` 属性，并且在 dom 结构树当前最外的盒子添加 `width:100%` 属性
