@@ -7,8 +7,13 @@
         "id": "c6ea99258214179a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md"
+              }
             }
           }
         ],
@@ -139,6 +148,7 @@
   },
   "active": "c6ea99258214179a",
   "lastOpenFiles": [
+    "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
     "采集/文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.md",
     "JavaScript截图.md",
     "TODO.md",
@@ -147,7 +157,6 @@
     "前端开源项目.md",
     "前端开发知识点.md",
     "README.md",
-    "TODO前端工作笔记.md",
-    "conflict-files-obsidian-git.md"
+    "TODO前端工作笔记.md"
   ]
 }
