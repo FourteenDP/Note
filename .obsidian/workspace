@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d59655be53cd649b",
+        "id": "c6ea99258214179a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript截图.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,12 +52,29 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "8ff2e970c1c95a11",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "48aa3d658999043f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 467
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -78,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript截图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript截图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,30 +127,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript截图.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 586,
-    "collapsed": true
+    "width": 357
   },
-  "active": "d59655be53cd649b",
+  "active": "c6ea99258214179a",
   "lastOpenFiles": [
+    "采集/文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.md",
     "JavaScript截图.md",
-    "css实现文本超出显示省略号.md",
+    "TODO.md",
     "优质博客.md",
+    "css实现文本超出显示省略号.md",
     "前端开源项目.md",
     "前端开发知识点.md",
     "README.md",
     "TODO前端工作笔记.md",
-    "conflict-files-obsidian-git.md",
-    "TODO浏览器URL限制.md",
-    "前端面试题.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
