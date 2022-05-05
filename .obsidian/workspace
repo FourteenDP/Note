@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端开源项目.md",
+            "file": "优质博客.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端开源项目.md",
+                "file": "优质博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端开源项目.md",
+                "file": "优质博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端开源项目.md"
+                "file": "优质博客.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "d59655be53cd649b",
   "lastOpenFiles": [
+    "优质博客.md",
     "前端开源项目.md",
     "前端开发知识点.md",
     "css实现文本超出显示省略号.md",
@@ -148,7 +149,6 @@
     "conflict-files-obsidian-git.md",
     "TODO浏览器URL限制.md",
     "JavaScript截图.md",
-    "优质博客.md",
     "前端面试题.md"
   ]
 }
