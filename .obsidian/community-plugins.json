@@ -25,5 +25,11 @@
   "obsidian-pangu",
   "obsidian-tidy-footnotes",
   "obsidian-kanban",
-  "url-into-selection"
+  "url-into-selection",
+  "templater-obsidian",
+  "code-block-copy",
+  "obsidian-dictionary-plugin",
+  "recent-files-obsidian",
+  "file-tree-alternative",
+  "obsidian-local-rest-api"
 ]
