@@ -7,8 +7,13 @@
         "id": "40fab42b1767582c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021前端面试复习.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021前端面试复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2021前端面试复习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021前端面试复习.md"
+              }
             }
           },
           {
@@ -137,26 +146,32 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "554a5c476e683eaa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357,
-    "collapsed": true
+    "width": 357
   },
   "active": "40fab42b1767582c",
   "lastOpenFiles": [
-    "123/56464.md",
-    "123/123.md",
-    "采集/文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.md",
-    "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
+    "2021前端面试复习.md",
+    "编程范式.md",
+    "公司使用个人账号待注销.md",
+    "前端开发知识点.md",
+    "前端面试题.md",
     "JavaScript截图.md",
-    "TODO.md",
     "优质博客.md",
-    "css实现文本超出显示省略号.md",
     "前端开源项目.md",
-    "前端开发知识点.md"
+    "自考本科/考试信息_网络工程080903.md",
+    "123/56464.md"
   ]
 }
