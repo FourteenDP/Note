@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ea99258214179a",
+        "id": "40fab42b1767582c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,29 +127,36 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "88db836bd81ba333",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 357,
+    "collapsed": true
   },
-  "active": "c6ea99258214179a",
+  "active": "40fab42b1767582c",
   "lastOpenFiles": [
-    "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
+    "123/56464.md",
+    "123/123.md",
     "采集/文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展.md",
+    "采集/phibr0-obsidian-dictionary： Dictionary - Obsidian Plugin - This plugin adds a multilingual dictionary to the Obsidian note taking tool-.md",
     "JavaScript截图.md",
     "TODO.md",
     "优质博客.md",
     "css实现文本超出显示省略号.md",
     "前端开源项目.md",
-    "前端开发知识点.md",
-    "README.md",
-    "TODO前端工作笔记.md"
+    "前端开发知识点.md"
   ]
 }
