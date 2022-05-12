@@ -18,6 +18,8 @@
 
   [使用插件实现 flutter 的混合](https://ext.dcloud.net.cn/plugin?id=4302#detail),一套代码支持多端
 
+  混合 flutter 开发，主要解决 uniapp 无法实现的需求，同时原生开发能力有限的情况，使用 fluteer 以更低的学习成本，和开发成本开发插件，同时获得 fluterr 的生态环境
+
 - uniapp + 原生插件实现混合
 
   插件开发需要原生开发能力，多端需要同时维护两套代码
@@ -27,3 +29,5 @@
 - 原生程序 + uni 小程序 SDK
 
   已原生开发为主程序，uni 小程序 sdk 快速开发需求
+
+> 后两个混合开发方式同时支持混合 flutter，可以使用原生程序作为 uniapp 和 flutter 的通信桥
