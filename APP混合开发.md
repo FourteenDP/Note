@@ -9,6 +9,7 @@
 - webview
 - react native
 - WebAssembly
+- 小程序
 
 ### 方案
 
@@ -28,6 +29,6 @@
 
 - 原生程序 + uni 小程序 SDK
 
-  已原生开发为主程序，uni 小程序 sdk 快速开发需求
+  以原生开发为主程序，unisdk 快速开发需求，减少开发成本
 
 > 后两个混合开发方式同时支持混合 flutter，可以使用原生程序作为 uniapp 和 flutter 的通信桥
