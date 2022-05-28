@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40fab42b1767582c",
+        "id": "ebd3f5decd8df1de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021前端面试复习.md",
+            "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021前端面试复习.md",
+                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021前端面试复习.md",
+                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021前端面试复习.md"
+                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md"
               }
             }
           },
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 357
   },
-  "active": "40fab42b1767582c",
+  "active": "ebd3f5decd8df1de",
   "lastOpenFiles": [
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02-鸦片战争前的世界.md",
+    "Excalidraw/Drawing 2022-05-11 01.41.59.excalidraw.md",
+    "自考本科/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
     "2021前端面试复习.md",
     "编程范式.md",
     "公司使用个人账号待注销.md",
     "前端开发知识点.md",
-    "前端面试题.md",
-    "JavaScript截图.md",
-    "优质博客.md",
-    "前端开源项目.md",
-    "自考本科/考试信息_网络工程080903.md",
-    "123/56464.md"
+    "前端面试题.md"
   ]
 }
