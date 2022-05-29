@@ -11,19 +11,19 @@ date modified: 2022-04-19 20:21:03
 
 ### 单行
 
-``` css
-overflow:hidden; //超出的文本隐藏
-text-overflow:ellipsis; //溢出用省略号显示
-white-space:nowrap; //溢出不换行
+```css
+overflow: hidden; //超出的文本隐藏
+text-overflow: ellipsis; //溢出用省略号显示
+white-space: nowrap; //溢出不换行
 ```
 
 ### 多行
 
 ```css
-  display: -webkit-box;
-  overflow: hidden;  
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+display: -webkit-box;
+overflow: hidden;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical;
 ```
 
 ## 无固定宽度省略号的显示
