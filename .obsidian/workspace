@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd3f5decd8df1de",
+        "id": "9161371502335c8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,17 +152,17 @@
     "direction": "horizontal",
     "width": 357
   },
-  "active": "ebd3f5decd8df1de",
+  "active": "9161371502335c8c",
   "lastOpenFiles": [
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02-鸦片战争前的世界.md",
-    "Excalidraw/Drawing 2022-05-11 01.41.59.excalidraw.md",
-    "自考本科/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
-    "2021前端面试复习.md",
-    "编程范式.md",
     "公司使用个人账号待注销.md",
-    "前端开发知识点.md",
-    "前端面试题.md"
+    "TODO前端工作笔记.md",
+    "flutter开发环境搭建.md",
+    "APP混合开发.md",
+    "css实现文本超出显示省略号.md",
+    "2021前端面试复习.md",
+    "VIM_TEST.md",
+    "TODO浏览器URL限制.md",
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md"
   ]
 }
