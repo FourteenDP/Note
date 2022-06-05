@@ -7,8 +7,13 @@
         "id": "9161371502335c8c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -154,6 +163,7 @@
   },
   "active": "9161371502335c8c",
   "lastOpenFiles": [
+    "README.md",
     "公司使用个人账号待注销.md",
     "TODO前端工作笔记.md",
     "flutter开发环境搭建.md",
@@ -162,7 +172,6 @@
     "2021前端面试复习.md",
     "VIM_TEST.md",
     "TODO浏览器URL限制.md",
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md"
+    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md"
   ]
 }
