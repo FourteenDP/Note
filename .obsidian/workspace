@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "开发笔记/前端开发知识点.md",
+            "file": "学习技巧/未命名.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发笔记/前端开发知识点.md",
+                "file": "学习技巧/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发笔记/前端开发知识点.md",
+                "file": "学习技巧/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发笔记/前端开发知识点.md"
+                "file": "学习技巧/未命名.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "8b61daf4d472a31e",
   "lastOpenFiles": [
+    "学习技巧/未命名.md",
+    "开发笔记/VIM操作大全.md",
     "开发笔记/前端开发知识点.md",
     "开发笔记/Vue2生命周期.md",
     "开发笔记/2021前端面试复习.md",
@@ -169,8 +171,6 @@
     "~附件/IMG/Pasted image 20220606223625.png",
     "~附件/IMG/Pasted image 20220606223440.png",
     "~附件/IMG/中国近代史时间轴图.png",
-    "开发笔记/Linux目录结构和作用.md",
-    "开发笔记/代码生成.md",
-    "开发笔记/分析Vue与VueComponent的关系.md"
+    "开发笔记/Linux目录结构和作用.md"
   ]
 }
