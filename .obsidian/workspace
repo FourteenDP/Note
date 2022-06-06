@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "开发笔记/2021前端面试复习.md",
+            "file": "开发笔记/原型链.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发笔记/2021前端面试复习.md",
+                "file": "开发笔记/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发笔记/2021前端面试复习.md",
+                "file": "开发笔记/原型链.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发笔记/2021前端面试复习.md"
+                "file": "开发笔记/原型链.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "8b61daf4d472a31e",
   "lastOpenFiles": [
-    "开发笔记/2021前端面试复习.md",
+    "开发笔记/原型链.md",
+    "开发笔记/flutter开发环境搭建.md",
+    "开发笔记/Git常用命令.md",
     "开发笔记/CSS选择器.md",
+    "开发笔记/css实现文本超出显示省略号.md",
+    "开发笔记/APP混合开发.md",
+    "开发笔记/2021前端面试复习.md",
+    "开发笔记/Vue2生命周期.md",
     "开发笔记/前端学习.md",
-    "开发笔记/浏览器.md",
-    "学习技巧/记忆方法.md",
-    "专业课程/计算机基础.md",
-    "专业课程/大学课程.md",
-    "学习技巧/笔记方法.md",
-    "开发笔记/VIM操作大全.md",
-    "开发笔记/前端开发知识点.md"
+    "开发笔记/浏览器.md"
   ]
 }
