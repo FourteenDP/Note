@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2021前端面试复习",
+      "path": "开发笔记/2021前端面试复习.md"
+    },
+    {
+      "basename": "CSS选择器",
+      "path": "开发笔记/CSS选择器.md"
+    },
+    {
+      "basename": "前端学习",
+      "path": "开发笔记/前端学习.md"
+    },
+    {
+      "basename": "浏览器",
+      "path": "开发笔记/浏览器.md"
+    },
+    {
+      "basename": "记忆方法",
+      "path": "学习技巧/记忆方法.md"
+    },
+    {
+      "basename": "计算机基础",
+      "path": "专业课程/计算机基础.md"
+    },
+    {
+      "basename": "大学课程",
+      "path": "专业课程/大学课程.md"
+    },
+    {
       "basename": "笔记方法",
       "path": "学习技巧/笔记方法.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "前端开发知识点",
       "path": "开发笔记/前端开发知识点.md"
-    },
-    {
-      "basename": "2021前端面试复习",
-      "path": "开发笔记/2021前端面试复习.md"
     },
     {
       "basename": "Vue生命周期",
