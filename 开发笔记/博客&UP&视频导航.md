@@ -1,18 +1,14 @@
 ---
 aliases:
 tags:
-date created: 2022-03-30 23:08:25
-date modified: 2022-05-05 23:51:47
+date created: 2022-06-06 22:26:37
+date modified: 2022-06-06 22:26:37
 ---
 
-# 优质博客
+# 博客&UP&视频导航
 
 ## 前端
 
-### 初级
-
 - [程序员 poetry 的播客](https://blog.poetries.top/)
-
-### 进阶
-
 - [Sysuke' NoteBook](https://www.sysuke.com/)
+- [云乡](https://blog.richasy.cn/)
