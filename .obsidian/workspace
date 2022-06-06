@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习技巧/未命名.md",
+            "file": "学习技巧/笔记方法.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习技巧/未命名.md",
+                "file": "学习技巧/笔记方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习技巧/未命名.md",
+                "file": "学习技巧/笔记方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习技巧/未命名.md"
+                "file": "学习技巧/笔记方法.md"
               }
             }
           },
@@ -162,7 +162,7 @@
   },
   "active": "8b61daf4d472a31e",
   "lastOpenFiles": [
-    "学习技巧/未命名.md",
+    "学习技巧/笔记方法.md",
     "开发笔记/VIM操作大全.md",
     "开发笔记/前端开发知识点.md",
     "开发笔记/Vue2生命周期.md",
