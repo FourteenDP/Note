@@ -2,7 +2,9 @@
 aliases:
 tags:
 date created: 2022-06-06 22:32:56
-date modified: 2022-06-06 22:32:56
+date modified: 2022-06-06 22:34:45
 ---
 
-# 分析 Vue 与 VueComponent 的关系
+# 分析 VUE 与 VUECOMPONENT 的关系
+
+![[Pasted image 20220606223440.png]]

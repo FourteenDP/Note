@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "开发笔记/2021前端面试复习.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +75,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 467
+    "width": 333
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "开发笔记/2021前端面试复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "开发笔记/2021前端面试复习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "开发笔记/2021前端面试复习.md"
               }
             }
           },
@@ -159,19 +159,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 298
   },
   "active": "9161371502335c8c",
   "lastOpenFiles": [
+    "开发笔记/2021前端面试复习.md",
+    "~附件/IMG/Vue生命周期.png",
+    "~附件/IMG/Pasted image 20220606223625.png",
+    "~附件/IMG/Pasted image 20220606223440.png",
+    "~附件/IMG/中国近代史时间轴图.png",
+    "开发笔记/Linux目录结构和作用.md",
+    "开发笔记/代码生成.md",
+    "开发笔记/分析Vue与VueComponent的关系.md",
     "README.md",
-    "公司使用个人账号待注销.md",
-    "TODO前端工作笔记.md",
-    "flutter开发环境搭建.md",
-    "APP混合开发.md",
-    "css实现文本超出显示省略号.md",
-    "2021前端面试复习.md",
-    "VIM_TEST.md",
-    "TODO浏览器URL限制.md",
-    "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md"
+    "公司使用个人账号待注销.md"
   ]
 }
