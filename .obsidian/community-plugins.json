@@ -3,10 +3,11 @@
   "obsidian-pangu",
   "calendar",
   "periodic-notes",
-  "obsidian-memos",
   "obsidian-git",
   "markdown-prettifier",
   "cm-editor-syntax-highlight-obsidian",
   "code-block-copy",
-  "obsidian-activity-history"
+  "obsidian-activity-history",
+  "sliding-panes-obsidian",
+  "obsidian-memos"
 ]
