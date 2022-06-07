@@ -1,13 +1,4 @@
 {
-  "markdown-prettifier:markdown-prettifier-run": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "obsidian-plugin-prettier:format-note": [
     {
       "modifiers": [
@@ -35,6 +26,14 @@
     }
   ],
   "obsidian-pangu:pangu-format": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "markdown-prettifier:markdown-prettifier-run": [
     {
       "modifiers": [
         "Mod"
