@@ -1,11 +1,11 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Atom",
   "enabledCssSnippets": [
     "myTheme"
   ],
   "translucency": false,
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "黑体"
+  "textFontFamily": ""
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "知识社区",
       "path": "知识社区.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "分析Vue与VueComponent的关系",
       "path": "开发笔记/分析Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "原型链",

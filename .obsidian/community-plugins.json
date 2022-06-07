@@ -31,5 +31,16 @@
   "obsidian-dictionary-plugin",
   "recent-files-obsidian",
   "file-tree-alternative",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "calendar",
+  "tag-wrangler",
+  "quickadd",
+  "obsidian-emoji-toolbar",
+  "find-unlinked-files",
+  "markdown-prettifier",
+  "obsidian-pandoc",
+  "obsidian-spaced-repetition",
+  "obsidian-advanced-uri",
+  "obsidian-icon-folder",
+  "obsidian-markmind"
 ]

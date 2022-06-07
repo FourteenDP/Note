@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识社区.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识社区.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识社区.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识社区.md"
+                "file": "README.md"
               }
             }
           },
@@ -153,6 +153,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "59f575df929e7569",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba7d8579d79a17fe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -162,6 +178,7 @@
   },
   "active": "c3a00fd93dc09a21",
   "lastOpenFiles": [
+    "README.md",
     "知识社区.md",
     "~模板/合并模板.md",
     "Excalidraw/Drawing 2022-06-07 10.55.04.excalidraw.md",
@@ -170,7 +187,6 @@
     "~附件/Vue生命周期.png",
     "开发笔记/CSS选择器.md",
     "开发笔记/2021前端面试复习.md",
-    "开发笔记/VIM操作大全.md",
-    "开发笔记/JavaScript截图.md"
+    "开发笔记/VIM操作大全.md"
   ]
 }
