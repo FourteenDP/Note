@@ -7,8 +7,13 @@
         "id": "74071ad44ec27c67",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +58,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "46165ddb1970e70d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -73,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 332
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -104,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -131,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,6 +178,7 @@
   },
   "active": "74071ad44ec27c67",
   "lastOpenFiles": [
+    "README.md",
     "知识社区.md",
     "日记/2022-06-07.md",
     "~模板/合并模板.md",
@@ -168,7 +187,6 @@
     "日记/2022-06.md",
     "2022.md",
     "2022-Q2.md",
-    "2022-W23.md",
-    "日记/delete.md"
+    "2022-W23.md"
   ]
 }
