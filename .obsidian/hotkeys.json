@@ -36,9 +36,11 @@
   "markdown-prettifier:markdown-prettifier-run": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
-      "key": "S"
+      "key": "F"
     }
-  ]
+  ],
+  "editor:save-file": []
 }

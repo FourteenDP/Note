@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "temp.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 61.79337231968811,
+        "dimension": 61.79337231968812,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "temp.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "temp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,6 +177,7 @@
   },
   "active": "74071ad44ec27c67",
   "lastOpenFiles": [
+    "temp.md",
     "README.md",
     "知识社区.md",
     "日记/2022-06-07.md",
@@ -186,7 +186,6 @@
     "日记/2022-Q2.md",
     "日记/2022-06.md",
     "2022.md",
-    "2022-Q2.md",
-    "2022-W23.md"
+    "2022-Q2.md"
   ]
 }
