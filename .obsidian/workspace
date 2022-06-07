@@ -7,13 +7,8 @@
         "id": "f805170530337e93",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识社区.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识社区.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
