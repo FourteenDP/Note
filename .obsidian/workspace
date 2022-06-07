@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22ea4222e57e467a",
+        "id": "74071ad44ec27c67",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "知识社区.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -21,6 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
+        "dimension": 59.74658869395712,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -53,12 +59,26 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "e4d38c8caee60270",
+        "type": "tabs",
+        "dimension": 40.253411306042885,
+        "children": [
+          {
+            "id": "a4346df1b91a6ac9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 267
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -89,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识社区.md"
+              }
             }
           },
           {
@@ -116,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,17 +167,17 @@
     "direction": "horizontal",
     "width": 350
   },
-  "active": "22ea4222e57e467a",
+  "active": "74071ad44ec27c67",
   "lastOpenFiles": [
     "知识社区.md",
-    "README.md",
+    "日记/2022-06-07.md",
     "~模板/合并模板.md",
-    "Excalidraw/Drawing 2022-06-07 10.55.04.excalidraw.md",
-    "专业课程/计算机基础.md",
-    "专业课程/大学课程.md",
-    "~附件/Vue生命周期.png",
-    "开发笔记/CSS选择器.md",
-    "开发笔记/2021前端面试复习.md",
-    "开发笔记/VIM操作大全.md"
+    "日记/2022-W23.md",
+    "日记/2022-Q2.md",
+    "日记/2022-06.md",
+    "2022.md",
+    "2022-Q2.md",
+    "2022-W23.md",
+    "日记/delete.md"
   ]
 }
