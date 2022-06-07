@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "temp.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp.md"
+                "file": "README.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,8 +177,8 @@
   },
   "active": "74071ad44ec27c67",
   "lastOpenFiles": [
-    "temp.md",
     "README.md",
+    "temp.md",
     "知识社区.md",
     "日记/2022-06-07.md",
     "~模板/合并模板.md",

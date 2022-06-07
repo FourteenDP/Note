@@ -5,5 +5,8 @@
   "periodic-notes",
   "obsidian-memos",
   "obsidian-git",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-activity-history",
+  "obsidian-admonition",
+  "cm-editor-syntax-highlight-obsidian"
 ]
