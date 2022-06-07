@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a00fd93dc09a21",
+        "id": "22ea4222e57e467a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识社区.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,25 +52,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8ff2e970c1c95a11",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "48aa3d658999043f",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,8 +65,50 @@
     "type": "split",
     "children": [
       {
-        "id": "d4562c018f793ca1",
+        "id": "fa54c183722c0040",
         "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "c3a00fd93dc09a21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "535c94d14c1b3644",
+        "type": "tabs",
+        "dimension": 30.701754385964914,
+        "children": [
+          {
+            "id": "340732f8f09c09c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b770b3c8ea318d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44afa61abb5d7c2c",
+        "type": "tabs",
+        "dimension": 35.96491228070175,
         "children": [
           {
             "id": "cf254ce72212bb7b",
@@ -95,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,72 +132,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "2b770b3c8ea318d5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "340732f8f09c09c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "知识社区.md"
-              }
-            }
-          },
-          {
-            "id": "88db836bd81ba333",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "554a5c476e683eaa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "59f575df929e7569",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba7d8579d79a17fe",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 350
   },
-  "active": "c3a00fd93dc09a21",
+  "active": "22ea4222e57e467a",
   "lastOpenFiles": [
     "知识社区.md",
     "README.md",
