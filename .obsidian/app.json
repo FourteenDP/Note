@@ -7,7 +7,7 @@
   "strictLineBreaks": true,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "rightToLeft": false,
   "spellcheck": true,
   "spellcheckLanguages": null,
