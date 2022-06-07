@@ -11,10 +11,8 @@
   "obsidian-activity-history",
   "obsidian-mind-map",
   "table-extended",
-  "cm-chs-patch",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-annotator",
-  "workbench-obsidian",
   "oz-image-plugin",
   "note-refactor-obsidian",
   "dataview",
@@ -23,7 +21,6 @@
   "obsidian-footnotes",
   "better-fn",
   "obsidian-pangu",
-  "obsidian-tidy-footnotes",
   "obsidian-kanban",
   "url-into-selection",
   "templater-obsidian",
@@ -42,5 +39,12 @@
   "obsidian-spaced-repetition",
   "obsidian-advanced-uri",
   "obsidian-icon-folder",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "obsidian-citation-plugin",
+  "juggl",
+  "review-obsidian",
+  "obsidian-languagetool-plugin",
+  "folder-note-plugin",
+  "readwise-official",
+  "darlal-switcher-plus"
 ]
