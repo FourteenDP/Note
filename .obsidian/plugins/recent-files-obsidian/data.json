@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知识社区",
+      "path": "知识社区.md"
+    },
+    {
       "basename": "合并模板",
       "path": "~模板/合并模板.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Vue生命周期",
       "path": "~附件/Vue生命周期.png"
-    },
-    {
-      "basename": "知识社区",
-      "path": "知识社区.md"
     },
     {
       "basename": "CSS选择器",
