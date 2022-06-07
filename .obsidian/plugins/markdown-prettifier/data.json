@@ -1,6 +1,6 @@
 {
   "bullet": "-",
-  "emphasis": "*",
+  "emphasis": "_",
   "rule": "*",
   "createHeaderIfNotPresent": true,
   "newHeaderTemplate": "\ndate created: \"{{date:YYYY-MM-DD HH:mm}}\" \n",
