@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识社区.md",
+            "file": "temp.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识社区.md"
+                "file": "temp.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识社区.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识社区.md",
+                "file": "temp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,9 +177,9 @@
   },
   "active": "74071ad44ec27c67",
   "lastOpenFiles": [
-    "知识社区.md",
-    "README.md",
     "temp.md",
+    "README.md",
+    "知识社区.md",
     "日记/2022-06-07.md",
     "~模板/合并模板.md",
     "日记/2022-W23.md",

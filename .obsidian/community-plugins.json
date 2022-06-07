@@ -6,8 +6,7 @@
   "obsidian-memos",
   "obsidian-git",
   "markdown-prettifier",
-  "obsidian-activity-history",
-  "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
-  "code-block-copy"
+  "code-block-copy",
+  "obsidian-activity-history"
 ]
