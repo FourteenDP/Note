@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~模板/合并模板.md",
+            "file": "知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~模板/合并模板.md",
+                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~模板/合并模板.md",
+                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~模板/合并模板.md"
+                "file": "知识社区.md"
               }
             }
           },
@@ -163,12 +163,12 @@
   },
   "active": "c3a00fd93dc09a21",
   "lastOpenFiles": [
+    "知识社区.md",
     "~模板/合并模板.md",
     "Excalidraw/Drawing 2022-06-07 10.55.04.excalidraw.md",
     "专业课程/计算机基础.md",
     "专业课程/大学课程.md",
     "~附件/Vue生命周期.png",
-    "知识社区.md",
     "开发笔记/CSS选择器.md",
     "开发笔记/2021前端面试复习.md",
     "开发笔记/VIM操作大全.md",
