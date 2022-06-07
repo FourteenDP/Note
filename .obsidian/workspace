@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "知识社区.md"
               }
             }
           },
@@ -178,8 +179,8 @@
   },
   "active": "c3a00fd93dc09a21",
   "lastOpenFiles": [
-    "README.md",
     "知识社区.md",
+    "README.md",
     "~模板/合并模板.md",
     "Excalidraw/Drawing 2022-06-07 10.55.04.excalidraw.md",
     "专业课程/计算机基础.md",
