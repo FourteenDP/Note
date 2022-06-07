@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b61daf4d472a31e",
+        "id": "4d445f9ffef987e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "开发笔记/原型链.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发笔记/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发笔记/原型链.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "开发笔记/原型链.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,8 +152,9 @@
     "direction": "horizontal",
     "width": 298
   },
-  "active": "8b61daf4d472a31e",
+  "active": "4d445f9ffef987e2",
   "lastOpenFiles": [
+    "Untitled.md",
     "开发笔记/原型链.md",
     "开发笔记/flutter开发环境搭建.md",
     "开发笔记/Git常用命令.md",
@@ -171,7 +163,6 @@
     "开发笔记/APP混合开发.md",
     "开发笔记/2021前端面试复习.md",
     "开发笔记/Vue2生命周期.md",
-    "开发笔记/前端学习.md",
-    "开发笔记/浏览器.md"
+    "开发笔记/前端学习.md"
   ]
 }
