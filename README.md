@@ -1,9 +1,10 @@
 ---
-aliases: 索引
+aliases:
+  - 索引
 tags:
   - 索引
 date created: 2022-06-07 17:27
-date updated: 2022-06-07 22:03
+date updated: 2022-06-07 22:05
 ---
 
 # 索引
