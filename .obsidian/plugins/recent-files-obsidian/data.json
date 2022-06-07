@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Vue生命周期",
+      "path": "~附件/Vue生命周期.png"
+    },
+    {
+      "basename": "知识社区",
+      "path": "知识社区.md"
+    },
+    {
+      "basename": "CSS选择器",
+      "path": "开发笔记/CSS选择器.md"
+    },
+    {
+      "basename": "2021前端面试复习",
+      "path": "开发笔记/2021前端面试复习.md"
+    },
+    {
+      "basename": "VIM操作大全",
+      "path": "开发笔记/VIM操作大全.md"
+    },
+    {
+      "basename": "JavaScript截图",
+      "path": "开发笔记/JavaScript截图.md"
+    },
+    {
+      "basename": "css实现文本超出显示省略号",
+      "path": "开发笔记/css实现文本超出显示省略号.md"
+    },
+    {
+      "basename": "分析Vue与VueComponent的关系",
+      "path": "开发笔记/分析Vue与VueComponent的关系.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "原型链",
@@ -13,20 +45,8 @@
       "path": "开发笔记/Git常用命令.md"
     },
     {
-      "basename": "CSS选择器",
-      "path": "开发笔记/CSS选择器.md"
-    },
-    {
-      "basename": "css实现文本超出显示省略号",
-      "path": "开发笔记/css实现文本超出显示省略号.md"
-    },
-    {
       "basename": "APP混合开发",
       "path": "开发笔记/APP混合开发.md"
-    },
-    {
-      "basename": "2021前端面试复习",
-      "path": "开发笔记/2021前端面试复习.md"
     },
     {
       "basename": "Vue2生命周期",
@@ -57,28 +77,20 @@
       "path": "学习技巧/笔记方法.md"
     },
     {
-      "basename": "VIM操作大全",
-      "path": "开发笔记/VIM操作大全.md"
-    },
-    {
       "basename": "前端开发知识点",
       "path": "开发笔记/前端开发知识点.md"
     },
     {
-      "basename": "Vue生命周期",
-      "path": "~附件/IMG/Vue生命周期.png"
-    },
-    {
       "basename": "Pasted image 20220606223625",
-      "path": "~附件/IMG/Pasted image 20220606223625.png"
+      "path": "~附件/Pasted image 20220606223625.png"
     },
     {
       "basename": "Pasted image 20220606223440",
-      "path": "~附件/IMG/Pasted image 20220606223440.png"
+      "path": "~附件/Pasted image 20220606223440.png"
     },
     {
       "basename": "中国近代史时间轴图",
-      "path": "~附件/IMG/中国近代史时间轴图.png"
+      "path": "~附件/中国近代史时间轴图.png"
     },
     {
       "basename": "Linux目录结构和作用",
@@ -87,14 +99,6 @@
     {
       "basename": "代码生成",
       "path": "开发笔记/代码生成.md"
-    },
-    {
-      "basename": "分析Vue与VueComponent的关系",
-      "path": "开发笔记/分析Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "TODO前端工作笔记",
