@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机基础",
+      "path": "专业课程/计算机基础.md"
+    },
+    {
+      "basename": "大学课程",
+      "path": "专业课程/大学课程.md"
+    },
+    {
       "basename": "Vue生命周期",
       "path": "~附件/Vue生命周期.png"
     },
@@ -63,14 +71,6 @@
     {
       "basename": "记忆方法",
       "path": "学习技巧/记忆方法.md"
-    },
-    {
-      "basename": "计算机基础",
-      "path": "专业课程/计算机基础.md"
-    },
-    {
-      "basename": "大学课程",
-      "path": "专业课程/大学课程.md"
     },
     {
       "basename": "笔记方法",
