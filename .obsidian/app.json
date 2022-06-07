@@ -12,13 +12,14 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "useTab": false,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "~附件",
-  "promptDelete": false,
+  "promptDelete": true,
   "fileSortOrder": "alphabetical",
   "communityPluginSortOrder": "download",
   "readableLineLength": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "userIgnoreFilters": null
 }
