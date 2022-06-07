@@ -25,14 +25,6 @@
       "key": "S"
     }
   ],
-  "obsidian-pangu:pangu-format": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "markdown-prettifier:markdown-prettifier-run": [
     {
       "modifiers": [
@@ -42,5 +34,13 @@
       "key": "F"
     }
   ],
-  "editor:save-file": []
+  "obsidian-pangu:pangu-format": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }
