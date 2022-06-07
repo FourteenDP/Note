@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2f1bdec51e4b3a",
+        "id": "f805170530337e93",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "知识社区.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识社区.md"
+              }
             }
           },
           {
@@ -139,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,8 +175,10 @@
     "direction": "horizontal",
     "width": 350
   },
-  "active": "4d2f1bdec51e4b3a",
+  "active": "f805170530337e93",
   "lastOpenFiles": [
+    "知识社区.md",
+    "README.md",
     "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1976-1989/在民主和法制的轨道上解决问题——会见亚洲开发银行理事会第二十二届年会代表时的讲话.md",
     "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1976-1989/实践是检验真理的唯一标准.md",
     "自考本科/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图PDF.md",
@@ -175,8 +186,6 @@
     "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/戊戌变法/上清帝第二书.md",
     "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/党的初期/中国共产党第二次全国代表大会宣言.md",
-    "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "自考本科/资料/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
-    "自考本科/KM01-中国近现代史纲要/中国近现代史纲要.md"
+    "自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md"
   ]
 }
