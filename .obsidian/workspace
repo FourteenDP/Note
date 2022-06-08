@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#索引",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +111,7 @@
       {
         "id": "535c94d14c1b3644",
         "type": "tabs",
-        "dimension": 43.46978557504873,
+        "dimension": 43.46978557504874,
         "children": [
           {
             "id": "340732f8f09c09c4",
