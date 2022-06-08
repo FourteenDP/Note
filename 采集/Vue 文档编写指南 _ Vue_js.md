@@ -1,11 +1,8 @@
 ---
 url: >-
   https://v3.cn.vuejs.org/guide/contributing/writing-guide.html#%E5%8E%9F%E5%88%99
-title: Vue 文档编写指南 | Vue.js
-date: 2022-06-08T15:02:15.000Z
-tag: null
-summary: Vue.js - The 渐进式 JavaScript 框架
-date updated: 2022-06-08 15:03
+date created: 2022-06-08 15:12
+date updated: 2022-06-08 15:14
 ---
 
 译者：本章节大部分内容是针对母语是英文的读者，中文用户可略读，除非你想以英文文档编写者的身份参与 Vue docs 的编写。
