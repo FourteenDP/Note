@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "采集/Vue 文档编写指南 _ Vue_js.md",
+            "file": "写作技巧/如何编写好的技术文档.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md"
+                "file": "写作技巧/如何编写好的技术文档.md"
               }
             }
           },
@@ -133,8 +133,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
+                "file": "写作技巧/如何编写好的技术文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
+                "file": "写作技巧/如何编写好的技术文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,6 +177,7 @@
   },
   "active": "4aee53be3bd38dda",
   "lastOpenFiles": [
+    "写作技巧/如何编写好的技术文档.md",
     "采集/Vue 文档编写指南 _ Vue_js.md",
     "采集/2-Vue 文档编写指南 _ Vue_js@annote.md",
     "采集/0-Vue 文档编写指南 _ Vue_js@annote.md",
@@ -186,7 +186,6 @@
     "开发笔记/代码生成.md",
     "开发笔记/Git常用命令.md",
     "开发笔记/CSS选择器.md",
-    "开发笔记/原型链.md",
-    "开发笔记/APP混合开发.md"
+    "开发笔记/原型链.md"
   ]
 }
