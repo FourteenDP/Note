@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb5d831f4e19f4e",
+        "id": "d19a6ac1436b39b6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "写作/Vue文档编写指南.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "写作/Vue文档编写指南.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作/Vue文档编写指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作/Vue文档编写指南.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +167,7 @@
     "direction": "horizontal",
     "width": 212
   },
-  "active": "ecb5d831f4e19f4e",
+  "active": "d19a6ac1436b39b6",
   "lastOpenFiles": [
     "写作/Vue文档编写指南.md",
     "开发笔记/前端工具.md",
