@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 35,
+  "baseFontSize": 24,
   "cssTheme": "Atom",
   "enabledCssSnippets": [
     "myTheme"
