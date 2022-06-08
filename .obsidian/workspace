@@ -7,8 +7,13 @@
         "id": "4e13cadab7dc498e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -62,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -141,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,13 +174,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434,
-    "collapsed": true
+    "width": 434
   },
   "active": "4e13cadab7dc498e",
   "lastOpenFiles": [
-    "知识社区.md",
     "README.md",
+    "知识社区.md",
     "temp.md",
     "自考本科/考试信息_网络工程080903.md",
     "专业课程/计算机基础.md",
