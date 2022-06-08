@@ -9,7 +9,33 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "知识社区.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3e60aa350a4de1b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识社区.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6228150f6f2d270f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -118,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "知识社区.md"
               }
             }
           },
@@ -147,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,10 +203,10 @@
     "width": 434,
     "collapsed": true
   },
-  "active": "12abc5fbaf9ebf5a",
+  "active": "6228150f6f2d270f",
   "lastOpenFiles": [
-    "README.md",
     "知识社区.md",
+    "README.md",
     "temp.md",
     "自考本科/考试信息_网络工程080903.md",
     "专业课程/计算机基础.md",
