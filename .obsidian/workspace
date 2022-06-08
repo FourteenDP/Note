@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6801f77650cc194",
+        "id": "4aee53be3bd38dda",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "采集/Vue 文档编写指南 _ Vue_js.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "采集/Vue 文档编写指南 _ Vue_js.md"
+              }
             }
           },
           {
@@ -140,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,9 +176,10 @@
     "direction": "horizontal",
     "width": 212
   },
-  "active": "a6801f77650cc194",
+  "active": "4aee53be3bd38dda",
   "lastOpenFiles": [
     "采集/Vue 文档编写指南 _ Vue_js.md",
+    "采集/2-Vue 文档编写指南 _ Vue_js@annote.md",
     "采集/0-Vue 文档编写指南 _ Vue_js@annote.md",
     "写作/Vue文档编写指南.md",
     "开发笔记/前端工具.md",
@@ -177,7 +187,6 @@
     "开发笔记/Git常用命令.md",
     "开发笔记/CSS选择器.md",
     "开发笔记/原型链.md",
-    "开发笔记/APP混合开发.md",
-    "开发笔记/css实现文本超出显示省略号.md"
+    "开发笔记/APP混合开发.md"
   ]
 }
