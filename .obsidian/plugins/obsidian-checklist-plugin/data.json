@@ -7,7 +7,7 @@
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
-  "includeFiles": "\"{日记,!(exclude)/**/*)\"",
+  "includeFiles": "日记",
   "lookAndFeel": "classic",
   "_collapsedSections": [],
   "_hiddenTags": []
