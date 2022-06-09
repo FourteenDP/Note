@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4aee53be3bd38dda",
+        "id": "03999f8cdbfd5f6e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "采集/Vue 文档编写指南 _ Vue_js.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -67,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/Vue 文档编写指南 _ Vue_js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,17 +166,17 @@
     "direction": "horizontal",
     "width": 225
   },
-  "active": "4aee53be3bd38dda",
+  "active": "03999f8cdbfd5f6e",
   "lastOpenFiles": [
-    "采集/Vue 文档编写指南 _ Vue_js.md",
     "日记/2022-06-09.md",
+    "日记/delete.md",
+    "README.md",
+    "开发笔记/未命名.md",
+    "采集/Vue 文档编写指南 _ Vue_js.md",
     "写作技巧/如何编写好的技术文档.md",
     "采集/2-Vue 文档编写指南 _ Vue_js@annote.md",
     "采集/0-Vue 文档编写指南 _ Vue_js@annote.md",
     "写作/Vue文档编写指南.md",
-    "开发笔记/前端工具.md",
-    "开发笔记/代码生成.md",
-    "开发笔记/Git常用命令.md",
-    "开发笔记/CSS选择器.md"
+    "开发笔记/前端工具.md"
   ]
 }
