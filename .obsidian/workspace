@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-09.md",
+            "file": "日记/delete.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -86,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 249
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -121,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "535c94d14c1b3644",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-09.md"
+                "file": "日记/delete.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-09.md",
+                "file": "日记/delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-09.md",
+                "file": "日记/delete.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,19 +191,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 285
   },
   "active": "29c30d34da60a504",
   "lastOpenFiles": [
-    "日记/2022-06-09.md",
     "日记/delete.md",
-    "README.md",
+    "日记/2022-06-09.md",
     "知识社区.md",
+    "README.md",
     "开发笔记/windows终端设置代理.md",
     "开发笔记/wind10 flutter环境搭建.md",
     "开发笔记/2021前端面试复习.md",
     "开发笔记/编程范式.md",
     "开发笔记/便携蓝牙打印机.md",
-    "开发笔记/博客&UP&视频导航.md"
-  ]
-}
+    "开发笔记/博客&
