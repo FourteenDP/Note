@@ -1,17 +1,17 @@
 {
   "scanned": true,
   "reminders": {
-    "测试.md": [
+    "日记/2022-06-09.md": [
       {
-        "title": "aksjdl",
-        "time": "2022-06-09",
-        "rowNumber": 0
+        "title": "13:29 浏览器休眠对定时器的影响",
+        "time": "2022-06-10",
+        "rowNumber": 2
       }
     ]
   },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "09:30",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": false,
     "autoCompleteTrigger": "(@",
