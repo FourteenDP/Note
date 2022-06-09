@@ -15,5 +15,6 @@
   "simpread",
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "dataview"
 ]
