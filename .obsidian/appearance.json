@@ -4,8 +4,8 @@
   "enabledCssSnippets": [
     "myTheme"
   ],
-  "translucency": true,
-  "theme": "moonstone",
+  "translucency": false,
+  "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": ""
 }
