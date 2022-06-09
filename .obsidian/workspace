@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "开发笔记/代码生成.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发笔记/代码生成.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发笔记/代码生成.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发笔记/代码生成.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -196,12 +195,12 @@
   },
   "active": "29c30d34da60a504",
   "lastOpenFiles": [
+    "README.md",
+    "知识社区.md",
+    "日记/2022-06-09.md",
     "开发笔记/代码生成.md",
     "开发笔记/前端工具.md",
-    "日记/2022-06-09.md",
     "日记/delete.md",
-    "知识社区.md",
-    "README.md",
     "开发笔记/windows终端设置代理.md",
     "开发笔记/wind10 flutter环境搭建.md",
     "开发笔记/2021前端面试复习.md",
