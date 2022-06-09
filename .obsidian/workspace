@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "b8af3b1025514322",
+        "id": "639273ec8c8febed",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
+          "type": "empty",
           "state": {}
         }
       }
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#日记",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -98,14 +97,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fb99c3748bed978",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -185,10 +176,10 @@
     "direction": "horizontal",
     "width": 434
   },
-  "active": "b8af3b1025514322",
+  "active": "639273ec8c8febed",
   "lastOpenFiles": [
-    "日记/2022-06-09.md",
     "未命名看板.md",
+    "日记/2022-06-09.md",
     "看板/未命名看板.md",
     "未命名看板 1.md",
     "未命名看板 2.md",
