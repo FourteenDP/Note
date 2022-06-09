@@ -9,6 +9,8 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "日记/**/*",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "日记/2022-06-09.md"
+  ],
   "_hiddenTags": []
 }
