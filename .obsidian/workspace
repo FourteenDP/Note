@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "日记/2022-06-09.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "535c94d14c1b3644",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "日记/2022-06-09.md"
               }
             }
           },
@@ -141,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -154,14 +156,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "日记/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "日记/2022-06-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,9 +187,9 @@
   },
   "active": "29c30d34da60a504",
   "lastOpenFiles": [
+    "日记/2022-06-09.md",
     "README.md",
     "知识社区.md",
-    "日记/2022-06-09.md",
     "开发笔记/windows终端设置代理.md",
     "开发笔记/wind10 flutter环境搭建.md",
     "开发笔记/2021前端面试复习.md",
