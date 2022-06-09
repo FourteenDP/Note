@@ -7,13 +7,8 @@
         "id": "7cdfff4a55f30ca8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📅任务管理.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -126,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📅任务管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,10 +178,10 @@
   },
   "active": "7cdfff4a55f30ca8",
   "lastOpenFiles": [
-    "📅任务管理.md",
-    "README.md",
-    "任务管理.md",
     "日记/2022-06-09.md",
+    "README.md",
+    "📅任务管理.md",
+    "任务管理.md",
     "未命名.md",
     "日记/delete.md",
     "看板/未命名看板.md",
