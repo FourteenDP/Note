@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef53fc5c325e5cf",
+        "id": "3149e5984376bc4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "测试.md",
+            "file": "日记/2022-06-09.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "535c94d14c1b3644",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试.md"
+                "file": "日记/2022-06-09.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试.md",
+                "file": "日记/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试.md",
+                "file": "日记/2022-06-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,10 +193,10 @@
     "direction": "horizontal",
     "width": 434
   },
-  "active": "0ef53fc5c325e5cf",
+  "active": "3149e5984376bc4b",
   "lastOpenFiles": [
-    "测试.md",
     "日记/2022-06-09.md",
+    "测试.md",
     "~模板/日记.md",
     "日记/2022-W22.md",
     "README.md",
