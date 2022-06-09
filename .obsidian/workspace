@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
-            "mode": "preview",
+            "file": "任务管理.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "任务管理.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,15 +187,15 @@
   },
   "active": "639273ec8c8febed",
   "lastOpenFiles": [
+    "任务管理.md",
     "未命名.md",
+    "日记/delete.md",
     "日记/2022-06-09.md",
     "未命名看板.md",
     "看板/未命名看板.md",
     "未命名看板 1.md",
     "未命名看板 2.md",
     "知识社区.md",
-    "README.md",
-    "测试.md",
-    "~模板/日记.md"
+    "README.md"
   ]
 }
