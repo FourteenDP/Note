@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "42eb4dbf084a1188",
+        "id": "0ef53fc5c325e5cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 434
   },
-  "active": "42eb4dbf084a1188",
+  "active": "0ef53fc5c325e5cf",
   "lastOpenFiles": [
     "日记/2022-06-09.md",
     "~模板/日记.md",
+    "日记/2022-W22.md",
     "测试.md",
     "README.md",
     "日记/delete.md",
     "知识社区.md",
     "日记/2022-06-10.md",
     "Z开发笔记/代码生成.md",
-    "Z开发笔记/前端工具.md",
-    "Z开发笔记/windows终端设置代理.md"
+    "Z开发笔记/前端工具.md"
   ]
 }
