@@ -7,8 +7,13 @@
         "id": "03999f8cdbfd5f6e",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-06-09.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2022-06-09.md"
+              }
             }
           },
           {
@@ -139,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2022-06-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
