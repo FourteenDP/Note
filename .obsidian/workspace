@@ -105,17 +105,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "5812712b86392d99",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "535c94d14c1b3644",
