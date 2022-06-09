@@ -1,11 +1,10 @@
 {
   "baseFontSize": 22,
   "cssTheme": "",
-  "enabledCssSnippets": [
-    "myTheme"
-  ],
+  "enabledCssSnippets": [],
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "baseFontSizeAction": true
 }
