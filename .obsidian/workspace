@@ -7,13 +7,8 @@
         "id": "29c30d34da60a504",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "开发笔记/wind10 flutter环境搭建.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -117,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "开发笔记/wind10 flutter环境搭建.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发笔记/wind10 flutter环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发笔记/wind10 flutter环境搭建.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,15 +168,15 @@
   },
   "active": "29c30d34da60a504",
   "lastOpenFiles": [
-    "开发笔记/wind10 flutter环境搭建.md",
-    "开发笔记/windows终端设置代理.md",
     "日记/2022-06-09.md",
-    "开发笔记/win10下创建软链接.md",
-    "开发笔记/分析Vue与VueComponent的关系.md",
-    "开发笔记/博客&UP&视频导航.md",
     "开发笔记/2021前端面试复习.md",
     "开发笔记/编程范式.md",
     "开发笔记/便携蓝牙打印机.md",
-    "开发笔记/代码生成.md"
+    "开发笔记/博客&UP&视频导航.md",
+    "开发笔记/代码生成.md",
+    "开发笔记/前端学习.md",
+    "开发笔记/小程序容器技术.md",
+    "开发笔记/wind10 flutter环境搭建.md",
+    "开发笔记/windows终端设置代理.md"
   ]
 }
