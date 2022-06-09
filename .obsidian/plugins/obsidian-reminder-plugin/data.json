@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "测试.md": [
+      {
+        "title": "aksjdl",
+        "time": "2022-06-09",
+        "rowNumber": 0
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
@@ -13,7 +21,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
