@@ -516,6 +516,16 @@ input.task-list-item-checkbox:checked {
 }
 .theme-dark .editor-date-picker {
   color: #fff;
-  border: none;
-  padding: 1rem;
+  background-color: #292e39 !important;
+  border: none !important;
+  padding: 1rem !important;
+}
+.theme-dark .editor-date-picker > .date-picker-day-container > .day-item:hover {
+  background-color: #df3737 !important;
+}
+.theme-dark
+  div[data-type="memos_view"].mobile-view
+  .search-bar-container
+  > .search-bar-inputer {
+  background-color: #302e2e !important;
 }
