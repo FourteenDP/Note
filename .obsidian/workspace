@@ -7,13 +7,8 @@
         "id": "bb28d430a83119a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Z-开发笔记/win10下创建软链接.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -126,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-开发笔记/win10下创建软链接.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-开发笔记/win10下创建软链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-开发笔记/win10下创建软链接.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
