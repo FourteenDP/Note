@@ -7,13 +7,8 @@
         "id": "bb28d430a83119a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "~模板/日记.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -67,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "~模板/日记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~模板/日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~模板/日记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,12 +177,12 @@
   },
   "active": "bb28d430a83119a1",
   "lastOpenFiles": [
+    "日记/2022-06-10.md",
+    "README.md",
     "~模板/日记.md",
     "日记/2022-06-09.md",
     "📅任务管理.md",
-    "日记/2022-06-10.md",
     "202206091329000.md",
-    "README.md",
     "任务管理.md",
     "未命名.md",
     "日记/delete.md",
