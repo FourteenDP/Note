@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7cdfff4a55f30ca8",
+        "id": "bb28d430a83119a1",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-06-09.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -121,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2022-06-09.md"
+              }
             }
           },
           {
@@ -149,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2022-06-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,17 +185,17 @@
     "direction": "horizontal",
     "width": 434
   },
-  "active": "7cdfff4a55f30ca8",
+  "active": "bb28d430a83119a1",
   "lastOpenFiles": [
     "日记/2022-06-09.md",
     "日记/2022-06-10.md",
+    "202206091329000.md",
     "~模板/日记.md",
     "📅任务管理.md",
     "README.md",
     "任务管理.md",
     "未命名.md",
     "日记/delete.md",
-    "看板/未命名看板.md",
-    "未命名看板 1.md"
+    "看板/未命名看板.md"
   ]
 }
