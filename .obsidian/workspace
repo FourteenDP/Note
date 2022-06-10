@@ -7,8 +7,13 @@
         "id": "bb28d430a83119a1",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Z-开发笔记/win10下创建软链接.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ruan'lian",
+                "query": "软链接",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z-开发笔记/win10下创建软链接.md"
+              }
             }
           },
           {
@@ -149,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-开发笔记/win10下创建软链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-开发笔记/win10下创建软链接.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,6 +187,7 @@
   },
   "active": "bb28d430a83119a1",
   "lastOpenFiles": [
+    "Z-开发笔记/win10下创建软链接.md",
     "📅任务管理.md",
     "README.md",
     "日记/2022-06-10.md",
@@ -186,7 +196,6 @@
     "202206091329000.md",
     "任务管理.md",
     "未命名.md",
-    "日记/delete.md",
-    "看板/未命名看板.md"
+    "日记/delete.md"
   ]
 }
