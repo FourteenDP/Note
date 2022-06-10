@@ -516,4 +516,6 @@ input.task-list-item-checkbox:checked {
 }
 .theme-dark .editor-date-picker {
   color: #fff;
+  border: none;
+  padding: 1rem;
 }
