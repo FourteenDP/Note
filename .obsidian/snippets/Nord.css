@@ -514,3 +514,6 @@ input.task-list-item-checkbox:checked {
   justify-content: center;
   align-items: center;
 }
+.theme-dark .editor-date-picker {
+  color: #fff;
+}
