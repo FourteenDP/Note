@@ -1,8 +1,7 @@
 ---
-aliases:
-tags:
-date created: 2022-06-05 16:09:57
-date modified: 2022-06-05 16:09:57
+date created: 2022-06-05T16:09:57.000Z
+date modified: 2022-06-05T16:09:57.000Z
+date updated: 2022-06-10 21:23
 ---
 
 # win10 下创建软链接
@@ -19,9 +18,11 @@ Target 指定新链接引用的路径 (相对或绝对)。
 
 ## 实例
 
+```shell
 mklink /j D:\Doc\tracking\VisualTracking_ECO\data D:\Doc\tracking\KCF\C++\data\matlab1
 D:\Doc\tracking\VisualTracking_ECO\data-----目标路径
 D:\Doc\tracking\KCF\C++\data\matlab1-----源路径
+```
 
 ## 注意点
 
