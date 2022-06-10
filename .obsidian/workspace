@@ -7,8 +7,13 @@
         "id": "074b34ff1d4c5e61",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅任务管理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -62,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📅任务管理.md"
+              }
             }
           },
           {
@@ -149,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,8 +187,8 @@
   },
   "active": "074b34ff1d4c5e61",
   "lastOpenFiles": [
-    "看板/KB-2022-06-11.md",
     "📅任务管理.md",
+    "看板/KB-2022-06-11.md",
     "日记/2022-06-10.md",
     "-拾肆-/想开发的项目.md",
     "README.md",
