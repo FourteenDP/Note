@@ -531,7 +531,7 @@ input.task-list-item-checkbox:checked {
 }
 .theme-dark div[data-type="memos_view"] .memo-editor-wrapper {
   background-color: #3b4251 !important;
-  border: 2px solid #cccccc !important;
+  border: none !important;
 }
 
 .theme-dark div[data-type="memos_view"] .memo-editor-wrapper > .memo-editor {
@@ -543,6 +543,46 @@ input.task-list-item-checkbox:checked {
   > .common-tools-wrapper
   > .btns-container
   > .confirm-btn:disabled {
-  cursor: not-allowed;
   opacity: 1 !important;
+}
+.theme-dark
+  div[data-type="memos_view"]
+  .common-editor-wrapper
+  > .common-tools-wrapper
+  > .btns-container
+  > .confirm-btn {
+  background-color: #ad1207 !important;
+}
+.theme-dark div[data-type="memos_view"] .memo-wrapper {
+  background-color: #383e4c !important;
+  border: none !important;
+}
+
+.theme-dark
+  div[data-type="memos_view"]
+  .usage-heat-map-wrapper
+  > .usage-heat-map
+  > .stat-container.stat-day-L1-bg {
+  background-color: #c6e48b !important;
+}
+.theme-dark
+  div[data-type="memos_view"]
+  .usage-heat-map-wrapper
+  > .usage-heat-map
+  > .stat-container.stat-day-L2-bg {
+  background-color: #7bc96f !important;
+}
+.theme-dark
+  div[data-type="memos_view"]
+  .usage-heat-map-wrapper
+  > .usage-heat-map
+  > .stat-container.stat-day-L3-bg {
+  background-color: #239a3b !important;
+}
+.theme-dark
+  div[data-type="memos_view"]
+  .usage-heat-map-wrapper
+  > .usage-heat-map
+  > .stat-container.stat-day-L4-bg {
+  background-color: #196127 !important;
 }
