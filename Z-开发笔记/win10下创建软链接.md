@@ -1,14 +1,14 @@
 ---
 date created: 2022-06-05T16:09:57.000Z
 date modified: 2022-06-05T16:09:57.000Z
-date updated: 2022-06-10 21:23
+date updated: 2022-06-10 21:50
 ---
 
 # win10 下创建软链接
 
 ## 语法
 
-MKLINK [[/D] | [/H] | [/J]] Link Target
+MKLINK [/D] | [/H] | [/J] Link Target
 /D 创建目录符号链接。默认为文件
 符号链接。
 /H 创建硬链接而非符号链接。
