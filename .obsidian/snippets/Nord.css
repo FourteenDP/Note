@@ -524,8 +524,25 @@ input.task-list-item-checkbox:checked {
   background-color: #df3737 !important;
 }
 .theme-dark
-  div[data-type="memos_view"].mobile-view
+  div[data-type="memos_view"]
   .search-bar-container
   > .search-bar-inputer {
-  background-color: #302e2e !important;
+  background-color: #292e39 !important;
+}
+.theme-dark div[data-type="memos_view"] .memo-editor-wrapper {
+  background-color: #3b4251 !important;
+  border: 2px solid #cccccc !important;
+}
+
+.theme-dark div[data-type="memos_view"] .memo-editor-wrapper > .memo-editor {
+  background-color: #2e3441 !important;
+}
+.theme-dark
+  div[data-type="memos_view"]
+  .common-editor-wrapper
+  > .common-tools-wrapper
+  > .btns-container
+  > .confirm-btn:disabled {
+  cursor: not-allowed;
+  opacity: 1 !important;
 }
