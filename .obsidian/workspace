@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ruan'lian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
