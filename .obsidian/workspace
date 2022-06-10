@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "日记/2022-06-10.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#历史",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "日记/2022-06-10.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "日记/2022-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "日记/2022-06-10.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,10 +187,10 @@
   },
   "active": "bb28d430a83119a1",
   "lastOpenFiles": [
-    "📅任务管理.md",
-    "日记/2022-06-09.md",
     "日记/2022-06-10.md",
+    "日记/2022-06-09.md",
     "README.md",
+    "📅任务管理.md",
     "~模板/日记.md",
     "202206091329000.md",
     "任务管理.md",
