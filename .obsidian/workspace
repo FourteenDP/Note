@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ca324f33c922ca48",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "teemp.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
-        }
-      },
-      {
         "id": "4bb7dce399d2628b",
         "type": "leaf",
         "state": {
@@ -80,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
