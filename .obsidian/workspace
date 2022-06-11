@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,10 +187,10 @@
   },
   "active": "20c5fc81e94615aa",
   "lastOpenFiles": [
+    "📅任务管理.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "未命名.md",
     "A-开发笔记/2021前端面试复习.md",
-    "📅任务管理.md",
     "看板/KB-2022-06-11.md",
     "README.md",
     "A-开发笔记/编程范式.md",
