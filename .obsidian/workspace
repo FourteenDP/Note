@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +187,7 @@
   },
   "active": "f52438c3b5c3787d",
   "lastOpenFiles": [
+    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "📅任务管理.md",
     "日记/2022-06-10.md",
     "日记/2022-06-11.md",
@@ -195,7 +196,6 @@
     "teemp.md",
     "A-开发笔记/VIM操作大全.md",
     "[.md",
-    "README.md",
-    "A-开发笔记/vscode vim插件配置.md"
+    "README.md"
   ]
 }
