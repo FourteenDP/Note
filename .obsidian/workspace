@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
-            "mode": "source",
+            "file": "A-开发笔记/VIM操作大全.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "软链接",
+                "query": "vim",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "A-开发笔记/VIM操作大全.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "A-开发笔记/VIM操作大全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "A-开发笔记/VIM操作大全.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +188,7 @@
   },
   "active": "20c5fc81e94615aa",
   "lastOpenFiles": [
+    "A-开发笔记/VIM操作大全.md",
     "📅任务管理.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "未命名.md",
@@ -195,7 +197,6 @@
     "README.md",
     "A-开发笔记/编程范式.md",
     "A-开发笔记/博客&UP&视频导航.md",
-    "日记/2022-06-10.md",
-    "-拾肆-/想开发的项目.md"
+    "日记/2022-06-10.md"
   ]
 }
