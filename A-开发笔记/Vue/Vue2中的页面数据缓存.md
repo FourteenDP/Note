@@ -10,8 +10,8 @@ date updated: 2022-06-11 14:39
 
 ## 三种方式
 - 全局状态管理
-- Keep-alive缓存
+- Keep-alive
+- 本地缓存
 
 ## Keep-alive缓存
 - [ ] Keep-alive缓存
-基本原理不销毁页面组件
