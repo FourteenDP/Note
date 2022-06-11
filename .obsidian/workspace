@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb7dce399d2628b",
+        "id": "f52438c3b5c3787d",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "看板/KB-2022-06-11.md"
+            "file": "📅任务管理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "看板/KB-2022-06-11.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "看板/KB-2022-06-11.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "看板/KB-2022-06-11.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,20 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
-  "active": "4bb7dce399d2628b",
+  "active": "f52438c3b5c3787d",
   "lastOpenFiles": [
-    "看板/KB-2022-06-11.md",
     "📅任务管理.md",
+    "日记/2022-06-10.md",
+    "日记/2022-06-11.md",
+    "看板/KB-2022-06-11.md",
     "-拾肆-/防脱生发.md",
     "teemp.md",
     "A-开发笔记/VIM操作大全.md",
-    "日记/2022-06-10.md",
     "[.md",
     "README.md",
-    "A-开发笔记/vscode vim插件配置.md",
-    "A-开发笔记/Vue/Vue2中的页面数据缓存.md"
+    "A-开发笔记/vscode vim插件配置.md"
   ]
 }
