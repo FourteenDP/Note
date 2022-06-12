@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f52438c3b5c3787d",
+        "id": "a75f2657b7295fb8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📅任务管理.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -126,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📅任务管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,8 +176,9 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "f52438c3b5c3787d",
+  "active": "a75f2657b7295fb8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-06-12 18.02.43.excalidraw.md",
     "📅任务管理.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "日记/2022-06-10.md",
@@ -195,7 +187,6 @@
     "-拾肆-/防脱生发.md",
     "teemp.md",
     "A-开发笔记/VIM操作大全.md",
-    "[.md",
-    "README.md"
+    "[.md"
   ]
 }
