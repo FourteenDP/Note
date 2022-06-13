@@ -1,6 +1,5 @@
 [
   "cmenu-plugin",
-  "obsidian-pangu",
   "calendar",
   "periodic-notes",
   "obsidian-git",
@@ -14,5 +13,9 @@
   "obsidian42-brat",
   "simpread",
   "obsidian-reminder-plugin",
-  "obsidian-checklist-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "obsidian-admonition",
+  "obsidian-pangu",
+  "obsidian-excalidraw-plugin"
 ]

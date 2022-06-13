@@ -1,7 +1,9 @@
 {
   "baseFontSize": 22,
-  "cssTheme": "",
-  "enabledCssSnippets": [],
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "Nord"
+  ],
   "translucency": false,
   "theme": "obsidian",
   "interfaceFontFamily": "",
