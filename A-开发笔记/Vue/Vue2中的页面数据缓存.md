@@ -32,6 +32,9 @@ date updated: 2022-06-13 15:08
 - [ ] Keep-alive缓存
 
 ## 本地缓存
+- 通过`vm.$data`获取当前`vm`数据，缓存到本地
+- 读取数据时因`vm.$data`是个只读属性，无法直接把缓存中的数据直接赋值到`vm.$data`
+- 
 
 ```javascript
 export default {
