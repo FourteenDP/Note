@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo",
+  "todoPageName": "日记",
   "showChecked": false,
   "autoRefresh": true,
   "subGroups": false,
@@ -7,8 +7,8 @@
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
-  "includeFiles": "日记/**/*",
-  "lookAndFeel": "classic",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
   "_collapsedSections": [],
   "_hiddenTags": []
 }

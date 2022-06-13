@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "29c30d34da60a504",
+        "id": "a75f2657b7295fb8",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
+          "type": "empty",
           "state": {}
         }
       }
@@ -21,7 +21,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 61.79337231968812,
+        "dimension": 60.92843326885881,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -45,8 +45,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "前端工具",
-                "matchingCase": false,
+                "query": "file:vim",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 38.20662768031189,
+        "dimension": 39.071566731141196,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 273.5
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -98,14 +98,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fb99c3748bed978",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -183,19 +175,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 244
   },
-  "active": "29c30d34da60a504",
+  "active": "a75f2657b7295fb8",
   "lastOpenFiles": [
-    "日记/2022-06-09.md",
-    "README.md",
-    "知识社区.md",
-    "开发笔记/代码生成.md",
-    "开发笔记/前端工具.md",
-    "日记/delete.md",
-    "开发笔记/windows终端设置代理.md",
-    "开发笔记/wind10 flutter环境搭建.md",
-    "开发笔记/2021前端面试复习.md",
-    "开发笔记/编程范式.md"
+    "Excalidraw/Drawing 2022-06-12 18.02.43.excalidraw.md",
+    "📅任务管理.md",
+    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+    "日记/2022-06-10.md",
+    "日记/2022-06-11.md",
+    "看板/KB-2022-06-11.md",
+    "-拾肆-/防脱生发.md",
+    "teemp.md",
+    "A-开发笔记/VIM操作大全.md",
+    "[.md"
   ]
 }
