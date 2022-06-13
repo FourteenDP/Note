@@ -1,6 +1,6 @@
 ---
 date created: 2022-06-11 14:39
-date updated: 2022-06-13 15:08
+date updated: 2022-06-13 15:26
 ---
 
 # Vue2中的页面数据缓存
@@ -32,9 +32,10 @@ date updated: 2022-06-13 15:08
 - [ ] Keep-alive缓存
 
 ## 本地缓存
+
 - 通过`vm.$data`获取当前`vm`数据，缓存到本地
 - 读取数据时因`vm.$data`是个只读属性，无法直接把缓存中的数据直接赋值到`vm.$data`
-- 
+- vm中的data属性是个方法，可以将读取赋值缓存数据写道data方法里通过`Object.assign(target, ...sources)`方法克隆合并的对象作为data方法的返回值完成，缓存中的数据读取
 
 ```javascript
 export default {
