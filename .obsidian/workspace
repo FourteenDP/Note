@@ -7,8 +7,13 @@
         "id": "a75f2657b7295fb8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A-开发笔记/Vue2生命周期.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:vim",
+                "query": "file:生命",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -122,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A-开发笔记/Vue2生命周期.md"
+              }
             }
           },
           {
@@ -150,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A-开发笔记/Vue2生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A-开发笔记/Vue2生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,15 +188,15 @@
   },
   "active": "a75f2657b7295fb8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-06-12 18.02.43.excalidraw.md",
+    "A-开发笔记/Vue2生命周期.md",
+    "日记/2022-06-09.md",
     "📅任务管理.md",
-    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "日记/2022-06-10.md",
     "日记/2022-06-11.md",
+    "Excalidraw/Drawing 2022-06-12 18.02.43.excalidraw.md",
+    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "看板/KB-2022-06-11.md",
     "-拾肆-/防脱生发.md",
-    "teemp.md",
-    "A-开发笔记/VIM操作大全.md",
-    "[.md"
+    "teemp.md"
   ]
 }
