@@ -1,6 +1,6 @@
 ---
 date created: 2022-06-11 14:39
-date updated: 2022-06-13 14:53
+date updated: 2022-06-13 15:08
 ---
 
 # Vue2中的页面数据缓存
@@ -36,29 +36,18 @@ date updated: 2022-06-13 14:53
 ```javascript
 export default {
   data() {
-    const dataStr = utils.getData('')
+    const dataStr = localStorage.getItem('myCat');
+    const data = JSON.parse(dataStr) || {}
     return Object.assign(
       {
-        goodsName: '',
-        customGoodsName: '',
-        goodsQuqntity: 1,
-        goodsVolume: 0,
-        goodsWeight: 0,
-        goodsThreeHigh: {
-          wide: '',
-          high: '',
-          long: '',
-        },
-        remark: '',
-        goodsNameCurrentIndex: 0,
-        goodsNameList: MenuList.goodsNameList,
+        text:'',
       },
-      dataStr,
+      data,
     )
   },
   methods: {
-    submit() {
-      uils.setData('yimi_goodsInfo', this.$data)
+    cache() {
+      localStorage.setItem('data', JSON.stringify(this.$data));
     },
   },
 }
