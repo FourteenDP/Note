@@ -36,7 +36,7 @@ date updated: 2022-06-13 14:53
 ```javascript
 export default {
   data() {
-    const dataStr = utils.getData('yimi_goodsInfo')
+    const dataStr = utils.getData('')
     return Object.assign(
       {
         goodsName: '',
