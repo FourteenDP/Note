@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:vim",
+                "query": "file:页面",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-10.md",
+                "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
