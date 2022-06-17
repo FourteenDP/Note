@@ -7,12 +7,9 @@
         "id": "78e0e9e9fc96f0d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "村长.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "~附件~/Pasted image 20220608140002.png"
           }
         }
       }
@@ -75,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "村长.md"
+                "file": "~附件~/Pasted image 20220608140002.png"
               }
             }
           },
@@ -188,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
+                "file": "~附件~/Pasted image 20220608140002.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
+                "file": "~附件~/Pasted image 20220608140002.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +217,15 @@
   },
   "active": "78e0e9e9fc96f0d0",
   "lastOpenFiles": [
+    "~附件~/Pasted image 20220608140002.png",
+    "~附件~/Vue生命周期.png",
+    "~附件~/Pasted image 20220606223625.png",
+    "~附件~/Pasted image 20220606223440.png",
+    "~附件~/中国近代史时间轴图.png",
+    "~附件~/盒子模型.png",
     "村长.md",
     "📅任务管理.md",
     "README.md",
-    "日记/2022-06-09.md",
-    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
-    "日记/2022-06-10.md",
-    "日记/delete.md",
-    "KB-2022-06-11.md",
-    "unresolved links output.md",
-    "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
+    "日记/2022-06-09.md"
   ]
 }
