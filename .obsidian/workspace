@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "3c3b7b2a76145089",
+        "id": "fc55b959da10b578",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "村长.md",
+            "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "530acde72bee1218",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-06-10.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3e97724042567c3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-06-09.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -128,8 +154,25 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ba3cdf8a24203ea8",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b74a1cee2cd3fe3b",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "535c94d14c1b3644",
@@ -142,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "村长.md"
+                "file": "日记/2022-06-10.md"
               }
             }
           },
@@ -171,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
+                "file": "日记/2022-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
+                "file": "日记/2022-06-10.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,19 +241,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 420.5
   },
-  "active": "3c3b7b2a76145089",
+  "active": "530acde72bee1218",
   "lastOpenFiles": [
+    "日记/2022-06-10.md",
+    "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
+    "📅任务管理.md",
     "村长.md",
     "日记/delete.md",
     "KB-2022-06-11.md",
     "unresolved links output.md",
     "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "unlinked files output.md",
-    "📅任务管理.md",
-    "思维导图.md",
-    "B-学习技巧/笔记方法.md",
-    "B-学习技巧/记忆方法.md"
+    "思维导图.md"
   ]
 }
