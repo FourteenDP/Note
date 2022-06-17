@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40047cc39e194824",
+        "id": "8be956f7160f6909",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "村长.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "博客",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "535c94d14c1b3644",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "村长.md"
+                "file": "README.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "40047cc39e194824",
+  "active": "8be956f7160f6909",
   "lastOpenFiles": [
+    "README.md",
     "村长.md",
     "📅任务管理.md",
-    "~附件~/Pasted image 20220608140002.png",
-    "~附件~/Vue生命周期.png",
-    "~附件~/Pasted image 20220606223625.png",
-    "~附件~/Pasted image 20220606223440.png",
-    "~附件~/中国近代史时间轴图.png",
-    "~附件~/盒子模型.png",
-    "README.md",
-    "日记/2022-06-09.md"
+    "日记/2022-06-18.md",
+    "A-开发笔记/博客&UP&视频导航.md",
+    "日记/2022-06-10.md",
+    "日记/2022-06-09.md",
+    "日记/2022-06-17.md",
+    "日记/2022-06-11.md",
+    "~模板~/日记.md"
   ]
 }
