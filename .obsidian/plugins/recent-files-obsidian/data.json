@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2022-06-09",
       "path": "日记/2022-06-09.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "知识社区",
       "path": "知识社区.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "合并模板",

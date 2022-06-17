@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-09.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-09.md"
+                "file": "README.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-09.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-09.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "3e97724042567c3d",
   "lastOpenFiles": [
+    "README.md",
     "日记/2022-06-09.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "日记/2022-06-10.md",
@@ -227,7 +228,6 @@
     "日记/delete.md",
     "KB-2022-06-11.md",
     "unresolved links output.md",
-    "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
-    "unlinked files output.md"
+    "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
   ]
 }
