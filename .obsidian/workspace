@@ -7,9 +7,12 @@
         "id": "78e0e9e9fc96f0d0",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "~附件~/Pasted image 20220608140002.png"
+            "file": "村长.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -72,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~附件~/Pasted image 20220608140002.png"
+                "file": "村长.md"
               }
             }
           },
@@ -186,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~附件~/Pasted image 20220608140002.png",
+                "file": "村长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~附件~/Pasted image 20220608140002.png",
+                "file": "村长.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,13 +219,13 @@
   },
   "active": "78e0e9e9fc96f0d0",
   "lastOpenFiles": [
+    "村长.md",
     "~附件~/Pasted image 20220608140002.png",
     "~附件~/Vue生命周期.png",
     "~附件~/Pasted image 20220606223625.png",
     "~附件~/Pasted image 20220606223440.png",
     "~附件~/中国近代史时间轴图.png",
     "~附件~/盒子模型.png",
-    "村长.md",
     "📅任务管理.md",
     "README.md",
     "日记/2022-06-09.md"

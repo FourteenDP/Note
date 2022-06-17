@@ -16,7 +16,6 @@
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "obsidian-admonition",
-  "obsidian-pangu",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "url-into-selection",
@@ -29,5 +28,6 @@
   "obsidian-dictionary-plugin",
   "obsidian-plugin-todo",
   "obsidian-collapse-all-plugin",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "easy-typing-obsidian"
 ]
