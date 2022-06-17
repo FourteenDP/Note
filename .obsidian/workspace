@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/Vue2生命周期.md",
+            "file": "B-学习技巧/记忆方法.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "生命周期",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/Vue2生命周期.md"
+                "file": "B-学习技巧/记忆方法.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/Vue2生命周期.md",
+                "file": "B-学习技巧/记忆方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/Vue2生命周期.md",
+                "file": "B-学习技巧/记忆方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,10 +183,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "active": "a75f2657b7295fb8",
   "lastOpenFiles": [
+    "B-学习技巧/记忆方法.md",
+    "B-学习技巧/笔记方法.md",
     "A-开发笔记/Vue2生命周期.md",
     "A-开发笔记/2021前端面试复习.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
@@ -195,8 +197,6 @@
     "A-开发笔记/开源项目.md",
     "日记/delete.md",
     "日记/2022-06-09.md",
-    "日记/2022-06-10.md",
-    "日记/2022-06-11.md",
-    "Excalidraw/Drawing 2022-06-12 18.02.43.excalidraw.md"
+    "日记/2022-06-10.md"
   ]
 }
