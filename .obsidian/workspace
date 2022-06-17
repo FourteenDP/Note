@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-10.md",
+                "file": "A-开发笔记/Vue2生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
