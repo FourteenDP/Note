@@ -7,8 +7,13 @@
         "id": "40047cc39e194824",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "村长.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -153,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "村长.md"
+              }
             }
           },
           {
@@ -181,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "村长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "村长.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -211,13 +220,13 @@
   "active": "40047cc39e194824",
   "lastOpenFiles": [
     "村长.md",
+    "📅任务管理.md",
     "~附件~/Pasted image 20220608140002.png",
     "~附件~/Vue生命周期.png",
     "~附件~/Pasted image 20220606223625.png",
     "~附件~/Pasted image 20220606223440.png",
     "~附件~/中国近代史时间轴图.png",
     "~附件~/盒子模型.png",
-    "📅任务管理.md",
     "README.md",
     "日记/2022-06-09.md"
   ]
