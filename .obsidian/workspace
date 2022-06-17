@@ -7,8 +7,13 @@
         "id": "d6b1cb0939ab47ac",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A-开发笔记/博客&UP&视频导航.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "博客",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -81,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 274.5
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -121,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A-开发笔记/博客&UP&视频导航.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A-开发笔记/博客&UP&视频导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A-开发笔记/博客&UP&视频导航.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,20 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "active": "d6b1cb0939ab47ac",
   "lastOpenFiles": [
+    "A-开发笔记/博客&UP&视频导航.md",
+    "A-开发笔记/VIM操作大全.md",
+    "A-开发笔记/Linux目录结构和作用.md",
+    "A-开发笔记/vscode vim插件配置.md",
+    "A-开发笔记/Vue2生命周期.md",
+    "A-开发笔记/win10下创建软链接.md",
+    "A-开发笔记/wind10 flutter环境搭建.md",
+    "A-开发笔记/windows终端设置代理.md",
     "日记/2022-06-17.md",
-    "日记/2022-06-11.md",
-    "村长.md",
-    "📅任务管理.md",
-    "G-采集/Vue 文档编写指南 _ Vue_js.md",
-    "E-专业课程/大学课程.md",
-    "E-专业课程/计算机基础.md",
-    "B-学习技巧/记忆方法.md",
-    "B-学习技巧/笔记方法.md",
-    "A-开发笔记/Vue2生命周期.md"
+    "日记/2022-06-11.md"
   ]
 }
