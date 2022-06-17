@@ -27,5 +27,7 @@
   "recent-files-obsidian",
   "obsidian-spaced-repetition",
   "obsidian-dictionary-plugin",
-  "obsidian-plugin-todo"
+  "obsidian-plugin-todo",
+  "obsidian-collapse-all-plugin",
+  "obsidian-metatable"
 ]
