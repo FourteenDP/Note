@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "B-学习技巧/笔记方法.md",
+            "file": "村长.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 296.5
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-学习技巧/笔记方法.md"
+                "file": "村长.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-学习技巧/笔记方法.md",
+                "file": "村长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-学习技巧/笔记方法.md",
+                "file": "村长.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +187,7 @@
   },
   "active": "d6b1cb0939ab47ac",
   "lastOpenFiles": [
+    "村长.md",
     "B-学习技巧/笔记方法.md",
     "B-学习技巧/记忆方法.md",
     "A-开发笔记/博客&UP&视频导航.md",
@@ -195,7 +196,6 @@
     "A-开发笔记/vscode vim插件配置.md",
     "A-开发笔记/Vue2生命周期.md",
     "A-开发笔记/win10下创建软链接.md",
-    "A-开发笔记/wind10 flutter环境搭建.md",
-    "A-开发笔记/windows终端设置代理.md"
+    "A-开发笔记/wind10 flutter环境搭建.md"
   ]
 }
