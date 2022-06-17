@@ -9,7 +9,7 @@
   "ShareFooterStart": "{MemosNum} Memos {UsedDay} Day",
   "ShareFooterEnd": "✍️ by {UserName}",
   "DefaultPrefix": "Task",
-  "UseDailyOrPeriodic": "Periodic",
+  "UseDailyOrPeriodic": "Daily",
   "InsertDateFormat": "Tasks",
   "DefaultEditorLocation": "Top",
   "UseButtonToShowEditor": false,
