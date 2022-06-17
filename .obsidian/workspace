@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e97724042567c3d",
+        "id": "78e0e9e9fc96f0d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -158,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,16 +206,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 251.5
   },
-  "active": "3e97724042567c3d",
+  "active": "78e0e9e9fc96f0d0",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "村长.md",
     "README.md",
     "日记/2022-06-09.md",
     "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
     "日记/2022-06-10.md",
-    "📅任务管理.md",
-    "村长.md",
     "日记/delete.md",
     "KB-2022-06-11.md",
     "unresolved links output.md",
