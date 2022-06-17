@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78e0e9e9fc96f0d0",
+        "id": "40047cc39e194824",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "村长.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -146,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "535c94d14c1b3644",
@@ -158,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "村长.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +208,7 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "78e0e9e9fc96f0d0",
+  "active": "40047cc39e194824",
   "lastOpenFiles": [
     "村长.md",
     "~附件~/Pasted image 20220608140002.png",
