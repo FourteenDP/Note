@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/博客&UP&视频导航.md",
+            "file": "B-学习技巧/笔记方法.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -87,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 506.5
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/博客&UP&视频导航.md"
+                "file": "B-学习技巧/笔记方法.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/博客&UP&视频导航.md",
+                "file": "B-学习技巧/笔记方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/博客&UP&视频导航.md",
+                "file": "B-学习技巧/笔记方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,6 +187,8 @@
   },
   "active": "d6b1cb0939ab47ac",
   "lastOpenFiles": [
+    "B-学习技巧/笔记方法.md",
+    "B-学习技巧/记忆方法.md",
     "A-开发笔记/博客&UP&视频导航.md",
     "A-开发笔记/VIM操作大全.md",
     "A-开发笔记/Linux目录结构和作用.md",
@@ -195,8 +196,6 @@
     "A-开发笔记/Vue2生命周期.md",
     "A-开发笔记/win10下创建软链接.md",
     "A-开发笔记/wind10 flutter环境搭建.md",
-    "A-开发笔记/windows终端设置代理.md",
-    "日记/2022-06-17.md",
-    "日记/2022-06-11.md"
+    "A-开发笔记/windows终端设置代理.md"
   ]
 }
