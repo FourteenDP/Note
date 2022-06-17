@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b1cb0939ab47ac",
+        "id": "a1adffaf829b1db7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "村长.md",
-            "mode": "source",
+            "file": "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#历史",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "村长.md"
+                "file": "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
+                "file": "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
+                "file": "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,17 +185,17 @@
     "direction": "horizontal",
     "width": 244
   },
-  "active": "d6b1cb0939ab47ac",
+  "active": "a1adffaf829b1db7",
   "lastOpenFiles": [
+    "D-自考本科/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+    "📅任务管理.md",
     "村长.md",
+    "思维导图.md",
     "B-学习技巧/笔记方法.md",
     "B-学习技巧/记忆方法.md",
     "A-开发笔记/博客&UP&视频导航.md",
     "A-开发笔记/VIM操作大全.md",
     "A-开发笔记/Linux目录结构和作用.md",
-    "A-开发笔记/vscode vim插件配置.md",
-    "A-开发笔记/Vue2生命周期.md",
-    "A-开发笔记/win10下创建软链接.md",
-    "A-开发笔记/wind10 flutter环境搭建.md"
+    "A-开发笔记/vscode vim插件配置.md"
   ]
 }
