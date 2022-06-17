@@ -120,6 +120,14 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "2b8d4922c316608b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
