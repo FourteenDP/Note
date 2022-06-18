@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "村长.md",
+            "file": "A-开发笔记/博客&UP&视频导航.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "村长.md"
+                "file": "A-开发笔记/博客&UP&视频导航.md"
               }
             }
           },
@@ -188,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "村长.md",
+                "file": "A-开发笔记/博客&UP&视频导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "村长.md",
+                "file": "A-开发笔记/博客&UP&视频导航.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,11 +220,11 @@
   },
   "active": "8be956f7160f6909",
   "lastOpenFiles": [
+    "A-开发笔记/博客&UP&视频导航.md",
     "村长.md",
     "README.md",
     "📅任务管理.md",
     "日记/2022-06-18.md",
-    "A-开发笔记/博客&UP&视频导航.md",
     "日记/2022-06-10.md",
     "日记/2022-06-09.md",
     "日记/2022-06-17.md",
