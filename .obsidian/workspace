@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/前端路线.md",
+            "file": "-日记-/2022-06-09.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/前端路线.md"
+                "file": "-日记-/2022-06-09.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/前端路线.md",
+                "file": "-日记-/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/前端路线.md",
+                "file": "-日记-/2022-06-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "40047cc39e194824",
   "lastOpenFiles": [
-    "A-开发笔记/前端路线.md",
+    "-日记-/2022-06-09.md",
+    "README.md",
     "📅任务管理.md",
+    "A-开发笔记/前端路线.md",
     "A-开发笔记/代码生成.md",
     "A-开发笔记/开源项目.md",
     "~附件~/Pasted image 20220608140002.png",
     "~附件~/Vue生命周期.png",
     "~附件~/Pasted image 20220606223625.png",
-    "~附件~/Pasted image 20220606223440.png",
-    "~附件~/中国近代史时间轴图.png",
-    "~附件~/盒子模型.png"
+    "~附件~/Pasted image 20220606223440.png"
   ]
 }
