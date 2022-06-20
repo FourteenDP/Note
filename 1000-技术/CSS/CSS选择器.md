@@ -3,7 +3,7 @@ aliases: null
 tags:
   - CSS
 date created: 2022-06-06 22:48
-date updated: 2022-06-20 20:15
+date updated: 2022-06-20 20:18
 ---
 
 # CSS选择器
