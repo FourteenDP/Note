@@ -5,6 +5,10 @@
       "path": "1000-技术/CSS选择器.md"
     },
     {
+      "basename": "CSS实现文本超出显示省略号",
+      "path": "1000-技术/CSS/CSS实现文本超出显示省略号.md"
+    },
+    {
       "basename": "计算setTimeout和setInterval的误差",
       "path": "计算setTimeout和setInterval的误差.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "JavaScript截图",
       "path": "1000-技术/JavaScript截图.md"
-    },
-    {
-      "basename": "CSS实现文本超出显示省略号",
-      "path": "1000-技术/CSS/CSS实现文本超出显示省略号.md"
     },
     {
       "basename": "前端路线",
