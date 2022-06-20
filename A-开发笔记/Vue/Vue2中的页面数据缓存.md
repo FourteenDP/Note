@@ -1,6 +1,6 @@
 ---
 date created: 2022-06-11 14:39
-date updated: 2022-06-20 11:11
+date updated: 2022-06-20 11:14
 ---
 
 # Vue2中的页面数据缓存
@@ -40,20 +40,21 @@ date updated: 2022-06-20 11:11
 ### 实例
 
 ```javascript
-export default {
-  data() {
-    const dataStr = localStorage.getItem('myCat');
-    const data = JSON.parse(dataStr) || {}
-    return Object.assign(
-      {
-        text:'',
-      },
-      data,
-    )
-  },
-  methods: {
-                            cache({localStorage.setItem('data',JSON.stringify(this.$data));
-    },
-  },
+export default {
+  data() {
+    const dataStr = localStorage.getItem('data');
+    const data = JSON.parse(dataStr) || {}
+    return Object.assign(
+      {
+        text: '',
+      },
+      data,
+    )
+  },
+  methods: {
+    cache() {
+      localStorage.setItem('data', JSON.stringify(this.$data))
+    }
+  },
 }
 ```
