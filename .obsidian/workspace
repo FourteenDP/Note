@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5224e62e549e732d",
+        "id": "c5b84d532adbd5a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "-日记-/2022-06-17.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -157,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "-日记-/2022-06-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-日记-/2022-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-日记-/2022-06-17.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +207,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "5224e62e549e732d",
+  "active": "c5b84d532adbd5a3",
   "lastOpenFiles": [
     "-日记-/2022-06-17.md",
-    "Untitled.md",
-    "-日记-/2022-06-20.md",
     "~模板~/日记.md",
-    "-日记-/2022-06-09.md",
-    "📅任务管理.md",
     "-日记-/2022-06-11.md",
     "-日记-/2022-06-10.md",
-    "~模板~/通用模板.md",
-    "D-自考本科/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md"
+    "-日记-/2022-06-09.md",
+    "2022-06-19.md",
+    "Untitled.md",
+    "-日记-/2022-06-20.md",
+    "📅任务管理.md",
+    "~模板~/通用模板.md"
   ]
 }
