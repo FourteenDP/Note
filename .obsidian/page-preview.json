@@ -4,5 +4,8 @@
   "graph": false,
   "git-view": false,
   "search": false,
-  "starred": false
+  "starred": false,
+  "kanban-plugin": false,
+  "tag-wrangler:tag-pane": false,
+  "recent-files": false
 }
