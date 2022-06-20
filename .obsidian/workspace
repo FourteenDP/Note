@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.开发笔记/2021前端面试复习.md",
+            "file": "-卡片-/卡片.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.开发笔记/2021前端面试复习.md"
+                "file": "-卡片-/卡片.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.开发笔记/2021前端面试复习.md",
+                "file": "-卡片-/卡片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.开发笔记/2021前端面试复习.md",
+                "file": "-卡片-/卡片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "a435872684743f74",
   "lastOpenFiles": [
+    "-卡片-/卡片.md",
     "1.开发笔记/2021前端面试复习.md",
     "XZ-写作技巧/如何编写好的技术文档.md",
     "GS-公司/驰雄/README.md",
@@ -226,7 +227,6 @@
     "-日记-/2022-06-10.md",
     "-日记-/2022-06-09.md",
     "-日记-/2022-06-20.md",
-    "README.md",
-    "📅任务管理.md"
+    "README.md"
   ]
 }
