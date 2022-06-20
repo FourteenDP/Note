@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS选择器基本介绍",
+      "path": "CSS选择器基本介绍.md"
+    },
+    {
+      "basename": "CSS函数",
+      "path": "1000-技术/CSS/CSS函数.md"
+    },
+    {
       "basename": "CSS选择器参考手册",
       "path": "1000-技术/CSS/CSS选择器参考手册.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "工作资料",
       "path": "9999-公司/驰雄/工作资料.md"
-    },
-    {
-      "basename": "README",
-      "path": "9999-公司/驰雄/README.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "2000-高效/学习/笔记方法.md"
     }
   ],
   "omittedPaths": [],
