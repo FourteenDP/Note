@@ -13,7 +13,6 @@
   "obsidian42-brat",
   "simpread",
   "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin",
   "obsidian-kanban",
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
@@ -26,9 +25,10 @@
   "recent-files-obsidian",
   "obsidian-spaced-repetition",
   "obsidian-dictionary-plugin",
-  "obsidian-plugin-todo",
   "obsidian-collapse-all-plugin",
   "file-explorer-note-count",
   "easy-typing-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "dataview"
 ]

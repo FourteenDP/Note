@@ -15,7 +15,7 @@
   "vimMode": false,
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "~附件",
+  "attachmentFolderPath": "-附件-",
   "promptDelete": true,
   "fileSortOrder": "alphabetical",
   "communityPluginSortOrder": "download",

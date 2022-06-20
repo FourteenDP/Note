@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8be956f7160f6909",
+        "id": "9f41c4e20e511700",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/语言学习-游戏.md",
+            "file": "1000-技术/CSS选择器.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 60.92843326885881,
+        "dimension": 63.64522417153996,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -75,12 +75,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 39.071566731141196,
+        "dimension": 36.35477582846004,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -94,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 317
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -138,15 +139,14 @@
             }
           },
           {
-            "id": "b74a1cee2cd3fe3b",
+            "id": "fedcce7d10d0242b",
             "type": "leaf",
             "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "535c94d14c1b3644",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/语言学习-游戏.md"
+                "file": "1000-技术/CSS选择器.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/语言学习-游戏.md",
+                "file": "1000-技术/CSS选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/语言学习-游戏.md",
+                "file": "1000-技术/CSS选择器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,19 +214,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 349
   },
-  "active": "8be956f7160f6909",
+  "active": "9f41c4e20e511700",
   "lastOpenFiles": [
-    "A-开发笔记/语言学习-游戏.md",
-    "A-开发笔记/JavaScript截图.md",
-    "A-开发笔记/博客&UP&视频导航.md",
-    "村长.md",
-    "README.md",
-    "📅任务管理.md",
-    "日记/2022-06-18.md",
-    "日记/2022-06-10.md",
-    "日记/2022-06-09.md",
-    "日记/2022-06-17.md"
+    "1000-技术/CSS选择器.md",
+    "计算setTimeout和setInterval的误差.md",
+    "浏览器休眠对setTimeout和setInterval的影响.md",
+    "为什么使用 settimeout 实现 setinterval.md",
+    "~采集~/采集.md",
+    "1000-技术/Git常用命令.md",
+    "1000-技术/JavaScript截图.md",
+    "1000-技术/CSS/CSS实现文本超出显示省略号.md",
+    "1000-技术/前端路线.md",
+    "1000-技术/前端面试题.md"
   ]
 }
