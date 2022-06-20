@@ -1,11 +1,54 @@
----
-aliases: null
-tags:
-  - CSS
-date created: 2022-06-06 22:48
-date updated: 2022-06-20 20:18
----
-
-# CSS选择器
-
-<table><tbody><tr><th>选择器</th><th>示例</th><th>示例说明</th><th>CSS</th></tr><tr><td><a href="https://www.runoob.com/cssref/sel-class.html">.<i>class</i></a></td><td>.intro</td><td>选择所有 class="intro" 的元素</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-id.html">#<i>id</i></a></td><td>#firstname</td><td>选择所有 id="firstname" 的元素</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-all.html">*</a></td><td>*</td><td>选择所有元素</td><td>2</td></tr><tr><td><i><a href="https://www.runoob.com/cssref/sel-element.html">element</a></i></td><td>p</td><td>选择所有 &lt;p&gt; 元素</td><td>1</td></tr><tr><td><i><a href="https://www.runoob.com/cssref/sel-element-comma.html">element,element</a></i></td><td>div,p</td><td>选择所有 &lt;div&gt; 元素和 &lt; p &gt; 元素</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-element-element.html"><i>element</i> <i>element</i></a></td><td>div p</td><td>选择 &lt;div&gt; 元素内的所有 &lt; p &gt; 元素</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-element-gt.html"><i>element</i>&gt;<i>element</i></a></td><td>div&gt;p</td><td>选择所有父级是 &lt;div&gt; 元素的 &lt;p&gt; 元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-element-pluss.html"><i>element</i>+<i>element</i></a></td><td>div+p</td><td>选择所有紧跟在 &lt;div&gt; 元素之后的第一个 &lt;p&gt; 元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attribute.html">[<i>attribute</i>]</a></td><td>[target]</td><td>选择所有带有 target 属性元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attribute-value.html">[<i>attribute</i>=<i>value</i>]</a></td><td>[target=-blank]</td><td>选择所有使用 target="-blank" 的元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attribute-value-contains.html">[<i>attribute</i>~=<i>value</i>]</a></td><td>[title~=flower]</td><td>选择标题属性包含单词 "flower" 的所有元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attribute-value-lang.html">[<i>attribute</i>|=<i>language</i>]</a></td><td>[lang|=en]</td><td>选择 lang 属性等于 en，或者以 en- 为开头的所有元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-link.html">:link</a></td><td>a:link</td><td>选择所有未访问链接</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-visited.html">:visited</a></td><td>a:visited</td><td>选择所有访问过的链接</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-active.html">:active</a></td><td>a:active</td><td>选择活动链接</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-hover.html">:hover</a></td><td>a:hover</td><td>选择鼠标在链接上面时</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-focus.html">:focus</a></td><td>input:focus</td><td>选择具有焦点的输入元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-firstletter.html">:first-letter</a></td><td>p:first-letter</td><td>选择每一个 &lt;p&gt; 元素的第一个字母</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-firstline.html">:first-line</a></td><td>p:first-line</td><td>选择每一个 &lt;p&gt; 元素的第一行</td><td>1</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-firstchild.html">:first-child</a></td><td>p:first-child</td><td>指定只有当 &lt;p&gt; 元素是其父级的第一个子级的样式。</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-before.html">:before</a></td><td>p:before</td><td>在每个 &lt;p&gt; 元素之前插入内容</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-after.html">:after</a></td><td>p:after</td><td>在每个 &lt;p&gt; 元素之后插入内容</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-lang.html">:lang(<i>language</i>)</a></td><td>p:lang(it)</td><td>选择一个 lang 属性的起始值 ="it" 的所有 &lt;p&gt; 元素</td><td>2</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-gen-sibling.html"><i>element1</i>~<i>element2</i></a></td><td>p~ul</td><td>选择 p 元素之后的每一个 ul 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attr-begin.html">[<i>attribute</i>^=<i>value</i>]</a></td><td>a[src^="https"]</td><td>选择每一个 src 属性的值以 "https" 开头的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attr-end.html">[<i>attribute</i>$=<i>value</i>]</a></td><td>a[src$=".pdf"]</td><td>选择每一个 src 属性的值以 ".pdf" 结尾的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-attr-contain.html">[<i>attribute</i>*=<i>value</i>]</a></td><td>a[src*="runoob"]</td><td>选择每一个 src 属性的值包含子字符串 "runoob" 的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-first-of-type.html">:first-of-type</a></td><td>p:first-of-type</td><td>选择每个 p 元素是其父级的第一个 p 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-last-of-type.html">:last-of-type</a></td><td>p:last-of-type</td><td>选择每个 p 元素是其父级的最后一个 p 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-only-of-type.html">:only-of-type</a></td><td>p:only-of-type</td><td>选择每个 p 元素是其父级的唯一 p 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-only-child.html">:only-child</a></td><td>p:only-child</td><td>选择每个 p 元素是其父级的唯一子元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-nth-child.html">:nth-child(<i>n</i>)</a></td><td>p:nth-child(2)</td><td>选择每个 p 元素是其父级的第二个子元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-nth-last-child.html">:nth-last-child(<i>n</i>)</a></td><td>p:nth-last-child(2)</td><td>选择每个 p 元素的是其父级的第二个子元素，从最后一个子项计数</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-nth-of-type.html">:nth-of-type(<i>n</i>)</a></td><td>p:nth-of-type(2)</td><td>选择每个 p 元素是其父级的第二个 p 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-nth-last-of-type.html">:nth-last-of-type(<i>n</i>)</a></td><td>p:nth-last-of-type(2)</td><td>选择每个 p 元素的是其父级的第二个 p 元素，从最后一个子项计数</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-last-child.html">:last-child</a></td><td>p:last-child</td><td>选择每个 p 元素是其父级的最后一个子级。</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-root.html">:root</a></td><td>:root</td><td>选择文档的根元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-empty.html">:empty</a></td><td>p:empty</td><td>选择每个没有任何子级的 p 元素（包括文本节点）</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-target.html">:target</a></td><td>#news:target</td><td>选择当前活动的 #news 元素（包含该锚名称的点击的 URL）</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-enabled.html">:enabled</a></td><td>input:enabled</td><td>选择每一个已启用的输入元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-disabled.html">:disabled</a></td><td>input:disabled</td><td>选择每一个禁用的输入元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-checked.html">:checked</a></td><td>input:checked</td><td>选择每个选中的输入元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-not.html">:not(<i>selector</i>)</a></td><td>:not(p)</td><td>选择每个并非 p 元素的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-selection.html">::selection</a></td><td>::selection</td><td>匹配元素中被用户选中或处于高亮状态的部分</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-out-of-range.html">:out-of-range</a></td><td>:out-of-range</td><td>匹配值在指定区间之外的 input 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-in-range.html">:in-range</a></td><td>:in-range</td><td>匹配值在指定区间之内的 input 元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-read-write.html">:read-write</a></td><td>:read-write</td><td>用于匹配可读及可写的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-read-only.html">:read-only</a></td><td>:read-only</td><td>用于匹配设置 "readonly"（只读） 属性的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-optional.html">:optional</a></td><td>:optional</td><td>用于匹配可选的输入元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-required.html">:required</a></td><td>:required</td><td>用于匹配设置了 "required" 属性的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-valid.html">:valid</a></td><td>:valid</td><td>用于匹配输入值为合法的元素</td><td>3</td></tr><tr><td><a href="https://www.runoob.com/cssref/sel-invalid.html">:invalid</a></td><td>:invalid</td><td>用于匹配输入值为非法的元素</td><td>3</td></tr></tbody></table>
+| **选择器** | **示例** | **示例说明** | **css** |
+|---|---|---|---|
+| \.class | \.intro | 选择所有 class="intro" 的元素 | 1 |
+| \#id | \#firstname | 选择所有 id="firstname" 的元素 | 1 |
+| \* | \* | 选择所有元素 | 2 |
+| element | p | 选择所有 &lt;p&gt; 元素 | 1 |
+| element,element | div,p | 选择所有 &lt;div&gt; 元素和 &lt; p &gt; 元素 | 1 |
+| element element | div p | 选择 &lt;div&gt; 元素内的所有 &lt; p &gt; 元素 | 1 |
+| element&gt;element | div&gt;p | 选择所有父级是 &lt;div&gt; 元素的 &lt;p&gt; 元素 | 2 |
+| element\+element | div\+p | 选择所有紧跟在 &lt;div&gt; 元素之后的第一个 &lt;p&gt; 元素 | 2 |
+| \[attribute\] | \[target\] | 选择所有带有 target 属性元素 | 2 |
+| \[attribute=value\] | \[target=\-blank\] | 选择所有使用 target="\-blank" 的元素 | 2 |
+| \[attribute~=value\] | \[title~=flower\] | 选择标题属性包含单词 "flower" 的所有元素 | 2 |
+| \[attribute\|=language\] | \[lang\|=en\] | 选择 lang 属性等于 en，或者以 en\- 为开头的所有元素 | 2 |
+| :link | a:link | 选择所有未访问链接 | 1 |
+| :visited | a:visited | 选择所有访问过的链接 | 1 |
+| :active | a:active | 选择活动链接 | 1 |
+| :hover | a:hover | 选择鼠标在链接上面时 | 1 |
+| :focus | input:focus | 选择具有焦点的输入元素 | 2 |
+| :first\-letter | p:first\-letter | 选择每一个 &lt;p&gt; 元素的第一个字母 | 1 |
+| :first\-line | p:first\-line | 选择每一个 &lt;p&gt; 元素的第一行 | 1 |
+| :first\-child | p:first\-child | 指定只有当 &lt;p&gt; 元素是其父级的第一个子级的样式。 | 2 |
+| :before | p:before | 在每个 &lt;p&gt; 元素之前插入内容 | 2 |
+| :after | p:after | 在每个 &lt;p&gt; 元素之后插入内容 | 2 |
+| :lang\(language\) | p:lang\(it\) | 选择一个 lang 属性的起始值 ="it" 的所有 &lt;p&gt; 元素 | 2 |
+| element1~element2 | p~ul | 选择 p 元素之后的每一个 ul 元素 | 3 |
+| \[attribute^=value\] | a\[src^="https"\] | 选择每一个 src 属性的值以 "https" 开头的元素 | 3 |
+| \[attribute$=value\] | a\[src$="\.pdf"\] | 选择每一个 src 属性的值以 "\.pdf" 结尾的元素 | 3 |
+| \[attribute\*=value\] | a\[src\*="runoob"\] | 选择每一个 src 属性的值包含子字符串 "runoob" 的元素 | 3 |
+| :first\-of\-type | p:first\-of\-type | 选择每个 p 元素是其父级的第一个 p 元素 | 3 |
+| :last\-of\-type | p:last\-of\-type | 选择每个 p 元素是其父级的最后一个 p 元素 | 3 |
+| :only\-of\-type | p:only\-of\-type | 选择每个 p 元素是其父级的唯一 p 元素 | 3 |
+| :only\-child | p:only\-child | 选择每个 p 元素是其父级的唯一子元素 | 3 |
+| :nth\-child\(n\) | p:nth\-child\(2\) | 选择每个 p 元素是其父级的第二个子元素 | 3 |
+| :nth\-last\-child\(n\) | p:nth\-last\-child\(2\) | 选择每个 p 元素的是其父级的第二个子元素，从最后一个子项计数 | 3 |
+| :nth\-of\-type\(n\) | p:nth\-of\-type\(2\) | 选择每个 p 元素是其父级的第二个 p 元素 | 3 |
+| :nth\-last\-of\-type\(n\) | p:nth\-last\-of\-type\(2\) | 选择每个 p 元素的是其父级的第二个 p 元素，从最后一个子项计数 | 3 |
+| :last\-child | p:last\-child | 选择每个 p 元素是其父级的最后一个子级。 | 3 |
+| :root | :root | 选择文档的根元素 | 3 |
+| :empty | p:empty | 选择每个没有任何子级的 p 元素（包括文本节点） | 3 |
+| :target | \#news:target | 选择当前活动的 \#news 元素（包含该锚名称的点击的 url） | 3 |
+| :enabled | input:enabled | 选择每一个已启用的输入元素 | 3 |
+| :disabled | input:disabled | 选择每一个禁用的输入元素 | 3 |
+| :checked | input:checked | 选择每个选中的输入元素 | 3 |
+| :not\(selector\) | :not\(p\) | 选择每个并非 p 元素的元素 | 3 |
+| ::selection | ::selection | 匹配元素中被用户选中或处于高亮状态的部分 | 3 |
+| :out\-of\-range | :out\-of\-range | 匹配值在指定区间之外的 input 元素 | 3 |
+| :in\-range | :in\-range | 匹配值在指定区间之内的 input 元素 | 3 |
+| :read\-write | :read\-write | 用于匹配可读及可写的元素 | 3 |
+| :read\-only | :read\-only | 用于匹配设置 "readonly"（只读） 属性的元素 | 3 |
+| :optional | :optional | 用于匹配可选的输入元素 | 3 |
+| :required | :required | 用于匹配设置了 "required" 属性的元素 | 3 |
+| :valid | :valid | 用于匹配输入值为合法的元素 | 3 |
+| :invalid | :invalid | 用于匹配输入值为非法的元素 | 3 |
