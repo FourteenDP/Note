@@ -1,10 +1,12 @@
 ---
-date created: 2022-06-05T16:09:57.000Z
-date modified: 2022-06-05T16:09:57.000Z
-date updated: 2022-06-10 21:50
+aliases: Windows创建软连接
+tags:
+  - Windows创建软连接
+date created: 2022-06-20 19:58
+date updated: 2022-06-20 21:30
 ---
 
-# win10 下创建软链接
+# Windows创建软连接
 
 ## 语法
 
