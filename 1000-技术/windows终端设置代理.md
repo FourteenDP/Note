@@ -1,13 +1,18 @@
 ---
-aliases:
+aliases: Windows终端设置代理
 tags:
-date created: 2022-06-05 16:29:08
-date modified: 2022-06-05 16:29:08
+  - Windows终端设置代理
+date created: 2022-06-20 19:58
+date updated: 2022-06-20 21:32
 ---
 
-# windows 终端设置代理
+# Windows终端设置代理
+
+## 临时代理
 
 ```shell
 set http_proxy = "http://127.0.0.1:10808"
 set https_proxy = "http://127.0.0.1:10808"
 ```
+
+## 

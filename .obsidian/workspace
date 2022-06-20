@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/Windows创建软连接.md",
+            "file": "1000-技术/Windows终端设置代理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/Windows创建软连接.md"
+                "file": "1000-技术/Windows终端设置代理.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/Windows创建软连接.md",
+                "file": "1000-技术/Windows终端设置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/Windows创建软连接.md",
+                "file": "1000-技术/Windows终端设置代理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,9 +219,9 @@
   },
   "active": "a8f7b081efa1cac0",
   "lastOpenFiles": [
+    "1000-技术/Windows终端设置代理.md",
     "1000-技术/Windows创建软连接.md",
     "1000-技术/wind10 flutter环境搭建.md",
-    "1000-技术/Windows终端设置代理.md",
     "1000-技术/前端工具.md",
     "CSS选择器.md",
     "大学课程.md",
