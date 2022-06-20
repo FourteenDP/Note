@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技术笔记/编程范式.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "535c94d14c1b3644",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/编程范式.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/编程范式.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术笔记/编程范式.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,9 +218,9 @@
   },
   "active": "1670235a042f5f02",
   "lastOpenFiles": [
-    "技术笔记/编程范式.md",
     "README.md",
     "📅任务管理.md",
+    "技术笔记/编程范式.md",
     "开发工具/VSCODE VIM插件配置.md",
     "技术笔记/vscode vim插件配置.md",
     "自考本科/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
