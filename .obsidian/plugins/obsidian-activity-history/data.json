@@ -6,14 +6,12 @@
       "initialized": true
     }
   ],
-  "trackedProjects": [
-    "/"
-  ],
+  "trackedProjects": ["/"],
   "checkpointList": [
     {
       "path": "/",
-      "date": "2022-06-18",
-      "size": 2134331
+      "date": "2022-06-20",
+      "size": 2112075
     }
   ],
   "activityHistory": [
@@ -154,7 +152,11 @@
         },
         {
           "date": "2022-06-18",
-          "value": 963
+          "value": 895
+        },
+        {
+          "date": "2022-06-20",
+          "value": 40650
         }
       ]
     }
