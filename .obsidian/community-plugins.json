@@ -16,6 +16,19 @@
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "obsidian-admonition",
-  "obsidian-pangu",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "url-into-selection",
+  "obsidian-auto-link-title",
+  "obsidian-outliner",
+  "tag-wrangler",
+  "find-unlinked-files",
+  "recent-files-obsidian",
+  "obsidian-spaced-repetition",
+  "obsidian-dictionary-plugin",
+  "obsidian-plugin-todo",
+  "obsidian-collapse-all-plugin",
+  "file-explorer-note-count",
+  "easy-typing-obsidian",
+  "templater-obsidian"
 ]
