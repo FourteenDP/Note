@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "-卡片-/2021面试复习题.md",
+            "file": "-卡片-/常见面试题.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-卡片-/2021面试复习题.md"
+                "file": "-卡片-/常见面试题.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-卡片-/2021面试复习题.md",
+                "file": "-卡片-/常见面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-卡片-/2021面试复习题.md",
+                "file": "-卡片-/常见面试题.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "8544fbc07930542e",
   "lastOpenFiles": [
-    "-卡片-/2021面试复习题.md",
+    "-卡片-/常见面试题.md",
+    "0000-技术/浏览器.md",
+    "0000-技术/浏览器URL限制.md",
     "0000-技术/2021前端面试复习.md",
     "-拾肆-/辞职通知-邓某某-范文.md",
     "~附件~/盒子模型.png",
     "~附件~/中国近代史时间轴图.png",
     "~附件~/Pasted image 20220606223440.png",
     "~附件~/Pasted image 20220608140002.png",
-    "~附件~/Vue生命周期.png",
-    "~附件~/Pasted image 20220606223625.png",
-    "1000-采集/采集.md"
+    "~附件~/Vue生命周期.png"
   ]
 }

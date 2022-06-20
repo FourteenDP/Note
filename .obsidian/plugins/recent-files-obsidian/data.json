@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2021面试复习题",
-      "path": "-卡片-/2021面试复习题.md"
+      "basename": "常见面试题",
+      "path": "-卡片-/常见面试题.md"
+    },
+    {
+      "basename": "浏览器",
+      "path": "0000-技术/浏览器.md"
+    },
+    {
+      "basename": "浏览器URL限制",
+      "path": "0000-技术/浏览器URL限制.md"
     },
     {
       "basename": "辞职通知-邓某某-范文",
@@ -191,10 +199,6 @@
     {
       "basename": "JavaScript截图",
       "path": "开发笔记/JavaScript截图.md"
-    },
-    {
-      "basename": "css实现文本超出显示省略号",
-      "path": "开发笔记/css实现文本超出显示省略号.md"
     }
   ],
   "omittedPaths": [],
