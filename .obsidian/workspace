@@ -7,8 +7,13 @@
         "id": "32cab58631cccac5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 61.69590643274854,
+        "dimension": 76.99805068226121,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -75,7 +80,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 38.30409356725146,
+        "dimension": 23.00194931773879,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -152,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -180,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,15 +218,15 @@
   },
   "active": "32cab58631cccac5",
   "lastOpenFiles": [
+    "README.md",
+    "📅任务管理.md",
     "-日记-/2022-06-20.md",
-    "-日记-/2022-06-10.md",
-    "-日记-/2022-06-09.md",
-    "~模板~/日记.md",
     "~模板~/通用模板.md",
+    "~模板~/日记.md",
+    "-日记-/2022-06-09.md",
+    "-日记-/2022-06-10.md",
+    "-日记-/delete.md",
     "-日记-/2022-06-11.md",
-    "-日记-/2022-06-18.md",
-    "-日记-/2022-06-19.md",
-    "-日记-/2022-06-17.md",
-    "2022-06-21.md"
+    "-日记-/2022-06-18.md"
   ]
 }
