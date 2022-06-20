@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "常见面试题",
-      "path": "1000-技术/常见面试题.md"
+      "basename": "未命名",
+      "path": "1000-技术/前端/浏览器/未命名.md"
     },
     {
-      "basename": "博客&UP&视频导航",
-      "path": "1000-技术/博客&UP&视频导航.md"
+      "basename": "Vue2中的页面数据缓存",
+      "path": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "1000-技术/前端/JavaScript/数据类型.md"
     },
     {
       "basename": "便携蓝牙打印机",
@@ -17,8 +21,16 @@
       "path": "1000-技术/编程范式.md"
     },
     {
-      "basename": "未命名",
-      "path": "1000-技术/前端/浏览器/未命名.md"
+      "basename": "箭头函数",
+      "path": "1000-技术/前端/JavaScript/箭头函数.md"
+    },
+    {
+      "basename": "常见面试题",
+      "path": "1000-技术/常见面试题.md"
+    },
+    {
+      "basename": "博客&UP&视频导航",
+      "path": "1000-技术/博客&UP&视频导航.md"
     },
     {
       "basename": "Git常用命令",
@@ -31,14 +43,6 @@
     {
       "basename": "Linux目录结构和作用",
       "path": "1000-技术/Linux目录结构和作用.md"
-    },
-    {
-      "basename": "VIM操作大全",
-      "path": "1000-技术/VIM操作大全.md"
-    },
-    {
-      "basename": "Vue2中的页面数据缓存",
-      "path": "1000-技术/Vue2中的页面数据缓存.md"
     },
     {
       "basename": "win10下创建软链接",
@@ -71,10 +75,6 @@
     {
       "basename": "CSS函数",
       "path": "1000-技术/前端/HTML&CSS/CSS函数.md"
-    },
-    {
-      "basename": "数据类型",
-      "path": "1000-技术/前端/JavaScript/数据类型.md"
     },
     {
       "basename": "CSS选择器",
@@ -195,10 +195,6 @@
     {
       "basename": "如何编写好的技术文档",
       "path": "2000-高效/写作/如何编写好的技术文档.md"
-    },
-    {
-      "basename": "《四洲志》",
-      "path": "3000-自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md"
     }
   ],
   "omittedPaths": [],
