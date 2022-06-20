@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "996d7daf2fcab92a",
+        "id": "946d3582789cb966",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础.md",
+            "file": "1000-技术/前端路线.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "浏览器存储",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础.md"
+                "file": "1000-技术/前端路线.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础.md",
+                "file": "1000-技术/前端路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础.md",
+                "file": "1000-技术/前端路线.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "width": 349,
     "collapsed": true
   },
-  "active": "996d7daf2fcab92a",
+  "active": "946d3582789cb966",
   "lastOpenFiles": [
-    "1000-技术/计算机基础.md",
+    "1000-技术/前端路线.md",
+    "1000-技术/计算机基础/Linux目录结构和作用.md",
+    "1000-技术/前端/浏览器/浏览器跨域.md",
+    "1000-技术/前端/HTML&CSS/BFC.md",
+    "1000-技术/前端/HTML&CSS/盒子模型.md",
+    "1000-技术/前端/浏览器/浏览器存储.md",
+    "1000-技术/计算机基础/计算机有那些基础.md",
+    "1000-技术/项目/开源项目.md",
     "大学课程.md",
-    "1000-技术/代码生成.md",
-    "1000-技术/开源项目.md",
-    "1000-技术/浏览器.md",
-    "1000-技术/常见面试题.md",
-    "1000-技术/博客&UP&视频导航.md",
-    "1000-技术/便携蓝牙打印机.md",
-    "1000-技术/前端/浏览器/未命名.md",
-    "1000-技术/前端/Vue/分析Vue2中Vue与VueComponent的关系.md"
+    "1000-技术/代码生成.md"
   ]
 }
