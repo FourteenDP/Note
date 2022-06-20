@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "1000-技术/CSS/CSS选择器.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317
+    "width": 317,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -145,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "535c94d14c1b3644",
@@ -213,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 349,
+    "collapsed": true
   },
   "active": "9f41c4e20e511700",
   "lastOpenFiles": [
