@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "数据类型",
-      "path": "1000-技术/JavaScript/数据类型.md"
-    },
-    {
-      "basename": "数组方法",
-      "path": "1000-技术/JavaScript/数组方法.md"
-    },
-    {
       "basename": "CSS选择器参考手册",
       "path": "1000-技术/CSS/CSS选择器参考手册.md"
+    },
+    {
+      "basename": "CSS实现文本超出显示省略号",
+      "path": "1000-技术/CSS/CSS实现文本超出显示省略号.md"
+    },
+    {
+      "basename": "CSS函数",
+      "path": "1000-技术/CSS/CSS函数.md"
+    },
+    {
+      "basename": "编程范式",
+      "path": "1000-技术/编程范式.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "1000-技术/JavaScript/数据类型.md"
     },
     {
       "basename": "常见面试题",
@@ -19,14 +27,6 @@
     {
       "basename": "CSS选择器",
       "path": "CSS选择器.md"
-    },
-    {
-      "basename": "CSS函数",
-      "path": "1000-技术/CSS/CSS函数.md"
-    },
-    {
-      "basename": "CSS实现文本超出显示省略号",
-      "path": "1000-技术/CSS/CSS实现文本超出显示省略号.md"
     },
     {
       "basename": "计算setTimeout和setInterval的误差",
@@ -71,10 +71,6 @@
     {
       "basename": "前端工具",
       "path": "1000-技术/前端工具.md"
-    },
-    {
-      "basename": "编程范式",
-      "path": "1000-技术/编程范式.md"
     },
     {
       "basename": "代码生成",
