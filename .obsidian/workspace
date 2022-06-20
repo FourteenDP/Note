@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d22818f65f0e8bd3",
+        "id": "ee007f5c6499cccd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "~模板~/通用模板.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -75,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "~模板~/通用模板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~模板~/通用模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~模板~/通用模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +207,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "d22818f65f0e8bd3",
+  "active": "ee007f5c6499cccd",
   "lastOpenFiles": [
-    "~模板~/通用模板.md",
-    "~模板~/日记.md",
-    "-日记-/2022-06-17.md",
-    "-日记-/2022-06-11.md",
-    "-日记-/2022-06-10.md",
-    "-日记-/2022-06-09.md",
-    "2022-06-19.md",
-    "Untitled.md",
     "-日记-/2022-06-20.md",
-    "📅任务管理.md"
+    "~模板~/日记.md",
+    "~模板~/通用模板.md",
+    "-日记-/2022-06-09.md",
+    "-日记-/2022-06-10.md",
+    "-日记-/2022-06-12.md",
+    "-日记-/2022-06-13.md",
+    "-日记-/2022-06-14.md",
+    "-日记-/2022-06-15.md",
+    "-日记-/2022-06-16.md"
   ]
 }
