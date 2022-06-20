@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
+    },
+    {
+      "basename": "前端学习",
+      "path": "1000-技术/前端学习.md"
+    },
+    {
+      "basename": "小程序容器技术",
+      "path": "1000-技术/小程序容器技术.md"
+    },
+    {
+      "basename": "语言学习-游戏",
+      "path": "1000-技术/语言学习-游戏.md"
+    },
+    {
+      "basename": "原型链",
+      "path": "1000-技术/原型链.md"
+    },
+    {
+      "basename": "知识社区",
+      "path": "1000-技术/知识社区.md"
+    },
+    {
+      "basename": "Git常用命令",
+      "path": "1000-技术/Git常用命令.md"
+    },
+    {
+      "basename": "APP混合开发",
+      "path": "1000-技术/APP混合开发.md"
+    },
+    {
+      "basename": "JavaScript截图",
+      "path": "1000-技术/JavaScript截图.md"
+    },
+    {
       "basename": "Windows终端设置代理",
-      "path": "1000-技术/Windows终端设置代理.md"
+      "path": "1000-技术/环境配置/Windows终端设置代理.md"
     },
     {
       "basename": "Windows创建软连接",
-      "path": "1000-技术/Windows创建软连接.md"
+      "path": "1000-技术/环境配置/Windows创建软连接.md"
     },
     {
       "basename": "前端工具",
@@ -15,10 +51,6 @@
     {
       "basename": "计算setTimeout和setInterval的误差",
       "path": "计算setTimeout和setInterval的误差.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "~日记~/2022-06-20.md"
     },
     {
       "basename": "浏览器URL限制",
@@ -39,14 +71,6 @@
     {
       "basename": "相关资料",
       "path": "1000-技术/前端/工程化/相关资料.md"
-    },
-    {
-      "basename": "APP混合开发",
-      "path": "1000-技术/APP混合开发.md"
-    },
-    {
-      "basename": "Git常用命令",
-      "path": "1000-技术/Git常用命令.md"
     },
     {
       "basename": "Linux目录结构和作用",
@@ -105,10 +129,6 @@
       "path": "1000-技术/前端/JavaScript/箭头函数.md"
     },
     {
-      "basename": "JavaScript截图",
-      "path": "1000-技术/JavaScript截图.md"
-    },
-    {
       "basename": "前端推荐书籍",
       "path": "1000-技术/前端推荐书籍.md"
     },
@@ -151,10 +171,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "知识社区",
-      "path": "1000-技术/知识社区.md"
     },
     {
       "basename": "日记",
