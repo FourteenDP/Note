@@ -1,8 +1,10 @@
 ---
-aliases:
+aliases: null
 tags:
-date created: 2022-03-31 21:50:57
-date modified: 2022-04-19 20:21:03
+  - CSS
+date created: 2022-03-31T21:50:57.000Z
+date modified: 2022-04-19T20:21:03.000Z
+date updated: 2022-06-20 17:31
 ---
 
 # CSS 实现文本超出显示省略号
