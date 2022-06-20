@@ -1,8 +1,6 @@
 ---
-aliases: 
-tags: 
-date created: 2022-06-06 22:53:11
-date modified: 2022-06-06 22:53:30
+date created: 2022-06-20 15:05
+date updated: 2022-06-20 15:05
 ---
 
 # 介绍
@@ -33,20 +31,20 @@ date modified: 2022-06-06 22:53:30
 
 # GIT 常用命令
 
-| 命令                                 | 说明                                                             |
-| ------------------------------------ | ---------------------------------------------------------------- |
-| git ini                              | 初始化项目                                                       |
-| git status                           | 查看目前项目状态                                                 |
-| git add [file]                       | 添加文件到暂存区                                                 |
-| git add -A                           | 添加所有变化到暂存区                                             |
-| git add -u                           | 添加被修改(modified)和被删除(deleted)文件，不包括新文件(new)     |
+| 命令                                   | 说明                                           |
+| ------------------------------------ | -------------------------------------------- |
+| git ini                              | 初始化项目                                        |
+| git status                           | 查看目前项目状态                                     |
+| git add [file]                       | 添加文件到暂存区                                     |
+| git add -A                           | 添加所有变化到暂存区                                   |
+| git add -u                           | 添加被修改(modified)和被删除(deleted)文件，不包括新文件(new)   |
 | git add .                            | 添加新文件(new)和被修改(modified)文件，不包括被删除(deleted)文件 |
-| git config user.name [name]          | 添加项目用户信息                                                 |
-| git config user.emil [emil]          | 添加项目用户邮箱                                                 |
-| git config --global user.name [name] | 添加全局用户信息                                                 |
-| git config --global user.emil [emil] | 添加全局用户邮箱                                                 |
-| git commit -m                        | 把暂存区的文件添加到 commit 并说明                               |
-| git remote                           | 查看远程库                                                       |
-| git remote add [name][url]           | 添加远程库                                                       |
-| git push [name][name]                | 推送到远程库                                                     |
-| ssh-keygen -t rsa -C "[name]"        | 创建一个 ssh 密钥用于免密登录                                    |
+| git config user.name [name]          | 添加项目用户信息                                     |
+| git config user.emil [emil]          | 添加项目用户邮箱                                     |
+| git config --global user.name [name] | 添加全局用户信息                                     |
+| git config --global user.emil [emil] | 添加全局用户邮箱                                     |
+| git commit -m                        | 把暂存区的文件添加到 commit 并说明                        |
+| git remote                           | 查看远程库                                        |
+| git remote add [name][url]           | 添加远程库                                        |
+| git push [name][name]                | 推送到远程库                                       |
+| ssh-keygen -t rsa -C "[name]"        | 创建一个 ssh 密钥用于免密登录                            |
