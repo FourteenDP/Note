@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue2中的页面数据缓存",
+      "path": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md"
+    },
+    {
+      "basename": "Vue2生命周期",
+      "path": "1000-技术/前端/Vue/Vue2生命周期.md"
+    },
+    {
+      "basename": "分析Vue2中Vue与VueComponent的关系",
+      "path": "1000-技术/前端/Vue/分析Vue2中Vue与VueComponent的关系.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
+    },
+    {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
+    },
+    {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "原型链",
+      "path": "1000-技术/前端/JavaScript/原型链.md"
+    },
+    {
+      "basename": "为什么使用 settimeout 实现 setinterval",
+      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "1000-技术/前端/JavaScript/数据类型.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
+      "basename": "箭头函数",
+      "path": "1000-技术/前端/JavaScript/箭头函数.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md"
+    },
+    {
+      "basename": "截图",
+      "path": "1000-技术/前端/其它/截图.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
@@ -41,26 +93,6 @@
       "path": "1000-技术/前端/其它/小程序容器技术.md"
     },
     {
-      "basename": "计算setTimeout和setInterval的误差",
-      "path": "计算setTimeout和setInterval的误差.md"
-    },
-    {
-      "basename": "为什么使用 settimeout 实现 setinterval",
-      "path": "为什么使用 settimeout 实现 setinterval.md"
-    },
-    {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "浏览器休眠对setTimeout和setInterval的影响.md"
-    },
-    {
-      "basename": "✨知识社区",
-      "path": "✨知识社区.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
-    },
-    {
       "basename": "前端微服务",
       "path": "1000-技术/前端/其它/前端微服务.md"
     },
@@ -69,28 +101,12 @@
       "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
     },
     {
-      "basename": "Vue2中的页面数据缓存",
-      "path": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md"
-    },
-    {
       "basename": "前端推荐书籍",
       "path": "1000-技术/前端/书籍/前端推荐书籍.md"
     },
     {
-      "basename": "JavaScript截图",
-      "path": "1000-技术/前端/JavaScript/JavaScript截图.md"
-    },
-    {
-      "basename": "原型链",
-      "path": "1000-技术/前端/JavaScript/原型链.md"
-    },
-    {
       "basename": "语言学习-游戏",
       "path": "1000-技术/语言学习实践/语言学习-游戏.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "~日记~/2022-06-20.md"
     },
     {
       "basename": "Windows终端设置代理",
@@ -129,28 +145,12 @@
       "path": "1000-技术/计算机基础/计算机有那些基础.md"
     },
     {
-      "basename": "分析Vue2中Vue与VueComponent的关系",
-      "path": "1000-技术/前端/Vue/分析Vue2中Vue与VueComponent的关系.md"
-    },
-    {
       "basename": "分析Vue2中的Vue与VueComponent的关系",
       "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
     },
     {
-      "basename": "Vue2生命周期",
-      "path": "1000-技术/前端/Vue/Vue2生命周期.md"
-    },
-    {
-      "basename": "数据类型",
-      "path": "1000-技术/前端/JavaScript/数据类型.md"
-    },
-    {
       "basename": "编程范式",
       "path": "1000-技术/计算机基础/编程范式.md"
-    },
-    {
-      "basename": "箭头函数",
-      "path": "1000-技术/前端/JavaScript/箭头函数.md"
     },
     {
       "basename": "CSS选择器参考手册",
