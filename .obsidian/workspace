@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端推荐书籍.md",
+            "file": "1000-技术/常见面试题.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端推荐书籍.md"
+                "file": "1000-技术/常见面试题.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端推荐书籍.md",
+                "file": "1000-技术/常见面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端推荐书籍.md",
+                "file": "1000-技术/常见面试题.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "5080f53bcdca6043",
   "lastOpenFiles": [
-    "1000-技术/前端推荐书籍.md",
-    "1000-技术/Vue/Vue2生命周期.md",
     "1000-技术/常见面试题.md",
     "1000-技术/博客&UP&视频导航.md",
     "1000-技术/便携蓝牙打印机.md",
-    "1000-技术/HTML&CSS/CSS选择器参考手册.md",
-    "1000-技术/HTML&CSS/CSS实现文本超出显示省略号.md",
-    "1000-技术/HTML&CSS/CSS函数.md",
     "1000-技术/编程范式.md",
-    "1000-技术/JavaScript/数组方法.md"
+    "1000-技术/前端/浏览器/未命名.md",
+    "1000-技术/Git常用命令.md",
+    "1000-技术/JavaScript截图.md",
+    "1000-技术/Linux目录结构和作用.md",
+    "1000-技术/VIM操作大全.md",
+    "1000-技术/Vue2中的页面数据缓存.md"
   ]
 }
