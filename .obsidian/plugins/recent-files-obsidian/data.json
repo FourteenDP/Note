@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "为什么使用 settimeout 实现 setinterval",
+      "path": "为什么使用 settimeout 实现 setinterval.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "-日记-/2022-06-20.md"
+    },
+    {
       "basename": "博客&UP&视频导航",
       "path": "0000-技术/博客&UP&视频导航.md"
     },
@@ -21,10 +33,6 @@
       "path": "~模板~/通用模板.md"
     },
     {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "浏览器休眠对setTimeout和setInterval的影响.md"
-    },
-    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "2022-06-10",
       "path": "-日记-/2022-06-10.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "-日记-/2022-06-20.md"
     },
     {
       "basename": "Git常用命令",
@@ -195,10 +199,6 @@
     {
       "basename": "计算机基础",
       "path": "专业课程/计算机基础.md"
-    },
-    {
-      "basename": "大学课程",
-      "path": "专业课程/大学课程.md"
     }
   ],
   "omittedPaths": [],
