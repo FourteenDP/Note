@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浏览器存储",
+                "query": "数据结构与算法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
