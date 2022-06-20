@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0000-技术/博客&UP&视频导航.md",
+            "file": "为什么使用 settimeout 实现 setinterval.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000-技术/博客&UP&视频导航.md"
+                "file": "为什么使用 settimeout 实现 setinterval.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000-技术/博客&UP&视频导航.md",
+                "file": "为什么使用 settimeout 实现 setinterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000-技术/博客&UP&视频导航.md",
+                "file": "为什么使用 settimeout 实现 setinterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "b61d1bb16e03806c",
   "lastOpenFiles": [
+    "为什么使用 settimeout 实现 setinterval.md",
+    "浏览器休眠对setTimeout和setInterval的影响.md",
+    "-日记-/2022-06-20.md",
     "0000-技术/博客&UP&视频导航.md",
     "0000-技术/便携蓝牙打印机.md",
     "0000-技术/编程范式.md",
     "~模板~/日记.md",
     "~模板~/通用模板.md",
-    "浏览器休眠对setTimeout和setInterval的影响.md",
     "📅任务管理.md",
-    "浏览器休眠对 setTimeout 和 setInterval 的影响.md",
-    "-日记-/2022-06-09.md",
-    "-日记-/2022-06-10.md"
+    "浏览器休眠对 setTimeout 和 setInterval 的影响.md"
   ]
 }
