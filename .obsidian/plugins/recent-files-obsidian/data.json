@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "浏览器休眠对setTimeout和setInterval的影响.md"
+      "basename": "知识社区",
+      "path": "0000-技术/知识社区.md"
+    },
+    {
+      "basename": "博客&UP&视频导航",
+      "path": "0000-技术/博客&UP&视频导航.md"
+    },
+    {
+      "basename": "编程范式",
+      "path": "0000-技术/编程范式.md"
     },
     {
       "basename": "计算setTimeout和setInterval的误差",
       "path": "计算setTimeout和setInterval的误差.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "浏览器休眠对setTimeout和setInterval的影响.md"
     },
     {
       "basename": "为什么使用 settimeout 实现 setinterval",
@@ -21,16 +33,8 @@
       "path": "-日记-/2022-06-20.md"
     },
     {
-      "basename": "博客&UP&视频导航",
-      "path": "0000-技术/博客&UP&视频导航.md"
-    },
-    {
       "basename": "便携蓝牙打印机",
       "path": "0000-技术/便携蓝牙打印机.md"
-    },
-    {
-      "basename": "编程范式",
-      "path": "0000-技术/编程范式.md"
     },
     {
       "basename": "日记",
@@ -195,10 +199,6 @@
     {
       "basename": "知识社区",
       "path": "知识社区.md"
-    },
-    {
-      "basename": "合并模板",
-      "path": "~模板/合并模板.md"
     }
   ],
   "omittedPaths": [],

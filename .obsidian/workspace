@@ -7,8 +7,13 @@
         "id": "20d7b94139a4a056",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0000-技术/知识社区.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -70,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -152,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0000-技术/知识社区.md"
+              }
             }
           },
           {
@@ -179,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000-技术/知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0000-技术/知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,15 +218,15 @@
   },
   "active": "20d7b94139a4a056",
   "lastOpenFiles": [
-    "浏览器休眠对setTimeout和setInterval的影响.md",
+    "0000-技术/知识社区.md",
+    "0000-技术/博客&UP&视频导航.md",
+    "0000-技术/编程范式.md",
     "计算setTimeout和setInterval的误差.md",
+    "浏览器休眠对setTimeout和setInterval的影响.md",
     "为什么使用 settimeout 实现 setinterval.md",
     "README.md",
     "-日记-/2022-06-20.md",
-    "0000-技术/博客&UP&视频导航.md",
     "0000-技术/便携蓝牙打印机.md",
-    "0000-技术/编程范式.md",
-    "~模板~/日记.md",
-    "~模板~/通用模板.md"
+    "~模板~/日记.md"
   ]
 }
