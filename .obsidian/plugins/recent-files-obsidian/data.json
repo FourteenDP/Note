@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows创建软连接",
+      "path": "1000-技术/Windows创建软连接.md"
+    },
+    {
+      "basename": "Windows终端设置代理",
+      "path": "1000-技术/Windows终端设置代理.md"
+    },
+    {
+      "basename": "前端工具",
+      "path": "1000-技术/前端工具.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval的误差",
+      "path": "计算setTimeout和setInterval的误差.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
+    },
+    {
       "basename": "浏览器URL限制",
       "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
     },
@@ -57,10 +77,6 @@
       "path": "1000-技术/项目/开源项目.md"
     },
     {
-      "basename": "大学课程",
-      "path": "大学课程.md"
-    },
-    {
       "basename": "分析Vue2中Vue与VueComponent的关系",
       "path": "1000-技术/前端/Vue/分析Vue2中Vue与VueComponent的关系.md"
     },
@@ -93,18 +109,6 @@
       "path": "1000-技术/JavaScript截图.md"
     },
     {
-      "basename": "win10下创建软链接",
-      "path": "1000-技术/win10下创建软链接.md"
-    },
-    {
-      "basename": "wind10 flutter环境搭建",
-      "path": "1000-技术/wind10 flutter环境搭建.md"
-    },
-    {
-      "basename": "windows终端设置代理",
-      "path": "1000-技术/windows终端设置代理.md"
-    },
-    {
       "basename": "前端推荐书籍",
       "path": "1000-技术/前端推荐书籍.md"
     },
@@ -119,14 +123,6 @@
     {
       "basename": "CSS函数",
       "path": "1000-技术/前端/HTML&CSS/CSS函数.md"
-    },
-    {
-      "basename": "CSS选择器",
-      "path": "CSS选择器.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval的误差",
-      "path": "计算setTimeout和setInterval的误差.md"
     },
     {
       "basename": "浏览器休眠对setTimeout和setInterval的影响",
@@ -153,20 +149,12 @@
       "path": "1000-技术/前端工作笔记.md"
     },
     {
-      "basename": "前端工具",
-      "path": "1000-技术/前端工具.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "知识社区",
       "path": "1000-技术/知识社区.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "~日记~/2022-06-20.md"
     },
     {
       "basename": "日记",
