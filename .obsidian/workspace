@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f41c4e20e511700",
+        "id": "3350e44274496abe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/JavaScript/数组方法.md",
+            "file": "1000-技术/JavaScript/数据类型.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/JavaScript/数组方法.md"
+                "file": "1000-技术/JavaScript/数据类型.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/JavaScript/数组方法.md",
+                "file": "1000-技术/JavaScript/数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/JavaScript/数组方法.md",
+                "file": "1000-技术/JavaScript/数据类型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "width": 349,
     "collapsed": true
   },
-  "active": "9f41c4e20e511700",
+  "active": "3350e44274496abe",
   "lastOpenFiles": [
+    "1000-技术/JavaScript/数据类型.md",
     "1000-技术/JavaScript/数组方法.md",
+    "1000-技术/JavaScript/数组方法.md",
+    "1000-技术/CSS/CSS选择器参考手册.md",
     "1000-技术/常见面试题.md",
     "CSS选择器.md",
     "1000-技术/CSS/CSS函数.md",
-    "1000-技术/CSS/CSS选择器参考手册.md",
     "1000-技术/CSS/CSS实现文本超出显示省略号.md",
     "计算setTimeout和setInterval的误差.md",
-    "浏览器休眠对setTimeout和setInterval的影响.md",
-    "为什么使用 settimeout 实现 setinterval.md",
-    "~采集~/采集.md"
+    "浏览器休眠对setTimeout和setInterval的影响.md"
   ]
 }
