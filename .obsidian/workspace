@@ -10,9 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "A-开发笔记/Vue/Vue2中的页面数据缓存.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
