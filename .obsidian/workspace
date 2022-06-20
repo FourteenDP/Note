@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A-开发笔记/JavaScript截图.md",
+            "file": "A-开发笔记/语言学习-游戏.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-开发笔记/JavaScript截图.md"
+                "file": "A-开发笔记/语言学习-游戏.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-开发笔记/JavaScript截图.md",
+                "file": "A-开发笔记/语言学习-游戏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-开发笔记/JavaScript截图.md",
+                "file": "A-开发笔记/语言学习-游戏.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "8be956f7160f6909",
   "lastOpenFiles": [
+    "A-开发笔记/语言学习-游戏.md",
     "A-开发笔记/JavaScript截图.md",
     "A-开发笔记/博客&UP&视频导航.md",
     "村长.md",
@@ -227,7 +228,6 @@
     "日记/2022-06-18.md",
     "日记/2022-06-10.md",
     "日记/2022-06-09.md",
-    "日记/2022-06-17.md",
-    "日记/2022-06-11.md"
+    "日记/2022-06-17.md"
   ]
 }
