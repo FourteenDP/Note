@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "大学课程",
+      "path": "10-专业课程/大学课程.md"
+    },
+    {
+      "basename": "计算机基础",
+      "path": "1.开发笔记/计算机基础.md"
+    },
+    {
       "basename": "2022-06-10",
       "path": "-日记-/2022-06-10.md"
     },
@@ -38,19 +46,19 @@
     },
     {
       "basename": "Vue2中的页面数据缓存",
-      "path": "A-开发笔记/Vue2中的页面数据缓存.md"
+      "path": "1.开发笔记/Vue2中的页面数据缓存.md"
     },
     {
       "basename": "前端路线",
-      "path": "A-开发笔记/前端路线.md"
+      "path": "1.开发笔记/前端路线.md"
     },
     {
       "basename": "代码生成",
-      "path": "A-开发笔记/代码生成.md"
+      "path": "1.开发笔记/代码生成.md"
     },
     {
       "basename": "开源项目",
-      "path": "A-开发笔记/开源项目.md"
+      "path": "1.开发笔记/开源项目.md"
     },
     {
       "basename": "Pasted image 20220608140002",
