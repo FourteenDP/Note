@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "40047cc39e194824",
+        "id": "5c5bbc11a939342e",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -139,9 +139,17 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "fedcce7d10d0242b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "535c94d14c1b3644",
@@ -206,19 +214,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
-  "active": "40047cc39e194824",
+  "active": "5c5bbc11a939342e",
   "lastOpenFiles": [
+    "-日记-/2022-06-20.md",
+    "📅任务管理.md",
     "-日记-/2022-06-09.md",
     "README.md",
-    "📅任务管理.md",
     "A-开发笔记/前端路线.md",
     "A-开发笔记/代码生成.md",
     "A-开发笔记/开源项目.md",
     "~附件~/Pasted image 20220608140002.png",
     "~附件~/Vue生命周期.png",
-    "~附件~/Pasted image 20220606223625.png",
-    "~附件~/Pasted image 20220606223440.png"
+    "~附件~/Pasted image 20220606223625.png"
   ]
 }
