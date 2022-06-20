@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/CSS/CSS选择器参考手册.md",
+            "file": "CSS选择器基本介绍.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/CSS/CSS选择器参考手册.md"
+                "file": "CSS选择器基本介绍.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/CSS/CSS选择器参考手册.md",
+                "file": "CSS选择器基本介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/CSS/CSS选择器参考手册.md",
+                "file": "CSS选择器基本介绍.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,8 @@
   },
   "active": "9f41c4e20e511700",
   "lastOpenFiles": [
+    "CSS选择器基本介绍.md",
+    "1000-技术/CSS/CSS函数.md",
     "1000-技术/CSS/CSS选择器参考手册.md",
     "1000-技术/CSS/CSS实现文本超出显示省略号.md",
     "计算setTimeout和setInterval的误差.md",
@@ -226,8 +228,6 @@
     "为什么使用 settimeout 实现 setinterval.md",
     "~采集~/采集.md",
     "1000-技术/Git常用命令.md",
-    "1000-技术/JavaScript截图.md",
-    "1000-技术/前端路线.md",
-    "1000-技术/前端面试题.md"
+    "1000-技术/JavaScript截图.md"
   ]
 }
