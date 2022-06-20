@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "编程范式",
+      "path": "技术笔记/编程范式.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "2022-06-20",
       "path": "-日记-/2022-06-20.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "通用模板",
@@ -195,10 +199,6 @@
     {
       "basename": "原型链",
       "path": "开发笔记/原型链.md"
-    },
-    {
-      "basename": "Git常用命令",
-      "path": "开发笔记/Git常用命令.md"
     }
   ],
   "omittedPaths": [],
