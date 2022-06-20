@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "-卡片-/卡片.md",
+            "file": "公司/驰雄/工作资料.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-卡片-/卡片.md"
+                "file": "公司/驰雄/工作资料.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-卡片-/卡片.md",
+                "file": "公司/驰雄/工作资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-卡片-/卡片.md",
+                "file": "公司/驰雄/工作资料.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "a435872684743f74",
   "lastOpenFiles": [
+    "公司/驰雄/工作资料.md",
+    "公司/驰雄/README.md",
+    "高效生活/学习/笔记方法.md",
+    "高效生活/学习/记忆方法.md",
+    "高效生活/写作/如何编写好的技术文档.md",
     "-卡片-/卡片.md",
     "技术笔记/2021前端面试复习.md",
-    "XZ-写作技巧/如何编写好的技术文档.md",
-    "GS-公司/驰雄/README.md",
     "10-专业课程/大学课程.md",
     "技术笔记/计算机基础.md",
-    "-日记-/2022-06-10.md",
-    "-日记-/2022-06-09.md",
-    "-日记-/2022-06-20.md",
-    "README.md"
+    "-日记-/2022-06-10.md"
   ]
 }
