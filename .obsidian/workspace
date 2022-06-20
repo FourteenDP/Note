@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "浏览器休眠对定时器的影响.md",
+            "file": "浏览器休眠对setTimeout和setInterval的影响.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浏览器休眠对定时器的影响.md"
+                "file": "浏览器休眠对setTimeout和setInterval的影响.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浏览器休眠对定时器的影响.md",
+                "file": "浏览器休眠对setTimeout和setInterval的影响.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浏览器休眠对定时器的影响.md",
+                "file": "浏览器休眠对setTimeout和setInterval的影响.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
   },
   "active": "8544fbc07930542e",
   "lastOpenFiles": [
-    "浏览器休眠对定时器的影响.md",
+    "浏览器休眠对setTimeout和setInterval的影响.md",
     "-日记-/2022-06-09.md",
     "📅任务管理.md",
     "-日记-/2022-06-10.md",
