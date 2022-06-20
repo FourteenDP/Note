@@ -6,7 +6,7 @@ tags:
   - setInterval
   - 前端
 date created: 2022-06-20 16:38
-date updated: 2022-06-20 16:40
+date updated: 2022-06-20 16:42
 ---
 
-# 为什么使用 settimeout 实现 setinterval
+# 为什么使用 setTimeout 实现 setInterval
