@@ -195,10 +195,6 @@
     {
       "basename": "大学课程",
       "path": "专业课程/大学课程.md"
-    },
-    {
-      "basename": "Vue生命周期",
-      "path": "~附件/Vue生命周期.png"
     }
   ],
   "omittedPaths": [],

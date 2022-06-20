@@ -7,7 +7,7 @@ tags:
   - setTimeout
   - setInterval
 date created: 2022-06-20 15:06
-date updated: 2022-06-20 15:18
+date updated: 2022-06-20 16:05
 ---
 
-# 浏览器休眠对 setTimeout 和 setInterval 的影响
+# 浏览器休眠对setTimeout和setInterval的影响
