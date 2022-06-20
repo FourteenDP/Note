@@ -135,8 +135,8 @@ date modified: 2022-06-06 22:52:19
 
   
 
-## ACTIVATED（被 KEEP-ALIVE 缓存的组件激活时调用）
+## ACTIVATED（被 [[Vue2路由Keep-alive实现原理|KEEP-ALIVE]] 缓存的组件激活时调用）
 
   
 
-## DEACTIVATED（被 KEEP-ALIVE 缓存的组件失活时调用
+## DEACTIVATED（被 [[Vue2路由Keep-alive实现原理|KEEP-ALIVE]] 缓存的组件失活时调用

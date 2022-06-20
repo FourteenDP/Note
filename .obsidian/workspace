@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md",
-            "mode": "source",
+            "file": "1000-技术/前端/Vue/Vue2生命周期.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md"
+                "file": "1000-技术/前端/Vue/Vue2生命周期.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md",
+                "file": "1000-技术/前端/Vue/Vue2生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2中的页面数据缓存.md",
+                "file": "1000-技术/前端/Vue/Vue2生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "46aef75f7b4c302e",
   "lastOpenFiles": [
-    "1000-技术/前端/Vue/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2生命周期.md",
+    "9999-信箱/Vue2路由Keep-alive实现原理.md",
+    "1000-技术/前端/Vue/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/分析Vue2中Vue与VueComponent的关系.md",
     "~日记~/2022-06-20.md",
     "✨知识社区.md",
     "📅任务管理.md",
     "1000-技术/前端/JavaScript/原型链.md",
     "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-    "1000-技术/前端/JavaScript/数据类型.md",
-    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    "1000-技术/前端/JavaScript/数据类型.md"
   ]
 }
