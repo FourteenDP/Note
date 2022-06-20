@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "博客&UP&视频导航",
+      "path": "0000-技术/博客&UP&视频导航.md"
+    },
+    {
       "basename": "常见面试题",
-      "path": "-卡片-/常见面试题.md"
+      "path": "0000-技术/常见面试题.md"
     },
     {
       "basename": "浏览器",
@@ -195,10 +199,6 @@
     {
       "basename": "VIM操作大全",
       "path": "开发笔记/VIM操作大全.md"
-    },
-    {
-      "basename": "JavaScript截图",
-      "path": "开发笔记/JavaScript截图.md"
     }
   ],
   "omittedPaths": [],
