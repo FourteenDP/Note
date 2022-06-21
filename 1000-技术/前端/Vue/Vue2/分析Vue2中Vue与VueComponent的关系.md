@@ -7,4 +7,4 @@ date updated: 2022-06-09 12:38
 
 # 分析 VUE 与 VUECOMPONENT 的关系
 
-![[Pasted image 20220606223440.png]]
+![[分析Vue2中的Vue与VueComponent的关系.png]]

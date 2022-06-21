@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 17,
-  "cssTheme": "Atom",
+  "baseFontSize": 19,
+  "cssTheme": "",
   "enabledCssSnippets": [
     "Nord"
   ],

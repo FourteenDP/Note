@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f41c4e20e511700",
+        "id": "07d14e606279fade",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/CSS选择器.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -51,7 +46,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "535c94d14c1b3644",
@@ -157,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/CSS选择器.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/CSS选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/CSS选择器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,19 +205,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 193,
+    "collapsed": true
   },
-  "active": "9f41c4e20e511700",
+  "active": "07d14e606279fade",
   "lastOpenFiles": [
-    "1000-技术/CSS选择器.md",
-    "计算setTimeout和setInterval的误差.md",
-    "浏览器休眠对setTimeout和setInterval的影响.md",
-    "为什么使用 settimeout 实现 setinterval.md",
-    "~采集~/采集.md",
-    "1000-技术/Git常用命令.md",
-    "1000-技术/JavaScript截图.md",
-    "1000-技术/CSS/CSS实现文本超出显示省略号.md",
-    "1000-技术/前端路线.md",
-    "1000-技术/前端面试题.md"
+    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
+    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+    "1000-技术/前端/Vue/Vue2/Vue2路由Keep-alive实现原理.md",
+    "~日记~/2022-06-20.md",
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
+    "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
+    "✨知识社区.md",
+    "📅任务管理.md",
+    "1000-技术/前端/JavaScript/原型链.md",
+    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
   ]
 }
