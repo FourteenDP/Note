@@ -7,13 +7,8 @@
         "id": "07d14e606279fade",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -159,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
