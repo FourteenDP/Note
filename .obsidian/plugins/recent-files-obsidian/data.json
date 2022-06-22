@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "为什么使用 settimeout 实现 setinterval",
-      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
+      "basename": "2022-06-22",
+      "path": "~日记~/2022-06-22.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "node的process.nextTick.md"
+    },
+    {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
+    },
+    {
+      "basename": "浏览器URL限制",
+      "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
+    },
+    {
+      "basename": "Vue2中的页面数据缓存",
+      "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
+      "basename": "箭头函数",
+      "path": "1000-技术/前端/JavaScript/箭头函数.md"
     },
     {
       "basename": "浏览器休眠对setTimeout和setInterval的影响",
       "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
     },
     {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+      "basename": "为什么使用 settimeout 实现 setinterval",
+      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
     },
     {
       "basename": "原型链",
@@ -33,16 +61,8 @@
       "path": "1000-技术/前端/书籍/前端推荐书籍.md"
     },
     {
-      "basename": "Vue2中的页面数据缓存",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
-    },
-    {
       "basename": "Vue2路由Keep-alive实现原理",
       "path": "1000-技术/前端/Vue/Vue2/Vue2路由Keep-alive实现原理.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "~日记~/2022-06-20.md"
     },
     {
       "basename": "分析Vue2中Vue与VueComponent的关系",
@@ -55,14 +75,6 @@
     {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
-    },
-    {
-      "basename": "箭头函数",
-      "path": "1000-技术/前端/JavaScript/箭头函数.md"
     },
     {
       "basename": "截图",
@@ -107,10 +119,6 @@
     {
       "basename": "前端微服务",
       "path": "1000-技术/前端/其它/前端微服务.md"
-    },
-    {
-      "basename": "浏览器URL限制",
-      "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
     },
     {
       "basename": "Windows终端设置代理",
@@ -191,10 +199,6 @@
     {
       "basename": "2022-06-10",
       "path": "~日记~/2022-06-10.md"
-    },
-    {
-      "basename": "辞职通知-邓某某-范文",
-      "path": "0000-拾肆/辞职通知-邓某某-范文.md"
     }
   ],
   "omittedPaths": [],
