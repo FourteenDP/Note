@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
+            "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
               }
             }
           },
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,9 +219,9 @@
   },
   "active": "07d14e606279fade",
   "lastOpenFiles": [
-    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
     "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
+    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
+    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "1000-技术/前端/JavaScript/原型链.md",
     "1000-技术/前端/JavaScript/数据类型.md",
     "1000-技术/项目/开源项目.md",
