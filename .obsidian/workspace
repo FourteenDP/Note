@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317
+    "width": 467
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "07d14e606279fade",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md",
+    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
+    "1000-技术/前端/JavaScript/数据类型.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/语言学习实践/语言学习-游戏.md",
     "1000-技术/前端/书籍/前端推荐书籍.md",
-    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue2路由Keep-alive实现原理.md",
     "~日记~/2022-06-20.md",
-    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
-    "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
-    "✨知识社区.md"
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
   ]
 }
