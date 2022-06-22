@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "计算setTimeout和setInterval的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
       "basename": "为什么使用 settimeout 实现 setinterval",
       "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "数据类型",
       "path": "1000-技术/前端/JavaScript/数据类型.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval的误差.md"
-    },
-    {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
     },
     {
       "basename": "开源项目",
