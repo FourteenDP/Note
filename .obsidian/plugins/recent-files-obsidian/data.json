@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "我的世界",
-      "path": "9999-信箱/我的世界.md"
-    },
-    {
       "basename": "通用模板",
       "path": "-模板-/通用模板.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "CSS函数",
       "path": "1000-技术/前端/HTML&CSS/CSS函数.md"
-    },
-    {
-      "basename": "采集",
-      "path": "~采集~/采集.md"
     }
   ],
   "omittedPaths": [],
