@@ -7,8 +7,13 @@
         "id": "c0a09af9d8b1a1d6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/未命名.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/未命名.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
