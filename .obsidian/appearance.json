@@ -1,6 +1,6 @@
 {
   "baseFontSize": 20,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "hyphenation-and-justification",
     "Minimal-Plus",

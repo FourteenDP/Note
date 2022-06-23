@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dfddb49f27fac3e",
+        "id": "597dd5181460f0d5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/测试.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -102,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/测试.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +199,7 @@
     "direction": "horizontal",
     "width": 362.5
   },
-  "active": "1dfddb49f27fac3e",
+  "active": "597dd5181460f0d5",
   "lastOpenFiles": [
     "9999-信箱/测试.md",
     "-模板-/通用模板.md",
