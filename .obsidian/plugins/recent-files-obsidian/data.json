@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
       "basename": "文档合集",
       "path": "1000-技术/前端/文档合集.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Vue2中的页面数据缓存",
       "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     },
     {
       "basename": "箭头函数",
