@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "中国国民党第一次全国代表大会宣言 1",
-      "path": "中国国民党第一次全国代表大会宣言 1.md"
+      "basename": "中国国民党第一次全国代",
+      "path": "中国国民党第一次全国代.md"
+    },
+    {
+      "basename": "test模板",
+      "path": "-模板-/test模板.md"
     },
     {
       "basename": "中国国民党第一次全国代表大会宣言",
@@ -191,14 +195,6 @@
     {
       "basename": "编程范式",
       "path": "1000-技术/计算机基础/编程范式.md"
-    },
-    {
-      "basename": "CSS选择器参考手册",
-      "path": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
-    },
-    {
-      "basename": "CSS实现文本超出显示省略号",
-      "path": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md"
     }
   ],
   "omittedPaths": [],
