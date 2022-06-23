@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb9c15eec568fb7",
+        "id": "b065bdf84cd9a4e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "中国国民党第一次全国代.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -102,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "中国国民党第一次全国代.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中国国民党第一次全国代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中国国民党第一次全国代.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,11 +199,11 @@
     "direction": "horizontal",
     "width": 362.5
   },
-  "active": "8bb9c15eec568fb7",
+  "active": "b065bdf84cd9a4e6",
   "lastOpenFiles": [
     "中国国民党第一次全国代.md",
-    "9999-信箱/我的世界.md",
     "-模板-/test模板.md",
+    "9999-信箱/我的世界.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/大革命时期/中国国民党第一次全国代表大会宣言.md",
     "README.md",
     "9999-信箱/node的process.nextTick.md",

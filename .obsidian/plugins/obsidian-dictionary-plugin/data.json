@@ -1,6 +1,6 @@
 {
   "getLangFromFile": true,
-  "defaultLanguage": "de",
+  "defaultLanguage": "cn",
   "normalLang": "cn",
   "shouldShowSynonymPopover": true,
   "shouldShowCustomContextMenu": true,
