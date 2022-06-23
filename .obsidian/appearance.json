@@ -1,11 +1,7 @@
 {
   "baseFontSize": 26,
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "hyphenation-and-justification",
-    "Minimal-Plus",
-    "clutter-free-headings"
-  ],
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [],
   "translucency": false,
   "theme": "obsidian",
   "interfaceFontFamily": "",
