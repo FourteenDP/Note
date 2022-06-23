@@ -7,8 +7,13 @@
         "id": "597dd5181460f0d5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅任务管理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 61.50870406189555,
+        "dimension": 56.19047619047619,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -67,7 +72,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 38.49129593810445,
+        "dimension": 43.80952380952381,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📅任务管理.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -201,11 +210,11 @@
   },
   "active": "597dd5181460f0d5",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "README.md",
     "9999-信箱/测试.md",
     "-模板-/通用模板.md",
-    "📅任务管理.md",
     "9999-信箱/未命名 1.md",
-    "README.md",
     "中国国民党第一次全国代.md",
     "-模板-/test模板.md",
     "9999-信箱/我的世界.md",
