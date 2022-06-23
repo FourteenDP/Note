@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "✨知识社区",
-      "path": "✨知识社区.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "通用模板",
       "path": "-模板-/通用模板.md"
+    },
+    {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
     },
     {
       "basename": "中国国民党第一次全国代表大会宣言",
@@ -23,10 +27,6 @@
     {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "vue的不同构建版本",
-      "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
       "basename": "浏览器URL限制",
