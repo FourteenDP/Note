@@ -3,7 +3,6 @@
   "calendar",
   "periodic-notes",
   "obsidian-git",
-  "markdown-prettifier",
   "cm-editor-syntax-highlight-obsidian",
   "code-block-copy",
   "obsidian-activity-history",
@@ -35,5 +34,6 @@
   "quick-explorer",
   "various-complements",
   "number-headings-obsidian",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-linter"
 ]
