@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/vue不同的构建版本.md",
+            "file": "9999-信箱/vue的不同构建版本.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/vue不同的构建版本.md"
+                "file": "9999-信箱/vue的不同构建版本.md"
               }
             }
           },
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/vue不同的构建版本.md",
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/vue不同的构建版本.md",
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +218,7 @@
   },
   "active": "2a39d92d53e7df9d",
   "lastOpenFiles": [
-    "9999-信箱/vue不同的构建版本.md",
+    "9999-信箱/vue的不同构建版本.md",
     "-模板-/通用模板.md",
     "~日记~/2022-06-23.md",
     "✨知识社区.md",
