@@ -36,5 +36,7 @@
   "number-headings-obsidian",
   "note-refactor-obsidian",
   "obsidian-linter",
-  "obsidian-minimal-settings"
+  "highlightr-plugin",
+  "open-vscode",
+  "lapel"
 ]
