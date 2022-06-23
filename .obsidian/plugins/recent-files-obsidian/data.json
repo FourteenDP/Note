@@ -5,16 +5,16 @@
       "path": "📅任务管理.md"
     },
     {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
+    },
+    {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
     },
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "✨知识社区",
-      "path": "✨知识社区.md"
     },
     {
       "basename": "通用模板",
