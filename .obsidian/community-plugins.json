@@ -17,7 +17,6 @@
   "table-editor-obsidian",
   "url-into-selection",
   "obsidian-auto-link-title",
-  "obsidian-outliner",
   "tag-wrangler",
   "find-unlinked-files",
   "recent-files-obsidian",
@@ -34,8 +33,9 @@
   "various-complements",
   "number-headings-obsidian",
   "note-refactor-obsidian",
-  "obsidian-linter",
   "highlightr-plugin",
   "lapel",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "obsidian-outliner"
 ]
