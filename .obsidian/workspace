@@ -7,13 +7,8 @@
         "id": "5bcce6510bdf1a56",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -103,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -212,6 +203,8 @@
   },
   "active": "5bcce6510bdf1a56",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/箭头函数.md",
+    "~日记~/2022-06-20.md",
     "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "📅任务管理.md",
@@ -219,8 +212,6 @@
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/vue的不同构建版本.md",
     "Excalidraw/Drawing 2022-06-23 22.31.46.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md",
-    "9999-信箱/我的世界.md",
-    "-模板-/通用模板.md"
+    "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md"
   ]
 }
