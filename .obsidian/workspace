@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -212,6 +212,8 @@
   },
   "active": "5bcce6510bdf1a56",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
+    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "📅任务管理.md",
     "✨知识社区.md",
     "9999-信箱/node的process.nextTick.md",
@@ -219,8 +221,6 @@
     "Excalidraw/Drawing 2022-06-23 22.31.46.excalidraw.md",
     "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md",
     "9999-信箱/我的世界.md",
-    "-模板-/通用模板.md",
-    "~日记~/2022-06-23.md",
-    "1000-技术/前端/文档合集.md"
+    "-模板-/通用模板.md"
   ]
 }

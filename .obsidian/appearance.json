@@ -1,11 +1,9 @@
 {
   "baseFontSize": 20,
-  "cssTheme": "",
-  "enabledCssSnippets": [
-    "Nord"
-  ],
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [],
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true
