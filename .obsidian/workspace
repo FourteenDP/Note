@@ -10,6 +10,19 @@
           "type": "memos_view",
           "state": {}
         }
+      },
+      {
+        "id": "5c86958d21df054b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+              }
             }
           },
           {
@@ -180,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,8 +224,9 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "73649761c261005d",
+  "active": "5c86958d21df054b",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "1000-技术/前端/文档合集.md",
     "1000-技术/未命名.md",
     "✨知识社区.md",
@@ -217,7 +235,6 @@
     "node的process.nextTick.md",
     "~日记~/2022-06-20.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
-    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
-    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
   ]
 }
