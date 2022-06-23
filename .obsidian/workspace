@@ -7,11 +7,8 @@
         "id": "73649761c261005d",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
-          "state": {
-            "file": ".obsidian/community-plugins.json",
-            "staged": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
