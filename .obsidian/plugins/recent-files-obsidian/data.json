@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "为什么使用 settimeout 实现 setinterval",
+      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "浏览器URL限制",
       "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
-    },
-    {
-      "basename": "为什么使用 settimeout 实现 setinterval",
-      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     },
     {
       "basename": "2022-06-20",
