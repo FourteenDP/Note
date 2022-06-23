@@ -37,5 +37,6 @@
   "obsidian-linter",
   "highlightr-plugin",
   "open-vscode",
-  "lapel"
+  "lapel",
+  "obsidian-git"
 ]
