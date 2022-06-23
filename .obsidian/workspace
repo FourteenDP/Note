@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "✨知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "✨知识社区.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "✨知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "✨知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -206,14 +207,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "active": "597dd5181460f0d5",
   "lastOpenFiles": [
-    "📅任务管理.md",
     "✨知识社区.md",
     "README.md",
+    "📅任务管理.md",
     "9999-信箱/测试.md",
     "-模板-/通用模板.md",
     "9999-信箱/未命名 1.md",
