@@ -1,9 +1,13 @@
 {
   "baseFontSize": 20,
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [],
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "hyphenation-and-justification",
+    "Minimal-Plus",
+    "clutter-free-headings"
+  ],
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true
