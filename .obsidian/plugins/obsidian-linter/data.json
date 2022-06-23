@@ -16,7 +16,7 @@
       "Format": "YYYY-MM-DD HH:mm:ss"
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": false,
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": true,
       "Title Key": "title"
     },
     "Header Increment": {
@@ -27,7 +27,7 @@
     },
     "Capitalize Headings": {
       "Headings should be formatted with capitalization": true,
-      "Style": "All Caps",
+      "Style": "Title Case",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
