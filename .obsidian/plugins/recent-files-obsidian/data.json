@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
     },
     {
       "basename": "通用模板",
@@ -39,10 +43,6 @@
     {
       "basename": "前端工具",
       "path": "1000-技术/前端/其它/前端工具.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
     },
     {
       "basename": "2022-06-22",
