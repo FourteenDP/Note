@@ -66,8 +66,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "46165ddb1970e70d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
