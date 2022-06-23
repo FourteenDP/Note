@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/未命名.md",
+            "file": "9999-信箱/测试.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/未命名.md"
+                "file": "9999-信箱/测试.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/未命名.md",
+                "file": "9999-信箱/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/未命名.md",
+                "file": "9999-信箱/测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +210,7 @@
   },
   "active": "1dfddb49f27fac3e",
   "lastOpenFiles": [
-    "9999-信箱/未命名.md",
+    "9999-信箱/测试.md",
     "-模板-/通用模板.md",
     "📅任务管理.md",
     "9999-信箱/未命名 1.md",
