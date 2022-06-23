@@ -7,8 +7,13 @@
         "id": "5bcce6510bdf1a56",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/其它/前端面试题.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/前端/其它/前端面试题.md"
+              }
             }
           },
           {
@@ -117,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4278453747cdd498",
@@ -162,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/前端/其它/前端面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/前端/其它/前端面试题.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,19 +207,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 362.5
   },
   "active": "5bcce6510bdf1a56",
   "lastOpenFiles": [
-    "1000-技术/前端/JavaScript/箭头函数.md",
-    "~日记~/2022-06-20.md",
-    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
-    "📅任务管理.md",
-    "✨知识社区.md",
-    "9999-信箱/node的process.nextTick.md",
-    "9999-信箱/vue的不同构建版本.md",
-    "Excalidraw/Drawing 2022-06-23 22.31.46.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md"
+    "1000-技术/前端/其它/前端面试题.md",
+    "1000-技术/项目/开源项目.md",
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
+    "~日记~/2022-06-22.md",
+    "1000-技术/前端/其它/前端工具.md",
+    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
+    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+    "1000-技术/前端/JavaScript/数据类型.md",
+    "1000-技术/前端/JavaScript/箭头函数.md"
   ]
 }
