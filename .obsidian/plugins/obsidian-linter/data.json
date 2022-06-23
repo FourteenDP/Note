@@ -12,8 +12,12 @@
       "Date Created": true,
       "Date Created Key": "date created",
       "Date Modified": true,
-      "Date Modified Key": "date modified",
+      "Date Modified Key": "date updated",
       "Format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "YAML Title": {
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": false,
+      "Title Key": "title"
     },
     "Header Increment": {
       "Heading levels should only increment by one level at a time": true
@@ -49,8 +53,22 @@
     "Remove Empty List Markers": {
       "Removes empty list markers, i.e. list items without content.": true
     },
+    "Convert Bullet List Markers": {
+      "Converts common bullet list marker symbols to markdown list markers.": false
+    },
     "Proper Ellipsis": {
       "Replaces three consecutive dots with an ellipsis.": true
+    },
+    "Emphasis Style": {
+      "Makes sure the emphasis style is consistent.": false,
+      "Style": "consistent"
+    },
+    "Strong Style": {
+      "Makes sure the strong style is consistent.": false,
+      "Style": "consistent"
+    },
+    "No Bare URLs": {
+      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": false
     },
     "Trailing spaces": {
       "Removes extra spaces after every line.": false,
@@ -66,8 +84,12 @@
     "Space after list markers": {
       "There should be a single space after list markers and checkboxes.": true
     },
+    "Remove Empty Lines Between List Markers and Checklists": {
+      "There should not be any empty lines between list markers and checklists.": false
+    },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": true
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
+      "Inner New Lines": false
     },
     "Consecutive blank lines": {
       "There should be at most one consecutive blank line.": true
@@ -78,11 +100,17 @@
     },
     "Line Break at Document End": {
       "Ensures that there is exactly one line break at the end of a document.": true
+    },
+    "Space between Chinese and English or numbers": {
+      "Ensures that Chinese and English or numbers are separated by a single space. Follow this [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
+    },
+    "Remove link spacing": {
+      "Removes spacing around link text.": false
     }
   },
   "lintOnSave": true,
-  "displayChanged": false,
+  "displayChanged": true,
   "foldersToIgnore": [
-    "~模板"
+    "-模板-"
   ]
 }
