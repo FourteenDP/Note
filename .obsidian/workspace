@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "212bb256b38c29a9",
+        "id": "5bcce6510bdf1a56",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/vue的不同构建版本.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 63.64522417153996,
+        "dimension": 61.50870406189555,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -80,7 +80,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 36.35477582846004,
+        "dimension": 38.49129593810445,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -94,22 +94,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 311
   },
   "right": {
     "id": "b105e6a105c3707c",
     "type": "split",
     "children": [
       {
-        "id": "fa54c183722c0040",
+        "id": "7a816b97e3effd0a",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 14.30962343096234,
         "children": [
           {
-            "id": "c3a00fd93dc09a21",
+            "id": "340732f8f09c09c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
+              "state": {
+                "file": "📅任务管理.md"
+              }
+            }
+          },
+          {
+            "id": "e7f8df0058a77ade",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           },
@@ -122,14 +132,6 @@
             }
           },
           {
-            "id": "ba3cdf8a24203ea8",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
             "id": "fedcce7d10d0242b",
             "type": "leaf",
             "state": {
@@ -138,10 +140,26 @@
             }
           },
           {
-            "id": "e7f8df0058a77ade",
+            "id": "ba3cdf8a24203ea8",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4278453747cdd498",
+        "type": "tabs",
+        "dimension": 14.393305439330547,
+        "children": [
+          {
+            "id": "c3a00fd93dc09a21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -150,18 +168,8 @@
       {
         "id": "535c94d14c1b3644",
         "type": "tabs",
-        "dimension": 33.528265107212476,
+        "dimension": 14.393305439330547,
         "children": [
-          {
-            "id": "340732f8f09c09c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "9999-信箱/vue的不同构建版本.md"
-              }
-            }
-          },
           {
             "id": "2b770b3c8ea318d5",
             "type": "leaf",
@@ -178,7 +186,7 @@
       {
         "id": "44afa61abb5d7c2c",
         "type": "tabs",
-        "dimension": 33.13840155945419,
+        "dimension": 56.90376569037657,
         "children": [
           {
             "id": "cf254ce72212bb7b",
@@ -186,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,19 +221,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532
+    "width": 326
   },
-  "active": "212bb256b38c29a9",
+  "active": "5bcce6510bdf1a56",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "9999-信箱/node的process.nextTick.md",
     "9999-信箱/vue的不同构建版本.md",
     "✨知识社区.md",
-    "📅任务管理.md",
     "Excalidraw/Drawing 2022-06-23 22.31.46.excalidraw.md",
     "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md",
     "9999-信箱/我的世界.md",
     "-模板-/通用模板.md",
     "~日记~/2022-06-23.md",
-    "1000-技术/前端/文档合集.md",
-    "1000-技术/前端/其它/前端开发知识点.md"
+    "1000-技术/前端/文档合集.md"
   ]
 }
