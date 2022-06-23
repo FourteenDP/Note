@@ -15,7 +15,7 @@ date updated: 2022-06-20 21:58
 
 将数据保存到全局状态管理工具如Vuex，关闭页面时数据丢失
 
-### [[Vue2路由Keep-alive实现原理|Keep-alive]]
+### [[Vue路由Keep-alive实现原理|Keep-alive]]
 
 缓存页面实例，不销毁实例，关闭页面时数据丢失
 
@@ -27,7 +27,7 @@ date updated: 2022-06-20 21:58
 
 - [ ] 全局状态管理页面缓存
 
-## [[Vue2路由Keep-alive实现原理|Keep-alive]]缓存
+## [[Vue路由Keep-alive实现原理|Keep-alive]]缓存
 
 - [ ] Keep-alive缓存
 

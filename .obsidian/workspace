@@ -12,6 +12,32 @@
         }
       },
       {
+        "id": "4ea5cbe3b0bfe133",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9f81cf683940f274",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "5c86958d21df054b",
         "type": "leaf",
         "state": {
@@ -84,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e4d38c8caee60270",
@@ -167,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
               }
             }
           },
@@ -195,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -224,17 +250,17 @@
     "direction": "horizontal",
     "width": 193
   },
-  "active": "5c86958d21df054b",
+  "active": "4ea5cbe3b0bfe133",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+    "node的process.nextTick.md",
+    "1000-技术/前端/浏览器/浏览器URL限制.md",
+    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "1000-技术/前端/文档合集.md",
     "1000-技术/未命名.md",
     "✨知识社区.md",
     "📅任务管理.md",
-    "~日记~/2022-06-22.md",
-    "node的process.nextTick.md",
-    "~日记~/2022-06-20.md",
-    "1000-技术/前端/浏览器/浏览器URL限制.md",
-    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
+    "~日记~/2022-06-22.md"
   ]
 }
