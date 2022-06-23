@@ -7,8 +7,13 @@
         "id": "212bb256b38c29a9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/vue的不同构建版本.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -152,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/vue的不同构建版本.md"
+              }
             }
           },
           {
@@ -179,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -204,19 +213,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 532
   },
   "active": "212bb256b38c29a9",
   "lastOpenFiles": [
+    "9999-信箱/vue的不同构建版本.md",
+    "✨知识社区.md",
+    "📅任务管理.md",
     "Excalidraw/Drawing 2022-06-23 22.31.46.excalidraw.md",
     "Excalidraw/Drawing 2022-06-23 22.32.46.excalidraw.md",
     "9999-信箱/我的世界.md",
     "-模板-/通用模板.md",
-    "9999-信箱/vue的不同构建版本.md",
     "~日记~/2022-06-23.md",
-    "✨知识社区.md",
     "1000-技术/前端/文档合集.md",
-    "1000-技术/前端/其它/前端开发知识点.md",
-    "1000-技术/前端/其它/前端面试题.md"
+    "1000-技术/前端/其它/前端开发知识点.md"
   ]
 }
