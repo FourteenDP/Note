@@ -48,13 +48,13 @@
       "Removes hyphenated line breaks. Useful when pasting text from textbooks.": true
     },
     "Remove Consecutive List Markers": {
-      "Removes consecutive list markers. Useful when copy-pasting list items.": false
+      "Removes consecutive list markers. Useful when copy-pasting list items.": true
     },
     "Remove Empty List Markers": {
-      "Removes empty list markers, i.e. list items without content.": false
+      "Removes empty list markers, i.e. list items without content.": true
     },
     "Convert Bullet List Markers": {
-      "Converts common bullet list marker symbols to markdown list markers.": false
+      "Converts common bullet list marker symbols to markdown list markers.": true
     },
     "Proper Ellipsis": {
       "Replaces three consecutive dots with an ellipsis.": true
