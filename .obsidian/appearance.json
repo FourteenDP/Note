@@ -1,9 +1,7 @@
 {
   "baseFontSize": 26,
   "cssTheme": "Atom",
-  "enabledCssSnippets": [
-    "hyphenation-and-justification"
-  ],
+  "enabledCssSnippets": [],
   "translucency": false,
   "theme": "obsidian",
   "interfaceFontFamily": "",
