@@ -130,8 +130,16 @@
     "正则表达式": {
       "正则表达式": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1656051456991
+          "count": 3,
+          "lastUpdated": 1656051550133
+        }
+      }
+    },
+    "Docke": {
+      "Docke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656051522090
         }
       }
     }
