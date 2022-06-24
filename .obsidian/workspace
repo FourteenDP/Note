@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "597dd5181460f0d5",
+        "id": "44f42459b7f6d252",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/JavaScript/原型链.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/JavaScript/原型链.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/原型链.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/原型链.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,17 +217,17 @@
     "direction": "horizontal",
     "width": 286.5
   },
-  "active": "597dd5181460f0d5",
+  "active": "44f42459b7f6d252",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "~日记~/2022-06-09.md",
+    "~日记~/2022-06-23.md",
+    "~日记~/2022-06-24.md",
+    "✨知识社区.md",
     "1000-技术/前端/JavaScript/原型链.md",
     "1000-技术/前端/其它/前端开发知识点.md",
     "9999-信箱/vue的不同构建版本.md",
-    "📅任务管理.md",
     "README.md",
-    "-模板-/通用模板.md",
-    "✨知识社区.md",
-    "9999-信箱/测试.md",
-    "9999-信箱/未命名 1.md",
-    "中国国民党第一次全国代.md"
+    "-模板-/通用模板.md"
   ]
 }

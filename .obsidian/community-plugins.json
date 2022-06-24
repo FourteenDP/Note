@@ -30,12 +30,12 @@
   "dataview",
   "obsidian-dynamic-toc",
   "quick-explorer",
-  "various-complements",
   "number-headings-obsidian",
   "note-refactor-obsidian",
   "highlightr-plugin",
   "lapel",
   "obsidian-git",
   "obsidian-linter",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "various-complements"
 ]
