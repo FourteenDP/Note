@@ -6,10 +6,11 @@ tags:
   - setInterval
   - 前端
 date created: 2022-06-20 16:38
-date updated: 2022-06-22 11:40
+date updated: 2022-06-22 11:40:08
+title: 为什么使用 settimeout 实现 setinterval
 ---
 
-# 为什么使用 settimeout 实现 setinterval
+# 为什么使用 Settimeout 实现 Setinterval
 
 # 参考资料
 

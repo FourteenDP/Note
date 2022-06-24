@@ -3,19 +3,23 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-06-20 21:32
+date updated: 2022-06-22 10:53:28
+title: Windows创建软连接
 ---
 
-# Windows创建软连接
+# Windows 创建软连接
 
 ## 语法
 
 MKLINK [/D] | [/H] | [/J] Link Target
+
 /D 创建目录符号链接。默认为文件
 符号链接。
 /H 创建硬链接而非符号链接。
 /J 创建目录联接。
+
 Link 指定新的符号链接名称。
+
 Target 指定新链接引用的路径 (相对或绝对)。
 
 ## 实例

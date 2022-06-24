@@ -6,7 +6,8 @@ tags:
   - setTimeout
   - setInterval
 date created: 2022-06-20 16:46
-date updated: 2022-06-22 11:22
+date updated: 2022-06-22 11:22:24
+title: 计算 setTimeout 和 setInterval 的误差
 ---
 
 # 计算 setTimeout 和 setInterval 的误差

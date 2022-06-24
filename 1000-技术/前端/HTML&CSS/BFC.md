@@ -3,7 +3,8 @@ aliases: BFC
 tags:
   - BFC
 date created: 2022-06-20 21:19
-date updated: 2022-06-20 21:19
+date updated: 2022-06-22 10:53:28
+title: BFC
 ---
 
 # BFC
@@ -19,7 +20,7 @@ date updated: 2022-06-20 21:19
 - overflow 不为 auto、scroll 和 hidden
 - display 值为 table-cell 或 inline-block
 
-tips:触发 BFC 可以解决大部分的脱离文档流、高度塌陷
+tips: 触发 BFC 可以解决大部分的脱离文档流、高度塌陷
 
 ## 解决高度塌陷
 

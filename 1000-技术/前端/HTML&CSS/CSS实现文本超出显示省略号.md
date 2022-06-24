@@ -4,7 +4,8 @@ tags:
   - CSS
 date created: 2022-03-31T21:50:57.000Z
 date modified: 2022-04-19T20:21:03.000Z
-date updated: 2022-06-20 17:31
+date updated: 2022-06-22 10:53:28
+title: CSS 实现文本超出显示省略号
 ---
 
 # CSS 实现文本超出显示省略号
