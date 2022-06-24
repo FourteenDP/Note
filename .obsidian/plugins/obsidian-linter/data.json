@@ -85,27 +85,27 @@
       "There should be a single space after list markers and checkboxes.": true
     },
     "Remove Empty Lines Between List Markers and Checklists": {
-      "There should not be any empty lines between list markers and checklists.": false
+      "There should not be any empty lines between list markers and checklists.": true
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": false,
-      "Inner New Lines": false
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
+      "Inner New Lines": true
     },
     "Consecutive blank lines": {
-      "There should be at most one consecutive blank line.": false
+      "There should be at most one consecutive blank line.": true
     },
     "Convert Spaces to Tabs": {
       "Converts leading spaces to tabs.": false,
       "Tabsize": "2"
     },
     "Line Break at Document End": {
-      "Ensures that there is exactly one line break at the end of a document.": false
+      "Ensures that there is exactly one line break at the end of a document.": true
     },
     "Space between Chinese and English or numbers": {
-      "Ensures that Chinese and English or numbers are separated by a single space. Follow this [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
+      "Ensures that Chinese and English or numbers are separated by a single space. Follow this [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": true
     },
     "Remove link spacing": {
-      "Removes spacing around link text.": false
+      "Removes spacing around link text.": true
     }
   },
   "lintOnSave": true,
