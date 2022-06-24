@@ -2,8 +2,6 @@
   "cmenu-plugin",
   "calendar",
   "periodic-notes",
-  "obsidian-git",
-  "markdown-prettifier",
   "cm-editor-syntax-highlight-obsidian",
   "code-block-copy",
   "obsidian-activity-history",
@@ -19,7 +17,6 @@
   "table-editor-obsidian",
   "url-into-selection",
   "obsidian-auto-link-title",
-  "obsidian-outliner",
   "tag-wrangler",
   "find-unlinked-files",
   "recent-files-obsidian",
@@ -30,5 +27,15 @@
   "easy-typing-obsidian",
   "templater-obsidian",
   "obsidian-tasks-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-dynamic-toc",
+  "quick-explorer",
+  "various-complements",
+  "number-headings-obsidian",
+  "note-refactor-obsidian",
+  "highlightr-plugin",
+  "lapel",
+  "obsidian-git",
+  "obsidian-linter",
+  "obsidian-outliner"
 ]

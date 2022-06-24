@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a39d92d53e7df9d",
+        "id": "597dd5181460f0d5",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/vue的不同构建版本.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 63.64522417153996,
+        "dimension": 63.92649903288201,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#📅任务管理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,28 +60,28 @@
             }
           },
           {
-            "id": "46165ddb1970e70d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8022282199e47d02",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "46165ddb1970e70d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 36.35477582846004,
+        "dimension": 36.07350096711799,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -90,27 +95,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 299
   },
   "right": {
     "id": "b105e6a105c3707c",
     "type": "split",
     "children": [
       {
-        "id": "fa54c183722c0040",
+        "id": "7a816b97e3effd0a",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 35.783365570599614,
         "children": [
           {
-            "id": "c3a00fd93dc09a21",
+            "id": "340732f8f09c09c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "9999-信箱/vue的不同构建版本.md"
+              }
             }
           },
           {
-            "id": "72778af26d7a4aa2",
+            "id": "e7f8df0058a77ade",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -124,12 +131,19 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4278453747cdd498",
+        "type": "tabs",
+        "dimension": 36.847195357833655,
+        "children": [
           {
-            "id": "ba3cdf8a24203ea8",
+            "id": "c3a00fd93dc09a21",
             "type": "leaf",
             "state": {
-              "type": "dictionary-view",
+              "type": "graph",
               "state": {}
             }
           },
@@ -140,39 +154,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "535c94d14c1b3644",
-        "type": "tabs",
-        "dimension": 33.528265107212476,
-        "children": [
-          {
-            "id": "340732f8f09c09c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           },
           {
-            "id": "2b770b3c8ea318d5",
+            "id": "ba3cdf8a24203ea8",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "dictionary-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "44afa61abb5d7c2c",
         "type": "tabs",
-        "dimension": 33.13840155945419,
+        "dimension": 27.36943907156673,
         "children": [
           {
             "id": "cf254ce72212bb7b",
@@ -180,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,28 +194,41 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "9fd37984a2bb73a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 286.5
   },
-  "active": "2a39d92d53e7df9d",
+  "active": "597dd5181460f0d5",
   "lastOpenFiles": [
-    "~日记~/2022-06-23.md",
-    "~日记~/2022-06-22.md",
-    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
-    "node的process.nextTick.md",
-    "1000-技术/前端/浏览器/浏览器URL限制.md",
-    "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md",
-    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
-    "1000-技术/前端/文档合集.md",
-    "1000-技术/未命名.md",
-    "✨知识社区.md"
+    "9999-信箱/vue的不同构建版本.md",
+    "📅任务管理.md",
+    "README.md",
+    "-模板-/通用模板.md",
+    "✨知识社区.md",
+    "9999-信箱/测试.md",
+    "9999-信箱/未命名 1.md",
+    "中国国民党第一次全国代.md",
+    "-模板-/test模板.md",
+    "9999-信箱/我的世界.md"
   ]
 }
