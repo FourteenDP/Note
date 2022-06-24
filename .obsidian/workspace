@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+            "file": "📚知识博客.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
+                "file": "📚知识博客.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,6 +219,7 @@
   },
   "active": "1bc5bb015d7e40db",
   "lastOpenFiles": [
+    "📚知识博客.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
@@ -228,7 +228,6 @@
     "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/其它/代码生成.md",
     "9999-信箱/未命名.md",
-    "📚知识博客.md",
     "✨知识社区.md"
   ]
 }
