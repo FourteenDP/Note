@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md",
+            "file": "1000-技术/前端/文档合集.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "多行",
+                "query": "path: 文档",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md"
+                "file": "1000-技术/前端/文档合集.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md",
+                "file": "1000-技术/前端/文档合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md",
+                "file": "1000-技术/前端/文档合集.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,8 +220,8 @@
   },
   "active": "1bc5bb015d7e40db",
   "lastOpenFiles": [
-    "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md",
     "1000-技术/前端/文档合集.md",
+    "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md",
     "📚知识博客.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
