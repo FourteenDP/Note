@@ -75,14 +75,14 @@
       "Two Space Linebreak": false
     },
     "Heading blank lines": {
-      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": true,
-      "Bottom": true
+      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": false,
+      "Bottom": false
     },
     "Paragraph blank lines": {
-      "All paragraphs should have exactly one blank line both before and after.": true
+      "All paragraphs should have exactly one blank line both before and after.": false
     },
     "Space after list markers": {
-      "There should be a single space after list markers and checkboxes.": true
+      "There should be a single space after list markers and checkboxes.": false
     },
     "Remove Empty Lines Between List Markers and Checklists": {
       "There should not be any empty lines between list markers and checklists.": true
