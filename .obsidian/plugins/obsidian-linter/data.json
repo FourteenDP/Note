@@ -42,37 +42,37 @@
       "Ensures that footnote references are placed after punctuation, not before.": false
     },
     "Remove Multiple Spaces": {
-      "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": true
+      "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": false
     },
     "Remove Hyphenated Line Breaks": {
-      "Removes hyphenated line breaks. Useful when pasting text from textbooks.": true
+      "Removes hyphenated line breaks. Useful when pasting text from textbooks.": false
     },
     "Remove Consecutive List Markers": {
-      "Removes consecutive list markers. Useful when copy-pasting list items.": true
+      "Removes consecutive list markers. Useful when copy-pasting list items.": false
     },
     "Remove Empty List Markers": {
-      "Removes empty list markers, i.e. list items without content.": true
+      "Removes empty list markers, i.e. list items without content.": false
     },
     "Convert Bullet List Markers": {
-      "Converts common bullet list marker symbols to markdown list markers.": true
+      "Converts common bullet list marker symbols to markdown list markers.": false
     },
     "Proper Ellipsis": {
-      "Replaces three consecutive dots with an ellipsis.": true
+      "Replaces three consecutive dots with an ellipsis.": false
     },
     "Emphasis Style": {
-      "Makes sure the emphasis style is consistent.": true,
+      "Makes sure the emphasis style is consistent.": false,
       "Style": "consistent"
     },
     "Strong Style": {
-      "Makes sure the strong style is consistent.": true,
+      "Makes sure the strong style is consistent.": false,
       "Style": "consistent"
     },
     "No Bare URLs": {
-      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": true
+      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": false
     },
     "Trailing spaces": {
-      "Removes extra spaces after every line.": true,
-      "Two Space Linebreak": true
+      "Removes extra spaces after every line.": false,
+      "Two Space Linebreak": false
     },
     "Heading blank lines": {
       "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": true,
