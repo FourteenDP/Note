@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: 文档",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
