@@ -28,18 +28,18 @@
     "Capitalize Headings": {
       "Headings should be formatted with capitalization": false,
       "Style": "Title Case",
-      "Ignore Cased Words": true,
+      "Ignore Cased Words": false,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "Move Footnotes to the bottom": {
-      "Move all footnotes to the bottom of the document.": true
+      "Move all footnotes to the bottom of the document.": false
     },
     "Re-Index Footnotes": {
-      "Re-indexes footnote keys and footnote, based on the order of occurence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": true
+      "Re-indexes footnote keys and footnote, based on the order of occurence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
     },
     "Footnote after Punctuation": {
-      "Ensures that footnote references are placed after punctuation, not before.": true
+      "Ensures that footnote references are placed after punctuation, not before.": false
     },
     "Remove Multiple Spaces": {
       "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": true
