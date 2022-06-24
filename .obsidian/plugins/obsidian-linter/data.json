@@ -11,7 +11,7 @@
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
       "Date Created": false,
       "Date Created Key": "date created",
-      "Date Modified": true,
+      "Date Modified": false,
       "Date Modified Key": "date updated",
       "Format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -20,13 +20,13 @@
       "Title Key": "title"
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": true
+      "Heading levels should only increment by one level at a time": false
     },
     "File Name Heading": {
-      "Inserts the file name as a H1 heading if no H1 heading exists.": true
+      "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Capitalize Headings": {
-      "Headings should be formatted with capitalization": true,
+      "Headings should be formatted with capitalization": false,
       "Style": "Title Case",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
