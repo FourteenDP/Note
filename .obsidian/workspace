@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/vue的不同构建版本.md",
+            "file": "1000-技术/前端/JavaScript/原型链.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📅任务管理",
+                "query": "原型",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md"
+                "file": "1000-技术/前端/JavaScript/原型链.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "1000-技术/前端/JavaScript/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "1000-技术/前端/JavaScript/原型链.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,6 +220,8 @@
   },
   "active": "597dd5181460f0d5",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/原型链.md",
+    "1000-技术/前端/其它/前端开发知识点.md",
     "9999-信箱/vue的不同构建版本.md",
     "📅任务管理.md",
     "README.md",
@@ -227,8 +229,6 @@
     "✨知识社区.md",
     "9999-信箱/测试.md",
     "9999-信箱/未命名 1.md",
-    "中国国民党第一次全国代.md",
-    "-模板-/test模板.md",
-    "9999-信箱/我的世界.md"
+    "中国国民党第一次全国代.md"
   ]
 }
