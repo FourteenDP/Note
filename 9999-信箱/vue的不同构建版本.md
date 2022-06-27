@@ -3,11 +3,11 @@ aliases: vue不同的构建版本
 tags:
   - vue不同的构建版本
 date created: 2022-06-23 21:55
-date updated: 2022-06-24 13:24:36
-title: vue的不同构建版本
+date updated: 2022-06-27 10:17:11
+title: Vue 的不同构建版本
 ---
 
-# vue 的不同构建版本
+# Vue 的不同构建版本
 
 # 参考资料
 
