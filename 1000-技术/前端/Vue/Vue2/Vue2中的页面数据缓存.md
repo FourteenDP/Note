@@ -1,9 +1,9 @@
 ---
 aliases: 
 tags: 
-date created: 2022-06-11 14:39
-date updated: 2022-06-23 10:06:20
-title: Vue2中的页面数据缓存
+date created: 2022-06-11 14:39:00
+date updated: 2022-06-27 10:18:40
+title: Vue2 中的页面数据缓存
 ---
 
 # Vue2 中的页面数据缓存
