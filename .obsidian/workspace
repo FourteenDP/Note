@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚知识博客.md",
+            "file": "1000-技术/前端/文档合集.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚知识博客.md"
+                "file": "1000-技术/前端/文档合集.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "1000-技术/前端/文档合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "1000-技术/前端/文档合集.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "9a575a3f1935ba6b",
   "lastOpenFiles": [
+    "1000-技术/前端/文档合集.md",
     "📚知识博客.md",
     "📅任务管理.md",
     "✨知识社区.md",
@@ -226,7 +227,6 @@
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
-    "1000-技术/前端/文档合集.md",
     "1000-技术/环境配置/Windows创建软连接.md",
     "1000-技术/环境配置/Windows终端设置代理.md"
   ]
