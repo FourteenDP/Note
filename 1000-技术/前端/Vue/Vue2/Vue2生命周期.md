@@ -3,33 +3,23 @@ aliases:
 tags: 
 date created: 2022-06-06 22:49:23
 date modified: 2022-06-06 22:52:19
-date updated: 2022-06-23 10:06:20
-title: VUE2生命周期
+date updated: 2022-06-27 10:23:45
+title: VUE2 生命周期
 ---
 
 # VUE2 生命周期
 
 ## 简介
 
-  
-
 - Vue 实例有一个完整的生命周期，也就是说从开始创建、初始化数据、编译模板、挂在 DOM、渲染 - 更新 - 渲染、卸载等一系列过程，我们成为 Vue 实例的生命周期，钩子就是在某个阶段给你一个做某些处理的机会。
-
-  
 
 ![Vue生命周期](https://picbed.fourteen.top/20210830_003514.png)
 
-  
-
 ## BEFORECREATE（创建前）
-
-  
 
 - 在实例初始化之后，进行数据侦听和时间/侦听器的配置之前同步调用
 - 这个时候，数据还没有挂载呢，只是一个空壳
 - 此时组件的选项对象还未创建，el 和 data 并未初始化，因此无法访问 methods， data， computed 等上的方法和数据。
-
-  
 
 ## CREATED（创建后）
 
@@ -109,22 +99,11 @@ title: VUE2生命周期
 
 ## DESTROYED（销毁后）
 
-  
-
 - 实例销毁后调用。该钩子被调用后，对应 Vue 实例的所有指令都被解绑，所有的事件监听器被移除，所有的子实例也都被销毁。
 
-  
-
 ## ERRORCAPTURED（捕获后代组件错误）
-
-  
-
 - 在子组件发生错误时调用
 
-  
-
 ## ACTIVATED（被 [[Vue路由Keep-alive实现原理|KEEP-ALIVE]] 缓存的组件激活时调用）
-
-  
 
 ## DEACTIVATED（被 [[Vue路由Keep-alive实现原理|KEEP-ALIVE]] 缓存的组件失活时调用
