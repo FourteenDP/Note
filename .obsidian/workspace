@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,15 +219,15 @@
   },
   "active": "9a575a3f1935ba6b",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "✨知识社区.md",
+    "📚知识博客.md",
     "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
     "1000-技术/前端/文档合集.md",
     "1000-技术/环境配置/Windows创建软连接.md",
-    "1000-技术/环境配置/Windows终端设置代理.md",
-    "2000-高效/写作/如何编写好的技术文档.md",
-    "2000-高效/学习/记忆方法.md",
-    "2000-高效/学习/笔记方法.md"
+    "1000-技术/环境配置/Windows终端设置代理.md"
   ]
 }
