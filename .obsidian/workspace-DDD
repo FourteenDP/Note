@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "819c70c786b903e7",
+        "id": "9a575a3f1935ba6b",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚知识博客.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚知识博客.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,17 +217,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "819c70c786b903e7",
+  "active": "9a575a3f1935ba6b",
   "lastOpenFiles": [
-    "1000-技术/前端/前端文档.md",
-    "9999-信箱/inpnt框常见样式修改.md",
-    "✨知识社区.md",
     "📚知识博客.md",
+    "✨知识社区.md",
+    "README.md",
     "📅任务管理.md",
-    "9999-信箱/vue的不同构建版本.md",
-    "9999-信箱/node的process.nextTick.md",
-    "~日记~/2022-06-27.md",
+    "1000-技术/前端/文档合集.md",
     "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
-    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
+    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
+    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+    "1000-技术/环境配置/Windows创建软连接.md"
   ]
 }
