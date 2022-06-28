@@ -7,8 +7,13 @@
         "id": "e4b8ad43f680c052",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚知识博客.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚知识博客.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,15 +219,15 @@
   },
   "active": "e4b8ad43f680c052",
   "lastOpenFiles": [
+    "📚知识博客.md",
+    "📅任务管理.md",
+    "✨知识社区.md",
     "~日记~/2022-06-27.md",
     "9999-信箱/image标签图片的白边.md",
     "README.md",
-    "📅任务管理.md",
-    "📚知识博客.md",
     "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
     "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/前端文档.md",
-    "9999-信箱/inpnt框常见样式修改.md",
-    "✨知识社区.md"
+    "9999-信箱/inpnt框常见样式修改.md"
   ]
 }
