@@ -3,7 +3,7 @@ title: Vue3 组件库
 aliases: 
 tags: 
 date created: 2022-06-28 10:00:31
-date updated: 2022-06-28 10:14:43
+date updated: 2022-06-28 10:21:09
 ---
 
 # Vue3 组件库
@@ -12,6 +12,7 @@ date updated: 2022-06-28 10:14:43
 
 - [Vant 3 - 轻量、可靠的移动端组件库](https://vant-contrib.gitee.io/vant/#/zh-CN#jie-shao)
 - [NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://nutui.jd.com/#/)
+- [面向 Vue3 的 Material 风格移动端组件库](https://varlet.gitee.io/varlet-ui/#/zh-CN/index)
 
 ## 电脑
 
