@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/其它/便携蓝牙打印机.md",
+            "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/其它/便携蓝牙打印机.md"
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/其它/便携蓝牙打印机.md",
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/其它/便携蓝牙打印机.md",
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +219,8 @@
   },
   "active": "819c70c786b903e7",
   "lastOpenFiles": [
-    "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
+    "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/前端文档.md",
     "9999-信箱/inpnt框常见样式修改.md",
     "✨知识社区.md",
