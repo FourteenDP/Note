@@ -7,8 +7,11 @@
         "id": "e4b8ad43f680c052",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "diff-view",
+          "state": {
+            "file": "~日记~/2022-06-28.md",
+            "staged": false
+          }
         }
       }
     ],
