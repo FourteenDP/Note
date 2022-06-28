@@ -7,10 +7,12 @@
         "id": "e4b8ad43f680c052",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
             "file": "~日记~/2022-06-28.md",
-            "staged": false
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -73,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -109,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "~日记~/2022-06-28.md"
+              }
             }
           },
           {
@@ -173,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~日记~/2022-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "~日记~/2022-06-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,15 +219,15 @@
   },
   "active": "e4b8ad43f680c052",
   "lastOpenFiles": [
-    "1000-技术/前端/前端文档.md",
-    "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
-    "1000-技术/项目/开源项目.md",
-    "1000-技术/前端/其它/APP混合开发.md",
-    "1000-技术/前端/其它/小程序容器技术.md",
-    "1000-技术/前端/其它/前端微服务.md",
-    "1000-技术/前端/其它/前端面试题.md",
-    "1000-技术/前端/其它/前端开发知识点.md",
-    "1000-技术/前端/其它/前端工作笔记.md",
-    "1000-技术/前端/其它/前端工具.md"
+    "~日记~/2022-06-28.md",
+    "~日记~/2022-06-27.md",
+    "~日记~/2022-06-23.md",
+    "~日记~/2022-06-22.md",
+    "~日记~/2022-06-20.md",
+    "~日记~/2022-06-10.md",
+    "~日记~/2022-06-09.md",
+    "-模板-/通用模板.md",
+    "-模板-/日记.md",
+    "~采集~/采集.md"
   ]
 }
