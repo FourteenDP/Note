@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
+            "file": "1000-技术/前端/前端文档.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md"
+                "file": "1000-技术/前端/前端文档.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
+                "file": "1000-技术/前端/前端文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
+                "file": "1000-技术/前端/前端文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,6 +220,7 @@
   },
   "active": "e4b8ad43f680c052",
   "lastOpenFiles": [
+    "1000-技术/前端/前端文档.md",
     "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/其它/APP混合开发.md",
@@ -228,7 +229,6 @@
     "1000-技术/前端/其它/前端面试题.md",
     "1000-技术/前端/其它/前端开发知识点.md",
     "1000-技术/前端/其它/前端工作笔记.md",
-    "1000-技术/前端/其它/前端工具.md",
-    "1000-技术/前端/前端文档.md"
+    "1000-技术/前端/其它/前端工具.md"
   ]
 }
