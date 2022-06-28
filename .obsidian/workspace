@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b8ad43f680c052",
+        "id": "76663efeee01b862",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~日记~/2022-06-28.md",
+            "file": "📚知识博客.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~日记~/2022-06-28.md"
+                "file": "📚知识博客.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~日记~/2022-06-28.md",
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~日记~/2022-06-28.md",
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "e4b8ad43f680c052",
+  "active": "76663efeee01b862",
   "lastOpenFiles": [
-    "~日记~/2022-06-28.md",
-    "~日记~/2022-06-27.md",
-    "~日记~/2022-06-23.md",
-    "~日记~/2022-06-22.md",
-    "~日记~/2022-06-20.md",
-    "~日记~/2022-06-10.md",
-    "~日记~/2022-06-09.md",
+    "📚知识博客.md",
+    "📅任务管理.md",
+    "✨知识社区.md",
+    "0000-拾肆/防脱生发.md",
+    "0000-拾肆/辞职通知-邓某某-范文.md",
+    "~采集~/采集.md",
     "-模板-/通用模板.md",
     "-模板-/日记.md",
-    "~采集~/采集.md"
+    "~日记~/2022-06-28.md",
+    "~日记~/2022-06-27.md"
   ]
 }
