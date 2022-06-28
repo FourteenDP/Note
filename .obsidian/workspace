@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "vue3组件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,6 +220,7 @@
   },
   "active": "e4b8ad43f680c052",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/其它/APP混合开发.md",
     "1000-技术/前端/其它/小程序容器技术.md",
@@ -228,7 +229,6 @@
     "1000-技术/前端/其它/前端开发知识点.md",
     "1000-技术/前端/其它/前端工作笔记.md",
     "1000-技术/前端/其它/前端工具.md",
-    "1000-技术/前端/前端文档.md",
-    "📚知识博客.md"
+    "1000-技术/前端/前端文档.md"
   ]
 }
