@@ -7,8 +7,13 @@
         "id": "76663efeee01b862",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅任务管理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📅任务管理.md"
+              }
             }
           },
           {
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,9 +218,9 @@
   "active": "76663efeee01b862",
   "lastOpenFiles": [
     "📅任务管理.md",
+    "📚知识博客.md",
     "✨知识社区.md",
     "README.md",
-    "📚知识博客.md",
     "-模板-/通用模板.md",
     "~采集~/采集.md",
     "0000-拾肆/防脱生发.md",
