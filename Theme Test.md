@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:45:42
+date updated: 2022-07-01 23:46:59
 ---
 
 # Heading Level 1
@@ -98,5 +98,5 @@ At the command prompt, type `nano`.
 
 ###### 图片
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
 
+[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
