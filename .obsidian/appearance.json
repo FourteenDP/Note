@@ -1,10 +1,10 @@
 {
   "baseFontSize": 20,
-  "cssTheme": "Yin and Yang",
+  "cssTheme": "",
   "enabledCssSnippets": [],
   "translucency": false,
   "theme": "moonstone",
-  "interfaceFontFamily": "楷体",
+  "interfaceFontFamily": "楷体,Consolas",
   "textFontFamily": "",
   "baseFontSizeAction": true
 }
