@@ -4,7 +4,7 @@
   "enabledCssSnippets": [],
   "translucency": false,
   "theme": "moonstone",
-  "interfaceFontFamily": "黑体,Fira Code Retina",
-  "textFontFamily": "",
+  "interfaceFontFamily": "Fira Code Retina,微软雅黑",
+  "textFontFamily": "Fira Code Retina,楷体",
   "baseFontSizeAction": true
 }
