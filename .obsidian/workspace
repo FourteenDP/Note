@@ -7,9 +7,17 @@
         "id": "d573b7a667bde46d",
         "type": "leaf",
         "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "d4de214474f7a9d1",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "~日记~/2022-07-01.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "~日记~/2022-07-01.md"
               }
             }
           },
@@ -176,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "~日记~/2022-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "~日记~/2022-07-01.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,8 +225,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "d573b7a667bde46d",
+  "active": "d4de214474f7a9d1",
   "lastOpenFiles": [
+    "~日记~/2022-07-01.md",
+    "9999-信箱/uniapp-$refs初始化失败.md",
     "README.md",
     "📚知识博客.md",
     "📅任务管理.md",
