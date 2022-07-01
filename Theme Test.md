@@ -150,17 +150,7 @@ Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 ```
 
 $$
-\documentclass[12pt]{article}
-\usepackage{graphicx} %use graph format
-\usepackage{epstopdf}
-\begin{document}
-	\begin{figure}
-		\centering
-		\includegraphics{fig.eps}
-		\caption{yes}
-		\label{1}
-	\end{figure}
-\end{document}
+\Longrightarrow 或 \implies
 $$
 
 
