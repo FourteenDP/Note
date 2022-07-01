@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:55:22
+date updated: 2022-07-01 23:55:55
 ---
 
 # Heading Level 1
@@ -104,4 +104,4 @@ At the command prompt, type `nano`.
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
-「`AT&amp;T`」
+This **word** is <mark style="background: #FFF3A3A6;">bold</mark> . This <em>word</em> is italic.
