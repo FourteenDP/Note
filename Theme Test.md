@@ -29,46 +29,45 @@ This is really***very***important text.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> 
+> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > #### The quarterly results look great!
->
+> 
 > - [ ] Revenue was off the chart.
+> 
 > - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
+>   
+>   *Everything* is going according to **plan**.
 
 > [!note]
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> 
+> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 #### Heading Level 4
 
 1. First item  
 2. Second item  
 3. Third item  
-    1. Indented item  
-    2. Indented item  
+       1. Indented item  
+       2. Indented item  
 4. Fourth item
-
 - First item  
 - Second item  
 - Third item  
   - Indented item
   - Indented item
 - Fourth item
-
 1. First item
 2. Second item
 3. Third item
-  - Indented item
-  - Indented item
+   - Indented item
+   - Indented item
 4. Fourth item
 
 ##### Heading Level 5
@@ -78,7 +77,11 @@ At the command prompt, type `nano`.
 ``Use `code` in your Markdown file.``
 
 ```javascript
-
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 ```
 
 ###### Heading Level 6
