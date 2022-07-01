@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:40:25
+date updated: 2022-07-02 00:26:24
 ---
 
 # Heading Level 1
@@ -31,24 +31,24 @@ This is really***very***important text.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
+> 
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > #### The quarterly results look great!
->
+> 
 > - [ ] Revenue was off the chart.
->
+> 
 > - Profits were higher than ever.
->
+>   
 >   *Everything* is going according to **plan**.
 
 > [!note]
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
+> 
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 #### Heading Level 4
@@ -123,6 +123,13 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 
 Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 
+[^1]:
+[^2]: This is the first footnote.
+[^3]: Here's one with multiple paragraphs and code.
+[^4]: 我的世界
+
+---
+
 ```vega-lite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
@@ -147,7 +154,4 @@ Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 }
 ```
 
-[^1]:
-[^1]: This is the first footnote.
-[^2]: Here's one with multiple paragraphs and code.
-[^3]: 我的世界
+
