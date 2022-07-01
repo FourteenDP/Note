@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Theme Test",
+      "path": "Theme Test.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
     {
       "basename": "📚知识博客",
       "path": "📚知识博客.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "✨知识社区",
@@ -195,10 +199,6 @@
     {
       "basename": "CSS实现文本超出显示省略号",
       "path": "1000-技术/前端/HTML&CSS/CSS实现文本超出显示省略号.md"
-    },
-    {
-      "basename": "代码生成",
-      "path": "1000-技术/前端/其它/代码生成.md"
     }
   ],
   "omittedPaths": [],
