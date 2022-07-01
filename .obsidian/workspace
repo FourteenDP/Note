@@ -7,13 +7,8 @@
         "id": "d573b7a667bde46d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📚知识博客.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📚知识博客.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,9 +210,9 @@
   },
   "active": "d573b7a667bde46d",
   "lastOpenFiles": [
-    "📚知识博客.md",
     "📅任务管理.md",
     "✨知识社区.md",
+    "📚知识博客.md",
     "README.md",
     "~日记~/2022-07-01.md",
     "9999-信箱/uni-app $refs初始化失败.md",
