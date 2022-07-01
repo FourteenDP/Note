@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/WSL命令.md",
+            "file": "1000-技术/计算机基础/WSL基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/WSL命令.md"
+                "file": "1000-技术/计算机基础/WSL基本命令.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/WSL命令.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/WSL命令.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
   },
   "active": "305eeb2edb02e8bf",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/WSL命令.md",
+    "1000-技术/计算机基础/WSL基本命令.md",
     "~日记~/2022-07-02.md",
     "~日记~/2022-07-01.md",
     "~日记~/2022-06-28.md",
