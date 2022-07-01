@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:41:17
+date updated: 2022-07-01 23:41:30
 ---
 
 # Heading Level 1
@@ -85,4 +85,7 @@ At the command prompt, type `nano`.
 ```
 
 ###### Heading Level 6
+
 ---
+
+这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
