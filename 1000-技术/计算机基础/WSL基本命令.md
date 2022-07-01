@@ -3,7 +3,7 @@ title: WSL 基本命令
 aliases: 
 tags: 
 date created: 2022-07-01 21:28:30
-date updated: 2022-07-01 21:37:48
+date updated: 2022-07-01 21:37:52
 ---
 
 # WSL 基本命令
@@ -258,6 +258,6 @@ lxrun /[Argument]
 
 这些命令是用于配置随 WSL 安装的 Linux 发行版的原始 wsl 语法，但已替换为 `wsl` 或 `wsl.exe` 命令语法。
 
-## 引用
+# 引用
 
 - [WSL 的基本命令 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install-a-specific-linux-distribution)
