@@ -7,8 +7,13 @@
         "id": "305eeb2edb02e8bf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/计算机基础/WSL命令.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -70,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/WSL命令.md"
+              }
             }
           },
           {
@@ -169,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/WSL命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/WSL命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,6 +217,7 @@
   },
   "active": "305eeb2edb02e8bf",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/WSL命令.md",
     "~日记~/2022-07-02.md",
     "~日记~/2022-07-01.md",
     "~日记~/2022-06-28.md",
@@ -217,7 +226,6 @@
     "-附件-/CMD终端代理设置环境变量.png",
     "-附件-/中国近代史时间轴图.png",
     "-附件-/原型链.png",
-    "-附件-/Linux目录结构.png",
-    "📅任务管理.md"
+    "-附件-/Linux目录结构.png"
   ]
 }
