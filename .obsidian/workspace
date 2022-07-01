@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "76663efeee01b862",
+        "id": "d573b7a667bde46d",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
+          "type": "empty",
           "state": {}
         }
       }
@@ -208,7 +208,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "76663efeee01b862",
+  "active": "d573b7a667bde46d",
   "lastOpenFiles": [
     "~日记~/2022-07-01.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
