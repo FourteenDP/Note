@@ -109,3 +109,28 @@ h6 a
   color var( --text-title-h6 ) !important
   font-weight 500 !important
   font-size 1.2em !important
+
+table
+  border 1px solid var( --background-secondary ) !important
+  border-collapse collapse
+
+th
+  border 0 !important
+  background-color var( --table-header )
+  color var( --frost0 )
+  text-align left
+  font-weight 600 !important
+
+td
+  border-right 0 !important
+  border-bottom 1px solid var( --background-secondary ) !important
+  border-left 0 !important
+
+tr:nth-child(even)
+  background-color var( --table-row-even )
+
+tr:nth-child(odd)
+  background-color var( --table-row-odd )
+
+tr:hover
+  background-color var( --table-hover )
