@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 02:02:28
+date updated: 2022-07-02 02:04:16
 ---
 
 # Heading Level 1
@@ -42,6 +42,9 @@ This is really***very***important text.
 >
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+> [!Warning]
+> Your changes will not be saved, so please don't take actual notes in this vault.
+
 > [!error]
 > #### The quarterly results look great!
 >
@@ -57,6 +60,8 @@ This is really***very***important text.
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 >
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+![[]]
 
 #### Heading Level 4
 
