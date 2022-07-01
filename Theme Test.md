@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:50:22
+date updated: 2022-07-02 01:01:09
 ---
 
 # Heading Level 1
@@ -31,24 +31,24 @@ This is really***very***important text.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
-> 
+>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-> 
+>
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > #### The quarterly results look great!
-> 
+>
 > - [ ] Revenue was off the chart.
-> 
+>
 > - Profits were higher than ever.
->   
+>
 >   *Everything* is going according to **plan**.
 
 > [!note]
 > Dorothy followed her through many of the beautiful rooms in her castle.
-> 
+>
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-> 
+>
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 #### Heading Level 4
@@ -219,9 +219,6 @@ Browser --> User
 
 @enduml@
 ```
-
-
-
 
 ```plantuml
 @startuml
