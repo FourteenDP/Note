@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:11:26
+date updated: 2022-07-02 00:13:20
 ---
 
 # Heading Level 1
@@ -73,7 +73,7 @@ This is really***very***important text.
 4. Fourth item
 
 - [x] Write the press release
-- [ ] Update the website
+- [x] Update the website ✅ 2022-07-02
 - [ ] Contact the media
 
 ##### Heading Level 5
@@ -83,11 +83,15 @@ At the command prompt, type `nano`.
 ``Use `code` in your Markdown file.``
 
 ```javascript
-{
+
+let obj = {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+
+console.log(obj)
+
 ```
 
 ###### Heading Level 6
@@ -117,6 +121,8 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 |:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | --------- |
 | Header    |    Title    | Here's this |      |      |      |      |      | Test      |
 | Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
+
+:joy:
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
