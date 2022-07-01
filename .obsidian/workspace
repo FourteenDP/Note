@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7282382d6677b0e5",
+        "id": "891f8836395e7087",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/img/shiprock.jpg.md",
+            "file": "Theme Test.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 399
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/shiprock.jpg.md"
+                "file": "Theme Test.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/shiprock.jpg.md",
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/shiprock.jpg.md",
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,11 +215,11 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "7282382d6677b0e5",
+  "active": "891f8836395e7087",
   "lastOpenFiles": [
-    "assets/img/shiprock.jpg.md",
     "Theme Test.md",
     "README.md",
+    "assets/img/shiprock.jpg.md",
     "📅任务管理.md",
     "📚知识博客.md",
     "✨知识社区.md",
