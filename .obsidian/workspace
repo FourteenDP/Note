@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme Test.md",
+            "file": "assets/img/shiprock.jpg.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "assets/img/shiprock.jpg.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "assets/img/shiprock.jpg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "assets/img/shiprock.jpg.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,6 +217,7 @@
   },
   "active": "7282382d6677b0e5",
   "lastOpenFiles": [
+    "assets/img/shiprock.jpg.md",
     "Theme Test.md",
     "README.md",
     "📅任务管理.md",
@@ -225,7 +226,6 @@
     "~日记~/2022-07-01.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
-    "~日记~/2022-07-02.md",
-    "~日记~/2022-06-28.md"
+    "~日记~/2022-07-02.md"
   ]
 }
