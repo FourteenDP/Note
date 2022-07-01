@@ -124,7 +124,9 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 
 :joy:
 
-Here's a simple footnote,[^1] and here's a longer[^2] one.
+Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 
-[^1]: This is the first footnote.
-[^2]: Here's one with multiple paragraphs and code.
+[^1]:
+[^2]: This is the first footnote.
+[^3]: Here's one with multiple paragraphs and code.
+[^4]: 我的世界

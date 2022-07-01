@@ -8,14 +8,6 @@
       "key": "F"
     }
   ],
-  "obsidian-footnotes:insert-footnote": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "obsidian-tidy-footnotes:tidy-footnotes": [
     {
       "modifiers": [
@@ -41,6 +33,14 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "6"
     }
   ]
 }
