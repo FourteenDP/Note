@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:00:47
+date updated: 2022-07-02 00:06:03
 ---
 
 # Heading Level 1
@@ -102,12 +102,23 @@ At the command prompt, type `nano`.
 
 This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> word </em> is italic.
 
-| Syntax    | Description |    TestText | Test | Test | Test | Test | Test | Test      |
-|:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | --------- |
-| Header    |    Title    | Here's this |      |      |      |      |      | Test      |
-| Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
+| Syntax    | Description |    TestText | Test      |
+|:--------- |:-----------:| -----------:| --------- |
+| Header    |    Title    | Here's this | Test      |
+| Paragraph |    Text     |    And more | Test Text |
 
 | Syntax    | Description |    TestText | Test | Test | Test | Test | Test | Test      |
 |:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | --------- |
 | Header    |    Title    | Here's this |      |      |      |      |      | Test      |
 | Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
+
+Here's a simple footnote,[^1] and here's a longer one.[^2]
+
+[^1]: This is the first footnote.
+[^2]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
