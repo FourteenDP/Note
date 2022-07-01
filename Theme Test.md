@@ -97,3 +97,6 @@ At the command prompt, type `nano`.
 <fake@example.com>
 
 ###### 图片
+
+![这是图片](/附件/盒子模型)
+
