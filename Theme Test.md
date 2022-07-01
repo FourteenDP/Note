@@ -224,5 +224,20 @@ Browser --> User
 
 
 ```plantuml
+@startuml
 
+actor A
+actor B
+
+A -up-> (up)
+A -right-> (center)
+A -down-> (down)
+A -left-> (left)
+
+B -up-> (up)
+B -left-> (center)
+B -right-> (right)
+B -down-> (down)
+
+@enduml
 ```
