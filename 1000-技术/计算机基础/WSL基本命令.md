@@ -70,7 +70,7 @@ wsl --set-default-version <Version>
 
 若要将默认版本设置为 WSL 1 或 WSL 2，请将 `<Version>` 替换为数字 1 或 2，表示对于安装新的 Linux 发行版，你希望默认使用哪个版本的 WSL。 例如，`wsl --set-default-version 2`。 [比较 WSL 1 和 WSL 2](https://docs.microsoft.com/zh-cn/windows/wsl/compare-versions)。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#set-default-linux-distribution)设置默认 Linux 发行版
+## 设置默认 Linux 发行版
 
 PowerShell复制
 
@@ -80,7 +80,7 @@ wsl --set-default <Distribution Name>
 
 若要设置 WSL 命令将用于运行的默认 Linux 发行版，请将 `<Distribution Name>` 替换为你首选的 Linux 发行版的名称。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#change-directory-to-home)将目录更改为主页
+## 将目录更改为主页
 
 PowerShell复制
 
@@ -90,7 +90,7 @@ wsl ~
 
 `~` 可与 wsl 一起使用，以在用户的主目录中启动。 若要在 WSL 命令提示符中从任何目录跳回到主目录，可使用命令 `cd ~`。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#run-a-specific-linux-distribution-from-powershell-or-cmd)通过 PowerShell 或 CMD 运行特定的 Linux 发行版
+## 通过 PowerShell 或 CMD 运行特定的 Linux 发行版
 
 PowerShell复制
 
@@ -100,7 +100,7 @@ wsl --distribution <Distribution Name> --user <User Name>
 
 若要通过特定用户运行特定 Linux 发行版，请将 `<Distribution Name>` 替换为你首选的 Linux 发行版的名称（例如 Debian），将 `<User Name>` 替换为现有用户的名称（例如 root）。 如果 WSL 发行版中不存在该用户，你将会收到一个错误。 若要输出当前用户名，请使用 `whoami` 命令。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#update-wsl)更新 WSL
+## 更新 WSL
 
 PowerShell复制
 
@@ -110,7 +110,7 @@ wsl --update
 
 手动更新 WSL Linux 内核的版本。 还可以使用 `wsl --update rollback` 命令回滚到 WSL Linux 内核的上一版本。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#check-wsl-status)检查 WSL 状态
+## 检查 WSL 状态
 
 PowerShell复制
 
@@ -120,7 +120,7 @@ wsl --status
 
 查看有关 WSL 配置的常规信息，例如默认发行版类型、默认发行版和内核版本。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#help-command)Help 命令
+## Help 命令
 
 PowerShell复制
 
@@ -130,7 +130,7 @@ wsl --help
 
 查看 WSL 中可用的选项和命令列表。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#run-as-a-specific-user)以特定用户的身份运行
+## 以特定用户的身份运行
 
 PowerShell复制
 
@@ -140,7 +140,7 @@ wsl -u <Username>`, `wsl --user <Username>
 
 若要以指定用户身份运行 WSL，请将 `<Username>` 替换为 WSL 发行版中存在的用户名。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#change-the-default-user-for-a-distribution)更改发行版的默认用户
+## 更改发行版的默认用户
 
 PowerShell复制
 
@@ -160,7 +160,7 @@ PowerShell复制
 
 此命令不适用于导入的发行版，因为这些发行版没有可执行启动器。 可以改为使用 `/etc/wsl.conf` 文件来更改导入的发行版的默认用户。 请参阅[高级设置配置](https://docs.microsoft.com/zh-cn/windows/wsl/wsl-config#user-settings)文档中的“自动装载”选项。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#shutdown)关闭
+## 关闭
 
 PowerShell复制
 
@@ -170,7 +170,7 @@ wsl --shutdown
 
 立即终止所有正在运行的发行版和 WSL 2 轻量级实用工具虚拟机。 在需要重启 WSL 2 虚拟机环境的情形下，例如[更改内存使用限制](https://docs.microsoft.com/zh-cn/windows/wsl/vhd-size)或更改 [.wslconfig 文件](https://docs.microsoft.com/zh-cn/windows/wsl/manage#)，可能必须使用此命令。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#terminate)Terminate
+## Terminate
 
 PowerShell复制
 
@@ -180,7 +180,7 @@ wsl --terminate <Distribution Name>
 
 若要终止指定的发行版或阻止其运行，请将 `<Distribution Name>` 替换为目标发行版的名称。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#export-a-distribution-to-a-tar-file)将发行版导出到 TAR 文件
+## 将发行版导出到 TAR 文件
 
 PowerShell复制
 
@@ -190,7 +190,7 @@ wsl --export <Distribution Name> <FileName>
 
 将分发版导出到 tar 文件。 在标准输出中，文件名可以是 -。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#import-a-new-distribution)导入新发行版
+## 导入新发行版
 
 PowerShell复制
 
@@ -200,7 +200,7 @@ wsl --import <Distribution Name> <InstallLocation> <FileName>
 
 导入指定的 tar 文件作为新的分发版。 在标准输入中，文件名可以是 -。 `--version` 选项还可与此命令一起使用，用于指定导入的发行版将在 WSL 1 还是 WSL 2 上运行。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#unregister-or-uninstall-a-linux-distribution)注销或卸载 Linux 发行版
+## 注销或卸载 Linux 发行版
 
 尽管可以通过 Microsoft Store 安装 Linux 发行版，但无法通过 Store 将其卸载。
 
