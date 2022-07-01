@@ -104,4 +104,4 @@ At the command prompt, type `nano`.
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
-This **word** is <mark style="background: #FFF3A3A6;">bold</mark> . This <em>word</em> is italic.
+This **word** is bold . This <em>word</em> is italic.
