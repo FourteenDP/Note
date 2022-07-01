@@ -3,7 +3,7 @@ title: WSL 基本命令
 aliases: 
 tags: 
 date created: 2022-07-01 21:28:30
-date updated: 2022-07-01 21:34:34
+date updated: 2022-07-01 21:37:48
 ---
 
 # WSL 基本命令
@@ -12,7 +12,7 @@ date updated: 2022-07-01 21:34:34
 
 ## 安装
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --install
@@ -22,7 +22,7 @@ wsl --install
 
 ## 安装特定的 Linux 发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --install --distribution <Distribution Name>
@@ -32,7 +32,7 @@ wsl --install --distribution <Distribution Name>
 
 ## 列出可用的 Linux 发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --list --online
@@ -42,7 +42,7 @@ wsl --list --online
 
 ## 列出已安装的 Linux 发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --list --verbose
@@ -52,7 +52,7 @@ wsl --list --verbose
 
 ## 将 WSL 版本设置为 1 或 2
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --set-version <distribution name> <versionNumber>
@@ -62,7 +62,7 @@ wsl --set-version <distribution name> <versionNumber>
 
 ## 设置默认 WSL 版本
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --set-default-version <Version>
@@ -72,7 +72,7 @@ wsl --set-default-version <Version>
 
 ## 设置默认 Linux 发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --set-default <Distribution Name>
@@ -82,7 +82,7 @@ wsl --set-default <Distribution Name>
 
 ## 将目录更改为主页
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl ~
@@ -92,7 +92,7 @@ wsl ~
 
 ## 通过 PowerShell 或 CMD 运行特定的 Linux 发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --distribution <Distribution Name> --user <User Name>
@@ -102,7 +102,7 @@ wsl --distribution <Distribution Name> --user <User Name>
 
 ## 更新 WSL
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --update
@@ -112,7 +112,7 @@ wsl --update
 
 ## 检查 WSL 状态
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --status
@@ -122,7 +122,7 @@ wsl --status
 
 ## Help 命令
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --help
@@ -132,7 +132,7 @@ wsl --help
 
 ## 以特定用户的身份运行
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl -u <Username>`, `wsl --user <Username>
@@ -142,7 +142,7 @@ wsl -u <Username>`, `wsl --user <Username>
 
 ## 更改发行版的默认用户
 
-PowerShell复制
+PowerShell 复制
 
 ```
 <DistributionName> config --default-user <Username>
@@ -158,21 +158,21 @@ PowerShell复制
 
  警告
 
-此命令不适用于导入的发行版，因为这些发行版没有可执行启动器。 可以改为使用 `/etc/wsl.conf` 文件来更改导入的发行版的默认用户。 请参阅[高级设置配置](https://docs.microsoft.com/zh-cn/windows/wsl/wsl-config#user-settings)文档中的“自动装载”选项。
+此命令不适用于导入的发行版，因为这些发行版没有可执行启动器。 可以改为使用 `/etc/wsl.conf` 文件来更改导入的发行版的默认用户。 请参阅 [高级设置配置](https://docs.microsoft.com/zh-cn/windows/wsl/wsl-config#user-settings) 文档中的“自动装载”选项。
 
 ## 关闭
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --shutdown
 ```
 
-立即终止所有正在运行的发行版和 WSL 2 轻量级实用工具虚拟机。 在需要重启 WSL 2 虚拟机环境的情形下，例如[更改内存使用限制](https://docs.microsoft.com/zh-cn/windows/wsl/vhd-size)或更改 [.wslconfig 文件](https://docs.microsoft.com/zh-cn/windows/wsl/manage#)，可能必须使用此命令。
+立即终止所有正在运行的发行版和 WSL 2 轻量级实用工具虚拟机。 在需要重启 WSL 2 虚拟机环境的情形下，例如 [更改内存使用限制](https://docs.microsoft.com/zh-cn/windows/wsl/vhd-size)或更改 [.wslconfig 文件](https://docs.microsoft.com/zh-cn/windows/wsl/manage#)，可能必须使用此命令。
 
 ## Terminate
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --terminate <Distribution Name>
@@ -182,7 +182,7 @@ wsl --terminate <Distribution Name>
 
 ## 将发行版导出到 TAR 文件
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --export <Distribution Name> <FileName>
@@ -192,7 +192,7 @@ wsl --export <Distribution Name> <FileName>
 
 ## 导入新发行版
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --import <Distribution Name> <InstallLocation> <FileName>
@@ -206,7 +206,7 @@ wsl --import <Distribution Name> <InstallLocation> <FileName>
 
 注销并卸载 WSL 发行版：
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --unregister <DistributionName>
@@ -216,44 +216,48 @@ wsl --unregister <DistributionName>
 
 还可以像卸载任何其他应用商店应用程序一样卸载 Windows 计算机上的 Linux 发行版应用。 若要重新安装，请在 Microsoft Store 中找到该发行版，然后选择“启动”。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#mount-a-disk-or-device)装载磁盘或设备
+## 装载磁盘或设备
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wsl --mount <DiskPath>
 ```
 
-通过将 `<DiskPath>` 替换为物理磁盘所在的目录\文件路径，在所有 WSL2 发行版中附加和装载该磁盘。 请参阅[在 WSL 2 中装载 Linux 磁盘](https://docs.microsoft.com/zh-cn/windows/wsl/wsl2-mount-disk)。 选项包括：
+通过将 `<DiskPath>` 替换为物理磁盘所在的目录\文件路径，在所有 WSL2 发行版中附加和装载该磁盘。 请参阅 [在 WSL 2 中装载 Linux 磁盘](https://docs.microsoft.com/zh-cn/windows/wsl/wsl2-mount-disk)。 选项包括：
 
--   `wsl --mount --bare`：将磁盘附加到 WSL2，但不进行装载。
--   `wsl --mount --type <Filesystem>`：装载磁盘时使用的文件系统类型默认为 ext4（如果未指定）。 此命令也可输入为：`wsl --mount -t <Filesystem>`。可以使用 `blkid <BlockDevice>` 命令检测文件系统类型，例如：`blkid <dev/sdb1>`。
--   `wsl --mount --partition <Partition Number>`：要装载的分区的索引号默认为整个磁盘（如果未指定）。
--   `wsl --mount --options <MountOptions>`：装载磁盘时，可以包括一些特定于文件系统的选项。 例如，`wsl --mount -o "data-ordered"` 或 `wsl --mount -o "data=writeback` 之类的 [ext4 装载选项](https://www.kernel.org/doc/Documentation/filesystems/ext4.txt)。 但是，目前仅支持特定于文件系统的选项。 不支持通用选项，例如 `ro`、`rw` 或 `noatime`。
--   `wsl --unmount <DiskPath>`：从所有 WSL 2 发行版中卸载和分离磁盘。 如果未包含 `<DiskPath>`，则此命令将卸载并分离所有装载的磁盘。
+- `wsl --mount --bare`：将磁盘附加到 WSL2，但不进行装载。
+- `wsl --mount --type <Filesystem>`：装载磁盘时使用的文件系统类型默认为 ext4（如果未指定）。 此命令也可输入为：`wsl --mount -t <Filesystem>`。可以使用 `blkid <BlockDevice>` 命令检测文件系统类型，例如：`blkid <dev/sdb1>`。
+- `wsl --mount --partition <Partition Number>`：要装载的分区的索引号默认为整个磁盘（如果未指定）。
+- `wsl --mount --options <MountOptions>`：装载磁盘时，可以包括一些特定于文件系统的选项。 例如，`wsl --mount -o "data-ordered"` 或 `wsl --mount -o "data=writeback` 之类的 [ext4 装载选项](https://www.kernel.org/doc/Documentation/filesystems/ext4.txt)。 但是，目前仅支持特定于文件系统的选项。 不支持通用选项，例如 `ro`、`rw` 或 `noatime`。
+- `wsl --unmount <DiskPath>`：从所有 WSL 2 发行版中卸载和分离磁盘。 如果未包含 `<DiskPath>`，则此命令将卸载并分离所有装载的磁盘。
 
  备注
 
 如果你正在运行 32 位进程来访问 wsl.exe（一种 64 位工具），那么你可能需要按如下方式运行此命令：`C:\Windows\Sysnative\wsl.exe --command`。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#deprecated-wsl-commands)已弃用的 WSL 命令
+## 已弃用的 WSL 命令
 
-PowerShell复制
+PowerShell 复制
 
 ```
 wslconfig.exe [Argument] [Options]
 ```
 
-PowerShell复制
+PowerShell 复制
 
 ```
 bash [Options]
 ```
 
-PowerShell复制
+PowerShell 复制
 
 ```
 lxrun /[Argument]
 ```
 
 这些命令是用于配置随 WSL 安装的 Linux 发行版的原始 wsl 语法，但已替换为 `wsl` 或 `wsl.exe` 命令语法。
+
+## 引用
+
+- [WSL 的基本命令 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install-a-specific-linux-distribution)
