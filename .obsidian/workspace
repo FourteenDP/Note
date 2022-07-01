@@ -7,8 +7,13 @@
         "id": "7282382d6677b0e5",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅任务管理.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📅任务管理.md"
+              }
             }
           },
           {
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,15 +217,15 @@
   },
   "active": "7282382d6677b0e5",
   "lastOpenFiles": [
-    "README.md",
-    "📚知识博客.md",
     "📅任务管理.md",
+    "📚知识博客.md",
+    "README.md",
+    "✨知识社区.md",
     "~日记~/2022-07-01.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
     "~日记~/2022-07-02.md",
     "~日记~/2022-06-28.md",
-    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
-    "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
   ]
 }
