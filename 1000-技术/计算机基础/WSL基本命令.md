@@ -7,15 +7,10 @@ date updated: 2022-07-01 21:34:34
 ---
 
 # WSL 基本命令
-# WSL 的基本命令
-
--   项目
--   2022/04/08
--   4 个参与者
 
 以下 WSL 命令以 PowerShell 或 Windows 命令提示符支持的格式列出。 若要通过 Bash/Linux 发行版命令行运行这些命令，必须将 `wsl` 替换为 `wsl.exe`。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install)安装
+## 安装
 
 PowerShell复制
 
@@ -25,7 +20,7 @@ wsl --install
 
 安装 WSL 和 Linux 的 Ubuntu 发行版。 [了解详细信息](https://docs.microsoft.com/zh-cn/windows/wsl/install)。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install-a-specific-linux-distribution)安装特定的 Linux 发行版
+## 安装特定的 Linux 发行版
 
 PowerShell复制
 
@@ -35,7 +30,7 @@ wsl --install --distribution <Distribution Name>
 
 通过将 `<Distribution Name>` 替换为发行版名称，指定除默认发行版 (Ubuntu) 之外的 Linux 发行版进行安装。 此命令也可输入为：`wsl -d <Distribution Name>`。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#list-available-linux-distributions)列出可用的 Linux 发行版
+## 列出可用的 Linux 发行版
 
 PowerShell复制
 
@@ -45,7 +40,7 @@ wsl --list --online
 
 查看可通过在线商店获得的 Linux 发行版列表。 此命令也可输入为：`wsl -l -o`。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#list-installed-linux-distributions)列出已安装的 Linux 发行版
+## 列出已安装的 Linux 发行版
 
 PowerShell复制
 
@@ -55,7 +50,7 @@ wsl --list --verbose
 
 查看安装在 Windows 计算机上的 Linux 发行版列表，其中包括状态（发行版是正在运行还是已停止）和运行发行版的 WSL 版本（WSL 1 或 WSL 2）。 [比较 WSL 1 和 WSL 2](https://docs.microsoft.com/zh-cn/windows/wsl/compare-versions)。 此命令也可输入为：`wsl -l -v`。 可与 list 命令一起使用的其他选项包括：`--all`（列出所有发行版）、`--running`（仅列出当前正在运行的发行版）或 `--quiet`（仅显示发行版名称）。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#set-wsl-version-to-1-or-2)将 WSL 版本设置为 1 或 2
+## 将 WSL 版本设置为 1 或 2
 
 PowerShell复制
 
@@ -65,7 +60,7 @@ wsl --set-version <distribution name> <versionNumber>
 
 若要指定运行 Linux 发行版的 WSL 版本（1 或 2），请将 `<distribution name>` 替换为发行版的名称，并将 `<versionNumber>` 替换为 1 或 2。 [比较 WSL 1 和 WSL 2](https://docs.microsoft.com/zh-cn/windows/wsl/compare-versions)。
 
-## [](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#set-default-wsl-version)设置默认 WSL 版本
+## 设置默认 WSL 版本
 
 PowerShell复制
 
