@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:07:20
+date updated: 2022-07-02 00:07:25
 ---
 
 # Heading Level 1
@@ -112,7 +112,7 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 | Header    |    Title    | Here's this |      |      |      |      |      | Test      |
 | Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
 
-### My Great Heading {#custom-id}
+### My Great Heading {#Heading Level 6}
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
