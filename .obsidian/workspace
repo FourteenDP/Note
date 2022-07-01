@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "📅任务管理.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,6 +217,8 @@
   },
   "active": "305eeb2edb02e8bf",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "📚知识博客.md",
     "README.md",
     "~日记~/2022-07-01.md",
     "1000-技术/计算机基础/WSL基本命令.md",
@@ -224,8 +226,6 @@
     "~日记~/2022-07-02.md",
     "~日记~/2022-06-28.md",
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
-    "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
-    "-附件-/CMD终端代理设置环境变量.png",
-    "-附件-/中国近代史时间轴图.png"
+    "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
   ]
 }
