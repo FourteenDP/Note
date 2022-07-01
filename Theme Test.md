@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 01:01:09
+date updated: 2022-07-02 01:02:12
 ---
 
 # Heading Level 1
@@ -123,118 +123,7 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 
 Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 
----
-
-```vega-lite
-{
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": { "url": "data/population.json"},
-  "transform": [
-    {"filter": "datum.year == 2000"},
-    {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"}
-  ],
-  "mark": "bar",
-  "encoding": {
-    "y": {
-      "aggregate": "sum", "field": "people", "type": "quantitative",
-      "axis": {"title": "population"},
-      "stack":  "normalize"
-    },
-    "x": {"field": "age", "type": "ordinal"},
-    "color": {
-      "field": "gender", "type": "nominal",
-      "scale": {"range": ["#675193", "#ca8861"]}
-    }
-  }
-}
-```
-
-$$
-\begin{align}
- \frac{\partial J(\theta)}{\partial\theta_j}
- & = -\frac1m\sum_{i=0}^m(y^i - h_\theta(x^i)) \frac{\partial}{\partial\theta_j}(y^i-h_\theta(x^i))\\
- & = -\frac1m\sum_{i=0}^m(y^i-h_\theta(x^i)) \frac{\partial}{\partial\theta_j}(\sum_{j=0}^n\theta_j x^i_j-y^i)\\
- &=-\frac1m\sum_{i=0}^m(y^i -h_\theta(x^i)) x^i_j
-\end{align}
-$$
-
-```flowchart
-st=>start: Improve your
-l10n process!
-e=>end: Continue to have fun!:>https://youtu.be/YQryHo1iHb8[blank]
-op1=>operation: Go to locize.com:>https://locize.com[blank]
-sub1=>subroutine: Read the awesomeness
-cond(align-next=no)=>condition: Interested to
-getting started?
-io=>inputoutput: Register:>https://www.locize.io/register[blank]
-sub2=>subroutine: Read about improving
-your localization workflow
-or another source:>https://medium.com/@adrai/8-signs-you-should-improve-your-localization-process-3dc075d53998[blank]
-op2=>operation: Login:>https://www.locize.io/login[blank]
-cond2=>condition: valid password?
-cond3=>condition: reset password?
-op3=>operation: send email
-sub3=>subroutine: Create a demo project
-sub4=>subroutine: Start your real project
-io2=>inputoutput: Subscribe
-
-st->op1->sub1->cond
-cond(yes)->io->op2->cond2
-cond2(no)->cond3
-cond3(no,bottom)->op2
-cond3(yes)->op3
-op3(right)->op2
-cond2(yes)->sub3
-sub3->sub4->io2->e
-cond(no)->sub2(right)->op1
-
-st@>op1({"stroke":"Red"})@>sub1({"stroke":"Red"})@>cond({"stroke":"Red"})@>io({"stroke":"Red"})@>op2({"stroke":"Red"})@>cond2({"stroke":"Red"})@>sub3({"stroke":"Red"})@>sub4({"stroke":"Red"})@>io2({"stroke":"Red"})@>e({"stroke":"Red","stroke-width":6,"arrow-end":"classic-wide-long"})
-```
-
-```sequence
-@startuml
-
-autonumber
-hide footbox
-title **访问页面**
-
-actor "用户" as User
-participant "浏览器" as Browser
-participant "服务端" as Server #orange
-
-activate User
-User -[#blue]> Browser: 输入 URL
-activate Browser
-Browser -> Server: 请求服务器
-activate Server #orange
-Server -> Server: 模板渲染
-note right of Server: 记录访问日志
-Server -> Browser: 返回 HTML
-...
-Browser -> Server: 请求静态资源 JS/CSS
-deactivate Server
-|||
-Browser -> Browser: 排版 + 渲染
-Browser --> User
-
-@enduml@
-```
-
-```plantuml
-@startuml
-
-actor A
-actor B
-
-A -up-> (up)
-A -right-> (center)
-A -down-> (down)
-A -left-> (left)
-
-B -up-> (up)
-B -left-> (center)
-B -right-> (right)
-B -down-> (down)
-
-@enduml
-```
+[^1]: 注解 1
+[^2]: 注解 2
+[^3]: 注解 3
+[^4]: 注解 4
