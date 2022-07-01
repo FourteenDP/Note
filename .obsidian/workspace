@@ -7,9 +7,12 @@
         "id": "d573b7a667bde46d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "-附件-/Pasted image 20220608140002.png"
+            "file": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/Pasted image 20220608140002.png"
+                "file": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
               }
             }
           },
@@ -128,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4278453747cdd498",
@@ -173,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/Pasted image 20220608140002.png",
+                "file": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/Pasted image 20220608140002.png",
+                "file": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,8 +209,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,15 +217,15 @@
   },
   "active": "d573b7a667bde46d",
   "lastOpenFiles": [
-    "-附件-/Pasted image 20220608140002.png",
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
+    "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
+    "-附件-/CMD终端代理设置环境变量.png",
+    "-附件-/中国近代史时间轴图.png",
+    "-附件-/原型链.png",
     "-附件-/Linux目录结构.png",
     "~日记~/2022-07-01.md",
     "📅任务管理.md",
     "✨知识社区.md",
-    "📚知识博客.md",
-    "README.md",
-    "9999-信箱/uni-app $refs初始化失败.md",
-    "-模板-/通用模板.md",
-    "~采集~/采集.md"
+    "📚知识博客.md"
   ]
 }
