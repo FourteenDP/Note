@@ -10,9 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "Theme Test.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
