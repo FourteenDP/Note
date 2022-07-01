@@ -3,14 +3,12 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:26:18
+date updated: 2022-07-01 23:27:26
 ---
 
 # Heading Level 1
 
 I really like using Markdown.  
-
-  
 
 I think I'll use it to format all of my documents from now on.
 
@@ -27,6 +25,12 @@ A*cat*meow
 This is really***very***important text.
 
 ### Heading Level 3
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 #### Heading Level 4
 
