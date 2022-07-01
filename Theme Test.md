@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:29:05
+date updated: 2022-07-01 23:30:01
 ---
 
 # Heading Level 1
@@ -34,14 +34,12 @@ This is really***very***important text.
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-
 > #### The quarterly results look great!
 >
-> - Revenue was off the chart.
+> - [ ] Revenue was off the chart.
 > - Profits were higher than ever.
 >
 >  *Everything* is going according to **plan**.
-
 
 > [!note]
 > Dorothy followed her through many of the beautiful rooms in her castle.
