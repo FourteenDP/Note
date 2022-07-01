@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:34:27
+date updated: 2022-07-01 23:35:53
 ---
 
 # Heading Level 1
@@ -67,7 +67,7 @@ This is really***very***important text.
 1. First item
 2. Second item
 3. Third item
- - Indented item
+  - Indented item
   - Indented item
 4. Fourth item
 
