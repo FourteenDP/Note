@@ -124,6 +124,8 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 
 :joy:
 
+[Example Domain](http://www.example.com
+
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
 [^1]: This is the first footnote.
