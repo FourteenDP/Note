@@ -1,11 +1,11 @@
 {
-  "baseFontSize": 23,
-  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 20,
+  "cssTheme": "",
   "enabledCssSnippets": [],
   "translucency": false,
   "theme": "moonstone",
   "interfaceFontFamily": "Fira Code Retina,微软雅黑",
-  "textFontFamily": "Fira Code Retina,黑体",
+  "textFontFamily": "楷体",
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Fira Code Retina,等线"
 }
