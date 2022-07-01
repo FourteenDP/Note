@@ -3,12 +3,10 @@ title: WSL 命令
 aliases: 
 tags: 
 date created: 2022-07-01 21:28:30
-date updated: 2022-07-01 21:29:35
+date updated: 2022-07-01 21:29:06
 ---
 
 # WSL 命令
-
-```
 用法: wsl.exe [Argument] [Options...] [CommandLine]
 
 运行 Linux 二进制文件的参数:
@@ -117,4 +115,3 @@ date updated: 2022-07-01 21:29:35
 
     --unregister <分发>
         注销分发并删除根文件系统。
-```
