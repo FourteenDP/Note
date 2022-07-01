@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "305eeb2edb02e8bf",
+        "id": "7282382d6677b0e5",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -206,7 +206,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "305eeb2edb02e8bf",
+  "active": "7282382d6677b0e5",
   "lastOpenFiles": [
     "README.md",
     "📚知识博客.md",
