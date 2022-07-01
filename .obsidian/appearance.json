@@ -1,9 +1,9 @@
 {
   "baseFontSize": 20,
-  "cssTheme": "Atom",
+  "cssTheme": "",
   "enabledCssSnippets": [],
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true
