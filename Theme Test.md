@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:46:59
+date updated: 2022-07-01 23:49:32
 ---
 
 # Heading Level 1
@@ -98,5 +98,4 @@ At the command prompt, type `nano`.
 
 ###### 图片
 
-![这是图片](/附件/盒子模型)
-
+![美女头像 - Bing images](https://cn.bing.com/images/search?q=%E7%BE%8E%E5%A5%B3%E5%A4%B4%E5%83%8F&FORM=IQFRBA&id=3F1DCE62692656F5BC442B94AE77CB6637
