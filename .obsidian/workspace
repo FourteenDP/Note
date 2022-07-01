@@ -12,7 +12,7 @@
             "file": "Theme Test.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
