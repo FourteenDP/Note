@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:55:55
+date updated: 2022-07-01 23:58:26
 ---
 
 # Heading Level 1
@@ -96,12 +96,8 @@ At the command prompt, type `nano`.
 
 <fake@example.com>
 
-- 图片
-
 ![美女头像 - Bing images](https://p.qqan.com/up/2020-8/15985907552872999.jpg)
-
-- 转义字符
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
-This **word** is bold . This <em>word</em> is italic.
+This <mark style="background: #ABF7F7A6;">**word**</mark> is bold . This <em>word</em> is italic.
