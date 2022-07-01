@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:27:26
+date updated: 2022-07-01 23:27:28
 ---
 
 # Heading Level 1
@@ -31,6 +31,14 @@ This is really***very***important text.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+> [!note]
+> Dorothy followed her through many of the beautiful rooms in her castle.
+> 
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+
+
 
 #### Heading Level 4
 
