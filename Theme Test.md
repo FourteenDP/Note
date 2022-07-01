@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:13:20
+date updated: 2022-07-02 00:14:23
 ---
 
 # Heading Level 1
@@ -123,8 +123,6 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 | Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
 
 :joy:
-
-[Example Domain](http://www.example.com
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
 
