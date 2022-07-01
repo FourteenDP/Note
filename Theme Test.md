@@ -102,7 +102,12 @@ At the command prompt, type `nano`.
 
 This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> word </em> is italic.
 
-| Syntax    | Description |   Test Text | Test | Test | Test | Test | Test | Test | Test      |
-|:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | ---- | --------- |
-| Header    |    Title    | Here's this |      |      |      |      |      |      | Test      |
-| Paragraph |    Text     |    And more |      |      |      |      |      |      | Test Text |
+| Syntax    | Description |    TestText | Test | Test | Test | Test | Test | Test      |
+|:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | --------- |
+| Header    |    Title    | Here's this |      |      |      |      |      | Test      |
+| Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
+
+| Syntax    | Description |    TestText | Test | Test | Test | Test | Test | Test      |
+|:--------- |:-----------:| -----------:| ---- | ---- | ---- | ---- | ---- | --------- |
+| Header    |    Title    | Here's this |      |      |      |      |      | Test      |
+| Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
