@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:24:03
+date updated: 2022-07-01 23:25:05
 ---
 
 # Heading Level 1
@@ -14,7 +14,11 @@ I think I'll use it to format all of my documents from now on.
 
 ## Heading Level 2
 
-I just love **bold text**.
+Love**is**bold
+
+A*cat*meow
+
+This is really***very***important text.
 
 ### Heading Level 3
 
