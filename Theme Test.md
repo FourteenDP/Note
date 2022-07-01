@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 00:09:27
+date updated: 2022-07-02 00:10:17
 ---
 
 # Heading Level 1
@@ -23,6 +23,8 @@ Love**is**bold
 A*cat*meow
 
 This is really***very***important text.
+
+~~世界是平坦的。~~ 我们现在知道世界是圆的。
 
 ### Heading Level 3
 
@@ -113,15 +115,6 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 | Paragraph |    Text     |    And more |      |      |      |      |      | Test Text |
 
 Here's a simple footnote,[^1] and here's a longer one.[^2]
-
-First Term
-
-: This is the definition of the first term.
-
-Second Term
-
-: This is one definition of the second term.
-: This is another definition of the second term.
 
 [^1]: This is the first footnote.
 [^2]: Here's one with multiple paragraphs and code.
