@@ -10,4 +10,4 @@ title: LINUX 目录结构和作用
 
 # LINUX 目录结构和作用
 
-![[Pasted image 20220606223625.png]]
+![[Linux目录结构.png]]

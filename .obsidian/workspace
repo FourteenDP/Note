@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "-附件-/Pasted image 20220606223625.png"
+            "file": "-附件-/Pasted image 20220608140002.png"
           }
         }
       }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/Pasted image 20220606223625.png"
+                "file": "-附件-/Pasted image 20220608140002.png"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/Pasted image 20220606223625.png",
+                "file": "-附件-/Pasted image 20220608140002.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/Pasted image 20220606223625.png",
+                "file": "-附件-/Pasted image 20220608140002.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,8 @@
   },
   "active": "d573b7a667bde46d",
   "lastOpenFiles": [
-    "-附件-/Pasted image 20220606223625.png",
+    "-附件-/Pasted image 20220608140002.png",
+    "-附件-/Linux目录结构.png",
     "~日记~/2022-07-01.md",
     "📅任务管理.md",
     "✨知识社区.md",
@@ -224,7 +225,6 @@
     "README.md",
     "9999-信箱/uni-app $refs初始化失败.md",
     "-模板-/通用模板.md",
-    "~采集~/采集.md",
-    "0000-拾肆/防脱生发.md"
+    "~采集~/采集.md"
   ]
 }
