@@ -31,24 +31,24 @@ This is really***very***important text.
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
+> 
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 > #### The quarterly results look great!
->
+> 
 > - [ ] Revenue was off the chart.
->
+> 
 > - Profits were higher than ever.
->
+>   
 >   *Everything* is going according to **plan**.
 
 > [!note]
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
+> 
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->
+> 
 > > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 #### Heading Level 4
@@ -71,7 +71,6 @@ This is really***very***important text.
    - Indented item
    - Indented item
 4. Fourth item
-
 - [x] Write the press release
 - [x] Update the website ✅ 2022-07-02
 - [ ] Contact the media
@@ -83,7 +82,6 @@ At the command prompt, type `nano`.
 ``Use `code` in your Markdown file.``
 
 ```javascript
-
 let obj = {
   "firstName": "John",
   "lastName": "Smith",
@@ -91,7 +89,6 @@ let obj = {
 }
 
 console.log(obj)
-
 ```
 
 ###### Heading Level 6
@@ -112,15 +109,15 @@ console.log(obj)
 
 This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> word </em> is italic.
 
-| Syntax    | Description |    TestText | Test      | 标题     |
-|:--------- |:-----------:| -----------:| --------- | -------- |
-| Header    |    Title    | Here's this | Test      | 我是内容 |
-| Paragraph |    Text     |    And more | Test Text |          |
+| Syntax    | Description | TestText    | Test      | 标题   |
+|:--------- |:-----------:| -----------:| --------- | ---- |
+| Header    | Title       | Here's this | Test      | 我是内容 |
+| Paragraph | Text        | And more    | Test Text |      |
 
-| Syntax    | Description |    TestText | Test | Test | 我加长加长 | Test | Test | Test      |
-|:--------- |:-----------:| -----------:| ---- | ---- | ---------- | ---- | ---- | --------- |
-| Header    |    Title    | Here's this |      |      | 中国       |      |      | Test      |
-| Paragraph |    Text     |    And more |      |      | 中文字     |      |      | Test Text |
+| Syntax    | Description | TestText    | Test | Test | 我加长加长 | Test | Test | Test      |
+|:--------- |:-----------:| -----------:| ---- | ---- | ----- | ---- | ---- | --------- |
+| Header    | Title       | Here's this |      |      | 中国    |      |      | Test      |
+| Paragraph | Text        | And more    |      |      | 中文字   |      |      | Test Text |
 
 :joy:
 
@@ -130,5 +127,21 @@ Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 [^2]: This is the first footnote.
 [^3]: Here's one with multiple paragraphs and code.
 [^4]: 我的世界
+
+
+
+​```mermaid
+graph TB
+    c1-->a2
+    subgraph 第一组
+    a1-->a2
+    end
+    subgraph 第二组
+    b1-->b2
+    end
+    subgraph 第三组
+    c1-->c2
+    end
+​```
 
 
