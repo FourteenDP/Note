@@ -6,5 +6,6 @@
   "theme": "moonstone",
   "interfaceFontFamily": "Fira Code Retina,微软雅黑",
   "textFontFamily": "Fira Code Retina,楷体",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Fira Code Retina,等线"
 }
