@@ -3,7 +3,7 @@ title: WSL 基本命令
 aliases: 
 tags: 
 date created: 2022-07-01 21:28:30
-date updated: 2022-07-01 21:37:52
+date updated: 2022-07-01 21:41:07
 ---
 
 # WSL 基本命令
