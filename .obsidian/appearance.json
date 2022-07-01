@@ -1,7 +1,9 @@
 {
   "baseFontSize": 20,
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "FD Theme"
+  ],
   "translucency": false,
   "theme": "moonstone",
   "interfaceFontFamily": "",
