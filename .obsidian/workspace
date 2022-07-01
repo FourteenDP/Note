@@ -7,8 +7,13 @@
         "id": "305eeb2edb02e8bf",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,6 +217,7 @@
   },
   "active": "305eeb2edb02e8bf",
   "lastOpenFiles": [
+    "README.md",
     "~日记~/2022-07-01.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
@@ -216,7 +226,6 @@
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
     "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
     "-附件-/CMD终端代理设置环境变量.png",
-    "-附件-/中国近代史时间轴图.png",
-    "-附件-/原型链.png"
+    "-附件-/中国近代史时间轴图.png"
   ]
 }

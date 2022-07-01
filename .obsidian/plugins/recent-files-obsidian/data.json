@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2022-07-01",
       "path": "~日记~/2022-07-01.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "📚知识博客",
       "path": "📚知识博客.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "uni-app $refs初始化失败",
