@@ -5,6 +5,10 @@
       "path": "1000-技术/计算机基础/WSL基本命令.md"
     },
     {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux目录结构和作用.md"
+    },
+    {
       "basename": "2022-07-01",
       "path": "~日记~/2022-07-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "代码生成",
       "path": "1000-技术/前端/其它/代码生成.md"
-    },
-    {
-      "basename": "原型链",
-      "path": "1000-技术/前端/JavaScript/原型链.md"
     }
   ],
   "omittedPaths": [],
