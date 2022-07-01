@@ -74,3 +74,39 @@ h5 a {
 h6 a {
   color: var(--text-title-h6) !important;
 }
+.HyperMD-header-1,
+.markdown-preview-section h1 {
+  color: var(--text-title-h1) !important;
+  font-weight: 500 !important;
+  font-size: 2.2em !important;
+}
+.HyperMD-header-2,
+.markdown-preview-section h2 {
+  color: var(--text-title-h2) !important;
+  font-weight: 500 !important;
+  font-size: 2em !important;
+}
+.HyperMD-header-3,
+.markdown-preview-section h3 {
+  color: var(--text-title-h3) !important;
+  font-weight: 500 !important;
+  font-size: 1.8em !important;
+}
+.HyperMD-header-4,
+.markdown-preview-section h4 {
+  color: var(--text-title-h4) !important;
+  font-weight: 500 !important;
+  font-size: 1.6em !important;
+}
+.HyperMD-header-5,
+.markdown-preview-section h5 {
+  color: var(--text-title-h5) !important;
+  font-weight: 500 !important;
+  font-size: 1.4em !important;
+}
+.HyperMD-header-6,
+.markdown-preview-section h6 {
+  color: var(--text-title-h6) !important;
+  font-weight: 500 !important;
+  font-size: 1.2em !important;
+}
