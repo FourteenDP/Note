@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:59:25
+date updated: 2022-07-01 23:59:27
 ---
 
 # Heading Level 1
@@ -102,7 +102,7 @@ At the command prompt, type `nano`.
 
 This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> word </em> is italic.
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Syntax    | Description |   Test Text |  Test   | 
+|:--------- |:-----------:| -----------:| --- |
+| Header    |    Title    | Here's this |     |
+| Paragraph |    Text     |    And more |     |
