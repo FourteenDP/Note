@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-07-01",
-      "path": "~日记~/2022-07-01.md"
-    },
-    {
-      "basename": "uniapp-$refs初始化失败",
-      "path": "9999-信箱/uniapp-$refs初始化失败.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "📚知识博客",
       "path": "📚知识博客.md"
     },
@@ -23,6 +11,18 @@
     {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "2022-07-01",
+      "path": "~日记~/2022-07-01.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
     {
       "basename": "通用模板",
