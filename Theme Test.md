@@ -129,19 +129,28 @@ Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 [^4]: 我的世界
 
 
-
-​```mermaid
-graph TB
-    c1-->a2
-    subgraph 第一组
-    a1-->a2
-    end
-    subgraph 第二组
-    b1-->b2
-    end
-    subgraph 第三组
-    c1-->c2
-    end
-​```
+```vega-lite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": { "url": "data/population.json"},
+  "transform": [
+    {"filter": "datum.year == 2000"},
+    {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "aggregate": "sum", "field": "people", "type": "quantitative",
+      "axis": {"title": "population"},
+      "stack":  "normalize"
+    },
+    "x": {"field": "age", "type": "ordinal"},
+    "color": {
+      "field": "gender", "type": "nominal",
+      "scale": {"range": ["#675193", "#ca8861"]}
+    }
+  }
+}
+```
 
 
