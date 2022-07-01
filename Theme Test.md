@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:36:46
+date updated: 2022-07-01 23:37:54
 ---
 
 # Heading Level 1
@@ -74,6 +74,8 @@ This is really***very***important text.
 ##### Heading Level 5
 
 At the command prompt, type `nano`.
+
+``Use `code` in your Markdown file.``
 
 ```javascript
 
