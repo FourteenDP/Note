@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-01 23:35:53
+date updated: 2022-07-01 23:36:46
 ---
 
 # Heading Level 1
@@ -72,5 +72,11 @@ This is really***very***important text.
 4. Fourth item
 
 ##### Heading Level 5
+
+At the command prompt, type `nano`.
+
+```javascript
+
+```
 
 ###### Heading Level 6
