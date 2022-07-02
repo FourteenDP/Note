@@ -89,9 +89,7 @@ h6 a {
 }
 
 .HyperMD-header-3,
-.markdown-preview-section h3,
-.markdown-preview-section h3 > .cm-s-obsidian span.cm-link,
-.cm-s-obsidian span.cm-hmd-internal-link {
+.markdown-preview-section h3 {
   color: var(--text-title-h3) !important;
 }
 
