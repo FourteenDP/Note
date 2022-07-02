@@ -57,13 +57,13 @@
 
 /* ---标题--- */
 /* 字体&大小 */
-.cm-header,
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.cm-header {
   font-weight: var(--title-font-weight) !important;
   font-family: var(--title-font-family);
 }
@@ -140,48 +140,4 @@ h6 a {
 .cm-s-obsidian .cm-inline-code,
 .cm-s-obsidian .cm-math {
   color: #ff0040;
-}
-
-.markdown-preview-view table {
-  width: 100%;
-  border: 1px solid var(--background-modifier-border);
-  border-spacing: 0;
-  overflow: hidden;
-}
-
-.markdown-preview-view th,
-.markdown-preview-view td {
-  padding: 5px 10px;
-  vertical-align: top;
-  border-color: var(--background-modifier-border);
-}
-
-.markdown-preview-view th:first-child,
-.markdown-preview-view td:first-child {
-  padding-left: 15px;
-}
-
-.markdown-preview-view th {
-  background-color: var(--background-primary-alt);
-  border-bottom: none;
-  font-weight: 500;
-  font-size: var(--large-font-size) !important;
-}
-
-.markdown-preview-view tr + tr td {
-  border-top: none;
-}
-
-.table-view-table > thead > tr > th {
-  text-transform: none !important;
-  font-weight: 700;
-  font-size: larger;
-}
-
-th {
-  font-weight: 600 !important;
-}
-
-table {
-  border-collapse: collapse;
 }
