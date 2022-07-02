@@ -1,9 +1,7 @@
 {
   "baseFontSize": 39,
-  "cssTheme": "Yin and Yang",
-  "enabledCssSnippets": [
-    "FD Theme"
-  ],
+  "cssTheme": "",
+  "enabledCssSnippets": [],
   "translucency": false,
   "theme": "moonstone",
   "interfaceFontFamily": "",
