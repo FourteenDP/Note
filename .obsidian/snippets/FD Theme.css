@@ -53,7 +53,7 @@ body {
   --background-modifier-error: #900;
   --background-modifier-error-rgb: 230, 135, 135;
   --background-modifier-error-hover: #b00;
-  --background-modifier-cover: rgba(6, 91, 218, 0.438);
+  --background-modifier-cover: rgba(185, 185, 185, 0.438);
   --text-accent: #705dcf;
   --text-accent-hover: #7a6ae6;
   --text-normal: #2e3338;
