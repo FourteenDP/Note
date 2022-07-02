@@ -7,7 +7,7 @@
   "translucency": false,
   "theme": "moonstone",
   "interfaceFontFamily": "Fira Code Retina",
-  "textFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code Retina",
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Fira Code Retina"
 }
