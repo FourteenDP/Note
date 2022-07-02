@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 00:46:25
+date updated: 2022-07-03 00:51:20
 ---
 
 # Heading Level 1
@@ -160,7 +160,10 @@ Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 
 ` 我的世界` 我的世界
 
-```java
+```javascript
+// 我的世界
+let a = 7
+console.log(7)
 ```
 
 [^1]: 注解 1
