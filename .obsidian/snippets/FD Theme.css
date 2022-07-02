@@ -42,7 +42,7 @@
   --scrollbar-bg: rgba(0, 0, 0, 0.05);
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
   --highlight-mix-blend-mode: darken;
-  --text-title-h1: #b63226;
+  --text-title-h1: linear-gradient(135deg,#feb692,#ea5455);
   --text-title-h2: #fac03d;
   --text-title-h3: #ffd900;
   --text-title-h4: #38b48b;
