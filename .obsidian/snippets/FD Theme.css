@@ -65,6 +65,7 @@
 .cm-header-1.cm-hmd-internal-link,
 h1 a {
   color: var(--text-title-h1) !important;
+  font-family: '楷体';
 }
 
 .HyperMD-header-2,
