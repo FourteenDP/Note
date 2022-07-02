@@ -1,9 +1,42 @@
+body {
+  --font-default: var(
+    --default-font,
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol",
+    "Microsoft YaHei Light",
+    sans-serif
+  );
+  --font-interface-override: "";
+  --font-interface-theme: "";
+  --font-interface: var(--font-interface-override), var(--font-interface-theme),
+    var(--font-default);
+  --font-text-override: "";
+  --font-text-theme: "";
+  --font-text: var(--font-text-override), var(--font-text-theme),
+    var(--font-interface);
+  --font-monospace-override: "";
+  --font-monospace-theme: "";
+  --font-monospace: var(--font-monospace-override), var(--font-monospace-theme),
+    "Source Code Pro", monospace;
+  --font-text-size: 16px;
+  --font-mermaid: var(--font-text);
+}
+
 :root {
-  --h1: 2.50em;
+  --h1: 2.5em;
   --h2: 2.25em;
   --h3: 2em;
   --h4: 1.75em;
-  --h5: 1.50em;
+  --h5: 1.5em;
   --h6: 1.25em;
 }
 .theme-light {
@@ -42,13 +75,12 @@
   --scrollbar-bg: rgba(0, 0, 0, 0.05);
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
   --highlight-mix-blend-mode: darken;
-  --text-title-h1: #A268FF;
-  --text-title-h2: #FF56D1;
-  --text-title-h3: #FF689A;
-  --text-title-h4: #FF986C;
-  --text-title-h5: #FFCB58;
-  --text-title-h6: #CCB4E9;
-
+  --text-title-h1: #a268ff;
+  --text-title-h2: #ff56d1;
+  --text-title-h3: #ff689a;
+  --text-title-h4: #ff986c;
+  --text-title-h5: #ffcb58;
+  --text-title-h6: #ccb4e9;
 }
 .cm-header-1.cm-link,
 h1 a {
