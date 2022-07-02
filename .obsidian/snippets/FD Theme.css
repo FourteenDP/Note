@@ -1,5 +1,6 @@
 :root {
   --default-font: "思源黑体 CN Normal";
+  --code-font:''
 
   --title-font-weight: 900;
   --title-font-family: "楷体";
