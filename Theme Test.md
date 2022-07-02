@@ -1,24 +1,24 @@
 ---
 title: Heading Level 1
-aliases: 
+aliases:
   - 别名1
   - 别名2
   - 别名3
-tags: 
-  - 索引 
-  - 日记 
-  - 马原 
+tags:
+  - 索引
+  - 日记
+  - 马原
 date created: 2022-07-01 22:24:20
 date updated: 2022-07-02 23:17:00
 ---
 
 # Heading Level 1
 
-I really like using Markdown.  
+I really like using Markdown.
 
 I think I'll use it to format all of my documents from now on.
 
-This is the first line.    
+This is the first line.  
 
 And this is the second line.
 
@@ -72,15 +72,15 @@ This is really***very***important text.
 
 #### Heading Level 4
 
-1. First item  
-2. Second item  
-3. Third item  
-       1. Indented item  
-       2. Indented item  
+1. First item
+2. Second item
+3. Third item
+       1. Indented item
+       2. Indented item
 4. Fourth item
-- First item  
-- Second item  
-- Third item  
+- First item
+- Second item
+- Third item
   - Indented item
   - Indented item
 - Fourth item
