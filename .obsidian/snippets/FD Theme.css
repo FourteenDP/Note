@@ -65,21 +65,20 @@
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6,
-.HyperMD-header.cm-header-1,
-.HyperMD-header.cm-header-2,
-.HyperMD-header.cm-header-3,
-.HyperMD-header.cm-header-4,
-.HyperMD-header.cm-header-5,
-.HyperMD-header.cm-header-6 {
+.HyperMD-header .cm-header-1,
+.HyperMD-header .cm-header-2,
+.HyperMD-header .cm-header-3,
+.HyperMD-header .cm-header-4,
+.HyperMD-header .cm-header-5,
+.HyperMD-header .cm-header-6 {
   font-weight: var(--header-weight) !important;
   font-family: var(--header-font) !important;
 }
 
 /* 颜色 */
 .HyperMD-header-1,
+
 .markdown-preview-section h1,
-.cm-header-1.cm-link,
-.cm-header-1.cm-hmd-internal-link,
 h1 a {
   color: var(--text-title-h1) !important;
 }
