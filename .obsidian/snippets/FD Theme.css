@@ -51,6 +51,8 @@
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
 }
+
+/* 标题 */
 .HyperMD-header-1,
 .markdown-preview-section h1,
 .cm-header-1.cm-link,
@@ -58,6 +60,7 @@
 h1 a {
   color: var(--text-title-h1) !important;
 }
+
 .HyperMD-header-2,
 .markdown-preview-section h2,
 .cm-header-2.cm-link,
