@@ -79,8 +79,7 @@
 .HyperMD-header-1,
 .HyperMD-header-1 .cm-header-1.cm-link,
 .HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
-.markdown-preview-section h1,
-h1 a {
+.markdown-rendered h1 a {
   color: var(--text-title-h1) !important;
 }
 
