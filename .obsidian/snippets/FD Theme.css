@@ -67,7 +67,7 @@
 .markdown-preview-view h6,
 .cm-header {
   font-weight: var(--title-font-weight) !important;
-  font-family: var(--title-font-family);
+  font-family: var(--title-font-family) !important;
 }
 
 /* 颜色 */
