@@ -7,8 +7,13 @@
         "id": "9c79782e81c52d9b",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1100-设计/字体.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1100-设计/字体.md"
+              }
             }
           },
           {
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1100-设计/字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1100-设计/字体.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,6 +218,7 @@
   "active": "9c79782e81c52d9b",
   "lastOpenFiles": [
     "1100-设计/字体.md",
+    "1100-设计/字体.md",
     "1100-设计/颜色.md",
     "Theme Test.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md",
@@ -216,7 +226,6 @@
     "📅任务管理.md",
     "README.md",
     "assets/img/shiprock.jpg.md",
-    "📚知识博客.md",
-    "✨知识社区.md"
+    "📚知识博客.md"
   ]
 }
