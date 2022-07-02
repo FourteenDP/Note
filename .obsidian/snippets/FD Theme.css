@@ -1,7 +1,7 @@
 :root {
   --default-font: "Fira Code Retina", "思源黑体 CN Normal";
 
-  --text-title--weight: 800;
+  --title--weight: 800;
   --h1: 2.5em;
   --h2: 2.25em;
   --h3: 2em;
@@ -54,6 +54,11 @@
 }
 
 /* 标题 */
+
+.cm-header{
+  font-weight: ;
+}
+
 .HyperMD-header-1,
 .markdown-preview-section h1,
 .cm-header-1.cm-link,
