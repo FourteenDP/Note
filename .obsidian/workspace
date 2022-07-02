@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme Test.md",
+            "file": "1100-设计/字体.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "1100-设计/字体.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1100-设计/字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1100-设计/字体.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,10 +217,9 @@
   },
   "active": "9c79782e81c52d9b",
   "lastOpenFiles": [
+    "1100-设计/字体.md",
     "Theme Test.md",
     "~日记~/2022-07-02.md",
-    "1100-设计/字体.md",
-    "1100-设计/字体.md",
     "1100-设计/颜色.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md",
     "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
