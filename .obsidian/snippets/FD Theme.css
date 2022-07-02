@@ -127,5 +127,5 @@ h6 a {
 .cm-s-obsidian span.hmd-fold-math-placeholder,
 .cm-s-obsidian .CodeMirror-linewidget kbd,
 .cm-s-obsidian .hmd-fold-html kbd {
-  font-family: var(--font-monospace);
+  font-family: var(--code-font);
 }
