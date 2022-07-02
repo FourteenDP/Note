@@ -52,12 +52,13 @@
   --text-title-h6: #ccb4e9;
 }
 .cm-header-1.cm-link,
-span.cm-hmd-internal-link,
+.cm-header-1.cm-hmd-internal-link,
 h1 a {
   color: var(--text-title-h1) !important;
 }
 
 .cm-header-2.cm-link,
+.cm-header-2.cm-hmd-internal-link,
 h2 a {
   color: var(--text-title-h2) !important;
 }
