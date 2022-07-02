@@ -59,12 +59,12 @@
 
 /* ---标题--- */
 /* 字体&大小 */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
 .cm-header {
   font-weight: var(--title-font-weight) !important;
   font-family: var(--title-font-family);
