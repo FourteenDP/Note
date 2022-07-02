@@ -141,7 +141,7 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 
 Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
 
-### 把我国建设成为社会主义的现代化 [[强国]]
+### 把我国建设成为社会主义的现代化[[666]]
 
 # 标题
 
