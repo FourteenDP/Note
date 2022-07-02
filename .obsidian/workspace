@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme Test.md",
+            "file": "1100-设计/颜色.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "1100-设计/颜色.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1100-设计/颜色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1100-设计/颜色.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +217,7 @@
   },
   "active": "891f8836395e7087",
   "lastOpenFiles": [
+    "1100-设计/颜色.md",
     "Theme Test.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md",
     "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
@@ -226,7 +226,6 @@
     "assets/img/shiprock.jpg.md",
     "📚知识博客.md",
     "✨知识社区.md",
-    "~日记~/2022-07-01.md",
-    "1000-技术/计算机基础/WSL基本命令.md"
+    "~日记~/2022-07-01.md"
   ]
 }

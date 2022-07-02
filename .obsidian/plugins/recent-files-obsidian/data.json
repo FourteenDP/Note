@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "颜色",
+      "path": "1100-设计/颜色.md"
+    },
+    {
       "basename": "Theme Test",
       "path": "Theme Test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何编写好的技术文档",
       "path": "2000-高效/写作/如何编写好的技术文档.md"
-    },
-    {
-      "basename": "记忆方法",
-      "path": "2000-高效/学习/记忆方法.md"
     }
   ],
   "omittedPaths": [],
