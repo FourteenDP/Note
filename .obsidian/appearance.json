@@ -1,11 +1,11 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "cssTheme": "",
   "enabledCssSnippets": [
     "FD Theme"
   ],
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Fira Code Retina",
   "textFontFamily": "Fira Code Retina",
   "baseFontSizeAction": true,
