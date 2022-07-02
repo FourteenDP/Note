@@ -96,7 +96,7 @@ This is really***very***important text.
 
 ##### Heading Level 5
 
-At the command prompt, type `nano`.
+At the command prompt, type `nanasdasdasdasd=== :=o`.
 
 ``Use `code` in your Markdown file. ==>``
 
