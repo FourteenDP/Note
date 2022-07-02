@@ -3,8 +3,8 @@
 
   --code-font: "Fira Code Retina";
 
-  --title-font-family: "楷体";
-  --title-font-weight: 900;
+  --header-font: "楷体";
+  --header-weight: 900;
 
   --h1: 2.5em;
   --h2: 2.25em;
@@ -66,8 +66,8 @@
 .markdown-preview-view h5,
 .markdown-preview-view h6,
 .cm-header {
-  font-weight: var(--title-header-weight) !important;
-  font-family: var(--title-header-family) !important;
+  font-weight: var(--header-weight) !important;
+  font-family: var(--header-font) !important;
 }
 
 /* 颜色 */
