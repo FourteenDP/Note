@@ -1,21 +1,47 @@
 body
-  --font-default var( --default-font, 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif )
-  --font-interface-override ''
+  --font-default var(
+    --default-font,
+    'Inter',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol',
+    'Microsoft YaHei Light',
+    sans-serif
+   )
+
+--font-interface-override ''
   --font-interface-theme ''
-  --font-interface var( --font-interface-override ), var( --font-interface-theme ), var( --font-default )
+  --font-interface:
+    var( --font-interface-override ),
+    var( --font-interface-theme ),
+    var( --font-default )
   --font-text-override ''
   --font-text-theme ''
-  --font-text var( --font-text-override ), var( --font-text-theme ), var( --font-interface )
+  --font-text:
+    var( --font-text-override ),
+    var( --font-text-theme ),
+    var( --font-interface )
   --font-monospace-override ''
   --font-monospace-theme ''
-  --font-monospace var( --font-monospace-override ), var( --font-monospace-theme ), 'Source Code Pro', monospace
+  --font-monospace:
+    var( --font-monospace-override ),
+    var( --font-monospace-theme ),
+    'Source Code Pro',
+    monospace
   --font-text-size 16px
   --font-mermaid var( --font-text )
 
 :root
-  --h1 9em
-  --h2 24.6em
-  --h3 12.37em
+  --h1 2em
+  --h2 1.6em
+  --h3 1.37em
   --h4 1.25em
   --h5 1.12em
   --h6 1.12em
@@ -66,7 +92,7 @@ body
   --background-modifier-form-field #fff
   --background-modifier-form-field-highlighted #fff
   --background-modifier-box-shadow rgba( 0, 0, 0, .1 )
-  --background-modifier-success #A4E7C3
+  --background-modifier-success #a4e7c3
   --background-modifier-error #990000
   --background-modifier-error-rgb 230, 135, 135
   --background-modifier-error-hover #bb0000

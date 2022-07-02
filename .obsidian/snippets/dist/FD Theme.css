@@ -1,6 +1,7 @@
 body {
   --font-default: var(--default-font, 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif);
-  --font-interface-override: '';
+}
+--font-interface-override '' {
   --font-interface-theme: '';
   --font-interface: var(--font-interface-override), var(--font-interface-theme), var(--font-default);
   --font-text-override: '';
@@ -13,9 +14,9 @@ body {
   --font-mermaid: var(--font-text);
 }
 :root {
-  --h1: 9em;
-  --h2: 24.6em;
-  --h3: 12.37em;
+  --h1: 2em;
+  --h2: 1.6em;
+  --h3: 1.37em;
   --h4: 1.25em;
   --h5: 1.12em;
   --h6: 1.12em;
