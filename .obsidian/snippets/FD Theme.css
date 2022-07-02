@@ -1,4 +1,5 @@
 body {
+  --default-font
   --font-default: var(
     --default-font,
     "Inter",
