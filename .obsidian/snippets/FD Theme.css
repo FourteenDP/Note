@@ -1,5 +1,5 @@
 body {
-  --default-font
+  --default-font:var(--background-modifier-box-shadow),
   --font-default: var(
     --default-font,
     "Inter",
