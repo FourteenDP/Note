@@ -1,9 +1,13 @@
+body{
+  --font
+}
+
 :root {
   --default-font: "思源黑体 CN Normal";
 
   --code-font: "Fira Code Retina";
 
-  --header-font: "楷体";
+  --header-font: var(--default-font);
   --header-weight: 900;
 
   --h1: 2.5rem;
