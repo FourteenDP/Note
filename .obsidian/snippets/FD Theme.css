@@ -3,8 +3,8 @@
   --h2: 1.6em;
   --h3: 1.37em;
   --h4: 1.25em;
-  --h5: 1.12em;
-  --h6: 1.12em;
+  --h5: 2em;
+  --h6: 1.5em;
 }
 .theme-light {
   --background-primary: #faf7f5;
@@ -47,7 +47,7 @@
   --text-title-h3: #e18a3b;
   --text-title-h4: #68945c;
   --text-title-h5: #6e9bc5;
-  --text-title-h6: #6fbdca;
+  --text-title-h6: #7ac1ce;
 }
 .cm-header-1.cm-link,
 h1 a {
