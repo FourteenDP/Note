@@ -56,8 +56,8 @@ body {
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
   --text-accent: #705dcf;
   --text-accent-hover: #7a6ae6;
-  --text-normal: #2e3338;
-  --text-muted: #888;
+  --text-normal: #333333;
+  --text-muted: rgb(247, 0, 0);
   --text-muted-rgb: 136, 136, 136;
   --text-faint: #999;
   --text-error: #800000;
