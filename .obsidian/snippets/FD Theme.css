@@ -82,6 +82,7 @@
 .markdown-preview-section h1,
 h1 a {
   color: var(--text-title-h1) !important;
+  font-size: var(--h1);
 }
 
 .HyperMD-header-2,
