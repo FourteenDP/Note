@@ -3,7 +3,7 @@ title: Heading Level 1
 aliases: 
 tags: 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 16:53:59
+date updated: 2022-07-02 16:55:21
 ---
 
 # Heading Level 1
@@ -110,7 +110,7 @@ console.log(obj)
 
 这是一个链接 [Markdown语法](https://markdown.com.cn)。
 
-这是一个链接 [Markdown 语法](https://markdown.com.cn "最好的 markdown 教程")。
+这是一个链接 [Markdown语法](https://markdown.com.cn "最好的 markdown 教程")。
 
 <https://markdown.com.cn>
 
