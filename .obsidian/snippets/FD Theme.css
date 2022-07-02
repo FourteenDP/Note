@@ -1,12 +1,3 @@
-:root {
-  --red: #f00;
-  --orange: #ffa500;
-  --yellow: #ff0;
-  --green: #008000;
-  --aqua: #0ff;
-  --blue: #00f;
-  --purple: #800080;
-}
 .theme-light {
   --background-primary: #fff;
   --background-primary-alt: #f5f6f8;
