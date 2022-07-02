@@ -1,5 +1,5 @@
 :root {
-  --default-font: 'Fira Code Retina','思源黑体 CN Normal';
+  --default-font: "Fira Code Retina", "思源黑体 CN Normal";
 
   --h1: 2.5em;
   --h2: 2.25em;
@@ -89,7 +89,9 @@ h6 a {
 }
 
 .HyperMD-header-3,
-.markdown-preview-section h3, {
+.markdown-preview-section h3,
+.markdown-preview-section h3 > .cm-s-obsidian span.cm-link,
+.cm-s-obsidian span.cm-hmd-internal-link {
   color: var(--text-title-h3) !important;
 }
 
