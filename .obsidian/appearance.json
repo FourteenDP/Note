@@ -6,8 +6,8 @@
   ],
   "translucency": false,
   "theme": "moonstone",
-  "interfaceFontFamily": "Fira Code,等距更纱黑体 SC",
-  "textFontFamily": "Fira Code,等距更纱黑体 SC",
+  "interfaceFontFamily": "Fira Code,思源黑体 CN",
+  "textFontFamily": "Fira Code,思源黑体 CN",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "Fira Code,等距更纱黑体 SC"
+  "monospaceFontFamily": "Fira Code,思源黑体 CN"
 }
