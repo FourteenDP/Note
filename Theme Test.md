@@ -1,10 +1,15 @@
 ---
 title: Heading Level 1
 aliases: 
+  - 别名1
+  - 别名2
+  - 别名3
 tags: 
   - 索引 
+  - 日记 
+  - 马原 
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 16:56:15
+date updated: 2022-07-02 17:09:19
 ---
 
 # Heading Level 1
