@@ -79,6 +79,12 @@
   --scrollbar-bg: rgba(0,0,0,0.05);
   --scrollbar-thumb-bg: rgba(0,0,0,0.1);
   --highlight-mix-blend-mode: darken;
+  --text-title-h1: var(--red);
+  --text-title-h2: var(--orange);
+  --text-title-h3: var(--yellow);
+  --text-title-h4: var(--green);
+  --text-title-h5: var(--purple);
+  --text-title-h6: var(--orange);
 }
 .HyperMD-header-1,
 .HyperMD-list-line .cm-header-1 {
