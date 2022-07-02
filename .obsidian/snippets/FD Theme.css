@@ -1,5 +1,5 @@
-body{
-  --font
+body {
+  --font-text-size: 30px !important;
 }
 
 :root {
