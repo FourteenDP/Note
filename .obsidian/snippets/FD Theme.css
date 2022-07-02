@@ -1,6 +1,6 @@
 :root {
   --default-font: "思源黑体 CN Normal";
-  --code-font:''
+  --code-font: "Fira Code Retina";
 
   --title-font-weight: 900;
   --title-font-family: "楷体";
@@ -55,8 +55,8 @@
   --text-title-h6: #ccb4e9;
 }
 
-/* 标题 */
-
+/* ---标题--- */
+/* 字体 */
 .cm-header {
   font-weight: var(--title-font-weight) !important;
   font-family: var(--title-font-family);
