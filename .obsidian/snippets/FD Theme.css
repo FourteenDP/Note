@@ -1,5 +1,5 @@
 body {
-  --default-font:var(--background-modifier-box-shadow),
+  --default-font: '思源黑体 CN Normal',
   --font-default: var(
     --default-font,
     "Inter",
