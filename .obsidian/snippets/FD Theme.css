@@ -42,7 +42,7 @@
   --scrollbar-bg: rgba(0, 0, 0, 0.05);
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
   --highlight-mix-blend-mode: darken;
-  --text-title-h1: #c12c1f;
+  --text-title-h1: #b63226;
   --text-title-h2: #fac03d;
   --text-title-h3: #ffd900;
   --text-title-h4: #38b48b;
@@ -76,48 +76,32 @@ h6 a {
   color: var(--text-title-h6) !important;
 }
 
-.cm-header {
-  font-weight: 500 !important;
-}
-
 .HyperMD-header-1,
 .markdown-preview-section h1 {
-  font-weight: 500 !important;
-  font-size: 2.2em !important;
   color: var(--text-title-h1) !important;
 }
 
 .HyperMD-header-2,
 .markdown-preview-section h2 {
-  font-weight: 500 !important;
-  font-size: 2em !important;
   color: var(--text-title-h2) !important;
 }
 
 .HyperMD-header-3,
 .markdown-preview-section h3 {
-  font-weight: 500 !important;
-  font-size: 1.8em !important;
   color: var(--text-title-h3) !important;
 }
 
 .HyperMD-header-4,
 .markdown-preview-section h4 {
-  font-weight: 500 !important;
-  font-size: 1.6em !important;
   color: var(--text-title-h4) !important;
 }
 
 .HyperMD-header-5,
 .markdown-preview-section h5 {
-  font-weight: 500 !important;
-  font-size: 1.4em !important;
   color: var(--text-title-h5) !important;
 }
 
 .HyperMD-header-6,
 .markdown-preview-section h6 {
-  font-weight: 500 !important;
-  font-size: 1.2em !important;
   color: var(--text-title-h6) !important;
 }
