@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/前端文档.md",
-            "mode": "source",
+            "file": "Theme Test.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 286
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/前端文档.md"
+                "file": "Theme Test.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/前端文档.md",
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/前端文档.md",
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,8 +218,8 @@
   },
   "active": "9c79782e81c52d9b",
   "lastOpenFiles": [
-    "1000-技术/前端/前端文档.md",
     "Theme Test.md",
+    "1000-技术/前端/前端文档.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
     "~日记~/2022-07-02.md",
