@@ -64,18 +64,22 @@ h2 a {
 }
 
 .cm-header-3.cm-link,
+.cm-header-3.cm-hmd-internal-link,
 h3 a {
   color: var(--text-title-h3) !important;
 }
 .cm-header-4.cm-link,
+.cm-header-4.cm-hmd-internal-link,
 h4 a {
   color: var(--text-title-h4) !important;
 }
 .cm-header-5.cm-link,
+.cm-header-5.cm-hmd-internal-link,
 h5 a {
   color: var(--text-title-h5) !important;
 }
 .cm-header-6.cm-link,
+.cm-header-6.cm-hmd-internal-link,
 h6 a {
   color: var(--text-title-h6) !important;
 }
