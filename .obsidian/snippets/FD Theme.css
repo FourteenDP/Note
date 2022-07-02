@@ -56,12 +56,13 @@
 }
 
 /* ---标题--- */
-/* 字体 */
+/* 字体&大小 */
 .cm-header {
   font-weight: var(--title-font-weight) !important;
   font-family: var(--title-font-family);
 }
 
+/* 颜色 */
 .HyperMD-header-1,
 .markdown-preview-section h1,
 .cm-header-1.cm-link,
