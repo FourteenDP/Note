@@ -57,7 +57,13 @@
 
 /* ---标题--- */
 /* 字体&大小 */
-.cm-header {
+.cm-header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: var(--title-font-weight) !important;
   font-family: var(--title-font-family);
 }
