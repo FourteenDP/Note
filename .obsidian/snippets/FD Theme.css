@@ -1,5 +1,5 @@
 body {
-  --default-font: '思源黑体 CN Normal',
+  --default-font: 'Fira Code Retina';
   --font-default: var(
     --default-font,
     "Inter",
