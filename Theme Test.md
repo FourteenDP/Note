@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 00:26:09
+date updated: 2022-07-03 00:36:58
 ---
 
 # Heading Level 1
@@ -140,8 +140,6 @@ This <mark style="background: #ABF7F7A6;"> **word** </mark> is bold . This <em> 
 :joy:
 
 Here's a sim[^1]ple footnote,[^2] and here's a longer[^3] one.[^4]
-
-
 
 ### 把我国建设成为社会主义的现代化 [[666]]
 
