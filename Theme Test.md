@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-02 23:30:27
+date updated: 2022-07-02 23:31:17
 ---
 
 # Heading Level 1
@@ -106,7 +106,6 @@ let obj = {
   "lastName": "Smith",
   "age": 25
 }
-
 console.log(obj)
 ```
 
