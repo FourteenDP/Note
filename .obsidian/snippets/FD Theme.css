@@ -126,7 +126,8 @@ h6 a {
 .cm-s-obsidian .cm-math,
 .cm-s-obsidian span.hmd-fold-math-placeholder,
 .cm-s-obsidian .CodeMirror-linewidget kbd,
-.cm-s-obsidian .hmd-fold-html kbd {
+.cm-s-obsidian .hmd-fold-html kbd,
+.markdown-rendered code {
   font-family: var(--code-font), var(--default-font);
 }
 /* 段&&行字体颜色 */
