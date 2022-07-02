@@ -6,8 +6,8 @@
   ],
   "translucency": false,
   "theme": "moonstone",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "等距更纱黑体 SC",
+  "textFontFamily": "等距更纱黑体 SC",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "等距更纱黑体 SC"
 }
