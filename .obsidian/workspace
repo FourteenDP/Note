@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme Test.md",
+            "file": "1000-技术/前端/前端文档.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285,
-    "collapsed": true
+    "width": 285
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "1000-技术/前端/前端文档.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1000-技术/前端/前端文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "1000-技术/前端/前端文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +218,7 @@
   },
   "active": "9c79782e81c52d9b",
   "lastOpenFiles": [
+    "1000-技术/前端/前端文档.md",
     "Theme Test.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",

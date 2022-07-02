@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "前端文档",
+      "path": "1000-技术/前端/前端文档.md"
+    },
+    {
       "basename": "Theme Test",
       "path": "Theme Test.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "2022-06-09",
       "path": "~日记~/2022-06-09.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
     },
     {
       "basename": "Vue3组件库",
