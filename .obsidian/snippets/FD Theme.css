@@ -1,9 +1,11 @@
 :root {
   --default-font: "思源黑体 CN Normal";
+
   --code-font: "Fira Code Retina";
 
-  --title-font-weight: 900;
   --title-font-family: "楷体";
+  --title-font-weight: 900;
+
   --h1: 2.5em;
   --h2: 2.25em;
   --h3: 2em;
@@ -137,6 +139,7 @@ h6 a {
   font-family: var(--code-font), var(--default-font);
 }
 /* 段&&行字体颜色 */
+/* TODO */
 .cm-s-obsidian .cm-inline-code,
 .cm-s-obsidian .cm-math {
   color: #ff0040;
