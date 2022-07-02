@@ -43,11 +43,11 @@
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
   --highlight-mix-blend-mode: darken;
   --text-title-h1: #c12c1f;
-  --text-title-h2: var(--orange);
-  --text-title-h3: var(--yellow);
-  --text-title-h4: var(--green);
-  --text-title-h5: var(--purple);
-  --text-title-h6: var(--orange);
+  --text-title-h2: #fac03d;
+  --text-title-h3: #ffd900;
+  --text-title-h4: #38b48b;
+  --text-title-h5: #83ccd2;
+  --text-title-h6: #a67eb7;
 }
 .cm-header-1.cm-link,
 h1 a {
