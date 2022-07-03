@@ -158,6 +158,11 @@ h6 a {
   font-family: Monospace;
 }
 
+.cm-s-obsidian
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  background: #197300;
+}
+
 /* 关键字 */
 .cm-strikethrough {
   color: var(--strikethrough-color);
