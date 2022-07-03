@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Theme Test.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 286,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
