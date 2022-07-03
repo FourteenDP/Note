@@ -266,7 +266,7 @@ blockquote p:first-child,
   border-left-width: 0.3rem;
   text-indent: 0;
 }
-/*---TASK LISTS---*/
+/*---复选框--*/
 
 input[type="checkbox"] {
   width: 1.5rem;
