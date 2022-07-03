@@ -170,8 +170,15 @@ h6 a {
 
 /* 行 */
 .cm-s-obsidian
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight),
+.theme-light :not(pre) > code[class*="language-"],
+.theme-light pre[class*="language-"],
+.markdown-rendered code {
+  background-color: var(--inline-code-bg) !important;
+}
+
+.cm-s-obsidian
   span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
-  background: var(--inline-code-bg);
   padding: 0.2rem 0.4rem;
   margin: 0 0.15rem;
   border-radius: 0.3rem;
@@ -179,12 +186,6 @@ h6 a {
 
 .cm-s-obsidian span.cm-inline-code {
   color: var(--inline-code-color);
-}
-cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight),
-.theme-light :not(pre) > code[class*="language-"],
-.theme-light pre[class*="language-"],
-.markdown-rendered code {
-  background-color: var(--inline-code-bg) !important;
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-bg {
