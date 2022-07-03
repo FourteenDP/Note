@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 12:02:05
+date updated: 2022-07-03 13:03:06
 ---
 
 # Heading Level 1
@@ -182,7 +182,6 @@ Here's a sim[^1]ple foo**tnot**e,[^2] and here's a longer[^3] one.[^4]
 let a = 7
 console.log(7)
 ```
-
 ## Vue 我的世界
 
 [^1]: 注解 1
