@@ -147,10 +147,6 @@ h6 a {
   font-family: Monospace !important;
 }
 
-.markdown-source-view.mod-cm6 .cm-hmd-list-indent {
-  width: 1em;
-}
-
 /* 关键字 */
 .cm-strikethrough,
 .markdown-rendered del {
