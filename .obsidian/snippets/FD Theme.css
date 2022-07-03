@@ -182,7 +182,8 @@ h6 a {
 }
 
 .theme-light :not(pre) > code[class*="language-"],
-.theme-light pre[class*="language-"] {
+.theme-light pre[class*="language-"],
+.markdown-rendered code {
   background-color: var(--inline-code-bg) !important;
 }
 
