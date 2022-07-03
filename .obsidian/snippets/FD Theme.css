@@ -151,7 +151,13 @@ h6 a {
 /* 代码行 */
 .cm-s-obsidian
   span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
-  background: #d2d2d2;
+  background: #e6e6e6;
+  padding: 3px 5px;
+  margin: 0 2px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+.cm-s-obsidian span.cm-inline-code {
 }
 
 /* ---列表--- */
