@@ -307,6 +307,7 @@ th {
   border: 0px !important;
   text-align: left;
   background-color: var(--table-header);
+  border: 1 s;
 }
 
 td {
