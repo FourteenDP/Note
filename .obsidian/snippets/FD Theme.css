@@ -160,7 +160,7 @@ h6 a {
 
 .cm-s-obsidian
   span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
-  background: #197300;
+  background: #d2d2d2;
 }
 
 /* 关键字 */
