@@ -7,12 +7,9 @@
         "id": "6e10611cd7f321e7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Theme Test.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "-附件-/原型链.png"
           }
         }
       }
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "-附件-/原型链.png"
               }
             }
           },
@@ -175,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "-附件-/原型链.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "-附件-/原型链.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +215,7 @@
   },
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
+    "-附件-/原型链.png",
     "Theme Test.md",
     "📅任务管理.md",
     "📚知识博客.md",
@@ -226,7 +224,6 @@
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
     "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
-    "9999-信箱/666.md",
-    "1000-技术/前端/前端文档.md"
+    "9999-信箱/666.md"
   ]
 }
