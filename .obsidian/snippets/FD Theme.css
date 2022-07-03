@@ -176,16 +176,12 @@ h6 a {
   margin: 0 0.15rem;
   border-radius: 0.3rem;
 }
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  background-color: var(--inline-code-bg) !important;
+}
+
 .cm-s-obsidian span.cm-inline-code,
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
   color: var(--inline-code-color);
-}
-
-/* .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
-.cm-s-obsidian div.HyperMD-codeblock-end-bg {
-  background-color: var(--inline-code-bg) !important;
-} */
-.cm-s-obsidian div.HyperMD-codeblock-bg {
-  background-color: var(--inline-code-bg) !important;
 }
