@@ -53,7 +53,7 @@
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
   --strong-color: 82, 0, 30;
-  --strikethrough-color: rgba(var(--strong-color), 0.7);
+  --strikethrough-color: rgba(var(--strong-color), 0.5);
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -159,8 +159,7 @@ h6 a {
 
 /* 关键字 */
 .cm-strikethrough {
-  color: rgba(82, 0, 30, 0.7);
-  text-decoration-color: var(--text-muted);
+  color: var(--strikethrough-color);
 }
 .cm-strong {
   color: rgb(var(--strong-color));
