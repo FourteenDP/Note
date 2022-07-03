@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 09:31:53
+date updated: 2022-07-03 09:37:09
 ---
 
 # Heading Level 1
@@ -22,7 +22,7 @@ This is the first line.  
 
 And this is the second line.
 
-# 把我国建`Vue`设成为社会主义的现代化强国
+# 把我国建 `Vue` 设成为社会主义的现代化强国
 
 > 毛泽东，1963 年 9 月
 
