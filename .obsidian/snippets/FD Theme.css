@@ -273,4 +273,15 @@ input[type="checkbox"] {
   border-radius: 1em !important;
 }
 
+input.task-list-item-checkbox {
+  border: 1px solid var(--task-checkbox);
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+input.task-list-item-checkbox:checked {
+  background-color: var(--task-checkbox);
+  box-shadow: inset 0 0 0 2px var(--background-primary);
+}
+
 /* 表格 */
