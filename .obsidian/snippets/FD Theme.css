@@ -189,7 +189,7 @@ h6 a {
 
 .cm-s-obsidian div.HyperMD-codeblock-bg {
   background-color: var(--inline-code-bg) !important;
-  padding: 0.1rem 2.2rem;
+  padding: 0.15rem 2.2rem;
 }
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg {
   border-radius: 0.5rem 0.5rem 0 0;
