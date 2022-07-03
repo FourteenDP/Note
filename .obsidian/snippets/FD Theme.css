@@ -85,42 +85,42 @@ h1 a {
   font-size: var(--h1);
 }
 
-.HyperMD-header-2,
-.markdown-preview-section h2,
-.cm-header-2.cm-link,
-.cm-header-2.cm-hmd-internal-link,
+.HyperMD-header-1,
+.HyperMD-header-1 .cm-header-1.cm-link,
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
+.markdown-preview-section h1,
 h2 a {
   color: var(--text-title-h2) !important;
 }
 
-.HyperMD-header-3,
-.markdown-preview-section h3,
-.cm-header-3.cm-link,
-.cm-header-3.cm-hmd-internal-link,
+.HyperMD-header-1,
+.HyperMD-header-1 .cm-header-1.cm-link,
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
+.markdown-preview-section h1,
 h3 a {
   color: var(--text-title-h3) !important;
 }
 
-.HyperMD-header-4,
-.markdown-preview-section h4,
-.cm-header-4.cm-link,
-.cm-header-4.cm-hmd-internal-link,
+.HyperMD-header-1,
+.HyperMD-header-1 .cm-header-1.cm-link,
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
+.markdown-preview-section h1,
 h4 a {
   color: var(--text-title-h4) !important;
 }
 
 .HyperMD-header-5,
+.HyperMD-header-5 .cm-header-5.cm-link,
+.HyperMD-header-5 .cm-header-5.cm-hmd-internal-link,
 .markdown-preview-section h5,
-.cm-header-5.cm-link,
-.cm-header-5.cm-hmd-internal-link,
 h5 a {
   color: var(--text-title-h5) !important;
 }
 
 .HyperMD-header-6,
-.markdown-preview-section h6,
-.cm-header-6.cm-link,
-.cm-header-6.cm-hmd-internal-link,
+.HyperMD-header-6 .cm-header-6.cm-link,
+.HyperMD-header-6 .cm-header-6.cm-hmd-internal-link,
+.markdown-preview-section h1,
 h6 a {
   color: var(--text-title-h6) !important;
 }
