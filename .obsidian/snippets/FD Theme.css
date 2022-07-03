@@ -291,7 +291,7 @@ img {
 
 /* 表格 */
 table {
-  border: 1px solid var(--background-secondary) !important;
+  border: 1px solid  !important;
   border-collapse: collapse;
 }
 
