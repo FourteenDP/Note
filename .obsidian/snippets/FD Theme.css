@@ -156,6 +156,8 @@ h6 a {
 }
 
 /* 关键字 */
+.cm-strikethrough {
+  color: #ffe5dd;
+}
 .cm-strong {
-  color: red;
 }
