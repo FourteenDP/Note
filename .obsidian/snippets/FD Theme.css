@@ -150,7 +150,8 @@ h6 a {
 .cm-strikethrough {
   color: var(--strikethrough-color);
 }
-.cm-strong {
+.cm-strong,
+.markdown-rendered strong {
   color: rgb(var(--strong-color));
 }
 
