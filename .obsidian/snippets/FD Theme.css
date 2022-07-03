@@ -83,7 +83,7 @@
 .markdown-rendered h1,
 h1 a {
   color: var(--text-title-h1) !important;
-  font-size: var(--h1);
+  font-size: var(--h1) !important;
 }
 
 .HyperMD-header-2,
@@ -93,6 +93,7 @@ h1 a {
 .markdown-rendered h2,
 h2 a {
   color: var(--text-title-h2) !important;
+  font-size: var(--h2) !important;
 }
 
 .HyperMD-header-3,
@@ -102,6 +103,7 @@ h2 a {
 .markdown-rendered h3,
 h3 a {
   color: var(--text-title-h3) !important;
+  font-size: var(--h3) !important;
 }
 
 .HyperMD-header-4,
@@ -111,6 +113,7 @@ h3 a {
 .markdown-rendered h4,
 h4 a {
   color: var(--text-title-h4) !important;
+  font-size: var(--h4) !important;
 }
 
 .HyperMD-header-5,
@@ -120,6 +123,7 @@ h4 a {
 .markdown-rendered h5,
 h5 a {
   color: var(--text-title-h5) !important;
+  font-size: var(--h5) !important;
 }
 
 .HyperMD-header-6,
@@ -129,6 +133,7 @@ h5 a {
 .markdown-rendered h6,
 h6 a {
   color: var(--text-title-h6) !important;
+  font-size: var(--h6) !important;
 }
 
 /* ---代码--- */
