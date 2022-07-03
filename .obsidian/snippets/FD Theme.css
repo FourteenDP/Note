@@ -66,7 +66,7 @@
   --table-header: hsl(218, 27%, 48%);
   --table-row-even: hsl(220, 16%, 94%);
   --table-row-odd: hsl(220, 16%, 98%);
-  --table-hover: var(--background-modifier-success);
+  --table-hover: #abc0e0;
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -307,13 +307,13 @@ th {
   border: 0px !important;
   text-align: left;
   background-color: var(--table-header);
-  border: 1px solid #333 !important;
+  border: 1px solid var(--background-modifier-border) !important;
 }
 
 td {
   border-left: 0px !important;
   border-right: 0px !important;
-  border: 1px solid #333 !important;
+  border: 1px solid var(--background-modifier-border) !important;
 }
 
 tr:nth-child(even) {
