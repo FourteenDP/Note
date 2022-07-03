@@ -62,7 +62,7 @@
   --blockquote-border: var(--l-blockquote-h), var(--l-blockquote-s),
     var(--l-blockquote-l);
   --blockquote-bg: hsla(var(--blockquote-border), 0.05);
-  --task-checkbox: var(--frost0);
+  --task-checkbox: #5c70be;
 }
 /* ---标题--- */
 /* 字体&大小 */
