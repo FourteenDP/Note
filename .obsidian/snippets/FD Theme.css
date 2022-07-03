@@ -155,5 +155,7 @@ h6 a {
   font-family: Monospace;
 }
 
-
 /* 关键字 */
+.cm-strong {
+  color: red;
+}
