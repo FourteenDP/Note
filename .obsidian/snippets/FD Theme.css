@@ -52,7 +52,7 @@
   --text-title-h4: #ff986c;
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
-  --strong-color: 36, 0, 21;
+  --strong-color: 0, 0, 0;
   --strikethrough-color: rgba(var(--strong-color), 0.6);
 }
 /* ---标题--- */
