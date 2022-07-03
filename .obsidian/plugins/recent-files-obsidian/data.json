@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器跨域",
+      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
+    },
+    {
+      "basename": "前端面试题",
+      "path": "1000-技术/前端/其它/前端面试题.md"
+    },
+    {
       "basename": "Theme Test",
       "path": "Theme Test.md"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "前端微服务",
       "path": "1000-技术/前端/其它/前端微服务.md"
-    },
-    {
-      "basename": "前端面试题",
-      "path": "1000-技术/前端/其它/前端面试题.md"
     },
     {
       "basename": "前端开发知识点",
