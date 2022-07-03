@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 286
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -220,9 +219,9 @@
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
     "Theme Test.md",
-    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
+    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
     "9999-信箱/666.md",
     "📅任务管理.md",
     "1000-技术/前端/前端文档.md",
