@@ -1,11 +1,11 @@
 {
   "baseFontSize": 33,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "FD Theme"
   ],
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true,
