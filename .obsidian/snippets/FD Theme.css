@@ -151,5 +151,12 @@ h6 a {
 .outliner-plugin-better-bullets .outliner-plugin-better-bullets,
 .outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
 .outliner-plugin-better-bullets .list-bullet:before {
-
+  content: " ";
+  display: inline-block !important;
+  width: 10px !important;
+  height: 10px !important;
+  background: red !important;
+  border-radius: 50% !important;
+  position: absolute !important;
+  top: 25px !important;
 }
