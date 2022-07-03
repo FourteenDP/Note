@@ -170,18 +170,21 @@ h6 a {
 
 /* 行 */
 .cm-s-obsidian
-  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight),
+.markdown-rendered code {
   background: var(--inline-code-bg);
   padding: 0.2rem 0.4rem;
   margin: 0 0.15rem;
   border-radius: 0.3rem;
 }
-.cm-s-obsidian div.HyperMD-codeblock-bg {
-  background-color: var(--inline-code-bg) !important;
-}
 
 .cm-s-obsidian span.cm-inline-code,
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
-.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+.cm-s-obsidian div.HyperMD-codeblock-end-bg,
+.markdown-rendered code {
   color: var(--inline-code-color);
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  background-color: var(--inline-code-bg) !important;
 }
