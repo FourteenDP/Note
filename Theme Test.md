@@ -174,7 +174,9 @@ console.log(7)
 
 1. Alsdjlkwj
 3. Asdajskldj
-4. asdlkajslkd
+4. Asdlkajslkd
+----
+- 
 
 [^1]: 注解 1
 [^2]: 注解 2
