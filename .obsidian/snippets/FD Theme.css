@@ -53,6 +53,7 @@
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
   --strong-color: 82, 0, 30;
+  --strikethrough-color: rgba(var(--strong-color), 0.7);
 }
 /* ---标题--- */
 /* 字体&大小 */
