@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 13:17:30
+date updated: 2022-07-03 13:18:36
 ---
 
 # Heading Level 1
@@ -49,7 +49,7 @@ A*cat*meow
 
 This is really***very***impor tant text.
 
-~~世界是平坦的。~~ 我们现*在知道世界是圆的。
+~~世界是平坦的。~~ 我们现 * 在知道世界是圆的 *。
 
 ### Heading Level 3
 
