@@ -164,9 +164,8 @@ h6 a {
   .list-bullet:before {
   visibility: visible;
   content: "•";
-  font-size: 130%;
+  font-size: 130% !important;
   position: absolute;
   margin-top: -6px;
-  margin-left: -10px;
-  color: var(--text-muted);
+  margin-left: -10px !important;
 }
