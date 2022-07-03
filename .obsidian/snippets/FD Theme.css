@@ -267,9 +267,9 @@ blockquote p:first-child,
 }
 /*---TASK LISTS---*/
 
-
-input[type="checkbox"]{
-  border-radius: 1em !important;
+input[type="checkbox"],
+.task-list-item-checkbox {
+  border-radius: 6em !important;
 }
 
 /* 表格 */
