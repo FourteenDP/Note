@@ -52,7 +52,7 @@
   --text-title-h4: #ff986c;
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
-  --strong-color: 60, 0, 40;
+  --strong-color: 124, 25, 30;
   --strikethrough-color: rgba(var(--strong-color), 0.6);
   --inline-code-color: #d63200;
   --inline-code-bg: #e6e6e6;
@@ -201,4 +201,61 @@ h6 a {
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
   border-radius: 0 0 0.5rem 0.5rem;
   padding: 0 0;
+}
+
+/* 说明框 */
+
+/* BLOCKQUOTES */
+
+.markdown-preview-view blockquote:before {
+  content: "❝"; /*\edd5 \ec51*/
+  font-family: Karmilla;
+  font-weight: 900;
+  font-size: 2.5em;
+  margin-right: 0.05em;
+  line-height: 0.1em;
+  vertical-align: -0.3em;
+}
+
+.naked-bq .markdown-preview-view blockquote:before {
+  content: "";
+  margin-right: 0em;
+}
+
+blockquote p {
+  color: hsl(var(--blockquote-border));
+}
+
+blockquote p:first-child {
+  display: inline;
+}
+
+.markdown-preview-view blockquote {
+  line-height: var(--editor-line-height);
+  color: hsl(var(--blockquote-border));
+  font-family: var(--default-font);
+  border: none;
+  border-left: 0.3rem solid hsl(var(--blockquote-border));
+  background-color: var(--blockquote-bg);
+  border-radius: 0px;
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+kbd {
+  line-height: 1.476;
+  font-weight: 700;
+  padding: 4px 6px;
+  font-size: 0.875em;
+  border-radius: 4px;
+  white-space: nowrap;
+  display: inline-block;
+  color: var(--text-normal);
+  font-family: var(--font-monospace);
+  background-color: var(--background-secondary-alt);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: 0 1.5px 1px rgba(0, 0, 0, 0.2),
+    0 2px 0 0 rgba(255, 255, 255, 0.25) inset;
 }
