@@ -157,8 +157,8 @@ h6 a {
 
 /* 关键字 */
 .cm-strikethrough {
-  color: var(--text-accent);
+  color: rgba(82, 0, 30, 0.7);
 }
 .cm-strong {
-  color: rgb(82, 0, 30)
+  color: rgb(82, 0, 30);
 }
