@@ -269,7 +269,7 @@ blockquote p:first-child,
 
 input[type="checkbox"],
 .task-list-item-checkbox {
-  border-radius: 6em !important;
+  border-radius: 1em !important;
 }
 
 /* 表格 */
