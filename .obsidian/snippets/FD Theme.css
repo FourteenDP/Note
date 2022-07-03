@@ -184,7 +184,6 @@ h6 a {
   color: var(--inline-code-color);
 }
 
-.cm-s-obsidian div.HyperMD-codeblock-bg,
-.markdown-rendered code {
+.cm-s-obsidian div.HyperMD-codeblock-bg {
   background-color: var(--inline-code-bg) !important;
 }
