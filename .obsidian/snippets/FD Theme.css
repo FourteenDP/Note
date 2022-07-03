@@ -328,6 +328,6 @@ tr:hover {
 /* 滚动条 */
 body:not(.native-scrollbars) ::-webkit-scrollbar {
   width: 5px;
-  height: 10px;
+  height: 5px;
   -webkit-border-radius: 100px;
 }
