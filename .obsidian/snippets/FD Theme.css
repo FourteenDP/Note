@@ -166,6 +166,6 @@ h6 a {
   content: "•";
   font-size: 130% !important;
   position: absolute;
-  margin-top: -6px;
+  margin-top: -6px !important;
   margin-left: -10px !important;
 }
