@@ -4047,7 +4047,11 @@ body:not(.is-mobile) ol ul ul ul ul ul ul ul ul ul ul ul ul {
   list-style-type: "□   ";
 }
 
-markdown-preview-view ul > li.task-list-item > p {
+/*----------------------------------------------------------------
+TASK LISTS
+----------------------------------------------------------------*/
+
+.markdown-preview-view ul > li.task-list-item > p {
   text-indent: unset;
 }
 
@@ -4126,8 +4130,6 @@ input[type="checkbox"]:checked {
 ul.contains-task-list li {
   line-height: var(--editor-line-height) !important;
   margin: 0;
-}
-
 }
 
 /*----------------------------------------------------------------
