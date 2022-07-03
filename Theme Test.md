@@ -22,7 +22,7 @@ This is the first line.  
 
 And this is the second line.
 
-# 把我国建`Vue设成为社会主义的现代化强国
+# 把我国建`Vue`设成为社会主义的现代化强国
 
 > 毛泽东，1963 年 9 月
 
