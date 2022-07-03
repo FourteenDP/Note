@@ -186,7 +186,9 @@ h6 a {
   color: var(--inline-code-color);
 }
 
-.cm-s-obsidian div.HyperMD-codeblock-begin-bg,
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+  border-radius: 1rem 1rem 0rem 0rem;
+}
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
-  border-radius: 1rem 0rem;
+  border-radius: 1rem 1rem 0rem 0rem;
 }
