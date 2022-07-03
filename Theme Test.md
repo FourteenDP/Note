@@ -139,7 +139,7 @@ console.log(obj)
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
-This <mark style="background: #ABF7F7A6;"> **word**  is bold . This <em> word </em> is italic.
+This **<mark style="background: #FF5582A6;">word</mark>**  is bold . This <em> word </em> is italic.
 
 | Syntax    | Description | TestText    | Test      | 标题   |
 |:--------- |:-----------:| -----------:| --------- | ---- |
