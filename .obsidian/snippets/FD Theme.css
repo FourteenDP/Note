@@ -227,11 +227,13 @@ h6 a {
   margin-right: 0em;
 }
 
-blockquote p{
+blockquote p,
+.cm-quote {
   color: hsl(var(--blockquote-border)) !important;
 }
 
-blockquote p:first-child {
+blockquote p:first-child,
+.cm-quote:first-child {
   display: inline;
 }
 
