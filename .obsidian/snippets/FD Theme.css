@@ -148,6 +148,12 @@ h6 a {
   font-family: var(--code-font), var(--default-font) !important;
 }
 
+/* 代码行 */
+.cm-s-obsidian
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  background: #d2d2d2;
+}
+
 /* 列表 */
 /* 无序列凑点 */
 .outliner-plugin-better-bullets .cm-s-obsidian:not(.is-live-preview),
@@ -156,11 +162,6 @@ h6 a {
 .outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
 .outliner-plugin-better-bullets .list-bullet:before {
   font-family: Monospace;
-}
-
-.cm-s-obsidian
-  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
-  background: #d2d2d2;
 }
 
 /* 关键字 */
