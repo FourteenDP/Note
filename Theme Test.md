@@ -118,10 +118,10 @@ This is really***very***impor tant text.
    - Indented item
    - Indented item
 4. Fourth item
-- [ ] Write the press release
-- [x] Update the website ✅ 2022-07-02
-- [x] Contact the media ✅ 2022-07-03
-- [ ] 我的世界
+- [x] Write the press release ✅ 2022-07-03
+- [x] Update the website ✅ 2022-07-03
+- [ ] Contact the media
+- [x] 我的世界 ✅ 2022-07-03
 
 ##### Heading Level 5
 
