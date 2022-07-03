@@ -1,0 +1,154 @@
+:root
+  --default-font 'HarmonyOS Sans Regular'
+  --code-font 'Fira Code Retina'
+  --header-font var( --default-font )
+  --header-weight 800
+  --h1 3rem
+  --h2 2.75rem
+  --h3 2.5rem
+  --h4 2.25rem
+  --h5 2rem
+  --h6 1.75rem
+
+.theme-light
+  --background-primary #faf7f5
+  --background-primary-alt #f5f8fa
+  --background-secondary #f2f3f5
+  --background-secondary-alt #e3e5e8
+  --background-modifier-border #ddd
+  --background-modifier-form-field #fff
+  --background-modifier-form-field-highlighted #fff
+  --background-modifier-box-shadow rgba( 0, 0, 0, .1 )
+  --background-modifier-success #a4e7c3
+  --background-modifier-error #900
+  --background-modifier-error-rgb 230, 135, 135
+  --background-modifier-error-hover #b00
+  --background-modifier-cover rgba( 198, 200, 209, .8 )
+  --text-accent #705dcf
+  --text-accent-hover #7a6ae6
+  --text-normal #2e3338
+  --text-muted #888888
+  --text-muted-rgb 136, 136, 136
+  --text-faint #999
+  --text-error #800000
+  --text-error-hover #900
+  --text-highlight-bg rgba( 255, 255, 0, .4 )
+  --text-highlight-bg-active rgba( 255, 128, 0, .4 )
+  --text-selection rgba( 204, 230, 255, .99 )
+  --text-on-accent #777
+  --interactive-normal #f2f3f5
+  --interactive-hover #e9e9e9
+  --interactive-accent #7b6cd9
+  --interactive-accent-rgb 123, 108, 217
+  --interactive-accent-hover #8273e6
+  --interactive-success #197300
+  --scrollbar-active-thumb-bg rgba( 0, 0, 0, .2 )
+  --scrollbar-bg rgba( 0, 0, 0, .05 )
+  --scrollbar-thumb-bg rgba( 0, 0, 0, .1 )
+  --highlight-mix-blend-mode darken
+  --text-title-h1 #a268ff
+  --text-title-h2 #ff56d1
+  --text-title-h3 #ff689a
+  --text-title-h4 #ff986c
+  --text-title-h5 #ffcb58
+  --text-title-h6 #ccb4e9
+
+/* ---标题--- */
+/* 字体&大小 */
+.markdown-preview-view h1
+.markdown-preview-view h2
+.markdown-preview-view h3
+.markdown-preview-view h4
+.markdown-preview-view h5
+.markdown-preview-view h6
+.HyperMD-header .cm-header-1
+.HyperMD-header .cm-header-2
+.HyperMD-header .cm-header-3
+.HyperMD-header .cm-header-4
+.HyperMD-header .cm-header-5
+.HyperMD-header .cm-header-6
+  font-weight var( --header-weight ) !important
+  font-family var( --header-font ) !important
+
+/* 颜色 */
+.HyperMD-header-1
+.HyperMD-header-1 .cm-header-1.cm-link
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link
+.markdown-preview-section h1
+.markdown-rendered h1
+h1 a
+  color var( --text-title-h1 ) !important
+  font-size var( --h1 ) !important
+
+.HyperMD-header-2
+.HyperMD-header-2 .cm-header-2.cm-link
+.HyperMD-header-2 .cm-header-2.cm-hmd-internal-link
+.markdown-preview-section h2
+.markdown-rendered h2
+h2 a
+  color var( --text-title-h2 ) !important
+  font-size var( --h2 ) !important
+
+.HyperMD-header-3
+.HyperMD-header-3 .cm-header-3.cm-link
+.HyperMD-header-3 .cm-header-3.cm-hmd-internal-link
+.markdown-preview-section h3
+.markdown-rendered h3
+h3 a
+  color var( --text-title-h3 ) !important
+  font-size var( --h3 ) !important
+
+.HyperMD-header-4
+.HyperMD-header-4 .cm-header-4.cm-link
+.HyperMD-header-4 .cm-header-4.cm-hmd-internal-link
+.markdown-preview-section h4
+.markdown-rendered h4
+h4 a
+  color var( --text-title-h4 ) !important
+  font-size var( --h4 ) !important
+
+.HyperMD-header-5
+.HyperMD-header-5 .cm-header-5.cm-link
+.HyperMD-header-5 .cm-header-5.cm-hmd-internal-link
+.markdown-preview-section h5
+.markdown-rendered h5
+h5 a
+  color var( --text-title-h5 ) !important
+  font-size var( --h5 ) !important
+
+.HyperMD-header-6
+.HyperMD-header-6 .cm-header-6.cm-link
+.HyperMD-header-6 .cm-header-6.cm-hmd-internal-link
+.markdown-preview-section h6
+.markdown-rendered h6
+h6 a
+  color var( --text-title-h6 ) !important
+  font-size var( --h6 ) !important
+
+/* ---代码--- */
+/* 字体 */
+.cm-s-obsidian .hmd-fold-html-stub
+.cm-s-obsidian .hmd-fold-code-stub
+.cm-s-obsidian.CodeMirror .HyperMD-hover > .HyperMD-hover-content code
+.cm-s-obsidian .cm-formatting-hashtag
+.cm-s-obsidian .cm-inline-code
+.cm-s-obsidian .HyperMD-codeblock
+.cm-s-obsidian .HyperMD-hr
+.cm-s-obsidian .cm-hmd-frontmatter
+.cm-s-obsidian .cm-hmd-orgmode-markup
+.cm-s-obsidian .cm-formatting-code
+.cm-s-obsidian .cm-math
+.cm-s-obsidian span.hmd-fold-math-placeholder
+.cm-s-obsidian .CodeMirror-linewidget kbd
+.cm-s-obsidian .hmd-fold-html kbd
+.markdown-rendered code
+  font-family var( --code-font ), var( --default-font ) !important
+
+.outliner-plugin-better-bullets
+  .cm-s-obsidian:not(.is-live-preview)
+  .cm-formatting-list-ul:before
+  .outliner-plugin-better-bullets
+  .cm-s-obsidian.is-live-preview
+  .list-bullet:before
+    margin-top -.5rem !important
+    margin-left -.765rem !important
