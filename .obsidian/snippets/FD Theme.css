@@ -184,5 +184,5 @@ h6 a {
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-bg {
-  background-color: #291334 !important;
+  background-color: var(--inline-code-bg) !important;
 }
