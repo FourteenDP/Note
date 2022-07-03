@@ -56,6 +56,12 @@
   --strikethrough-color: rgba(var(--strong-color), 0.6);
   --inline-code-color: #d63200;
   --inline-code-bg: #e6e6e6;
+  --l-blockquote-h: 350;
+  --l-blockquote-s: 100%;
+  --l-blockquote-l: 70%;
+  --blockquote-border: var(--l-blockquote-h), var(--l-blockquote-s),
+    var(--l-blockquote-l);
+  --blockquote-bg: hsla(var(--blockquote-border), 0.05);
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -205,11 +211,8 @@ h6 a {
 
 /* 说明框 */
 
-/* BLOCKQUOTES */
-
 .markdown-preview-view blockquote:before {
   content: "❝"; /*\edd5 \ec51*/
-  font-family: Karmilla;
   font-weight: 900;
   font-size: 2.5em;
   margin-right: 0.05em;
