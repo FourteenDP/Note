@@ -130,6 +130,24 @@ h6 a {
   font-size: var(--h6) !important;
 }
 
+/* ---列表--- */
+/* 无序列凑点 */
+.outliner-plugin-better-bullets .cm-s-obsidian:not(.is-live-preview),
+.outliner-plugin-better-bullets .cm-formatting-list-ul:before,
+.outliner-plugin-better-bullets .outliner-plugin-better-bullets,
+.outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
+.outliner-plugin-better-bullets .list-bullet:before {
+  font-family: Monospace !important;
+}
+
+/* 关键字 */
+.cm-strikethrough {
+  color: var(--strikethrough-color);
+}
+.cm-strong {
+  color: rgb(var(--strong-color));
+}
+
 /* ---代码--- */
 /* 字体 */
 .cm-s-obsidian .hmd-fold-html-stub,
@@ -162,20 +180,7 @@ h6 a {
   color: var(--inline-code-color);
 }
 
-/* ---列表--- */
-/* 无序列凑点 */
-.outliner-plugin-better-bullets .cm-s-obsidian:not(.is-live-preview),
-.outliner-plugin-better-bullets .cm-formatting-list-ul:before,
-.outliner-plugin-better-bullets .outliner-plugin-better-bullets,
-.outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
-.outliner-plugin-better-bullets .list-bullet:before {
-  font-family: Monospace !important;
-}
-
-/* 关键字 */
-.cm-strikethrough {
-  color: var(--strikethrough-color);
-}
-.cm-strong {
-  color: rgb(var(--strong-color));
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg,
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+  background: var(var(--inline-code-bg)) !important;
 }
