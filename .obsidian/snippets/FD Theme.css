@@ -181,6 +181,11 @@ h6 a {
   color: var(--inline-code-color);
 }
 
+.theme-light :not(pre) > code[class*="language-"],
+.theme-light pre[class*="language-"] {
+  background-color: var(--inline-code-bg) !important;
+}
+
 .cm-s-obsidian div.HyperMD-codeblock-bg {
   background-color: var(--inline-code-bg) !important;
   padding: 0.2rem 2rem;
