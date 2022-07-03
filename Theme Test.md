@@ -52,6 +52,8 @@ This is really***very***impor tant text.
 ~~世界是平坦的。~~ 我们现 * 在知道世界是圆的 *。
 [[asdasdasd]]
 [[颜色]]
+
+我国从十九世纪四十年代起，到二十世纪四十年代中期，共计一百零五年时间，全世界几乎一切大中小帝国主义国家都侵略过我国，都打过我们，除了最后一次，即抗日战争，**由于国内外各种原因以日本帝国主义投降告终以外，没有一次战争不是以我国失败、签订丧权辱国条约而告终。其原因: 一是社会制度腐败，二是经济技术落后。现在，我国社会制度变了，第一个原因基本解决了；但还没有彻底解决
 ### Heading Level 3
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
