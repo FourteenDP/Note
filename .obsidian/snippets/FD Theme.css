@@ -295,7 +295,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   white-space: nowrap;
-  o
+  overflow-y: hidden;
 }
 
 th {
