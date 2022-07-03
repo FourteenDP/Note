@@ -71,7 +71,7 @@
 
 /* 内容宽度 */
 .markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer{
-  max-width: 900px !important;
+  max-width: 1200px !important;
 }
 
 /* ---标题--- */
