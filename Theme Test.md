@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-04 00:20:50
+date updated: 2022-07-04 00:49:37
 ---
 [ ] asdjaklsd
 - [ ] 我是的
@@ -170,9 +170,6 @@ This **<mark style="background: #FF5582A6;">word</mark>**  is bold . This <em> w
 |:--------- |:-----------:| -----------:| --------- | ---- |
 | Header    | Title       | Here's this | Test      | 我是内容 |
 | Paragraph | Text        | And more    | Test Text |      |
-
-| Syntax    | Description | TestText    | Test | Test | 我加长加长 | Test | Test | Test      |
-|:--------- |:-----------:| -----------:| ---- | ---- | ----- | ---- | ---- | --------- |
 | Header    | Title       | Here's this |      |      | 中国    |      |      | Test      |
 | Paragraph | Text        | And more    |      |      | 中文字   |      |      | Test Text |
 
@@ -211,10 +208,9 @@ console.log(7)
 
 ## Vue 我的世界
 
+- 我的世界
+  - Wde
 [^1]: 注解 1
 [^2]: 注解 2
 [^3]: 注解 3
 [^4]: 注解 4
-- 我的世界
-  - Wde
-  - 
