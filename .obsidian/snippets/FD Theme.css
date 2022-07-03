@@ -291,20 +291,14 @@ img {
 
 /* 表格 */
 table {
-  border: 1px solid var(--background-secondary) !important;
   border-collapse: collapse;
   display: block;
   width: 100%;
   white-space: nowrap;
-
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-
   overflow-x: scroll;
-
   overflow-y: hidden;
-
   text-align: justify;
-
   box-sizing: border-box;
 }
 
@@ -319,7 +313,6 @@ th {
 td {
   border-left: 0px !important;
   border-right: 0px !important;
-  border-bottom: 1px solid var(--background-secondary) !important;
 }
 
 tr:nth-child(even) {
