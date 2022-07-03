@@ -187,9 +187,9 @@ h6 a {
 }
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg {
   border-radius: 0.5rem 0.5rem 0 0;
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
   border-radius: 0 0 0.5rem 0.5rem;
-  padding: 1rem 0;
+  padding: .5rem 0;
 }
