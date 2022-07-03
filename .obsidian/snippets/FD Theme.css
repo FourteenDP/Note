@@ -268,8 +268,8 @@ blockquote p:first-child,
 /*---TASK LISTS---*/
 
 input[type="checkbox"] {
-  width: 15px;
-  height: 15px;
+  width: 30px;
+  height: 30px;
   border-radius: 1em !important;
 }
 
