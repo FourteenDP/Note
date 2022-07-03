@@ -177,9 +177,7 @@ h6 a {
   border-radius: 0.3rem;
 }
 
-.cm-s-obsidian span.cm-inline-code,
-.cm-s-obsidian div.HyperMD-codeblock-begin-bg,
-.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+.cm-s-obsidian span.cm-inline-code {
   color: var(--inline-code-color);
 }
 
