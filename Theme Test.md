@@ -176,7 +176,10 @@ console.log(7)
 3. Asdajskldj
 4. Asdlkajslkd
 ----
-- 
+- Line 1
+- Line2
+- Line3
+  - 
 
 [^1]: 注解 1
 [^2]: 注解 2
