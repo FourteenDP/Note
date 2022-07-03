@@ -4,7 +4,7 @@
   --code-font: "Fira Code Retina";
 
   --header-font: "Comic Sans MS", "楷体";
-  --header-weight: 900;
+  --header-weight: 100;
 
   --h1: 3rem;
   --h2: 2.75rem;
@@ -155,8 +155,3 @@ h6 a {
 .markdown-rendered code {
   font-family: var(--code-font), var(--default-font) !important;
 }
-/* 段&&行字体颜色 */
-/* TODO */
-/* .cm-s-obsidian .cm-inline-code,
-.cm-s-obsidian .cm-math {
-} */
