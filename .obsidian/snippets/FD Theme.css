@@ -157,7 +157,7 @@ h6 a {
 
 /* 关键字 */
 .cm-strikethrough {
-  color: #FFC8FF;
+  color: var(--text-accent);
 }
 .cm-strong {
   color: #EA4A69;
