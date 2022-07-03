@@ -7,9 +7,12 @@
         "id": "6e10611cd7f321e7",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "-附件-/原型链.png"
+            "file": "Theme Test.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/原型链.png"
+                "file": "Theme Test.md"
               }
             }
           },
@@ -172,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/原型链.png",
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/原型链.png",
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,15 +218,15 @@
   },
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
-    "-附件-/原型链.png",
     "Theme Test.md",
+    "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
+    "-附件-/盒子模型.png",
+    "-附件-/原型链.png",
+    "-附件-/中国近代史时间轴图.png",
+    "-附件-/CMD终端代理设置环境变量.png",
+    "-附件-/Linux目录结构.png",
+    "-附件-/Vue生命周期.png",
     "📅任务管理.md",
-    "📚知识博客.md",
-    "1000-技术/前端/浏览器/浏览器跨域.md",
-    "1000-技术/前端/其它/前端面试题.md",
-    "1100-设计/颜色.md",
-    "1100-设计/字体.md",
-    "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md",
-    "9999-信箱/666.md"
+    "📚知识博客.md"
   ]
 }
