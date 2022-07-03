@@ -3,32 +3,32 @@
 name: Yin and Yang Theme
 id: Yin and Yang
 settings:
-  - 
+  -
     id: accent-color-title
     title: Accent Color
     description: For links and interactive elements.
     type: heading
     level: 3
-    collapsed: false 
-  - 
+    collapsed: false
+  -
     id: l-accent
     title: Light Mode Accent Color
     type: variable-color
     format: hsl-split
-    default: '#DAAFFF' 
-  - 
+    default: '#DAAFFF'
+  -
     id: d-accent
     title: Dark Mode Accent Color
     type: variable-color
     format: hsl-split
     default: '#FFCCF1'
-  - 
+  -
     id: base-colors
     title: Base Color
     description: Change base hue and saturation.
     type: heading
     level: 3
-    collapsed: false 
+    collapsed: false
   -
     title: Base Hue
     id: base-h
@@ -36,7 +36,7 @@ settings:
     default: 205
     min: 0
     max: 330
-    step: 1 
+    step: 1
   -
     title: Base Saturation
     id: base-s
@@ -45,7 +45,7 @@ settings:
     format: '%'
     min: 1
     max: 100
-    step: 1 
+    step: 1
   -
     title: Base Darkness
     id: base-d
@@ -54,7 +54,7 @@ settings:
     format: '%'
     min: 4
     max: 32
-    step: 1 
+    step: 1
   -
     id: custom-fonts
     title: Custom Fonts
@@ -62,37 +62,37 @@ settings:
     type: heading
     level: 3
     collapsed: true
-  - 
+  -
     id: default-font
     title: UI Font
     description: Font used for the user interface
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     id: preview-font
     title: Preview Font
     description: Font used for the preview view
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     id: header-font-pre
     title: Headers in Preview Font
     description: Font used for the headers in preview
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     id: editor-font
     title: Editor Font
     description: Font used for the editor view
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     id: header-font-ed
     title: Headers in Editor Font
     description: Font used for the headers in editor
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     id: font-monospace
     title: Monospace Font
     description: Used for code blocks, front matter, etc
@@ -105,41 +105,41 @@ settings:
     type: heading
     level: 3
     collapsed: true
-  - 
+  -
     id: wys-headings
-    title: WYSIWYG Headings in Editor 
+    title: WYSIWYG Headings in Editor
     description: Adds WYSIWYG-like functionality for headings in editor
     type: class-toggle
-  - 
+  -
     id: wys-enhanced
     title: Enhanced Editor Typography
     description: Adds enhanced WYSIWYG-like functionality in editor
     type: class-toggle
-  - 
+  -
     id: rainbow-headers
     title: Rainbow Headers
     description: Adds rainbow colors for headers
     type: class-toggle
-  - 
+  -
     id: line-width
     title: Readable Line Width
     description: The maximum line width in rem units for readable line width
     type: variable-number
     default: 47
     format: rem
-  - 
+  -
     id: editor-line-height
     title: Body Line Height
     description: Line height of the main text, expects a decimal value
     type: variable-number
-    default: 1.756666  
+    default: 1.756666
   -
-    id: l-blockquote 
+    id: l-blockquote
     title: Light Mode Block Quote Color
     type: variable-color
     format: hsl-split
     default: '#FF66E5'
-  - 
+  -
     id: d-blockquote
     title: Dark Mode Block Quote Color
     type: variable-color
@@ -153,14 +153,14 @@ settings:
     default-dark: '#84B6FF'
     default-light: '#4A94FF'
   -
-    title: Bold Text Color 
+    title: Bold Text Color
     id: strong-color
     type: variable-themed-color
     format: hex
     default-dark: '#FFADF1'
     default-light: '#FF66E5'
   -
-    title: Highlight Color 
+    title: Highlight Color
     id: text-highlight-rgb
     type: variable-themed-color
     format: hex
@@ -185,62 +185,62 @@ settings:
     description: This will allow for editing of headings individually.
     id: spec-font-head
     type: class-toggle
-  - 
+  -
     title: Heading 1 Font Preview
     id: f-header-1-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 1 Font Editor
     id: f-header-1-ed
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 2 Font Preview
     id: f-header-2-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 2 Font Editor
     id: f-header-2-ed
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 3 Font Preview
     id: f-header-3-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 3 Font Editor
     id: f-header-3-ed
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 4 Font Preview
     id: f-header-4-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 4 Font Editor
     id: f-header-4-ed
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 5 Font Preview
     id: f-header-5-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 5 Font Editor
     id: f-header-5-ed
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 6 Font Preview
     id: f-header-6-pre
     type: variable-text
     default: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif
-  - 
+  -
     title: Heading 6 Font Editor
     id: f-header-6-ed
     type: variable-text
@@ -264,7 +264,7 @@ settings:
     format: em
     min: 1
     max: 3
-    step: .15 
+    step: .15
   -
     title: Heading 1 Size Editor
     id: s-header-1-ed
@@ -459,7 +459,7 @@ settings:
     format: hex
     default-dark: '#EFF1FB'
     default-light: '#171E45'
-  - 
+  -
     title: Minimalize Elements
     id: minilize-elements
     description: Minimalize certain workspace elements.
@@ -474,7 +474,7 @@ settings:
   -
     title: Remove Custom Icons
     id: no-svg-replace
-    description: This will disable all custom icons 
+    description: This will disable all custom icons
     type: class-toggle
   -
     title: Animations
@@ -590,12 +590,12 @@ settings:
     min: 1
     max: 8
     step: 1
-  - 
-    title: File Explorer 
+  -
+    title: File Explorer
     id: heading-specific
     type: heading
     level: 4
-    collapsed: true 
+    collapsed: true
   -
     title: Remove Custom Icons
     description: This will remove all custom icons in the file explorer (will also improve scrolling performance).
@@ -607,50 +607,50 @@ settings:
     id: show-fx-folder-icons
     type: class-toggle
   -
-    title: Remove Text Reverse on Attachments 
+    title: Remove Text Reverse on Attachments
     description: This will undo text reverse of attachments and remove attachments icons
-    id: no-fx-reverse 
+    id: no-fx-reverse
     type: class-toggle
-  - 
-    title: Status Bar 
+  -
+    title: Status Bar
     id: status-bar-spec
     type: heading
     level: 4
     collapsed: true
   -
-    title: Remove Status Bar 
+    title: Remove Status Bar
     description: This will hide the status bar and you can hover to see it
     id: persistent-sb
     type: class-toggle
   -
-    title: Remove Status Bar Icon 
+    title: Remove Status Bar Icon
     description: This will remove the ☯️ symbol from the status bar
     id: no-status-icon
     type: class-toggle
-  - 
+  -
     title: More Customization
     id: background-customization
     description: Extra customizable features.
     type: heading
     level: 3
     collapsed: true
-  - 
-    title: File Explorer 
+  -
+    title: File Explorer
     id: heading-specific
     type: heading
     level: 4
-    collapsed: true 
+    collapsed: true
   -
     title: File Explorer Relationship Lines
     description: This will add relationship lines to files and folders in file explorer
     id: fx-rel-lines
     type: class-toggle
-  - 
-    title: Background Customization 
+  -
+    title: Background Customization
     id: heading-specific
     type: heading
     level: 4
-    collapsed: true 
+    collapsed: true
   -
     title: Background For All Side Panes
     id: side-panes-bg
@@ -661,7 +661,7 @@ settings:
     description: Allows customization of backgrounds for all panes. Simply edit the image url within the "url()" function.
     id: all-sides
     type: class-toggle
-  - 
+  -
     title: Side Panes Bkgd
     id: all-sides-bg
     type: variable-text
@@ -696,28 +696,28 @@ settings:
     id: graph-input-bg
     type: variable-text
     default: url()
-  - 
+  -
     title: File Explorer Bkgd
     id: fx-input-bg
     type: variable-text
     default: url()
-  - 
+  -
     title: Backlinks Bkgd
     id: backlink-input-bg
     type: variable-text
     default: url()
-  - 
+  -
     title: Tag Pane Bkgd
     id: tag-input-bg
     type: variable-text
     default: url()
-  - 
+  -
     title: Calendar Pane Bkgd
     id: calendar-input-bg
     type: variable-text
     default: url()
   -
-    title: Transparent Window 
+    title: Transparent Window
     id: transparent-win-spec
     type: heading
     level: 4
@@ -1050,7 +1050,7 @@ PASTEL COLORS
   --opacity-translucency: 1;
 
   /*----------------------------------------------------------------
-HIGHLIGHTERS 
+HIGHLIGHTERS
 ----------------------------------------------------------------*/
 
   --yellow-highlighter: #fff3a3a6;
@@ -1227,7 +1227,7 @@ DARK THEME GRAPH
   --opacity-translucency: 1;
 
   /*----------------------------------------------------------------
-HIGHLIGHTERS 
+HIGHLIGHTERS
 ----------------------------------------------------------------*/
 
   --yellow-highlighter: #fff3a3a6;
@@ -1622,7 +1622,7 @@ input.document-replace-input:focus {
 }
 
 /*----------------------------------------------------------------
-SECONDARY FOUNDATIONS 
+SECONDARY FOUNDATIONS
 ----------------------------------------------------------------*/
 
 .CodeMirror-gutter.CodeMirror-linenumbers,
@@ -3638,7 +3638,7 @@ padding: 1.2em 1em 1.2em 1em;*/
 }
 
 /*----------------------------------------------------------------
-MENU 
+MENU
 ----------------------------------------------------------------*/
 
 .menu {
@@ -3814,7 +3814,7 @@ SUGGESTIONS
 }
 
 /*  ----------------------------------------------------------------
-CUSTOM/READABLE LINE WIDTH 
+CUSTOM/READABLE LINE WIDTH
 ----------------------------------------------------------------*/
 
 .mod-root #calendar-container.is-readable-line-width,
@@ -3911,7 +3911,7 @@ body:not(.is-mobile) .markdown-embed .markdown-preview-view {
 }
 
 /* ----------------------------------------------------------------
-LISTS  
+LISTS
 ----------------------------------------------------------------*/
 
 li::marker {
@@ -4047,11 +4047,7 @@ body:not(.is-mobile) ol ul ul ul ul ul ul ul ul ul ul ul ul {
   list-style-type: "□   ";
 }
 
-/*----------------------------------------------------------------
-TASK LISTS
-----------------------------------------------------------------*/
-
-.markdown-preview-view ul > li.task-list-item > p {
+markdown-preview-view ul > li.task-list-item > p {
   text-indent: unset;
 }
 
@@ -4130,6 +4126,8 @@ input[type="checkbox"]:checked {
 ul.contains-task-list li {
   line-height: var(--editor-line-height) !important;
   margin: 0;
+}
+
 }
 
 /*----------------------------------------------------------------
@@ -4326,7 +4324,7 @@ EMBEDS
 }
 
 /*----------------------------------------------------------------
-AUDIO 
+AUDIO
 ----------------------------------------------------------------*/
 
 audio,
@@ -4353,7 +4351,7 @@ audio::-webkit-media-controls-enclosure {
 }
 
 /*----------------------------------------------------------------
-IFRAME 
+IFRAME
 ----------------------------------------------------------------*/
 
 iframe {
@@ -4630,7 +4628,7 @@ SCROLLBARS
 }
 
 /*----------------------------------------------------------------
-WORKSPACE 
+WORKSPACE
 ----------------------------------------------------------------*/
 
 .workspace-leaf.is-highlighted:before {
@@ -9242,8 +9240,8 @@ body .zoom-plugin-title {
   z-index: 10;
 }
 
-/*---------------------------------------------------------------- 
-OBSIDIAN-CALENDAR-PLUGIN 
+/*----------------------------------------------------------------
+OBSIDIAN-CALENDAR-PLUGIN
 ----------------------------------------------------------------*/
 
 #calendar-container {
@@ -9414,7 +9412,7 @@ text.react-calendar-heatmap-month-label {
 }
 
 /*----------------------------------------------------------------
-DUAL PLUGIN 
+DUAL PLUGIN
 ----------------------------------------------------------------*/
 
 .nav-header h6 {
@@ -9469,7 +9467,7 @@ button#send-button {
 }
 
 /*----------------------------------------------------------------
-DAY PLANNER PLUGIN 
+DAY PLANNER PLUGIN
 ----------------------------------------------------------------*/
 
 .header_title.svelte-e43ld1.svelte-e43ld1,
@@ -9706,7 +9704,7 @@ body .kanban-plugin {
 }
 
 /*----------------------------------------------------------------
-EXCALIDRAW PLUGIN 
+EXCALIDRAW PLUGIN
 ----------------------------------------------------------------*/
 
 .excalidraw .ToolIcon_type_button--show {
@@ -9733,7 +9731,7 @@ EXCALIDRAW PLUGIN
 }
 
 /*----------------------------------------------------------------
-BUTTONS PLUGIN 
+BUTTONS PLUGIN
 ----------------------------------------------------------------*/
 
 .button-default {
@@ -9751,7 +9749,7 @@ BUTTONS PLUGIN
 }
 
 /*----------------------------------------------------------------
-DANGLING LINKS PLUGIN 
+DANGLING LINKS PLUGIN
 ----------------------------------------------------------------*/
 
 #dangling-links.container {
@@ -9760,7 +9758,7 @@ DANGLING LINKS PLUGIN
 }
 
 /*----------------------------------------------------------------
-DICTIONARY PLUGIN 
+DICTIONARY PLUGIN
 ----------------------------------------------------------------*/
 
 .workspace-leaf-content[data-type="dictionary-view"] {
