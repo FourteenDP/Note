@@ -179,7 +179,7 @@ console.log(7)
 - Line 1
 - Line2
 - Line3
-  - 
+  - 3-1
 
 [^1]: 注解 1
 [^2]: 注解 2
