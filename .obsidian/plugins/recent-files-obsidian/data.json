@@ -5,6 +5,10 @@
       "path": "Theme Test.md"
     },
     {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
       "basename": "颜色",
       "path": "1100-设计/颜色.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "分析Vue2中Vue与VueComponent的关系",
       "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
     },
     {
       "basename": "前端文档",
