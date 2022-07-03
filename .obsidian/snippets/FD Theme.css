@@ -68,6 +68,12 @@
   --table-row-odd: hsl(220, 16%, 98%);
   --table-hover: #abc0e0;
 }
+
+/* 内容宽度 */
+.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer{
+  max-width: 900px !important;
+}
+
 /* ---标题--- */
 /* 字体&大小 */
 .markdown-preview-view h1,
