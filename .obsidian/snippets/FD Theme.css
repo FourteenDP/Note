@@ -63,6 +63,10 @@
     var(--l-blockquote-l);
   --blockquote-bg: hsla(var(--blockquote-border), 0.05);
   --task-checkbox: #5c70be;
+  --table-header: hsl(218, 27%, 48%);
+  --table-row-even: hsl(220, 16%, 94%);
+  --table-row-odd: hsl(220, 16%, 98%);
+  --table-hover: var(--light1);
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -286,3 +290,31 @@ img {
 }
 
 /* 表格 */
+table {
+  border: 1px solid var(--background-secondary) !important;
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: 600 !important;
+  border: 0px !important;
+  text-align: left;
+  background-color: var(--table-header);
+  color: var(--frost0);
+}
+
+td {
+  border-left: 0px !important;
+  border-right: 0px !important;
+  border-bottom: 1px solid var(--background-secondary) !important;
+}
+
+tr:nth-child(even) {
+  background-color: var(--table-row-even);
+}
+tr:nth-child(odd) {
+  background-color: var(--table-row-odd);
+}
+tr:hover {
+  background-color: var(--table-hover);
+}
