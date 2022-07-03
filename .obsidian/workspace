@@ -7,8 +7,13 @@
         "id": "1cbb8e36f172d234",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Theme Test.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -89,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 286
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theme Test.md"
+              }
             }
           },
           {
@@ -169,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +218,8 @@
   },
   "active": "1cbb8e36f172d234",
   "lastOpenFiles": [
-    "📅任务管理.md",
     "Theme Test.md",
+    "📅任务管理.md",
     "1000-技术/前端/前端文档.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
