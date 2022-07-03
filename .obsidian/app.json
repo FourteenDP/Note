@@ -22,5 +22,6 @@
   "readableLineLength": true,
   "tabSize": 2,
   "userIgnoreFilters": null,
-  "newFileFolderPath": "9999-信箱"
+  "newFileFolderPath": "9999-信箱",
+  "defaultViewMode": "source"
 }
