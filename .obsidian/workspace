@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1100-设计/颜色.md",
+            "file": "Theme Test.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1100-设计/颜色.md"
+                "file": "Theme Test.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1100-设计/颜色.md",
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1100-设计/颜色.md",
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,9 +219,9 @@
   },
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
+    "Theme Test.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
-    "Theme Test.md",
     "9999-信箱/666.md",
     "📅任务管理.md",
     "1000-技术/前端/前端文档.md",
