@@ -52,6 +52,7 @@
   --text-title-h4: #ff986c;
   --text-title-h5: #ffcb58;
   --text-title-h6: #ccb4e9;
+  --strong-color: 82, 0, 30;
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -160,5 +161,5 @@ h6 a {
   color: rgba(82, 0, 30, 0.7);
 }
 .cm-strong {
-  color: rgb(82, 0, 30);
+  color: rgb(var(--strong-color));
 }
