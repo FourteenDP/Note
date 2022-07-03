@@ -262,9 +262,8 @@ blockquote p:first-child,
 }
 .markdown-source-view.mod-cm6 .cm-blockquote-border {
   border: 0 solid hsl(var(--blockquote-border));
-  display: inline-block;
   border-left-width: 0.3rem;
-  text-indent: -5px;
+  text-indent: 0;
 }
 
 kbd {
