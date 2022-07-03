@@ -85,26 +85,26 @@ h1 a {
   font-size: var(--h1);
 }
 
-.HyperMD-header-1,
-.HyperMD-header-1 .cm-header-1.cm-link,
-.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
-.markdown-preview-section h1,
+.HyperMD-header-2,
+.HyperMD-header-2 .cm-header-2.cm-link,
+.HyperMD-header-2 .cm-header-2.cm-hmd-internal-link,
+.markdown-preview-section h2,
 h2 a {
   color: var(--text-title-h2) !important;
 }
 
-.HyperMD-header-1,
-.HyperMD-header-1 .cm-header-1.cm-link,
-.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
-.markdown-preview-section h1,
+.HyperMD-header-3,
+.HyperMD-header-3 .cm-header-3.cm-link,
+.HyperMD-header-3 .cm-header-3.cm-hmd-internal-link,
+.markdown-preview-section h3,
 h3 a {
   color: var(--text-title-h3) !important;
 }
 
-.HyperMD-header-1,
-.HyperMD-header-1 .cm-header-1.cm-link,
-.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
-.markdown-preview-section h1,
+.HyperMD-header-4,
+.HyperMD-header-4 .cm-header-4.cm-link,
+.HyperMD-header-4 .cm-header-4.cm-hmd-internal-link,
+.markdown-preview-section h4,
 h4 a {
   color: var(--text-title-h4) !important;
 }
