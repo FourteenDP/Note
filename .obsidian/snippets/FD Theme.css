@@ -179,8 +179,7 @@ h6 a {
 
 .cm-s-obsidian span.cm-inline-code,
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
-.cm-s-obsidian div.HyperMD-codeblock-end-bg,
-.markdown-rendered code {
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
   color: var(--inline-code-color);
 }
 
