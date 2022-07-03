@@ -265,11 +265,11 @@ blockquote p:first-child,
   border-left-width: 0.3rem;
   text-indent: 0;
 }
-/*--
-TASK LISTS
--------*/
+/*---TASK LISTS---*/
 
 
-input[type="checkbox"],
+input[type="checkbox"]{
+  border: ;
+}
 
 /* 表格 */
