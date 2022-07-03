@@ -155,3 +155,18 @@ h6 a {
 .markdown-rendered code {
   font-family: var(--code-font), var(--default-font) !important;
 }
+
+.outliner-plugin-better-bullets
+  .cm-s-obsidian:not(.is-live-preview)
+  .cm-formatting-list-ul:before,
+.outliner-plugin-better-bullets
+  .cm-s-obsidian.is-live-preview
+  .list-bullet:before {
+  visibility: visible;
+  content: "•";
+  font-size: 130%;
+  position: absolute;
+  margin-top: -6px;
+  margin-left: -10px;
+  color: var(--text-muted);
+}
