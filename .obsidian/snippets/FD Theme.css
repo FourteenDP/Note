@@ -54,7 +54,8 @@
   --text-title-h6: #ccb4e9;
   --strong-color: 60, 0, 40;
   --strikethrough-color: rgba(var(--strong-color), 0.6);
-  --inline-code-bg: #d63200;
+  --inline-code-color: #d63200;
+  --inline-code-bg: #e6e6e6;
 }
 /* ---标题--- */
 /* 字体&大小 */
@@ -152,13 +153,13 @@ h6 a {
 /* 行 */
 .cm-s-obsidian
   span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
-  background: #e6e6e6;
+  background: var(--inline-code-bg);
   padding: 0.2rem 0.4rem;
   margin: 0 0.15rem;
   border-radius: 0.3rem;
 }
 .cm-s-obsidian span.cm-inline-code {
-  color: #d63200;
+  color: var(--inline-code-color);
 }
 
 /* ---列表--- */
