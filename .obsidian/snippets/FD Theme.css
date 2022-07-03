@@ -145,22 +145,11 @@ h6 a {
   font-family: var(--code-font), var(--default-font) !important;
 }
 /* 列表 */
-/* 无需列凑点 */
+/* 无序列凑点 */
 .outliner-plugin-better-bullets .cm-s-obsidian:not(.is-live-preview),
 .outliner-plugin-better-bullets .cm-formatting-list-ul:before,
 .outliner-plugin-better-bullets .outliner-plugin-better-bullets,
 .outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
 .outliner-plugin-better-bullets .list-bullet:before {
-  /*
-    visibility: visible;
-    content: " ";
-    display: inline-block !important;
-    width: 10px !important;
-    height: 10px !important;
-    background: var(--text-muted) !important;
-    border-radius: 50% !important;
-    position: absolute !important;
-    top: 25px !important;
-  */
   font-family: Monospace;
 }
