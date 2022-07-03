@@ -188,5 +188,5 @@ h6 a {
 
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg,
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
-  border-radius: 0 1rem 0 1rem;
+  border-radius: 1rem 0rem;
 }
