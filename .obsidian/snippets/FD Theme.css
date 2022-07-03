@@ -174,6 +174,7 @@ h6 a {
 .theme-light pre[class*="language-"],
 .markdown-rendered code {
   background-color: var(--inline-code-bg) !important;
+  border-radius: 0.5rem;
 }
 
 .cm-s-obsidian span.cm-inline-code,
