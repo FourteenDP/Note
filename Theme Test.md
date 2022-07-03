@@ -9,7 +9,7 @@ tags:
   - 日记
   - 马原
 date created: 2022-07-01 22:24:20
-date updated: 2022-07-03 14:32:38
+date updated: 2022-07-03 14:38:25
 ---
 
 # Heading Level 1
@@ -183,8 +183,9 @@ Here's a sim[^1]ple foo**tnot**e,[^2] and here's a longer[^3] one.[^4]
 
 # [[📅任务管理|📅全局任务管理]]
 
-`我的世界` 我的世界
-`~asdasdasdawodededsadasd`
+` 我的世界 ` 我的世界
+`data`
+
 ```javascript
 // 我的世界
 let a = 7
