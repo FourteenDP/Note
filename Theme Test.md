@@ -49,7 +49,7 @@ A*cat*meow
 
 This is really***very***impor tant text.
 
-~~世界是平坦的。~~ 我们现 * 在知道世界是圆的 *。
+~~世界是平坦的。~~ 我们现 *在知道世界是圆的*。
 
 ### Heading Level 3
 
