@@ -267,10 +267,9 @@ blockquote p:first-child,
 }
 /*---TASK LISTS---*/
 
-input[type="checkbox"],
-.task-list-item-checkbox,
-ul > li.task-list-item .task-list-item-checkbox,
-.markdown-preview-view .task-list-item-checkbox {
+input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
   border-radius: 1em !important;
 }
 
