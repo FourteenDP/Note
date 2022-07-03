@@ -291,7 +291,7 @@ img {
 
 /* 表格 */
 table {
-  border: 1px solid  !important;
+  border: 1px solid var(--background-secondary) !important;
   border-collapse: collapse;
 }
 
@@ -306,7 +306,7 @@ th {
 td {
   border-left: 0px !important;
   border-right: 0px !important;
-  border-bottom: 1px solid  !important;
+  border-bottom: 1px solid var(--background-secondary) !important;
 }
 
 tr:nth-child(even) {
