@@ -195,10 +195,6 @@
     {
       "basename": "Vue路由Keep-alive实现原理",
       "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
-    },
-    {
-      "basename": "Windows创建软连接",
-      "path": "1000-技术/环境配置/Windows创建软连接.md"
     }
   ],
   "omittedPaths": [],
