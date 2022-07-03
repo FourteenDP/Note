@@ -237,7 +237,20 @@ blockquote p:first-child,
   display: inline;
 }
 
-.markdown-preview-view blockquote,
+.markdown-preview-view blockquote {
+  line-height: var(--editor-line-height);
+  color: hsl(var(--blockquote-border));
+  font-family: var(--default-font);
+  border: none;
+  border-left: 0.3rem solid hsl(var(--blockquote-border));
+  background-color: var(--blockquote-bg);
+  border-radius: 0px;
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
   line-height: var(--editor-line-height);
   color: hsl(var(--blockquote-border));
