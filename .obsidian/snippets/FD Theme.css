@@ -193,6 +193,6 @@ h6 a {
   border-radius: 0 0 0.5rem 0.5rem;
 }
 
-.HyperMD-codeblock .HyperMD-codeblock-bg .cm-line {
-  padding: auto 1rem;
+.HyperMD-codeblock {
+  padding: auto 1rem !important;
 }
