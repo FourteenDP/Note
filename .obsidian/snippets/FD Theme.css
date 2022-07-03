@@ -3,7 +3,7 @@
 
   --code-font: "Fira Code Retina";
 
-  --header-font: "Constantia", "楷体";
+  --header-font: "黑体", "楷体";
   --header-weight: 800;
 
   --h1: 3rem;
@@ -129,7 +129,7 @@ h5 a {
 .HyperMD-header-6,
 .HyperMD-header-6 .cm-header-6.cm-link,
 .HyperMD-header-6 .cm-header-6.cm-hmd-internal-link,
-.markdown-preview-section h1,
+.markdown-preview-section h6,
 .markdown-rendered h6,
 h6 a {
   color: var(--text-title-h6) !important;
