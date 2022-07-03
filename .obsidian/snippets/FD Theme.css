@@ -161,7 +161,7 @@ h6 a {
 .outliner-plugin-better-bullets .outliner-plugin-better-bullets,
 .outliner-plugin-better-bullets .cm-s-obsidian.is-live-preview,
 .outliner-plugin-better-bullets .list-bullet:before {
-  font-family: Monospace;
+  font-family: Monospace !important;
 }
 
 /* 关键字 */
