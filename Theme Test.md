@@ -120,7 +120,7 @@ This is really***very***impor tant text.
 4. Fourth item
 
 
-- [ ] Write the press release
+- [x] Write the press release ✅ 2022-07-04
 - [x] Update the website ✅ 2022-07-03
 - [ ] Contact the media
 - [x] 我的世界 ✅ 2022-07-03
