@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Theme Test.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -163,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -214,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
