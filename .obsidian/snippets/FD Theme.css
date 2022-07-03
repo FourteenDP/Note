@@ -265,19 +265,3 @@ blockquote p:first-child,
   border-left-width: 0.3rem;
   text-indent: 0;
 }
-
-kbd {
-  line-height: 1.476;
-  font-weight: 700;
-  padding: 4px 6px;
-  font-size: 0.875em;
-  border-radius: 4px;
-  white-space: nowrap;
-  display: inline-block;
-  color: var(--text-normal);
-  font-family: var(--font-monospace);
-  background-color: var(--background-secondary-alt);
-  border: 1px solid var(--background-modifier-border);
-  box-shadow: 0 1.5px 1px rgba(0, 0, 0, 0.2),
-    0 2px 0 0 rgba(255, 255, 255, 0.25) inset;
-}
