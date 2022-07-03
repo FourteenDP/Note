@@ -185,6 +185,8 @@ h6 a {
 .cm-s-obsidian div.HyperMD-codeblock-end-bg {
   color: var(--inline-code-color);
 }
-.cm-s-obsidian div.HyperMD-codeblock-begin-bg {
-  padding-top: 2rem;
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg,
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
