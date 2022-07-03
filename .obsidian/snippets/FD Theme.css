@@ -6,12 +6,12 @@
   --header-font: var(--default-font);
   --header-weight: 900;
 
-  --h1: 2.5em;
-  --h2: 2.25em;
-  --h3: 2em;
-  --h4: 1.75em;
-  --h5: 1.5em;
-  --h6: 1.25em;
+  --h1: 2.5rem;
+  --h2: 2.25rem;
+  --h3: 2rem;
+  --h4: 1.75rem;
+  --h5: 1.5rem;
+  --h6: 1.25rem;
 }
 .theme-light {
   --background-primary: #faf7f5;
