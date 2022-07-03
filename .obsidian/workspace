@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/浏览器/浏览器跨域.md",
-            "mode": "source",
+            "file": "Theme Test.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md"
+                "file": "Theme Test.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md",
+                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md",
+                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,9 +218,9 @@
   },
   "active": "6e10611cd7f321e7",
   "lastOpenFiles": [
+    "Theme Test.md",
     "1000-技术/前端/浏览器/浏览器跨域.md",
     "1000-技术/前端/其它/前端面试题.md",
-    "Theme Test.md",
     "📅任务管理.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
