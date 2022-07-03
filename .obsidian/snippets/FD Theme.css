@@ -160,5 +160,5 @@ h6 a {
   color: var(--text-accent);
 }
 .cm-strong {
-  color: #EA4A69;
+  color: var(--text-accent);
 }
