@@ -152,9 +152,9 @@ h6 a {
 .cm-s-obsidian
   span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
   background: #e6e6e6;
-  padding: 0.25rem 0.5rem;
-  margin: 0 0.1rem;
-  border-radius: 0.05rem;
+  padding: 0.25rem 0.4rem;
+  margin: 0 0.15rem;
+  border-radius: 0.3rem;
 }
 .cm-s-obsidian span.cm-inline-code {
   color: #d63200;
