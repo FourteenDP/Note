@@ -281,6 +281,8 @@ input.task-list-item-checkbox:checked {
 }
 
 /* 图片 */
-
+img{
+  width: 100%;
+}
 
 /* 表格 */

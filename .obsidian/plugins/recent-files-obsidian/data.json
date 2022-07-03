@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Theme Test",
+      "path": "Theme Test.md"
+    },
+    {
+      "basename": "分析Vue2中的Vue与VueComponent的关系",
+      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    },
+    {
+      "basename": "盒子模型",
+      "path": "-附件-/盒子模型.png"
+    },
+    {
       "basename": "原型链",
       "path": "-附件-/原型链.png"
     },
     {
-      "basename": "Theme Test",
-      "path": "Theme Test.md"
+      "basename": "中国近代史时间轴图",
+      "path": "-附件-/中国近代史时间轴图.png"
+    },
+    {
+      "basename": "CMD终端代理设置环境变量",
+      "path": "-附件-/CMD终端代理设置环境变量.png"
+    },
+    {
+      "basename": "Linux目录结构",
+      "path": "-附件-/Linux目录结构.png"
+    },
+    {
+      "basename": "Vue生命周期",
+      "path": "-附件-/Vue生命周期.png"
     },
     {
       "basename": "📅任务管理",
@@ -75,22 +99,6 @@
     {
       "basename": "2022-06-28",
       "path": "~日记~/2022-06-28.md"
-    },
-    {
-      "basename": "分析Vue2中的Vue与VueComponent的关系",
-      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
-    },
-    {
-      "basename": "CMD终端代理设置环境变量",
-      "path": "-附件-/CMD终端代理设置环境变量.png"
-    },
-    {
-      "basename": "中国近代史时间轴图",
-      "path": "-附件-/中国近代史时间轴图.png"
-    },
-    {
-      "basename": "Linux目录结构",
-      "path": "-附件-/Linux目录结构.png"
     },
     {
       "basename": "uni-app $refs初始化失败",
@@ -191,14 +199,6 @@
     {
       "basename": "Vue2生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
-    },
-    {
-      "basename": "Vue2中的页面数据缓存",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
-    },
-    {
-      "basename": "Vue路由Keep-alive实现原理",
-      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
     }
   ],
   "omittedPaths": [],
