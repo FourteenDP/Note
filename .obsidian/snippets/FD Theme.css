@@ -159,6 +159,7 @@ h6 a {
 /* 关键字 */
 .cm-strikethrough {
   color: rgba(82, 0, 30, 0.7);
+  text-decoration-color: var(--text-muted);
 }
 .cm-strong {
   color: rgb(var(--strong-color));
