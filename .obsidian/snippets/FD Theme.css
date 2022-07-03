@@ -183,3 +183,7 @@ h6 a {
 .markdown-rendered code {
   color: var(--inline-code-color);
 }
+
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  background-color: #291334 !important;
+}
