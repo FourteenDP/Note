@@ -182,7 +182,8 @@ h6 a {
 }
 
 .cm-s-obsidian
-  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight),
+.markdown-rendered p > code {
   padding: 0.2rem 0.4rem;
   margin: 0 0.15rem;
   border-radius: 0.3rem;
