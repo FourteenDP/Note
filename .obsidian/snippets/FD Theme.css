@@ -162,10 +162,6 @@ h6 a {
 .outliner-plugin-better-bullets
   .cm-s-obsidian.is-live-preview
   .list-bullet:before {
-  visibility: visible;
-  content: "•";
-  font-size: 130% !important;
-  position: absolute;
-  margin-top: -6px !important;
-  margin-left: -10px !important;
+  margin-top: -0.5rem !important;
+  margin-left: -0.765rem !important;
 }
