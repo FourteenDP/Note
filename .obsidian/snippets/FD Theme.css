@@ -260,6 +260,9 @@ blockquote p:first-child,
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+.markdown-source-view.mod-cm6 .cm-blockquote-border {
+  border: 0 solid var(--blockquote-border);
+}
 
 kbd {
   line-height: 1.476;
