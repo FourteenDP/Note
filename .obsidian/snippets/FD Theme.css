@@ -325,3 +325,9 @@ tr:nth-child(odd) {
 tr:hover {
   background-color: var(--table-hover);
 }
+/* 滚动条 */
+body:not(.native-scrollbars) ::-webkit-scrollbar {
+  width: 5px;
+  height: 10px;
+  -webkit-border-radius: 100px;
+}
