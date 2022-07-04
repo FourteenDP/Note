@@ -291,7 +291,7 @@ img {
 }
 
 /* 表格 */
-table {
+.markdown-source-view > table {
   border-collapse: collapse;
   display: block;
   width: 100%;
@@ -303,6 +303,7 @@ table {
   box-sizing: border-box;
 }
 
+.markdown-source-view,
 th {
   font-weight: 600 !important;
   border: 0px !important;
