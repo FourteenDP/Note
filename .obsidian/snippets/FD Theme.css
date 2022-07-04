@@ -312,18 +312,22 @@ img {
   border: 1px solid var(--background-modifier-border) !important;
 }
 
-.markdown-source-view td ,.markdown-rendered td{
+.markdown-source-view td,
+.markdown-rendered td {
   border-left: 0px !important;
   border-right: 0px !important;
   border: 1px solid var(--background-modifier-border) !important;
 }
 
+.markdown-source-view tr:nth-child(even),
 .markdown-source-view tr:nth-child(even) {
   background-color: var(--table-row-even);
 }
+.markdown-source-view tr:nth-child(odd),
 .markdown-source-view tr:nth-child(odd) {
   background-color: var(--table-row-odd);
 }
+.markdown-source-view tr:hover,
 .markdown-source-view tr:hover {
   background-color: var(--table-hover);
 }
