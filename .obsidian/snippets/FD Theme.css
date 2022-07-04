@@ -320,15 +320,15 @@ img {
 }
 
 .markdown-source-view tr:nth-child(even),
-.markdown-source-view tr:nth-child(even) {
+.markdown-rendered tr:nth-child(even) {
   background-color: var(--table-row-even);
 }
 .markdown-source-view tr:nth-child(odd),
-.markdown-source-view tr:nth-child(odd) {
+.markdown-rendered tr:nth-child(odd) {
   background-color: var(--table-row-odd);
 }
 .markdown-source-view tr:hover,
-.markdown-source-view tr:hover {
+.markdown-rendered tr:hover {
   background-color: var(--table-hover);
 }
 /* 滚动条 */
