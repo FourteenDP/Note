@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e10611cd7f321e7",
+        "id": "f847e7572326ead4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Theme Test.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 420
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theme Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +208,7 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "6e10611cd7f321e7",
+  "active": "f847e7572326ead4",
   "lastOpenFiles": [
     "Theme Test.md",
     "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
