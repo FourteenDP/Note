@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "uniapp-$refs初始化失败",
+      "path": "9999-信箱/uniapp-$refs初始化失败.md"
+    },
+    {
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
       "basename": "Theme Test",
       "path": "Theme Test.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "Vue生命周期",
       "path": "-附件-/Vue生命周期.png"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
     },
     {
       "basename": "📚知识博客",
@@ -187,18 +199,6 @@
     {
       "basename": "inpnt框常见样式修改",
       "path": "9999-信箱/inpnt框常见样式修改.md"
-    },
-    {
-      "basename": "vue的不同构建版本",
-      "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Vue2生命周期",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
     }
   ],
   "omittedPaths": [],
