@@ -12,6 +12,32 @@
         }
       },
       {
+        "id": "d7c28fe654a5262a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~日记~/2022-07-06.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "479204891c3c20b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "bcaec53974892b21",
         "type": "leaf",
         "state": {
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+              }
             }
           },
           {
@@ -182,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,17 +251,17 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "db9fbedc2c4afb70",
+  "active": "479204891c3c20b1",
   "lastOpenFiles": [
-    "~日记~/2022-07-01.md",
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
     "~日记~/2022-07-06.md",
+    "~日记~/2022-07-01.md",
     "1000-技术/前端/其它/前端开发知识点.md",
     "1000-技术/前端/其它/前端工具.md",
     "1000-技术/前端/其它/前端微服务.md",
     "1000-技术/前端/其它/代码生成.md",
     "1000-技术/前端/其它/截图.md",
     "1000-技术/前端/其它/前端工作笔记.md",
-    "1000-技术/前端/其它/小程序容器技术.md",
-    "9999-信箱/node的process.nextTick.md"
+    "1000-技术/前端/其它/小程序容器技术.md"
   ]
 }
