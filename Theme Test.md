@@ -127,9 +127,9 @@ This is really***very***impor tant text.
 4. Fourth item!
 
 - [ ] Write the press release
-- [x] Update the website ✅ 2022-07-03
+- [x] Update the website ✅ 2022-07-07
 - [ ] Contact the media
-- [x] 我的世界 ✅ 2022-07-03
+- [x] 我的世界 ✅ 2022-07-07
 
 ##### Heading Level 5
 
