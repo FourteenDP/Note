@@ -144,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -251,10 +247,10 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "479204891c3c20b1",
+  "active": "db9fbedc2c4afb70",
   "lastOpenFiles": [
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
     "~日记~/2022-07-06.md",
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
     "~日记~/2022-07-01.md",
     "1000-技术/前端/其它/前端开发知识点.md",
     "1000-技术/前端/其它/前端工具.md",
