@@ -40,5 +40,6 @@
   "better-fn",
   "obsidian-footnotes",
   "obsidian-tidy-footnotes",
-  "obsidian-linter"
+  "obsidian-linter",
+  "oz-clear-unused-images"
 ]
