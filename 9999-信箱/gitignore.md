@@ -15,11 +15,11 @@ date updated: 2022-07-08 14:04:42
 .DS_Store
 node_modules/
 unpackage/
-dist/
+dist/ 
 
 # local env files
 .env.local
-.env.*.local
+.env.*.local 
 
 # Log files
 npm-debug.log*
@@ -27,17 +27,27 @@ yarn-debug.log*
 yarn-error.log*
 
 # Lock Fiels
-yarn-lock.lock
-npm-lock.lock 
+yarn.lock
+package-lock.json
+  
 
 # Editor directories and files
+
 .hbuilderx
+
 .project
+
 .idea
+
 .vscode
+
 *.suo
+
 *.ntvs*
+
 *.njsproj
+
 *.sln
+
 *.sw*
 ```
