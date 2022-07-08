@@ -7,8 +7,13 @@
         "id": "57ab77dff287802d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,9 +219,9 @@
   },
   "active": "57ab77dff287802d",
   "lastOpenFiles": [
+    "README.md",
     "-附件-/SVG/未命名绘图.drawio.svg",
     "-附件-/SVG/未命名绘图.drawio 1.svg",
-    "README.md",
     "9999-信箱/Untitled Diagram 2.svg",
     "9999-信箱/Untitled Diagram.svg",
     "✨知识社区.md",
