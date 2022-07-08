@@ -4,11 +4,11 @@
   --header-font: var(--default-font);
   --header-weight: 800;
   --h1: 2.50em;
-  --h2: 2.75em;
-  --h3: 2.5em;
-  --h4: 2.25em;
-  --h5: 2em;
-  --h6: 1.75em;
+  --h2: 2.25em;
+  --h3: 2em;
+  --h4: 1.75em;
+  --h5: 1.5em;
+  --h6: 1.25em;
 }
 .theme-light {
   --background-primary: #faf7f5;
