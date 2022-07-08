@@ -30,4 +30,4 @@ vue create -p dcloudio/uni-preset-vue uniapp-vue2-template
 ![[Pasted image 20220708135633.png]]
 
 ## 完善 `.gitignore`
-![[gitignore#常用]]
+![[gitignore#COMMON]]
