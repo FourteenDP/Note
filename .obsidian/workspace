@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/通过vue-cli创建UniApp项目.md",
+            "file": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/通过vue-cli创建UniApp项目.md"
+                "file": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/通过vue-cli创建UniApp项目.md",
+                "file": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/通过vue-cli创建UniApp项目.md",
+                "file": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
-    "9999-信箱/通过vue-cli创建UniApp项目.md",
+    "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
     "README.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "📅任务管理.md",
