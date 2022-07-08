@@ -23,5 +23,5 @@ npm install -g @vue/cli@4
 ```shell
 vue create -p dcloudio/uni-preset-vue uniapp-vue2-template
 ```
-- 选择模板
+- 选择模板，看个人需求选择这里
 ![[Pasted image 20220708135051.png]]
