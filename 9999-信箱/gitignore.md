@@ -4,14 +4,14 @@ aliases:
 tags: 
   - git
 date created: 2022-07-08 14:01:31
-date updated: 2022-07-08 14:15:17
+date updated: 2022-07-08 14:16:07
 ---
 
 # Gitignore
 
-## 常用
+## COMMON
 
-```
+```git
 # .gitignore
 .DS_Store
 node_modules/
