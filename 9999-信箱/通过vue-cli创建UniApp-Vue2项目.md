@@ -28,3 +28,5 @@ vue create -p dcloudio/uni-preset-vue uniapp-vue2-template
 - 这里应为网络问题下载可能比较慢，耐性等待
 
 ![[Pasted image 20220708135633.png]]
+
+## 

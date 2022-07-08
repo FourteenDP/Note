@@ -4,12 +4,12 @@ aliases:
 tags: 
   - git
 date created: 2022-07-08 14:01:31
-date updated: 2022-07-08 14:04:42
+date updated: 2022-07-08 14:07:56
 ---
 
 # Gitignore
 
-## Uniapp
+## Vue 项目
 
 ```
 .DS_Store
@@ -19,7 +19,7 @@ dist/
 
 # local env files
 .env.local
-.env.*.local 
+.env.*.local
 
 # Log files
 npm-debug.log*
@@ -32,22 +32,13 @@ package-lock.json
   
 
 # Editor directories and files
-
 .hbuilderx
-
 .project
-
 .idea
-
 .vscode
-
 *.suo
-
 *.ntvs*
-
 *.njsproj
-
 *.sln
-
 *.sw*
 ```
