@@ -25,5 +25,6 @@ vue create -p dcloudio/uni-preset-vue uniapp-vue2-template
 ```
 
 - 选择模板，看个人需求选择这里选择 **默认模板**
+- 这里下载
 
 ![[Pasted image 20220708135051.png]]
