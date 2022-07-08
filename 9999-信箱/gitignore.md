@@ -4,7 +4,7 @@ aliases:
 tags: 
   - git
 date created: 2022-07-08 14:01:31
-date updated: 2022-07-08 14:07:56
+date updated: 2022-07-08 14:10:58
 ---
 
 # Gitignore
@@ -12,6 +12,7 @@ date updated: 2022-07-08 14:07:56
 ## Vue 项目
 
 ```
+# .gitignore
 .DS_Store
 node_modules/
 unpackage/
