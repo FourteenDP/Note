@@ -69,6 +69,11 @@
   --table-row-odd: hsl(220, 16%, 98%);
   --table-hover: #abc0e0;
 }
+
+.tasks-edit {
+  width: 16px !important;
+  height: 16px !important;
+}
 /* 顶部导航 */
 .titlebar {
   background-color: var(--background-title-bar);
