@@ -7,9 +7,12 @@
         "id": "5a76c141bcc16ba9",
         "type": "leaf",
         "state": {
-          "type": "diagram-edit",
+          "type": "markdown",
           "state": {
-            "file": "-附件-/Untitled Diagram.drawio"
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/Untitled Diagram.drawio"
+                "file": "README.md"
               }
             }
           },
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/Untitled Diagram.drawio",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/Untitled Diagram.drawio",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,15 +218,15 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
+    "README.md",
     "-附件-/Untitled Diagram.drawio",
+    "-附件-/Vue生命周期.png",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "9999-信箱/inpnt框常见样式修改.md",
     "9999-信箱/image标签图片的白边.md",
     "9999-信箱/gitignore.md",
     "9999-信箱/Git基本操作.md",
     "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
-    "2000-高效/写作/如何编写好的技术文档.md",
-    "README.md",
-    "📅任务管理.md"
+    "2000-高效/写作/如何编写好的技术文档.md"
   ]
 }
