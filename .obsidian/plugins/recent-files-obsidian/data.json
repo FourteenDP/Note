@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled Diagram 1",
-      "path": "9999-信箱/Untitled Diagram 1.svg"
+      "basename": "Untitled Diagram 2",
+      "path": "9999-信箱/Untitled Diagram 2.svg"
+    },
+    {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
     },
     {
       "basename": "Vue生命周期",
@@ -11,6 +15,14 @@
     {
       "basename": "Pasted image 20220708135633",
       "path": "-附件-/Pasted image 20220708135633.png"
+    },
+    {
+      "basename": "分析Vue2中的Vue与VueComponent的关系",
+      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    },
+    {
+      "basename": "Untitled Diagram 1",
+      "path": "9999-信箱/Untitled Diagram 1.svg"
     },
     {
       "basename": "Untitled Diagram",
@@ -43,10 +55,6 @@
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
-    },
-    {
-      "basename": "通过vue-cli创建UniApp-Vue2项目",
-      "path": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md"
     },
     {
       "basename": "如何编写好的技术文档",
@@ -115,10 +123,6 @@
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "分析Vue2中的Vue与VueComponent的关系",
-      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
     },
     {
       "basename": "盒子模型",
@@ -195,10 +199,6 @@
     {
       "basename": "通用模板",
       "path": "-模板-/通用模板.md"
-    },
-    {
-      "basename": "采集",
-      "path": "~采集~/采集.md"
     }
   ],
   "omittedPaths": [],
