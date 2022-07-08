@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcaec53974892b21",
+        "id": "5a76c141bcc16ba9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Theme Test.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theme Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +207,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "bcaec53974892b21",
+  "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
     "Theme Test.md",
     "📅任务管理.md",
