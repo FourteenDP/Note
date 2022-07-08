@@ -4,12 +4,12 @@ aliases:
 tags: 
   - git
 date created: 2022-07-08 14:01:31
-date updated: 2022-07-08 14:12:16
+date updated: 2022-07-08 14:15:17
 ---
 
 # Gitignore
 
-## 单页面前端
+## 常用
 
 ```
 # .gitignore
@@ -30,7 +30,6 @@ yarn-error.log*
 # Lock Fiels
 yarn.lock
 package-lock.json
-  
 
 # Editor directories and files
 .hbuilderx
