@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram.drawio",
+      "path": "-附件-/Untitled Diagram.drawio.svg"
+    },
+    {
       "basename": "Untitled Diagram 2",
       "path": "9999-信箱/Untitled Diagram 2.svg"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "通用模板",
-      "path": "-模板-/通用模板.md"
     }
   ],
   "omittedPaths": [],

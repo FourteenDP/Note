@@ -9,7 +9,7 @@
         "state": {
           "type": "diagram-edit",
           "state": {
-            "file": "9999-信箱/Untitled Diagram 2.svg"
+            "file": "-附件-/Untitled Diagram.drawio.svg"
           }
         }
       }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Untitled Diagram 2.svg"
+                "file": "-附件-/Untitled Diagram.drawio.svg"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Untitled Diagram 2.svg",
+                "file": "-附件-/Untitled Diagram.drawio.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Untitled Diagram 2.svg",
+                "file": "-附件-/Untitled Diagram.drawio.svg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,6 +215,7 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
+    "-附件-/Untitled Diagram.drawio.svg",
     "9999-信箱/Untitled Diagram 2.svg",
     "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
     "-附件-/Vue生命周期.png",
@@ -223,7 +224,6 @@
     "9999-信箱/Untitled Diagram 1.svg",
     "9999-信箱/Untitled Diagram.svg",
     "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
-    "-附件-/Untitled Diagram.drawio",
-    "README.md"
+    "-附件-/Untitled Diagram.drawio"
   ]
 }
