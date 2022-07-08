@@ -7,12 +7,9 @@
         "id": "5a76c141bcc16ba9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diagram-edit",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "-附件-/Untitled Diagram.drawio"
           }
         }
       }
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "-附件-/Untitled Diagram.drawio"
               }
             }
           },
@@ -176,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "-附件-/Untitled Diagram.drawio",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "-附件-/Untitled Diagram.drawio",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,8 +215,8 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
-    "README.md",
     "-附件-/Untitled Diagram.drawio",
+    "README.md",
     "-附件-/Vue生命周期.png",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "9999-信箱/inpnt框常见样式修改.md",
