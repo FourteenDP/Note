@@ -69,7 +69,10 @@
   --table-row-odd: hsl(220, 16%, 98%);
   --table-hover: #abc0e0;
 }
-
+/* 顶部导航 */
+.titlebar {
+  background-color: var(--background-title-bar);
+}
 /* ---标题--- */
 /* 字体&大小 */
 .markdown-preview-view h1,
