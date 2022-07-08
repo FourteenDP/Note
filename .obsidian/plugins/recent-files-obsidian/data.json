@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "gitignore",
+      "path": "9999-信箱/gitignore.md"
+    },
+    {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "如何编写好的技术文档",
       "path": "2000-高效/写作/如何编写好的技术文档.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "9999-信箱/gitignore.md"
     },
     {
       "basename": "README",
