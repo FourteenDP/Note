@@ -3,7 +3,7 @@ aliases:
 tags: 
 date created: 2022-06-06 22:49:23
 date modified: 2022-06-06 22:52:19
-date updated: 2022-06-27 10:24:53
+date updated: 2022-07-08 20:44:40
 title: VUE2 生命周期
 ---
 
@@ -13,7 +13,7 @@ title: VUE2 生命周期
 
 - Vue 实例有一个完整的生命周期，也就是说从开始创建、初始化数据、编译模板、挂在 DOM、渲染 - 更新 - 渲染、卸载等一系列过程，我们成为 Vue 实例的生命周期，钩子就是在某个阶段给你一个做某些处理的机会。
 
-![Vue生命周期](https://picbed.fourteen.top/20210830_003514.png)
+![[Vue生命周期.png]]
 
 ## BEFORECREATE（创建前）
 
