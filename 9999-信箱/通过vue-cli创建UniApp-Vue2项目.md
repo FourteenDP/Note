@@ -7,7 +7,7 @@ tags:
   - UniApp
   - 项目构建
 date created: 2022-07-08 13:32:41
-date updated: 2022-07-08 13:54:35
+date updated: 2022-07-08 13:57:02
 ---
 
 # 通过 Vue-cli 创建 UniApp-Vue2 项目
@@ -25,6 +25,6 @@ vue create -p dcloudio/uni-preset-vue uniapp-vue2-template
 ```
 
 - 选择模板，看个人需求选择这里选择 **默认模板**
-- 这里下载
+- 这里应为网络问题下载可能比较慢，耐性等待
 
-![[Pasted image 20220708135051.png]]
+![[Pasted image 20220708135633.png]]
