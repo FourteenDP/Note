@@ -7,8 +7,10 @@
         "id": "5a76c141bcc16ba9",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "diagram-edit",
+          "state": {
+            "file": "-附件-/Untitled Diagram.drawio"
+          }
         }
       }
     ],
@@ -105,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "-附件-/Untitled Diagram.drawio"
+              }
             }
           },
           {
@@ -169,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-附件-/Untitled Diagram.drawio",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-附件-/Untitled Diagram.drawio",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,6 +215,7 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
+    "-附件-/Untitled Diagram.drawio",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "9999-信箱/inpnt框常见样式修改.md",
     "9999-信箱/image标签图片的白边.md",
@@ -217,7 +224,6 @@
     "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "README.md",
-    "📅任务管理.md",
-    "✨知识社区.md"
+    "📅任务管理.md"
   ]
 }
