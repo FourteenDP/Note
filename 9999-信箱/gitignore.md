@@ -4,12 +4,12 @@ aliases:
 tags: 
   - git
 date created: 2022-07-08 14:01:31
-date updated: 2022-07-08 14:10:58
+date updated: 2022-07-08 14:12:16
 ---
 
 # Gitignore
 
-## Vue 项目
+## 单页面前端
 
 ```
 # .gitignore
