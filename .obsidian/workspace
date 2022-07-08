@@ -7,8 +7,13 @@
         "id": "6d671b252ff54e0f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/UniApp/开源组件.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/前端/UniApp/开源组件.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/前端/UniApp/开源组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/前端/UniApp/开源组件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,6 +218,7 @@
   },
   "active": "6d671b252ff54e0f",
   "lastOpenFiles": [
+    "1000-技术/前端/UniApp/开源组件.md",
     "1000-技术/前端/未命名.md",
     "1000-技术/前端/前端文档.md",
     "9999-信箱/Git基本操作.md",
@@ -217,7 +227,6 @@
     "README.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "📅任务管理.md",
-    "✨知识社区.md",
-    "📚知识博客.md"
+    "✨知识社区.md"
   ]
 }
