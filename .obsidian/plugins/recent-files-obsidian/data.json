@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
+    },
+    {
       "basename": "通过vue-cli创建UniApp-Vue2项目",
       "path": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-10",
       "path": "~日记~/2022-06-10.md"
-    },
-    {
-      "basename": "2022-06-09",
-      "path": "~日记~/2022-06-09.md"
     }
   ],
   "omittedPaths": [],
