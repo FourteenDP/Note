@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "9999-信箱/未命名.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vue3组件库",
       "path": "1000-技术/前端/Vue/Vue3/Vue3组件库.md"
-    },
-    {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
     }
   ],
   "omittedPaths": [],
