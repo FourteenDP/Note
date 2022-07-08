@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "inpnt框常见样式修改",
+      "path": "9999-信箱/inpnt框常见样式修改.md"
+    },
+    {
+      "basename": "image标签图片的白边",
+      "path": "9999-信箱/image标签图片的白边.md"
+    },
+    {
       "basename": "gitignore",
       "path": "9999-信箱/gitignore.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2022-06-22",
       "path": "~日记~/2022-06-22.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "~日记~/2022-06-20.md"
-    },
-    {
-      "basename": "2022-06-10",
-      "path": "~日记~/2022-06-10.md"
     }
   ],
   "omittedPaths": [],

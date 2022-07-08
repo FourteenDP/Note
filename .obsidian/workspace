@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/gitignore.md",
+            "file": "9999-信箱/inpnt框常见样式修改.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/gitignore.md"
+                "file": "9999-信箱/inpnt框常见样式修改.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/gitignore.md",
+                "file": "9999-信箱/inpnt框常见样式修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/gitignore.md",
+                "file": "9999-信箱/inpnt框常见样式修改.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,8 @@
   },
   "active": "5a76c141bcc16ba9",
   "lastOpenFiles": [
+    "9999-信箱/inpnt框常见样式修改.md",
+    "9999-信箱/image标签图片的白边.md",
     "9999-信箱/gitignore.md",
     "9999-信箱/Git基本操作.md",
     "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md",
@@ -225,8 +227,6 @@
     "README.md",
     "📅任务管理.md",
     "✨知识社区.md",
-    "📚知识博客.md",
-    "Theme Test.md",
-    "~日记~/2022-07-01.md"
+    "📚知识博客.md"
   ]
 }
