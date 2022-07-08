@@ -51,4 +51,4 @@ npm run serve
 
 ## 完善 `.gitignore`
 
-![[gitignore#COMMON]]
+![[gitignore#常用]]

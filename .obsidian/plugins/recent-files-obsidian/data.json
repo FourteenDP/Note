@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "gitignore",
-      "path": "9999-信箱/gitignore.md"
+      "basename": "前端文档",
+      "path": "1000-技术/前端/前端文档.md"
     },
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "9999-信箱/gitignore.md"
     },
     {
       "basename": "通过vue-cli创建UniApp-Vue2项目",
@@ -133,10 +137,6 @@
       "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
     },
     {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
-    },
-    {
       "basename": "2022-07-02",
       "path": "~日记~/2022-07-02.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2022-06-20",
       "path": "~日记~/2022-06-20.md"
-    },
-    {
-      "basename": "2022-06-10",
-      "path": "~日记~/2022-06-10.md"
     }
   ],
   "omittedPaths": [],
