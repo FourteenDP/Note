@@ -1,5 +1,5 @@
 :root {
-  --default-font: "HarmonyOS Sans Regular";
+  --default-font: "微软雅黑";
   --code-font: "Fira Code Retina", var(--default-font);
   --header-font: var(--default-font);
   --header-weight: 800;
