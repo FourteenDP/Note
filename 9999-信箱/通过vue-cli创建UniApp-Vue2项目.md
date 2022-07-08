@@ -3,7 +3,7 @@ title: 通过 Vue-cli 创建 UniApp-Vue2 项目
 aliases: 
 tags: 
 date created: 2022-07-08 13:32:41
-date updated: 2022-07-08 13:45:39
+date updated: 2022-07-08 13:45:41
 ---
 
 # 通过 Vue-cli 创建 UniApp-Vue2 项目
