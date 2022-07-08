@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theme Test.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme Test.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme Test.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme Test.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "bcaec53974892b21",
   "lastOpenFiles": [
+    "📅任务管理.md",
     "Theme Test.md",
     "~日记~/2022-07-01.md",
     "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
@@ -226,7 +227,6 @@
     "1000-技术/前端/其它/前端工具.md",
     "1000-技术/前端/其它/前端微服务.md",
     "1000-技术/前端/其它/代码生成.md",
-    "1000-技术/前端/其它/截图.md",
-    "1000-技术/前端/其它/前端工作笔记.md"
+    "1000-技术/前端/其它/截图.md"
   ]
 }

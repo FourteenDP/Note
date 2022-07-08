@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
       "basename": "Theme Test",
       "path": "Theme Test.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
     },
     {
       "basename": "分析Vue2中的Vue与VueComponent的关系",
