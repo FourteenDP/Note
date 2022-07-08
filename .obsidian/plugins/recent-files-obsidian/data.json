@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram",
+      "path": "9999-信箱/Untitled Diagram.svg"
+    },
+    {
       "basename": "Vue2生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "辞职通知-邓某某-范文",
       "path": "0000-拾肆/辞职通知-邓某某-范文.md"
-    },
-    {
-      "basename": "2022-06-27",
-      "path": "~日记~/2022-06-27.md"
     }
   ],
   "omittedPaths": [],
