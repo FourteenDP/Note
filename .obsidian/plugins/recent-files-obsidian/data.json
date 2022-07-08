@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram 1",
+      "path": "9999-信箱/Untitled Diagram 1.svg"
+    },
+    {
+      "basename": "Vue生命周期",
+      "path": "-附件-/Vue生命周期.png"
+    },
+    {
+      "basename": "Pasted image 20220708135633",
+      "path": "-附件-/Pasted image 20220708135633.png"
+    },
+    {
       "basename": "Untitled Diagram",
       "path": "9999-信箱/Untitled Diagram.svg"
     },
     {
       "basename": "Vue2生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "-附件-/Untitled Diagram.drawio"
     },
     {
       "basename": "README",
@@ -191,14 +199,6 @@
     {
       "basename": "采集",
       "path": "~采集~/采集.md"
-    },
-    {
-      "basename": "防脱生发",
-      "path": "0000-拾肆/防脱生发.md"
-    },
-    {
-      "basename": "辞职通知-邓某某-范文",
-      "path": "0000-拾肆/辞职通知-邓某某-范文.md"
     }
   ],
   "omittedPaths": [],
