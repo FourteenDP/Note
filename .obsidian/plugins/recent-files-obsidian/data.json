@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled Diagram 2",
-      "path": "9999-信箱/Untitled Diagram 2.svg"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
+    },
+    {
+      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
+      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
     },
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
@@ -21,24 +29,8 @@
       "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
     },
     {
-      "basename": "Untitled Diagram 1",
-      "path": "9999-信箱/Untitled Diagram 1.svg"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "9999-信箱/Untitled Diagram.svg"
-    },
-    {
       "basename": "Vue2生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
-      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
     },
     {
       "basename": "inpnt框常见样式修改",
@@ -63,10 +55,6 @@
     {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
-    },
-    {
-      "basename": "✨知识社区",
-      "path": "✨知识社区.md"
     },
     {
       "basename": "📚知识博客",
