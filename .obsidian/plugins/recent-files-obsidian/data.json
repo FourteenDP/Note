@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "如何编写好的技术文档",
       "path": "2000-高效/写作/如何编写好的技术文档.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "中国近现代史事件可视化地图",
       "path": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "WSL基本命令",
