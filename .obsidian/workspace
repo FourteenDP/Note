@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e97a14be61015c",
+        "id": "57ab77dff287802d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 389
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -205,19 +205,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
-  "active": "c7e97a14be61015c",
+  "active": "57ab77dff287802d",
   "lastOpenFiles": [
-    "-附件-/Untitled Diagram.drawio.svg",
+    "-附件-/SVG/未命名绘图.drawio.svg",
+    "-附件-/SVG/未命名绘图.drawio 1.svg",
+    "README.md",
     "9999-信箱/Untitled Diagram 2.svg",
-    "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
-    "-附件-/Vue生命周期.png",
-    "-附件-/Pasted image 20220708135633.png",
-    "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
-    "9999-信箱/Untitled Diagram 1.svg",
     "9999-信箱/Untitled Diagram.svg",
-    "1000-技术/前端/Vue/Vue2/Vue2生命周期.md",
-    "-附件-/Untitled Diagram.drawio"
+    "✨知识社区.md",
+    "-附件-/Untitled Diagram.svg",
+    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+    "-附件-/Untitled Diagram.drawio.svg",
+    "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
   ]
 }
