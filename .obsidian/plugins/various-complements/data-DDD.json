@@ -1,0 +1,227 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "test": {
+      "test": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1655994390375
+        }
+      }
+    },
+    "APP混合开发": {
+      "APP混合开发": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1655994408091
+        }
+      }
+    },
+    "Linux目录结构和作用": {
+      "Linux目录结构和作用": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1655994414828
+        }
+      }
+    },
+    "📅任务管理": {
+      "📅任务管理": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1656048608807
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1656048709898
+        }
+      }
+    },
+    "索引": {
+      "索引": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1656752944458
+        }
+      }
+    },
+    "asdasd": {
+      "asdasd": {
+        "currentFile": {
+          "count": 16,
+          "lastUpdated": 1656050936162
+        }
+      }
+    },
+    "asdads": {
+      "asdads": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656049020639
+        }
+      }
+    },
+    "Adsds": {
+      "Adsds": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656049048219
+        }
+      }
+    },
+    "Asdsa": {
+      "Asdsa": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1656050663340
+        }
+      }
+    },
+    "Asdsad": {
+      "Asdsad": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656050850962
+        }
+      }
+    },
+    "正则表达式": {
+      "正则表达式": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1656051550133
+        }
+      }
+    },
+    "Docke": {
+      "Docke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656051522090
+        }
+      }
+    },
+    "等上的方法和数据。": {
+      "等上的方法和数据。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656296608449
+        }
+      }
+    },
+    "日记": {
+      "日记": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1656752946172
+        }
+      }
+    },
+    "马原": {
+      "马原": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1656752947774
+        }
+      }
+    },
+    "line2": {
+      "line2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656814379162
+        }
+      }
+    },
+    "创建UniApp": {
+      "创建UniApp": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657259056118
+        }
+      }
+    },
+    "前端": {
+      "前端": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657259368720
+        }
+      }
+    },
+    "Vue3": {
+      "Vue3": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657259373162
+        }
+      }
+    },
+    "Vue2路由Keep-alive实现原理": {
+      "Vue2路由Keep-alive实现原理": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1657259384577
+        }
+      }
+    },
+    "local": {
+      "local": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1657260909898
+        }
+      }
+    },
+    "gitignore": {
+      "gitignore": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1657260604209
+        }
+      }
+    }
+  }
+}
