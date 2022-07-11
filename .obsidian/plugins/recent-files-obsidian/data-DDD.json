@@ -1,60 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目-DDD",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md"
+      "basename": "开源组件",
+      "path": "1000-技术/前端/UniApp/开源组件.md"
     },
     {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
+      "basename": "前端文档",
+      "path": "1000-技术/前端/前端文档.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "✨知识社区",
-      "path": "✨知识社区.md"
-    },
-    {
-      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
-      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-    },
-    {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "Vue生命周期",
-      "path": "-附件-/Vue生命周期.png"
-    },
-    {
-      "basename": "Pasted image 20220708135633",
-      "path": "-附件-/Pasted image 20220708135633.png"
-    },
-    {
-      "basename": "分析Vue2中的Vue与VueComponent的关系",
-      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
-    },
-    {
-      "basename": "Vue2生命周期",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
-    },
-    {
-      "basename": "inpnt框常见样式修改",
-      "path": "9999-信箱/inpnt框常见样式修改.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
     },
     {
       "basename": "gitignore",
       "path": "9999-信箱/gitignore.md"
     },
     {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
+      "basename": "通过vue-cli创建UniApp-Vue2项目",
+      "path": "9999-信箱/通过vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "如何编写好的技术文档",
@@ -63,6 +31,10 @@
     {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
+    },
+    {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
     },
     {
       "basename": "📚知识博客",
@@ -121,6 +93,10 @@
       "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
+      "basename": "分析Vue2中的Vue与VueComponent的关系",
+      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    },
+    {
       "basename": "盒子模型",
       "path": "-附件-/盒子模型.png"
     },
@@ -141,6 +117,10 @@
       "path": "-附件-/Linux目录结构.png"
     },
     {
+      "basename": "Vue生命周期",
+      "path": "-附件-/Vue生命周期.png"
+    },
+    {
       "basename": "浏览器跨域",
       "path": "1000-技术/前端/浏览器/浏览器跨域.md"
     },
@@ -159,10 +139,6 @@
     {
       "basename": "分析Vue2中Vue与VueComponent的关系",
       "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
     },
     {
       "basename": "2022-07-02",
@@ -191,6 +167,38 @@
     {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "通用模板",
+      "path": "-模板-/通用模板.md"
+    },
+    {
+      "basename": "采集",
+      "path": "~采集~/采集.md"
+    },
+    {
+      "basename": "防脱生发",
+      "path": "0000-拾肆/防脱生发.md"
+    },
+    {
+      "basename": "辞职通知-邓某某-范文",
+      "path": "0000-拾肆/辞职通知-邓某某-范文.md"
+    },
+    {
+      "basename": "2022-06-27",
+      "path": "~日记~/2022-06-27.md"
+    },
+    {
+      "basename": "2022-06-23",
+      "path": "~日记~/2022-06-23.md"
+    },
+    {
+      "basename": "2022-06-22",
+      "path": "~日记~/2022-06-22.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
     }
   ],
   "omittedPaths": [],
