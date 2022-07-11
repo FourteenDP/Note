@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目-DDD",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md"
+      "basename": "开源组件",
+      "path": "1000-技术/前端/UniApp/开源组件.md"
+    },
+    {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "9999-信箱/gitignore.md"
+    },
+    {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
     },
     {
       "basename": "开源项目",
@@ -19,10 +31,6 @@
     {
       "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
       "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-    },
-    {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
     },
     {
       "basename": "Vue生命周期",
@@ -47,14 +55,6 @@
     {
       "basename": "image标签图片的白边",
       "path": "9999-信箱/image标签图片的白边.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "9999-信箱/gitignore.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
     },
     {
       "basename": "如何编写好的技术文档",

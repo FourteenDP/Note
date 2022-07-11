@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "57ab77dff287802d",
+        "id": "5752c2f16b892975",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md",
+            "file": "1000-技术/前端/UniApp/开源组件.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md"
+                "file": "1000-技术/前端/UniApp/开源组件.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md",
+                "file": "1000-技术/前端/UniApp/开源组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md",
+                "file": "1000-技术/前端/UniApp/开源组件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "57ab77dff287802d",
+  "active": "5752c2f16b892975",
   "lastOpenFiles": [
+    "1000-技术/前端/UniApp/开源组件.md",
+    "1000-技术/前端/UniApp/开源组件-DDD.md",
+    "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
+    "9999-信箱/gitignore.md",
+    "9999-信箱/Git基本操作.md",
+    "9999-信箱/Git基本操作-DDD.md",
     "9999-信箱/通过Vue-cli创建UniApp-Vue2项目-DDD.md",
     "1000-技术/项目/开源项目.md",
     "README.md",
-    "-附件-/SVG/未命名绘图.drawio.svg",
-    "-附件-/SVG/未命名绘图.drawio 1.svg",
-    "9999-信箱/Untitled Diagram 2.svg",
-    "9999-信箱/Untitled Diagram.svg",
-    "✨知识社区.md",
-    "-附件-/Untitled Diagram.svg",
-    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+    "-附件-/SVG/未命名绘图.drawio.svg"
   ]
 }
