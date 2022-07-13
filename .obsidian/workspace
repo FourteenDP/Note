@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/环境配置/Windows终端设置代理.md",
+            "file": "1000-技术/环境配置/Windows创建软连接.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/环境配置/Windows终端设置代理.md"
+                "file": "1000-技术/环境配置/Windows创建软连接.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/环境配置/Windows终端设置代理.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/环境配置/Windows终端设置代理.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +219,8 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
-    "1000-技术/环境配置/Windows终端设置代理.md",
     "1000-技术/环境配置/Windows创建软连接.md",
+    "1000-技术/环境配置/Windows终端设置代理.md",
     "9999-信箱/在线实用工具.md",
     "9999-信箱/Git基本操作.md",
     "9999-信箱/image标签图片的白边.md",
