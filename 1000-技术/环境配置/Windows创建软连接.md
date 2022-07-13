@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:49:43
+date updated: 2022-07-14 00:49:50
 title: Windows 创建符号链接
 ---
 
@@ -23,7 +23,6 @@ title: Windows 创建符号链接
 mklink /? # 打印帮助
 
 #创建符号链接。
-
 MKLINK [[/D] |[/H] | [/J]] Link Target
         /D      创建目录符号链接。默认为文件符号链接。
         /H      创建硬链接而非符号链接。
