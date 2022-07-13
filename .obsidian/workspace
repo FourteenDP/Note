@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ecde92696ae7a1",
+        "id": "03993a340b1953e5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "-附件-/drawio/未命名.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "-附件-/drawio/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/drawio/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/drawio/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +208,7 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "d5ecde92696ae7a1",
+  "active": "03993a340b1953e5",
   "lastOpenFiles": [
     "-附件-/drawio/未命名.md",
     "-附件-/未命名.md",
