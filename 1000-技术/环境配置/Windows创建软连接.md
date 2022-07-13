@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:38:28
+date updated: 2022-07-14 00:39:33
 title: Windows 创建软连接
 ---
 
@@ -25,7 +25,7 @@ Target 指定新链接引用的路径 (相对或绝对)。
 ## 实例
 
 ```shell
-mklink /J "C:\Users\aaa\AppData\Local\Google\Chrome\User Data\Default\Cache" "E:\cache\chrome"。
+mklink /J "C:\Users\用户名\AppData\Local\Google\Chrome\User Data\Default\Cache" "F:\chrome\cache"
 ```
 
 ## 注意
