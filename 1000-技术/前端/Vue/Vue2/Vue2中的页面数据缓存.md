@@ -29,6 +29,7 @@ title: Vue2 中的页面数据缓存
 ## Keep-alive 缓存
 
 - 使用缓存淘汰算法 --LRU 算法 LRU（Least recently used，最近最少使用）算法根据数据的历史访问记录来进行淘汰数据
+- 数据保存再内存中关闭页面时，数据dun
 
 ```html
 <keep-alive>
