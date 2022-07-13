@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚知识博客.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚知识博客.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,10 +219,10 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
+    "README.md",
     "📚知识博客.md",
     "✨知识社区.md",
     "📅任务管理.md",
-    "README.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
