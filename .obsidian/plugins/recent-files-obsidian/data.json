@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "image标签图片的白边",
+      "path": "9999-信箱/image标签图片的白边.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "9999-信箱/gitignore.md"
+    },
+    {
       "basename": "UniApp生命周期",
       "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
     },
@@ -65,14 +77,6 @@
       "path": "9999-信箱/在线实用工具.md"
     },
     {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "9999-信箱/gitignore.md"
-    },
-    {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "inpnt框常见样式修改",
       "path": "9999-信箱/inpnt框常见样式修改.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
     },
     {
       "basename": "如何编写好的技术文档",
