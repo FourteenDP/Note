@@ -3,7 +3,7 @@ title: UniApp 生命周期
 aliases: 
 tags: 
 date created: 2022-07-13 14:57:30
-date updated: 2022-07-13 15:17:04
+date updated: 2022-07-13 15:18:12
 ---
 
 # UniApp 生命周期
@@ -71,3 +71,5 @@ date updated: 2022-07-13 15:17:04
 beforeCreate: 组件创建之前 >created: 组件创建完成>beforeMount: 组件挂载之前>onLoad: 页面加载>onShow: 页面显示>mounted: 组件挂载完成>onReady: 面初次渲染完成 ->onUnload: 页面卸载 ->beforeDestroy: 组件销毁之前 ->destroyed: 组件销毁完成
 
 App Launch&&App Show 在 beforeCreate 之后
+
+![[Pasted image 20220713151811.png]]
