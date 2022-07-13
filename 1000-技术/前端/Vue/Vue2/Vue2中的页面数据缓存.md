@@ -20,7 +20,7 @@ title: Vue2 中的页面数据缓存
 
 ### [[Vue路由Keep-alive实现原理|Keep-alive]]
 
-缓存页面实例，不销毁实例，关闭页面时数据丢失
+
 
 ### 本地缓存
 
@@ -31,6 +31,8 @@ title: Vue2 中的页面数据缓存
 - [ ] 全局状态管理页面缓存
 
 ## [[Vue路由Keep-alive实现原理|Keep-alive]] 缓存
+
+缓存页面实例，不销毁实例，关闭页面时数据丢失
 
 - [ ] Keep-alive 缓存
 
