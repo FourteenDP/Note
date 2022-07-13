@@ -7,9 +7,12 @@
         "id": "41ec993920efb88e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "-附件-/Pasted image 20220713154807.png"
+            "file": "9999-信箱/UniApp生命周期.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/Pasted image 20220713154807.png"
+                "file": "9999-信箱/UniApp生命周期.md"
               }
             }
           },
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/Pasted image 20220713154807.png",
+                "file": "9999-信箱/UniApp生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/Pasted image 20220713154807.png",
+                "file": "9999-信箱/UniApp生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,9 +219,9 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
+    "9999-信箱/UniApp生命周期.md",
     "-附件-/Pasted image 20220713154807.png",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "9999-信箱/UniApp生命周期.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "-附件-/drawio/UniApp生命周期.svg",
     "README.md",
