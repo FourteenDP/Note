@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
+            "file": "1000-技术/前端/HTML&CSS/BFC.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vue生命周期",
+                "query": "浮动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
+                "file": "1000-技术/前端/HTML&CSS/BFC.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
+                "file": "1000-技术/前端/HTML&CSS/BFC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
+                "file": "1000-技术/前端/HTML&CSS/BFC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
+    "1000-技术/前端/HTML&CSS/BFC.md",
     "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
     "9999-信箱/image标签图片的白边.md",
     "9999-信箱/gitignore.md",
@@ -227,7 +228,6 @@
     "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
     "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "📅任务管理.md",
-    "~日记~/2022-07-02.md",
-    "~日记~/2022-07-01.md"
+    "~日记~/2022-07-02.md"
   ]
 }

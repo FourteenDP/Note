@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BFC",
+      "path": "1000-技术/前端/HTML&CSS/BFC.md"
+    },
+    {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
       "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "分析Vue2中Vue与VueComponent的关系",
       "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "把我国建设成为社会主义的现代化强国",
-      "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md"
     }
   ],
   "omittedPaths": [],
