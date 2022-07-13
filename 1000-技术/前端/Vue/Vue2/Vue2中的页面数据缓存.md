@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-06-11 14:39:00
-date updated: 2022-07-14 00:11:54
+date updated: 2022-07-14 00:16:51
 title: Vue2 中的页面数据缓存
 ---
 
@@ -18,8 +18,6 @@ title: Vue2 中的页面数据缓存
 
 将数据保存到全局状态管理工具如 Vuex，关闭页面时数据丢失
 
-### [[Vue路由Keep-alive实现原理|Keep-alive]]
-
 ### 本地缓存
 
 将数据保存到浏览器缓存，只要不主动清理缓存，数据不丢失
@@ -28,9 +26,17 @@ title: Vue2 中的页面数据缓存
 
 - [ ] 全局状态管理页面缓存
 
-## Keep-alive缓存
+## Keep-alive 缓存
 
 - 使用缓存淘汰算法 --LRU 算法 LRU（Least recently used，最近最少使用）算法根据数据的历史访问记录来进行淘汰数据
+
+```html
+<keep-alive>
+  <component>
+    <!-- 该组件将被缓存！ -->
+  </component>
+</keep-alive>
+```
 
 ## 本地缓存
 
