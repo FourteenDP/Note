@@ -3,15 +3,17 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:39:37
-title: Windows 创建软连接
+date updated: 2022-07-14 00:42:30
+title: Windows 创建符号链接。
 ---
 
-# Windows 创建软连接
+# Windows 创建符号链接。
+
 ## 简介
-- 
 
 ## 语法
+
+`mklink /?`
 
 **MKLINK \[/D] | \[/H] | \[/J] Link Target**
 
