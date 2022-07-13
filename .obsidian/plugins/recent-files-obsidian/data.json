@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue生命周期",
+      "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
+    },
+    {
       "basename": "UniApp生命周期",
       "path": "9999-信箱/UniApp生命周期.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "分析Vue2中的Vue与VueComponent的关系",
       "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
-    },
-    {
-      "basename": "Vue2生命周期",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
     },
     {
       "basename": "inpnt框常见样式修改",
