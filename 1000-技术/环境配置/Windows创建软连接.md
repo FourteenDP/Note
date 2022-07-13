@@ -3,14 +3,15 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:42:47
+date updated: 2022-07-14 00:43:58
 title: Windows 创建符号链接
 ---
 
 # Windows 创建符号链接
 
 ## 简介
-创建符号链接可以用于 C 盘数据迁移到qi'ta
+
+- 创建符号链接可以用于 C 盘数据迁移到其它盘而不影响原来的文件路径，列如：迁移
 
 ## 语法
 
