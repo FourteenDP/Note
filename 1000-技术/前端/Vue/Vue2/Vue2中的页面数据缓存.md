@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-06-11 14:39:00
-date updated: 2022-06-27 10:18:40
+date updated: 2022-07-14 00:07:47
 title: Vue2 中的页面数据缓存
 ---
 
@@ -20,8 +20,6 @@ title: Vue2 中的页面数据缓存
 
 ### [[Vue路由Keep-alive实现原理|Keep-alive]]
 
-
-
 ### 本地缓存
 
 将数据保存到浏览器缓存，只要不主动清理缓存，数据不丢失
@@ -32,9 +30,9 @@ title: Vue2 中的页面数据缓存
 
 ## [[Vue路由Keep-alive实现原理|Keep-alive]] 缓存
 
-缓存页面实例，不销毁实例，关闭页面时数据丢失
+- 缓存页面实例，不销毁实例，关闭页面时数据丢失
 
-- [ ] Keep-alive 缓存
+
 
 ## 本地缓存
 
