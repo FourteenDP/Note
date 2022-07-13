@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:56:44
+date updated: 2022-07-14 00:58:40
 title: Windows 创建符号链接
 ---
 
@@ -43,4 +43,4 @@ mklink /J "C:\Users\用户名\AppData\Local\Google\Chrome\User Data\Default\Cach
 ## 注意
 
 - 只有 cmd 窗口下才可用，在 powershell 下不行
-- `Target` 目标路径文件/文件夹必须不存在才可创建
+- `Link` 必须不存在才可创建
