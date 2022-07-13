@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -221,14 +220,14 @@
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
     "1000-技术/环境配置/Windows创建软连接.md",
-    "1000-技术/环境配置/Windows终端设置代理.md",
+    "8888-公司/驰雄/README.md",
+    "8888-公司/驰雄/工作资料.md",
     "9999-信箱/在线实用工具.md",
     "9999-信箱/Git基本操作.md",
     "9999-信箱/image标签图片的白边.md",
     "9999-信箱/inpnt框常见样式修改.md",
-    "9999-信箱/node的process.nextTick.md",
-    "9999-信箱/uniapp-$refs初始化失败.md",
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
-    "9999-信箱/vue的不同构建版本.md"
+    "9999-信箱/uni-app $refs初始化失败.md",
+    "1000-技术/环境配置/Windows终端设置代理.md",
+    "9999-信箱/node的process.nextTick.md"
   ]
 }

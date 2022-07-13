@@ -5,8 +5,12 @@
       "path": "1000-技术/环境配置/Windows创建软连接.md"
     },
     {
-      "basename": "Windows终端设置代理",
-      "path": "1000-技术/环境配置/Windows终端设置代理.md"
+      "basename": "README",
+      "path": "8888-公司/驰雄/README.md"
+    },
+    {
+      "basename": "工作资料",
+      "path": "8888-公司/驰雄/工作资料.md"
     },
     {
       "basename": "在线实用工具",
@@ -23,6 +27,14 @@
     {
       "basename": "inpnt框常见样式修改",
       "path": "9999-信箱/inpnt框常见样式修改.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "Windows终端设置代理",
+      "path": "1000-技术/环境配置/Windows终端设置代理.md"
     },
     {
       "basename": "node的process.nextTick",
@@ -51,10 +63,6 @@
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
       "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
     {
       "basename": "README",
@@ -191,14 +199,6 @@
     {
       "basename": "中国近代史时间轴图",
       "path": "-附件-/中国近代史时间轴图.png"
-    },
-    {
-      "basename": "CMD终端代理设置环境变量",
-      "path": "-附件-/CMD终端代理设置环境变量.png"
-    },
-    {
-      "basename": "Linux目录结构",
-      "path": "-附件-/Linux目录结构.png"
     }
   ],
   "omittedPaths": [],
