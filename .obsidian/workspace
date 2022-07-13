@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/gitignore.md",
+            "file": "1000-技术/前端/工程化/相关资料.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/gitignore.md"
+                "file": "1000-技术/前端/工程化/相关资料.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/gitignore.md",
+                "file": "1000-技术/前端/工程化/相关资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/gitignore.md",
+                "file": "1000-技术/前端/工程化/相关资料.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +219,8 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
-    "9999-信箱/gitignore.md",
+    "1000-技术/前端/工程化/相关资料.md",
+    "1000-技术/前端/工程化/gitignore.md",
     "9999-信箱/Git基本操作.md",
     "9999-信箱/在线实用工具.md",
     "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
@@ -227,7 +228,6 @@
     "9999-信箱/inpnt框常见样式修改.md",
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/uni-app $refs初始化失败.md",
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
-    "9999-信箱/vue的不同构建版本.md"
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
   ]
 }
