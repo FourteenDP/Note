@@ -3,11 +3,11 @@ aliases:
 tags: 
 date created: 2022-06-06 22:49:23
 date modified: 2022-06-06 22:52:19
-date updated: 2022-07-08 20:44:40
-title: VUE2 生命周期
+date updated: 2022-07-13 20:20:47
+title: Vue 生命周期
 ---
 
-# VUE2 生命周期
+# Vue 生命周期
 
 ## 简介
 

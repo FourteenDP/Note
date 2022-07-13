@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/UniApp生命周期.md",
+            "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "vue生命",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/UniApp生命周期.md"
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/UniApp生命周期.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/UniApp生命周期.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "0daabafd0c3ce2b9",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "9999-信箱/UniApp生命周期.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/UniApp/开源组件.md",
@@ -226,7 +227,6 @@
     "-附件-/未命名.md",
     "1000-技术/前端/UniApp/开源组件-DDD.md",
     "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md",
-    "9999-信箱/gitignore.md",
-    "9999-信箱/Git基本操作.md"
+    "9999-信箱/gitignore.md"
   ]
 }
