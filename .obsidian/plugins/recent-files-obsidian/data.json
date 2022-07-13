@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
-    },
-    {
       "basename": "UniApp生命周期",
       "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
+      "basename": "前端文档",
+      "path": "1000-技术/前端/前端文档.md"
+    },
+    {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
     },
     {
       "basename": "Pasted image 20220713154807",
@@ -175,10 +179,6 @@
     {
       "basename": "分析Vue2中Vue与VueComponent的关系",
       "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
     },
     {
       "basename": "2022-07-02",
