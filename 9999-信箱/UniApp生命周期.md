@@ -69,3 +69,4 @@ date updated: 2022-07-13 15:13:17
 - [ ] UniApp 执行顺序完善
 
 
+beforeCreate:组件创建之前 >created:组件创建完成>beforeMount:组件挂载之前>onLoad:页面加载>onLoad:页面加载>onShow:页面显示
