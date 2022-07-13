@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "UniApp生命周期",
+      "path": "9999-信箱/UniApp生命周期.md"
+    },
+    {
       "basename": "Vue生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
     },
     {
-      "basename": "UniApp生命周期",
-      "path": "9999-信箱/UniApp生命周期.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "开源项目",
@@ -31,10 +35,6 @@
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "✨知识社区",
