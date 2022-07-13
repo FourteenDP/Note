@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Uniapp全局消息提示及其组件的实现",
+      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    },
+    {
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -121,10 +129,6 @@
       "path": "2000-高效/写作/如何编写好的技术文档.md"
     },
     {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
       "basename": "前端开发知识点",
       "path": "1000-技术/前端/其它/前端开发知识点.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "uniapp-$refs初始化失败",
       "path": "9999-信箱/uniapp-$refs初始化失败.md"
-    },
-    {
-      "basename": "vue的不同构建版本",
-      "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
       "basename": "盒子模型",
