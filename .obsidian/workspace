@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+            "file": "~日记~/2022-07-02.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md"
+                "file": "~日记~/2022-07-02.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+                "file": "~日记~/2022-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+                "file": "~日记~/2022-07-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
+    "~日记~/2022-07-02.md",
+    "~日记~/2022-07-01.md",
+    "~日记~/2022-07-06.md",
+    "~日记~/2022-07-13.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "1000-技术/前端/UniApp/开源组件.md",
     "1000-技术/前端/前端文档.md",
     "📅任务管理.md",
     "-附件-/Pasted image 20220713154807.png",
-    "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
-    "-附件-/drawio/UniApp生命周期.svg",
-    "README.md",
-    "1000-技术/项目/开源项目.md"
+    "-附件-/drawio/UniApp生命周期.drawio.svg"
   ]
 }
