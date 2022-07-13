@@ -3,7 +3,7 @@ title: UniApp 生命周期
 aliases: 
 tags: 
 date created: 2022-07-13 14:57:30
-date updated: 2022-07-13 15:18:47
+date updated: 2022-07-13 15:48:12
 ---
 
 # UniApp 生命周期
@@ -72,4 +72,4 @@ beforeCreate: 组件创建之前 >created: 组件创建完成>beforeMount: 组�
 
 App Launch&&App Show 在 beforeCreate 之后
 
-![[Pasted image 20220713151811.png]]
+![[Pasted image 20220713154807.png]]
