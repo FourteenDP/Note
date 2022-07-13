@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "-附件-/drawio/UniApp生命周期.drawio.svg"
+            "file": "-附件-/Pasted image 20220713154807.png"
           }
         }
       }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.drawio.svg"
+                "file": "-附件-/Pasted image 20220713154807.png"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.drawio.svg",
+                "file": "-附件-/Pasted image 20220713154807.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.drawio.svg",
+                "file": "-附件-/Pasted image 20220713154807.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,6 +216,7 @@
   },
   "active": "41ec993920efb88e",
   "lastOpenFiles": [
+    "-附件-/Pasted image 20220713154807.png",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "9999-信箱/UniApp生命周期.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
@@ -224,7 +225,6 @@
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/UniApp/开源组件.md",
     "9999-信箱/在线实用工具.md",
-    "-附件-/drawio/未命名.md",
-    "-附件-/未命名.md"
+    "-附件-/drawio/未命名.md"
   ]
 }
