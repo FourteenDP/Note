@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:49:50
+date updated: 2022-07-14 00:51:18
 title: Windows 创建符号链接
 ---
 
@@ -33,6 +33,8 @@ MKLINK [[/D] |[/H] | [/J]] Link Target
 ```
 
 ## 实例
+
+- 迁移 Google 浏览器缓存数据
 
 ```shell
 mklink /J "C:\Users\用户名\AppData\Local\Google\Chrome\User Data\Default\Cache" "F:\chrome\cache"
