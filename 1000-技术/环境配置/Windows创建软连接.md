@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:46:08
+date updated: 2022-07-14 00:47:25
 title: Windows 创建符号链接
 ---
 
@@ -14,8 +14,8 @@ title: Windows 创建符号链接
 - 创建符号链接可以用于 C 盘数据迁移到其它盘而不影响原来的文件路径，
 - 列如：
   - 迁移浏览器缓存  
-  - `node` 版本管理器 `nvm` 
-  - 
+  - `node` 版本管理器 `nvm`
+  - `JavaScript` 包管理器 `pnpm`
 
 ## 语法
 
