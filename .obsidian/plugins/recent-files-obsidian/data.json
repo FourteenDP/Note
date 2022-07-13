@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "在线实用工具",
+      "path": "9999-信箱/在线实用工具.md"
+    },
+    {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "9999-信箱/gitignore.md"
+    },
+    {
+      "basename": "image标签图片的白边",
+      "path": "9999-信箱/image标签图片的白边.md"
+    },
+    {
+      "basename": "inpnt框常见样式修改",
+      "path": "9999-信箱/inpnt框常见样式修改.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
       "basename": "Uniapp全局消息提示及其组件的实现",
       "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
     },
@@ -43,18 +75,6 @@
     {
       "basename": "BFC",
       "path": "1000-技术/前端/HTML&CSS/BFC.md"
-    },
-    {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "9999-信箱/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "9999-信箱/gitignore.md"
     },
     {
       "basename": "UniApp生命周期",
@@ -101,14 +121,6 @@
       "path": "1000-技术/项目/开源项目.md"
     },
     {
-      "basename": "在线实用工具",
-      "path": "9999-信箱/在线实用工具.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
-    },
-    {
       "basename": "Vue生命周期",
       "path": "-附件-/Vue生命周期.png"
     },
@@ -119,10 +131,6 @@
     {
       "basename": "分析Vue2中的Vue与VueComponent的关系",
       "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
-    },
-    {
-      "basename": "inpnt框常见样式修改",
-      "path": "9999-信箱/inpnt框常见样式修改.md"
     },
     {
       "basename": "如何编写好的技术文档",
@@ -155,10 +163,6 @@
     {
       "basename": "小程序容器技术",
       "path": "1000-技术/前端/其它/小程序容器技术.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
     },
     {
       "basename": "uniapp-$refs初始化失败",
@@ -195,10 +199,6 @@
     {
       "basename": "颜色",
       "path": "1100-设计/颜色.md"
-    },
-    {
-      "basename": "字体",
-      "path": "1100-设计/字体.md"
     }
   ],
   "omittedPaths": [],
