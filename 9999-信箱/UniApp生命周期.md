@@ -3,17 +3,18 @@ title: UniApp 生命周期
 aliases: 
 tags: 
 date created: 2022-07-13 14:57:30
-date updated: 2022-07-13 15:08:15
+date updated: 2022-07-13 15:08:46
 ---
 
 # UniApp 生命周期
 
 ## 页面生命周期
-- 详见 [[]]
+
+- 详见 [页面简介 | uni-app官网](https://uniapp.dcloud.io/tutorial/page.html#lifecycle)
 
 ## 组件生命周期
 
-- 详见 [页面简介 | uni-app官网](https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle)
+- 详见 [组件生命周期 | uni-app官网](https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle)
 
 | 函数名        | 说明                                                                                                                     | 平台差异说明   | 最低版本 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------- | -------- |
