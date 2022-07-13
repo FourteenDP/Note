@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue2中的页面数据缓存",
+      "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
+    },
+    {
+      "basename": "Vue路由Keep-alive实现原理",
+      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
+    },
+    {
+      "basename": "2022-06-20",
+      "path": "~日记~/2022-06-20.md"
+    },
+    {
       "basename": "BFC",
       "path": "1000-技术/前端/HTML&CSS/BFC.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "开源组件",
       "path": "1000-技术/前端/UniApp/开源组件.md"
-    },
-    {
-      "basename": "Vue路由Keep-alive实现原理",
-      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
-    },
-    {
-      "basename": "Vue2中的页面数据缓存",
-      "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
     },
     {
       "basename": "📅任务管理",
@@ -195,10 +199,6 @@
     {
       "basename": "字体",
       "path": "1100-设计/字体.md"
-    },
-    {
-      "basename": "分析Vue2中Vue与VueComponent的关系",
-      "path": "1000-技术/前端/Vue/Vue2/分析Vue2中Vue与VueComponent的关系.md"
     }
   ],
   "omittedPaths": [],
