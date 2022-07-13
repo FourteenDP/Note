@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
+      "basename": "开源组件",
+      "path": "1000-技术/前端/UniApp/开源组件.md"
+    },
+    {
+      "basename": "Vue路由Keep-alive实现原理",
+      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
+    },
+    {
       "basename": "Vue2中的页面数据缓存",
       "path": "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "2022-07-13",
       "path": "~日记~/2022-07-13.md"
-    },
-    {
-      "basename": "UniApp生命周期",
-      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
-    },
-    {
-      "basename": "开源组件",
-      "path": "1000-技术/前端/UniApp/开源组件.md"
     },
     {
       "basename": "前端文档",
@@ -195,10 +199,6 @@
     {
       "basename": "把我国建设成为社会主义的现代化强国",
       "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md"
-    },
-    {
-      "basename": "中国近现代史事件可视化地图",
-      "path": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md"
     }
   ],
   "omittedPaths": [],
