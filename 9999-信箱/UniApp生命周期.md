@@ -66,10 +66,6 @@ date updated: 2022-07-13 15:48:12
 
 ## 生命周期执行顺序
 
-- [ ] UniApp 执行顺序完善
-
-beforeCreate: 组件创建之前 >created: 组件创建完成>beforeMount: 组件挂载之前>onLoad: 页面加载>onShow: 页面显示>mounted: 组件挂载完成>onReady: 面初次渲染完成 ->onUnload: 页面卸载 ->beforeDestroy: 组件销毁之前 ->destroyed: 组件销毁完成
-
-App Launch&&App Show 在 beforeCreate 之后
+![[UniApp生命周期.svg]]
 
 ![[Pasted image 20220713154807.png]]
