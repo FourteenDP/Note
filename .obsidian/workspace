@@ -9,20 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+            "file": "9999-信箱/UniApp生命周期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
-          }
-        }
-      },
-      {
-        "id": "4dbf04ddccb8d188",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "-附件-/drawio/UniApp生命周期.svg"
           }
         }
       }
@@ -121,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.svg"
+                "file": "9999-信箱/UniApp生命周期.md"
               }
             }
           },
@@ -186,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.svg",
+                "file": "9999-信箱/UniApp生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/drawio/UniApp生命周期.svg",
+                "file": "9999-信箱/UniApp生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,11 +217,11 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "4dbf04ddccb8d188",
+  "active": "b09249ee990e8141",
   "lastOpenFiles": [
-    "-附件-/drawio/UniApp生命周期.svg",
     "9999-信箱/UniApp生命周期.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+    "-附件-/drawio/UniApp生命周期.svg",
     "README.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/UniApp/开源组件.md",
