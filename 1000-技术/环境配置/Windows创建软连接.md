@@ -3,7 +3,7 @@ aliases: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58
-date updated: 2022-07-14 00:35:46
+date updated: 2022-07-14 00:38:28
 title: Windows 创建软连接
 ---
 
@@ -11,7 +11,7 @@ title: Windows 创建软连接
 
 ## 语法
 
-**MKLINK [/D] | [/H] | [/J] Link Target**
+**MKLINK \[/D] | \[/H] | \[/J] Link Target**
 
 - /D 创建目录符号链接。默认为文件
 符号链接。
@@ -25,9 +25,7 @@ Target 指定新链接引用的路径 (相对或绝对)。
 ## 实例
 
 ```shell
-mklink /j D:\Doc\tracking\VisualTracking_ECO\data D:\Doc\tracking\KCF\C++\data\matlab1
-D:\Doc\tracking\VisualTracking_ECO\data-----目标路径
-D:\Doc\tracking\KCF\C++\data\matlab1-----源路径
+mklink /J "C:\Users\aaa\AppData\Local\Google\Chrome\User Data\Default\Cache" "E:\cache\chrome"。
 ```
 
 ## 注意
