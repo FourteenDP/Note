@@ -348,3 +348,8 @@ body:not(.native-scrollbars) ::-webkit-scrollbar {
   height: 5px;
   -webkit-border-radius: 100px;
 }
+
+/* 消息弹窗 */
+.notice{
+  background-color: var(--background-title-bar);
+}
