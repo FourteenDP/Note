@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "gitignore",
-      "path": "1000-技术/前端/工程化/gitignore.md"
+      "basename": "Windows终端设置代理",
+      "path": "1000-技术/环境配置/Windows终端设置代理.md"
     },
     {
-      "basename": "相关资料",
-      "path": "1000-技术/前端/工程化/相关资料.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
+      "basename": "Windows创建软连接",
+      "path": "1000-技术/环境配置/Windows创建软连接.md"
     },
     {
       "basename": "在线实用工具",
       "path": "9999-信箱/在线实用工具.md"
     },
     {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
     },
     {
       "basename": "image标签图片的白边",
@@ -33,8 +29,8 @@
       "path": "9999-信箱/node的process.nextTick.md"
     },
     {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
+      "basename": "uniapp-$refs初始化失败",
+      "path": "9999-信箱/uniapp-$refs初始化失败.md"
     },
     {
       "basename": "Uniapp全局消息提示及其组件的实现",
@@ -43,6 +39,22 @@
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
+      "basename": "相关资料",
+      "path": "1000-技术/前端/工程化/相关资料.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "1000-技术/前端/工程化/gitignore.md"
+    },
+    {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
     {
       "basename": "README",
@@ -169,10 +181,6 @@
       "path": "1000-技术/前端/其它/小程序容器技术.md"
     },
     {
-      "basename": "uniapp-$refs初始化失败",
-      "path": "9999-信箱/uniapp-$refs初始化失败.md"
-    },
-    {
       "basename": "盒子模型",
       "path": "-附件-/盒子模型.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Linux目录结构",
       "path": "-附件-/Linux目录结构.png"
-    },
-    {
-      "basename": "浏览器跨域",
-      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
-    },
-    {
-      "basename": "前端面试题",
-      "path": "1000-技术/前端/其它/前端面试题.md"
     }
   ],
   "omittedPaths": [],
