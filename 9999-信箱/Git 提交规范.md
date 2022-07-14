@@ -24,4 +24,6 @@ date updated: 2022-07-14 15:32:11
 | build   | Dev  | 构造工具或外部依赖的改动           |
 | reactor | Dev  | 代码重构                           |
 | revert  | Dev  | 执行 `git revert` 打印的 `message` |
-| test    | Dev  |                                    |
+| test    | Dev  | 添加修改测试用例                   |
+| ci      | Dev  | CI (持续集成服务) 有关的改的       |
+| chore   | Dev  |                                    |
