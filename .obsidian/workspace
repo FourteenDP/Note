@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "1000-技术/前端/工程化/gitignore.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "file:git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/前端/工程化/gitignore.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/工程化/gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/工程化/gitignore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,15 +220,15 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
+    "1000-技术/前端/工程化/gitignore.md",
+    "1000-技术/前端/工程化/Git 操作规范.md",
+    "9999-信箱/Git基本操作.md",
     "1000-技术/项目/开源项目.md",
     "~日记~/2022-06-28.md",
-    "9999-信箱/Git基本操作.md",
     "9999-信箱/在线实用工具.md",
     "1000-技术/语言学习实践/语言学习-游戏.md",
     "README.md",
     "📚知识博客.md",
-    "📅任务管理.md",
-    "✨知识社区.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md"
+    "📅任务管理.md"
   ]
 }

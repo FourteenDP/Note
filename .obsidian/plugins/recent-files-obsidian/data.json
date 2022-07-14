@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "gitignore",
+      "path": "1000-技术/前端/工程化/gitignore.md"
+    },
+    {
+      "basename": "Git 操作规范",
+      "path": "1000-技术/前端/工程化/Git 操作规范.md"
+    },
+    {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
     {
       "basename": "2022-06-28",
       "path": "~日记~/2022-06-28.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
     },
     {
       "basename": "在线实用工具",
@@ -51,10 +59,6 @@
     {
       "basename": "UniApp生命周期.drawio",
       "path": "-附件-/drawio/UniApp生命周期.drawio.svg"
-    },
-    {
-      "basename": "Git 操作规范",
-      "path": "1000-技术/前端/工程化/Git 操作规范.md"
     },
     {
       "basename": "2022-07-13",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-02",
       "path": "~日记~/2022-07-02.md"
-    },
-    {
-      "basename": "把我国建设成为社会主义的现代化强国",
-      "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md"
     }
   ],
   "omittedPaths": [],
