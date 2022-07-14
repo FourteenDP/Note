@@ -32,5 +32,5 @@ date updated: 2022-07-14 15:45:04
 
 - 当一次改动包括主要 type 与特殊 type 时，统一采用主要 type。
 
-### 影响:scop
-- 改动范围
+### 改动范围:scop
+- gai'd
