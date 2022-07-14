@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "Git 规范",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,20 +216,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "active": "47b439fc64502a7c",
   "lastOpenFiles": [
     "9999-信箱/Git 提交规范.md",
     "~日记~/2022-06-28.md",
+    "📚知识博客.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "~日记~/2022-07-13.md",
     "README.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/UniApp/开源组件.md",
-    "9999-信箱/UniApp生命周期.md",
-    "9999-信箱/在线实用工具.md"
+    "9999-信箱/UniApp生命周期.md"
   ]
 }
