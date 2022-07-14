@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Draw.io.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 177
+    "width": 177,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
