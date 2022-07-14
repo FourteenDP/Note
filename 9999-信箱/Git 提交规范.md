@@ -30,5 +30,5 @@ date updated: 2022-07-14 15:36:06
 
 ### 示例
 ```shell
-
+git commit -m 'fix:'
 ```
