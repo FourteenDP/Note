@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "📚知识博客",
       "path": "📚知识博客.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "UniApp生命周期.drawio",
       "path": "-附件-/drawio/UniApp生命周期.drawio.svg"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Git基本操作",

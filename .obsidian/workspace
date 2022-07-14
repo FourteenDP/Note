@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,8 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
+    "README.md",
+    "📚知识博客.md",
     "📅任务管理.md",
     "✨知识社区.md",
     "9999-信箱/在线实用工具.md",
@@ -226,8 +228,6 @@
     "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
     "1000-技术/前端/UniApp/开源组件.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "Draw.io.md",
-    "📚知识博客.md",
-    "README.md"
+    "Draw.io.md"
   ]
 }
