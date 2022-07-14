@@ -3,7 +3,7 @@ title: Git 操作规范
 aliases: 
 tags: 
 date created: 2022-07-14 15:15:47
-date updated: 2022-07-14 15:58:23
+date updated: 2022-07-14 16:01:00
 ---
 
 # Git 操作规范
@@ -32,14 +32,14 @@ date updated: 2022-07-14 15:58:23
 
 - 当一次改动包括主要 type 与特殊 type 时，统一采用主要 type。
 
-### 范围:scop
+### Scop
 
 - 用于描述改动的范围
 - 如果一次性，改动多个模块，分多次提交
 
-### 详情:body
+### Body
+
 - 描述改动的情况以及修改动机
-### 
 
-
-
+### Breadk Changes
+ - 
