@@ -1,12 +1,12 @@
 ---
-title: Git 操作规范
+title: Git 提交规范
 aliases: 
 tags: 
 date created: 2022-07-14 15:15:47
-date updated: 2022-07-14 16:03:38
+date updated: 2022-07-14 16:03:49
 ---
 
-# Git ti规范
+# Git 提交规范
 
 ## 简介
 
@@ -51,3 +51,5 @@ date updated: 2022-07-14 16:03:38
 ### Affect Issues
 
 - 指明是否影响了某个问题
+
+### 分支规范
