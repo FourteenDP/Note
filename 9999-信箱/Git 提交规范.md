@@ -3,7 +3,7 @@ title: Git 操作规范
 aliases: 
 tags: 
 date created: 2022-07-14 15:15:47
-date updated: 2022-07-14 15:32:11
+date updated: 2022-07-14 15:35:45
 ---
 
 # Git 操作规范
@@ -26,4 +26,4 @@ date updated: 2022-07-14 15:32:11
 | revert  | Dev  | 执行 `git revert` 打印的 `message` |
 | test    | Dev  | 添加修改测试用例                   |
 | ci      | Dev  | CI (持续集成服务) 有关的改的       |
-| chore   | Dev  |                                    |
+| chore   | Dev  | 其它，构建流程、以来管理辅助功能等 |
