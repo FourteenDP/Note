@@ -3,7 +3,7 @@ title: Git 操作规范
 aliases: 
 tags: 
 date created: 2022-07-14 15:15:47
-date updated: 2022-07-14 15:31:38
+date updated: 2022-07-14 15:32:11
 ---
 
 # Git 操作规范
@@ -14,13 +14,14 @@ date updated: 2022-07-14 15:31:38
 
 ## `git commit` 提交规范
 
-| 类型    | 类别 | 说明                     |
-| ------- | ---- | ------------------------ |
-| feat    | Prod | 增加新功能               |
-| fix     | Prod | 修复 bug                 |
-| perf    | Prod | 优化性能                 |
-| docs    | Dev  | 文档相关改动             |
-| style   | Dev  | 代码美化格式化           |
-| build   | Dev  | 构造工具或外部依赖的改动 |
-| reactor | Dev  | 代码重构                 |
-| revert  | Dev  | 执行git re                         |
+| 类型    | 类别 | 说明                               |
+| ------- | ---- | ---------------------------------- |
+| feat    | Prod | 增加新功能                         |
+| fix     | Prod | 修复 bug                           |
+| perf    | Prod | 优化性能                           |
+| docs    | Dev  | 文档相关改动                       |
+| style   | Dev  | 代码美化格式化                     |
+| build   | Dev  | 构造工具或外部依赖的改动           |
+| reactor | Dev  | 代码重构                           |
+| revert  | Dev  | 执行 `git revert` 打印的 `message` |
+| test    | Dev  |                                    |
