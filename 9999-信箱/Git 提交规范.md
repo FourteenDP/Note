@@ -17,17 +17,17 @@ date updated: 2022-07-14 15:36:06
 ### 类型:type
 
 | 类型    | 类别 | 说明                               | 等级 |
-| ------- | ---- | ---------------------------------- |
-| feat    | Prod | 增加新功能                         |
-| fix     | Prod | 修复 bug                           |
-| perf    | Prod | 优化性能                           |
-| docs    | Dev  | 文档相关改动                       |
-| style   | Dev  | 代码美化格式化                     |
-| build   | Dev  | 构造工具或外部依赖的改动           |
-| reactor | Dev  | 代码重构                           |
-| revert  | Dev  | 执行 `git revert` 打印的 `message` |
-| test    | Dev  | 添加修改测试用例                   |
-| ci      | Dev  | CI (持续集成服务) 有关的改的       |
-| chore   | Dev  | 其它，构建流程、以来管理辅助功能等 |
+| ------- | ---- | ---------------------------------- | ---- |
+| feat    | Prod | 增加新功能                         |    主要  |
+| fix     | Prod | 修复 bug                           |    主要  |
+| perf    | Prod | 优化性能                           |      |
+| docs    | Dev  | 文档相关改动                       |   特殊   |
+| style   | Dev  | 代码美化格式化                     |  特殊    |
+| build   | Dev  | 构造工具或外部依赖的改动           |  特殊    |
+| reactor | Dev  | 代码重构                           |   特殊   |
+| revert  | Dev  | 执行 `git revert` 打印的 `message` |   特殊   |
+| test    | Dev  | 添加修改测试用例                   |      |
+| ci      | Dev  | CI (持续集成服务) 有关的改的       |      |
+| chore   | Dev  | 其它，构建流程、以来管理辅助功能等 |      |
 - 当一次改动包括主要type与特殊type时，统一采用主要type。
 ### 影响
