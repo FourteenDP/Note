@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "1000-技术/项目/开源项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +220,15 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
+    "1000-技术/项目/开源项目.md",
+    "~日记~/2022-06-28.md",
+    "9999-信箱/Git基本操作.md",
+    "9999-信箱/在线实用工具.md",
+    "1000-技术/语言学习实践/语言学习-游戏.md",
     "README.md",
     "📚知识博客.md",
     "📅任务管理.md",
     "✨知识社区.md",
-    "9999-信箱/在线实用工具.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
-    "1000-技术/前端/UniApp/开源组件.md",
-    "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "Draw.io.md"
+    "1000-技术/前端/UniApp/UniApp生命周期.md"
   ]
 }
