@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Git 操作规范",
-      "path": "1000-技术/前端/工程化/Git 操作规范.md"
+      "basename": "原型链",
+      "path": "1000-技术/前端/JavaScript/原型链.md"
+    },
+    {
+      "basename": "原型链",
+      "path": "-附件-/原型链.png"
+    },
+    {
+      "basename": "CMD终端代理设置环境变量",
+      "path": "-附件-/CMD终端代理设置环境变量.png"
+    },
+    {
+      "basename": "在线实用工具",
+      "path": "9999-信箱/在线实用工具.md"
     },
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "Git 操作规范",
+      "path": "1000-技术/前端/工程化/Git 操作规范.md"
     },
     {
       "basename": "gitignore",
@@ -19,10 +35,6 @@
     {
       "basename": "2022-06-28",
       "path": "~日记~/2022-06-28.md"
-    },
-    {
-      "basename": "在线实用工具",
-      "path": "9999-信箱/在线实用工具.md"
     },
     {
       "basename": "语言学习-游戏",
@@ -157,16 +169,8 @@
       "path": "-附件-/盒子模型.png"
     },
     {
-      "basename": "原型链",
-      "path": "-附件-/原型链.png"
-    },
-    {
       "basename": "中国近代史时间轴图",
       "path": "-附件-/中国近代史时间轴图.png"
-    },
-    {
-      "basename": "CMD终端代理设置环境变量",
-      "path": "-附件-/CMD终端代理设置环境变量.png"
     },
     {
       "basename": "Linux目录结构",
@@ -195,10 +199,6 @@
     {
       "basename": "前端文档",
       "path": "1000-技术/前端/前端文档.md"
-    },
-    {
-      "basename": "2022-07-02",
-      "path": "~日记~/2022-07-02.md"
     }
   ],
   "omittedPaths": [],
