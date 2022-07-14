@@ -9,33 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~日记~/2022-06-28.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d1a8a5d225c2193c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/Git 操作规范.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2eab4a8aeac3ec75",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/在线实用工具.md",
+            "file": "9999-信箱/Git基本操作.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -76,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "实用工具",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -121,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -139,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Git 操作规范.md"
+                "file": "9999-信箱/Git基本操作.md"
               }
             }
           },
@@ -204,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Git 操作规范.md",
+                "file": "9999-信箱/Git基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Git 操作规范.md",
+                "file": "9999-信箱/Git基本操作.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -245,17 +217,17 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "d1a8a5d225c2193c",
+  "active": "c2042ecd3ba44829",
   "lastOpenFiles": [
-    "9999-信箱/Git 操作规范.md",
-    "9999-信箱/在线实用工具.md",
+    "9999-信箱/Git基本操作.md",
     "~日记~/2022-06-28.md",
+    "9999-信箱/在线实用工具.md",
+    "1000-技术/前端/工程化/Git 操作规范.md",
     "📚知识博客.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "~日记~/2022-07-13.md",
     "README.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "1000-技术/项目/开源项目.md",
-    "1000-技术/前端/UniApp/开源组件.md"
+    "1000-技术/项目/开源项目.md"
   ]
 }
