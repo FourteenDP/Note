@@ -3,10 +3,10 @@ title: Git 操作规范
 aliases: 
 tags: 
 date created: 2022-07-14 15:15:47
-date updated: 2022-07-14 16:01:00
+date updated: 2022-07-14 16:03:38
 ---
 
-# Git 操作规范
+# Git ti规范
 
 ## 简介
 
@@ -42,8 +42,12 @@ date updated: 2022-07-14 16:01:00
 - 描述改动的情况以及修改动机
 
 ### Breadk Changes
- - 突破性变更比如： 
+
+ - 突破性变更比如：
    - 版本升级
    - 接口参数修改
    - 迁移
 
+### Affect Issues
+
+- 指明是否影响了某个问题
