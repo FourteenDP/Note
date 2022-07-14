@@ -28,6 +28,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "2eab4a8aeac3ec75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/在线实用工具.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git 提交规范",
+                "query": "实用工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -234,6 +248,7 @@
   "active": "d1a8a5d225c2193c",
   "lastOpenFiles": [
     "9999-信箱/Git 提交规范.md",
+    "9999-信箱/在线实用工具.md",
     "~日记~/2022-06-28.md",
     "📚知识博客.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
@@ -241,7 +256,6 @@
     "README.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "1000-技术/项目/开源项目.md",
-    "1000-技术/前端/UniApp/开源组件.md",
-    "9999-信箱/UniApp生命周期.md"
+    "1000-技术/前端/UniApp/开源组件.md"
   ]
 }
