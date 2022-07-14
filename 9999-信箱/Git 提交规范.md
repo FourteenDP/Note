@@ -14,9 +14,12 @@ date updated: 2022-07-14 15:27:47
 
 ## `git commit` 提交规范
 
-| 类型 | 类别 | 说明       |
-| ---- | ---- | ---------- |
-| feat | Prod | 增加新功能 |
-| fix  | Prod | 修复 bug   |
-| perf | Prod | 优化性能   |
-| docs | Dev  |            |
+| 类型  | 类别 | 说明                     |
+| ----- | ---- | ------------------------ |
+| feat  | Prod | 增加新功能               |
+| fix   | Prod | 修复 bug                 |
+| perf  | Prod | 优化性能                 |
+| docs  | Dev  | 文档相关改动             |
+| style | Dev  | 代码美化格式化           |
+| build | Dev  | 构造工具或外部依赖的改动 |
+|       |      |                          |
