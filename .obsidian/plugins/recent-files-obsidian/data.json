@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "gitignore",
-      "path": "1000-技术/前端/工程化/gitignore.md"
-    },
-    {
       "basename": "Git 操作规范",
       "path": "1000-技术/前端/工程化/Git 操作规范.md"
     },
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "1000-技术/前端/工程化/gitignore.md"
     },
     {
       "basename": "开源项目",
