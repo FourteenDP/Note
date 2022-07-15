@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/语言学习实践/语言学习-游戏.md",
+            "file": "1000-技术/JavaScript/1.1-简单的历史回顾.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/语言学习实践/语言学习-游戏.md"
+                "file": "1000-技术/JavaScript/1.1-简单的历史回顾.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/语言学习实践/语言学习-游戏.md",
+                "file": "1000-技术/JavaScript/1.1-简单的历史回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/语言学习实践/语言学习-游戏.md",
+                "file": "1000-技术/JavaScript/1.1-简单的历史回顾.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
+    "1000-技术/JavaScript/1.1-简单的历史回顾.md",
     "1000-技术/语言学习实践/语言学习-游戏.md",
     "0000-拾肆/想开发的项目.md",
     "0000-拾肆/感兴趣的事物.md",
@@ -227,7 +228,6 @@
     "📅任务管理.md",
     "📚知识博客.md",
     "9999-信箱/怎么画一条0.5px的线.md",
-    "1000-技术/前端/JavaScript/原型链.md",
-    "-附件-/原型链.png"
+    "1000-技术/前端/JavaScript/原型链.md"
   ]
 }
