@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1-script元素",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.1-script元素.md"
+    },
+    {
       "basename": "计算setTimeout和setInterval计时器的误差",
       "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "盒子模型",
       "path": "-附件-/盒子模型.png"
-    },
-    {
-      "basename": "中国近代史时间轴图",
-      "path": "-附件-/中国近代史时间轴图.png"
     }
   ],
   "omittedPaths": [],
