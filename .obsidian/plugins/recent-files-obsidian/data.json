@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "命名规范",
+      "path": "1000-技术/前端/JavaScript/命名规范.md"
+    },
+    {
       "basename": "3.1-语法",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2.4-noscript元素",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
-    },
-    {
-      "basename": "命名规范",
-      "path": "1000-技术/前端/JavaScript/命名规范.md"
     },
     {
       "basename": "浏览器休眠对setTimeout和setInterval的影响",
