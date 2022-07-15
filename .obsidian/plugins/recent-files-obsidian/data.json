@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.2-JavaScirpt的实现",
+      "path": "1000-技术/JavaScript/1.2-JavaScirpt的实现.md"
+    },
+    {
       "basename": "1.1-简单的历史回顾",
       "path": "1000-技术/JavaScript/1.1-简单的历史回顾.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "浏览器跨域",
       "path": "1000-技术/前端/浏览器/浏览器跨域.md"
-    },
-    {
-      "basename": "前端面试题",
-      "path": "1000-技术/前端/其它/前端面试题.md"
     }
   ],
   "omittedPaths": [],
