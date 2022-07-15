@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1-语法",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+    },
+    {
       "basename": "2.4-noscript元素",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "盒子模型",
-      "path": "-附件-/盒子模型.png"
     }
   ],
   "omittedPaths": [],
