@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
+            "file": "9999-信箱/3.2 关键字与保留字.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 232,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+                "file": "9999-信箱/3.2 关键字与保留字.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
+                "file": "9999-信箱/3.2 关键字与保留字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
+                "file": "9999-信箱/3.2 关键字与保留字.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,9 +220,9 @@
   },
   "active": "e2af3efd5b4b5dce",
   "lastOpenFiles": [
+    "9999-信箱/3.2 关键字与保留字.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
     "9999-信箱/未命名 1.md",
-    "9999-信箱/未命名.md",
     "9999-信箱/未命名 7.md",
     "9999-信箱/未命名 6.md",
     "9999-信箱/未命名 5.md",
