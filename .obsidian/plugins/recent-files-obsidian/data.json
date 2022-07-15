@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1-语法",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+    },
+    {
+      "basename": "1.2-JavaScriptr版本",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
+    },
+    {
+      "basename": "1.1-简单的历史回顾",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
+    },
+    {
       "basename": "命名规范",
       "path": "1000-技术/前端/JavaScript/命名规范.md"
     },
     {
-      "basename": "3.1-语法",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
     },
     {
       "basename": "2.4-noscript元素",
@@ -19,14 +31,6 @@
     {
       "basename": "前端三大件兼容性查询",
       "path": "1000-技术/前端/前端三大件兼容性查询.md"
-    },
-    {
-      "basename": "1.2-JavaScriptr版本",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
-    },
-    {
-      "basename": "1.1-简单的历史回顾",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
     },
     {
       "basename": "语言学习-游戏",
@@ -195,10 +199,6 @@
     {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "uniapp-$refs初始化失败",
-      "path": "9999-信箱/uniapp-$refs初始化失败.md"
     }
   ],
   "omittedPaths": [],
