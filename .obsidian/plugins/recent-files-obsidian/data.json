@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+      "basename": "未命名 7",
+      "path": "9999-信箱/未命名 7.md"
+    },
+    {
+      "basename": "未命名 6",
+      "path": "9999-信箱/未命名 6.md"
+    },
+    {
+      "basename": "未命名 5",
+      "path": "9999-信箱/未命名 5.md"
+    },
+    {
+      "basename": "未命名 4",
+      "path": "9999-信箱/未命名 4.md"
+    },
+    {
+      "basename": "未命名 3",
+      "path": "9999-信箱/未命名 3.md"
+    },
+    {
+      "basename": "未命名 2",
+      "path": "9999-信箱/未命名 2.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "9999-信箱/未命名 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "9999-信箱/未命名.md"
     },
     {
       "basename": "命名规范",
       "path": "1000-技术/前端/JavaScript/命名规范.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "1000-技术/前端/JavaScript/数据类型.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
     },
     {
       "basename": "3.1-语法",
@@ -163,42 +199,6 @@
     {
       "basename": "Uniapp全局消息提示及其组件的实现",
       "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
-      "basename": "2022-07-06",
-      "path": "~日记~/2022-07-06.md"
-    },
-    {
-      "basename": "前端开发知识点",
-      "path": "1000-技术/前端/其它/前端开发知识点.md"
-    },
-    {
-      "basename": "前端工具",
-      "path": "1000-技术/前端/其它/前端工具.md"
-    },
-    {
-      "basename": "前端微服务",
-      "path": "1000-技术/前端/其它/前端微服务.md"
-    },
-    {
-      "basename": "代码生成",
-      "path": "1000-技术/前端/其它/代码生成.md"
-    },
-    {
-      "basename": "截图",
-      "path": "1000-技术/前端/其它/截图.md"
-    },
-    {
-      "basename": "前端工作笔记",
-      "path": "1000-技术/前端/其它/前端工作笔记.md"
-    },
-    {
-      "basename": "小程序容器技术",
-      "path": "1000-技术/前端/其它/小程序容器技术.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
     }
   ],
   "omittedPaths": [],
