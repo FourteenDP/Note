@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/未命名.md"
+    },
+    {
       "basename": "3.1-语法",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "uniapp-$refs初始化失败",
       "path": "9999-信箱/uniapp-$refs初始化失败.md"
-    },
-    {
-      "basename": "vue的不同构建版本",
-      "path": "9999-信箱/vue的不同构建版本.md"
     }
   ],
   "omittedPaths": [],
