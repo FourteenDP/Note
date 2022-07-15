@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/浏览器兼容性查询.md",
+            "file": "1000-技术/前端/前端三大件兼容性查询.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/浏览器兼容性查询.md"
+                "file": "1000-技术/前端/前端三大件兼容性查询.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/浏览器兼容性查询.md",
+                "file": "1000-技术/前端/前端三大件兼容性查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/浏览器兼容性查询.md",
+                "file": "1000-技术/前端/前端三大件兼容性查询.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +219,7 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
-    "1000-技术/前端/浏览器兼容性查询.md",
+    "1000-技术/前端/前端三大件兼容性查询.md",
     "1000-技术/JavaScript/1.2-JavaScriptr版本.md",
     "1000-技术/JavaScript/1.1-简单的历史回顾.md",
     "1000-技术/语言学习实践/语言学习-游戏.md",
