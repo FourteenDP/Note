@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "0000-拾肆/想开发的项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 327
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0000-拾肆/想开发的项目.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0000-拾肆/想开发的项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0000-拾肆/想开发的项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,8 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
+    "0000-拾肆/想开发的项目.md",
+    "0000-拾肆/感兴趣的事物.md",
     "README.md",
     "✨知识社区.md",
     "📅任务管理.md",
@@ -226,8 +228,6 @@
     "9999-信箱/怎么画一条0.5px的线.md",
     "1000-技术/前端/JavaScript/原型链.md",
     "-附件-/原型链.png",
-    "-附件-/CMD终端代理设置环境变量.png",
-    "9999-信箱/在线实用工具.md",
-    "9999-信箱/Git基本操作.md"
+    "-附件-/CMD终端代理设置环境变量.png"
   ]
 }
