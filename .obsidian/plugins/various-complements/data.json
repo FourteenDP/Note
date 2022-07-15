@@ -318,6 +318,14 @@
           "lastUpdated": 1657869747263
         }
       }
+    },
+    "ReferenceError": {
+      "ReferenceError": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657873068143
+        }
+      }
     }
   }
 }
