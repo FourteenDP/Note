@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
+            "file": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -232,15 +232,15 @@
   },
   "active": "e2af3efd5b4b5dce",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "9999-信箱/在线实用工具.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
     "9999-信箱/未命名 1.md",
     "9999-信箱/未命名 7.md",
-    "9999-信箱/未命名 6.md",
-    "9999-信箱/未命名 5.md",
-    "9999-信箱/未命名 4.md",
-    "9999-信箱/未命名 3.md"
+    "9999-信箱/未命名 6.md"
   ]
 }
