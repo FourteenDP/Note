@@ -5,6 +5,10 @@
       "path": "9999-信箱/3.2 -关键字与保留字.md"
     },
     {
+      "basename": "在线实用工具",
+      "path": "9999-信箱/在线实用工具.md"
+    },
+    {
       "basename": "3.1-语法",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "CMD终端代理设置环境变量",
       "path": "-附件-/CMD终端代理设置环境变量.png"
-    },
-    {
-      "basename": "在线实用工具",
-      "path": "9999-信箱/在线实用工具.md"
     },
     {
       "basename": "Git基本操作",
