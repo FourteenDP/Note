@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器兼容性查询",
+      "path": "1000-技术/前端/浏览器/浏览器兼容性查询.md"
+    },
+    {
       "basename": "1.2-JavaScriptr版本",
       "path": "1000-技术/JavaScript/1.2-JavaScriptr版本.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linux目录结构",
       "path": "-附件-/Linux目录结构.png"
-    },
-    {
-      "basename": "浏览器跨域",
-      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
     }
   ],
   "omittedPaths": [],
