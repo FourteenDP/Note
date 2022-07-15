@@ -7,8 +7,13 @@
         "id": "7203e3369b18e2af",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +219,7 @@
   },
   "active": "7203e3369b18e2af",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/2.1-script元素.md",
     "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
@@ -218,7 +228,6 @@
     "1000-技术/语言学习实践/语言学习-游戏.md",
     "0000-拾肆/想开发的项目.md",
     "0000-拾肆/感兴趣的事物.md",
-    "README.md",
-    "✨知识社区.md"
+    "README.md"
   ]
 }
