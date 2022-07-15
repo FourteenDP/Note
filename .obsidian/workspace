@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/JavaScript/1.2-JavaScriptr不仅仅是浏览器.md",
+            "file": "1000-技术/JavaScript/1.2-JavaScriptr实现.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/JavaScript/1.2-JavaScriptr不仅仅是浏览器.md"
+                "file": "1000-技术/JavaScript/1.2-JavaScriptr实现.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/JavaScript/1.2-JavaScriptr不仅仅是浏览器.md",
+                "file": "1000-技术/JavaScript/1.2-JavaScriptr实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/JavaScript/1.2-JavaScriptr不仅仅是浏览器.md",
+                "file": "1000-技术/JavaScript/1.2-JavaScriptr实现.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,7 +220,7 @@
   },
   "active": "0c5ababbf5aa5442",
   "lastOpenFiles": [
-    "1000-技术/JavaScript/1.2-JavaScriptr不仅仅是浏览器.md",
+    "1000-技术/JavaScript/1.2-JavaScriptr实现.md",
     "1000-技术/JavaScript/1.1-简单的历史回顾.md",
     "1000-技术/语言学习实践/语言学习-游戏.md",
     "0000-拾肆/想开发的项目.md",
