@@ -334,6 +334,14 @@
           "lastUpdated": 1657874953201
         }
       }
+    },
+    "SyntaxError，必须确保作用域不会重复声明同一个变量": {
+      "SyntaxError，必须确保作用域不会重复声明同一个变量": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657878361502
+        }
+      }
     }
   }
 }
