@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsl",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,14 +221,14 @@
   "active": "f6a01d988a960c0d",
   "lastOpenFiles": [
     "1000-技术/计算机基础/WSL基本命令.md",
+    "1000-技术/计算机基础/Linux目录结构和作用.md",
+    "1000-技术/前端/其它/前端开发知识点.md",
     "9999-信箱/实用工具.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md",
-    "9999-信箱/未命名 1.md",
-    "9999-信箱/未命名 7.md"
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md"
   ]
 }
