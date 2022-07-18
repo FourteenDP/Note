@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a01d988a960c0d",
+        "id": "89fb832e54f8bca1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -216,9 +216,10 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "f6a01d988a960c0d",
+  "active": "89fb832e54f8bca1",
   "lastOpenFiles": [
     "9999-信箱/未命名.md",
+    "9999-信箱/Linux显示操作系统支持的Shell.md",
     "1000-技术/计算机基础/Linux查看操作系统信息.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
@@ -226,7 +227,6 @@
     "9999-信箱/实用工具.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
+    "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
   ]
 }
