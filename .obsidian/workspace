@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux常用命令.md",
+            "file": "9999-信箱/未命名.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md"
+                "file": "9999-信箱/未命名.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md",
+                "file": "9999-信箱/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md",
+                "file": "9999-信箱/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "9999-信箱/未命名.md",
     "1000-技术/计算机基础/Linux常用命令.md",
     "1000-技术/计算机基础/Linux查看操作系统信息.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
@@ -226,7 +227,6 @@
     "1000-技术/前端/其它/前端开发知识点.md",
     "9999-信箱/实用工具.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
+    "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
   ]
 }
