@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linux查看操作系统信息.md",
+            "file": "1000-技术/计算机基础/Linux查看操作系统信息.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linux查看操作系统信息.md"
+                "file": "1000-技术/计算机基础/Linux查看操作系统信息.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linux查看操作系统信息.md",
+                "file": "1000-技术/计算机基础/Linux查看操作系统信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linux查看操作系统信息.md",
+                "file": "1000-技术/计算机基础/Linux查看操作系统信息.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
   },
   "active": "f6a01d988a960c0d",
   "lastOpenFiles": [
-    "9999-信箱/Linux查看操作系统信息.md",
+    "1000-技术/计算机基础/Linux查看操作系统信息.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
     "1000-技术/前端/其它/前端开发知识点.md",
