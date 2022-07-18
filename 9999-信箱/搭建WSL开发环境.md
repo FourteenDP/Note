@@ -1,12 +1,12 @@
 ---
-title: 搭建 WSL 开发环境
+title: 搭建 WSL 开发环境Debian
 aliases: 
 tags: 
 date created: 2022-07-18 21:05:03
-date updated: 2022-07-18 21:10:51
+date updated: 2022-07-18 21:12:15
 ---
 
-# 搭建 WSL 开发环境
+# 搭建 WSL 开发环境 Debian
 
 ## 查看子系统 Wsl 版本
 
@@ -16,4 +16,4 @@ date updated: 2022-07-18 21:10:51
 
 ![[WSL基本命令#将 WSL 版本设置为 1 或 2]]
 
-## 
+## 更换镜像源
