@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linux常用命令.md",
+            "file": "1000-技术/计算机基础/Linux常用命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linux常用命令.md"
+                "file": "1000-技术/计算机基础/Linux常用命令.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux常用命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
-    "9999-信箱/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux常用命令.md",
     "1000-技术/计算机基础/Linux查看操作系统信息.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
     "9999-信箱/Linux显示操作系统支持的Shell.md",
