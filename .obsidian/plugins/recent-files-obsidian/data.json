@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "盒子模型",
+      "path": "-附件-/盒子模型.png"
+    },
+    {
       "basename": "原型链",
       "path": "1000-技术/前端/JavaScript/原型链.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UniApp生命周期",
       "path": "9999-信箱/UniApp生命周期.md"
-    },
-    {
-      "basename": "Vue生命周期",
-      "path": "-附件-/Vue生命周期.png"
     }
   ],
   "omittedPaths": [],
