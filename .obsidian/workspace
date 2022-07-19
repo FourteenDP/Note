@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/浏览器/浏览器跨域.md",
+            "file": "1000-技术/前端/JavaScript/原型链.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md"
+                "file": "1000-技术/前端/JavaScript/原型链.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md",
+                "file": "1000-技术/前端/JavaScript/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/浏览器/浏览器跨域.md",
+                "file": "1000-技术/前端/JavaScript/原型链.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/原型链.md",
     "1000-技术/前端/浏览器/浏览器跨域.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
     "9999-信箱/搭建WSL开发环境.md",
@@ -227,7 +228,6 @@
     "9999-信箱/Git基本操作.md",
     "9999-信箱/image标签图片的白边.md",
     "9999-信箱/inpnt框常见样式修改.md",
-    "9999-信箱/node的process.nextTick.md",
-    "9999-信箱/uni-app $refs初始化失败.md"
+    "9999-信箱/node的process.nextTick.md"
   ]
 }
