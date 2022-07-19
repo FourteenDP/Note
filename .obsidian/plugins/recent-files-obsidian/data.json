@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器跨域",
+      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
+    },
+    {
+      "basename": "浏览器URL限制",
+      "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
+    },
+    {
       "basename": "搭建WSL开发环境",
       "path": "9999-信箱/搭建WSL开发环境.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Vue生命周期",
       "path": "-附件-/Vue生命周期.png"
-    },
-    {
-      "basename": "Pasted image 20220708135633",
-      "path": "-附件-/Pasted image 20220708135633.png"
-    },
-    {
-      "basename": "分析Vue2中的Vue与VueComponent的关系",
-      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
     }
   ],
   "omittedPaths": [],
