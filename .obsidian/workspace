@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md",
+    "1000-技术/前端/JavaScript/箭头函数.md",
+    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md",
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md",
+    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
     "📅任务管理.md",
     "📚知识博客.md",
-    "README.md",
-    "9999-信箱/node的process.nextTick.md",
-    "9999-信箱/uni-app $refs初始化失败.md",
-    "9999-信箱/uniapp-$refs初始化失败.md",
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
-    "9999-信箱/vue的不同构建版本.md",
-    "9999-信箱/Git基本操作.md",
-    "1000-技术/前端/前端文档.md"
+    "README.md"
   ]
 }

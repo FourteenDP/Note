@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3-变量",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
+    },
+    {
+      "basename": "3.2 -关键字与保留字",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md"
+    },
+    {
+      "basename": "箭头函数",
+      "path": "1000-技术/前端/JavaScript/箭头函数.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
+      "basename": "2.4-noscript元素",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
+    },
+    {
+      "basename": "3.1-语法",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
@@ -55,10 +83,6 @@
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
       "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "箭头函数",
-      "path": "1000-技术/前端/JavaScript/箭头函数.md"
     },
     {
       "basename": "浏览器存储",
@@ -125,10 +149,6 @@
       "path": "1000-技术/前端/其它/前端开发知识点.md"
     },
     {
-      "basename": "3.3-变量",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
-    },
-    {
       "basename": "1.1-简单的历史回顾",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
     },
@@ -137,32 +157,12 @@
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
     },
     {
-      "basename": "2.4-noscript元素",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
-    },
-    {
-      "basename": "3.1-语法",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
-    },
-    {
-      "basename": "3.2 -关键字与保留字",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md"
-    },
-    {
       "basename": "命名规范",
       "path": "1000-技术/前端/JavaScript/命名规范.md"
     },
     {
       "basename": "数据类型",
       "path": "1000-技术/前端/JavaScript/数据类型.md"
-    },
-    {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     },
     {
       "basename": "语言学习-游戏",
