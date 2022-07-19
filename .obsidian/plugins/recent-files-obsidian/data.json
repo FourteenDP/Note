@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器存储",
+      "path": "1000-技术/前端/浏览器/浏览器存储.md"
+    },
+    {
+      "basename": "Git 操作规范",
+      "path": "1000-技术/前端/工程化/Git 操作规范.md"
+    },
+    {
       "basename": "盒子模型",
       "path": "-附件-/盒子模型.png"
     },
@@ -161,10 +169,6 @@
       "path": "-附件-/CMD终端代理设置环境变量.png"
     },
     {
-      "basename": "Git 操作规范",
-      "path": "1000-技术/前端/工程化/Git 操作规范.md"
-    },
-    {
       "basename": "gitignore",
       "path": "1000-技术/前端/工程化/gitignore.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-07-13",
       "path": "~日记~/2022-07-13.md"
-    },
-    {
-      "basename": "UniApp生命周期",
-      "path": "9999-信箱/UniApp生命周期.md"
     }
   ],
   "omittedPaths": [],
