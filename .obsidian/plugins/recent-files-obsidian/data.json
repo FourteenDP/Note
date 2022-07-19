@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "📚知识博客",
+      "path": "📚知识博客.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
     },
@@ -165,20 +177,8 @@
       "path": "0000-拾肆/感兴趣的事物.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
-    },
-    {
-      "basename": "📚知识博客",
-      "path": "📚知识博客.md"
     },
     {
       "basename": "原型链",
