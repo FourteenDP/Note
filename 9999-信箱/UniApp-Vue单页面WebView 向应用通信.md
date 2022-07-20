@@ -3,7 +3,7 @@ title: UniApp-WebView 向应用通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-20 14:07:13
+date updated: 2022-07-20 14:08:53
 ---
 
 # UniApp-WebView 向应用通信
@@ -41,4 +41,31 @@ uni.postMessage({
 });
 ```
 
-## U'n
+## UniApp
+
+```html
+<template>
+  <view>
+    <web-view :webview-styles="webviewStyles" src="http://192.168.3.140:8888/" @message="getMessage">
+    </web-view>
+  </view>
+</template>
+<script>
+  export default {
+    data() {
+      return {
+        webviewStyles: {
+          progress: {
+            color: '#FF3333'
+          }
+        }
+      }
+    },
+    methods: {
+      getMessage(e) {
+        console.log(e);
+      }
+    }
+  }
+</script>
+```
