@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/UniApp-WebView 向应用通信.md",
+            "file": "9999-信箱/UniApp-单页面WebView 向应用通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/UniApp-WebView 向应用通信.md"
+                "file": "9999-信箱/UniApp-单页面WebView 向应用通信.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/UniApp-WebView 向应用通信.md",
+                "file": "9999-信箱/UniApp-单页面WebView 向应用通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/UniApp-WebView 向应用通信.md",
+                "file": "9999-信箱/UniApp-单页面WebView 向应用通信.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
-    "9999-信箱/UniApp-WebView 向应用通信.md",
+    "9999-信箱/UniApp-单页面WebView 向应用通信.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "-附件-/Pasted image 20220715105230.png",
