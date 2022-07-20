@@ -3,7 +3,7 @@ title: UniApp-WebView 向应用通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-20 14:02:11
+date updated: 2022-07-20 14:03:20
 ---
 
 # UniApp-WebView 向应用通信
@@ -21,17 +21,11 @@ date updated: 2022-07-20 14:02:11
 ```javascript
 mounted() {
     this.$nextTick(() => { 
-    document.addEventListener("UniAppJSBridgeReady", function () {
-
+ document.addEventListener("UniAppJSBridgeReady",  () => {
         uni.getEnv(function (res) {
-
           console.log("当前环境：" + JSON.stringify(res));
-
         });
-
       });
-
     });
-
   },
 ```
