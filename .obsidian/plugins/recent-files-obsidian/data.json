@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "前端三大件兼容性查询",
+      "path": "1000-技术/前端/前端三大件兼容性查询.md"
+    },
+    {
+      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
+      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+    },
+    {
+      "basename": "Pasted image 20220715105230",
+      "path": "-附件-/Pasted image 20220715105230.png"
+    },
+    {
+      "basename": "Pasted image 20220713154807",
+      "path": "-附件-/Pasted image 20220713154807.png"
+    },
+    {
+      "basename": "Pasted image 20220708135633",
+      "path": "-附件-/Pasted image 20220708135633.png"
+    },
+    {
       "basename": "开源组件",
       "path": "1000-技术/前端/UniApp/开源组件.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "前端文档",
       "path": "1000-技术/前端/前端文档.md"
-    },
-    {
-      "basename": "前端三大件兼容性查询",
-      "path": "1000-技术/前端/前端三大件兼容性查询.md"
     },
     {
       "basename": "3.3-变量",
@@ -129,10 +145,6 @@
       "path": "9999-信箱/inpnt框常见样式修改.md"
     },
     {
-      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
-      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-    },
-    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux常用命令.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "CMD终端代理设置环境变量",
       "path": "-附件-/CMD终端代理设置环境变量.png"
-    },
-    {
-      "basename": "gitignore",
-      "path": "1000-技术/前端/工程化/gitignore.md"
-    },
-    {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
-    },
-    {
-      "basename": "2022-06-28",
-      "path": "~日记~/2022-06-28.md"
     }
   ],
   "omittedPaths": [],

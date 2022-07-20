@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/UniApp/开源组件.md",
+            "file": "1000-技术/前端/前端三大件兼容性查询.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md"
+                "file": "1000-技术/前端/前端三大件兼容性查询.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md",
+                "file": "1000-技术/前端/前端三大件兼容性查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md",
+                "file": "1000-技术/前端/前端三大件兼容性查询.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,20 +214,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/前端/前端三大件兼容性查询.md",
+    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+    "-附件-/Pasted image 20220715105230.png",
+    "-附件-/Pasted image 20220713154807.png",
+    "-附件-/Pasted image 20220708135633.png",
     "1000-技术/前端/UniApp/开源组件.md",
     "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "1000-技术/前端/前端文档.md",
-    "1000-技术/前端/前端三大件兼容性查询.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md",
-    "1000-技术/前端/JavaScript/箭头函数.md",
-    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
+    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
   ]
 }
