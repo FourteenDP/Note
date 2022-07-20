@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "开源组件",
+      "path": "1000-技术/前端/UniApp/开源组件.md"
+    },
+    {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
+      "basename": "前端文档",
+      "path": "1000-技术/前端/前端文档.md"
+    },
+    {
+      "basename": "前端三大件兼容性查询",
+      "path": "1000-技术/前端/前端三大件兼容性查询.md"
+    },
+    {
       "basename": "3.3-变量",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
     },
@@ -63,26 +83,6 @@
     {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
-    },
-    {
-      "basename": "前端三大件兼容性查询",
-      "path": "1000-技术/前端/前端三大件兼容性查询.md"
-    },
-    {
-      "basename": "UniApp生命周期",
-      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
-    },
-    {
-      "basename": "开源组件",
-      "path": "1000-技术/前端/UniApp/开源组件.md"
-    },
-    {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
     },
     {
       "basename": "浏览器存储",
