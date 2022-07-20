@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UniApp-WebView 向应用通信",
+      "path": "9999-信箱/UniApp-WebView 向应用通信.md"
+    },
+    {
       "basename": "前端三大件兼容性查询",
       "path": "1000-技术/前端/前端三大件兼容性查询.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "原型链",
       "path": "-附件-/原型链.png"
-    },
-    {
-      "basename": "CMD终端代理设置环境变量",
-      "path": "-附件-/CMD终端代理设置环境变量.png"
     }
   ],
   "omittedPaths": [],
