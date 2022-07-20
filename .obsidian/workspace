@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/UniApp/开源组件.md",
+            "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蓝牙",
+                "query": "uniapp生命",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 321
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md"
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/UniApp/开源组件.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/前端/UniApp/UniApp生命周期.md",
+    "~日记~/2022-07-13.md",
     "1000-技术/前端/UniApp/开源组件.md",
     "1000-技术/前端/其它/便携蓝牙打印机.md",
-    "9999-信箱/UniApp-Vue单页面WebView 向应用通信.md",
+    "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "-附件-/Pasted image 20220715105230.png",
     "-附件-/Pasted image 20220713154807.png",
-    "-附件-/Pasted image 20220708135633.png",
-    "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md"
+    "-附件-/Pasted image 20220708135633.png"
   ]
 }
