@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "开源组件",
+      "path": "1000-技术/前端/UniApp/开源组件.md"
+    },
+    {
+      "basename": "便携蓝牙打印机",
+      "path": "1000-技术/前端/其它/便携蓝牙打印机.md"
+    },
+    {
       "basename": "UniApp-Vue单页面WebView 向应用通信",
       "path": "9999-信箱/UniApp-Vue单页面WebView 向应用通信.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Pasted image 20220708135633",
       "path": "-附件-/Pasted image 20220708135633.png"
-    },
-    {
-      "basename": "开源组件",
-      "path": "1000-技术/前端/UniApp/开源组件.md"
     },
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
@@ -195,10 +199,6 @@
     {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
-    },
-    {
-      "basename": "原型链",
-      "path": "-附件-/原型链.png"
     }
   ],
   "omittedPaths": [],
