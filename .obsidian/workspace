@@ -7,12 +7,9 @@
         "id": "ad2286b128df90fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "2000-高效/写作/如何编写好的技术文档.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
           }
         }
       }
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000-高效/写作/如何编写好的技术文档.md"
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
               }
             }
           },
@@ -176,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2000-高效/写作/如何编写好的技术文档.md",
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2000-高效/写作/如何编写好的技术文档.md",
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +215,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "1000-技术/前端/UniApp/UniApp开源组件.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
@@ -225,7 +223,6 @@
     "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
-    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "-附件-/Pasted image 20220715105230.png",
     "-附件-/Pasted image 20220713154807.png"
   ]
