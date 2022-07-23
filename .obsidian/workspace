@@ -7,9 +7,12 @@
         "id": "ad2286b128df90fc",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+            "file": "1000-技术/项目/开源项目.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -47,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -173,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,6 +219,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/项目/开源项目.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "1000-技术/前端/UniApp/UniApp开源组件.md",
@@ -223,7 +228,6 @@
     "1000-技术/前端/其它/便携蓝牙打印机.md",
     "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
-    "-附件-/Pasted image 20220715105230.png",
-    "-附件-/Pasted image 20220713154807.png"
+    "-附件-/Pasted image 20220715105230.png"
   ]
 }
