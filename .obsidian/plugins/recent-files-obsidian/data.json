@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "开源项目",
+      "path": "1000-技术/项目/开源项目.md"
+    },
+    {
       "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
       "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "语言学习-游戏",
       "path": "1000-技术/语言学习实践/语言学习-游戏.md"
-    },
-    {
-      "basename": "想开发的项目",
-      "path": "0000-拾肆/想开发的项目.md"
     }
   ],
   "omittedPaths": [],
