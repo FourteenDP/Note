@@ -1,13 +1,14 @@
 ---
-title: UniApp-WebView 向应用通信
+title: UniApp和WebView 双向通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-20 14:09:20
+date updated: 2022-07-25 09:13:10
 ---
 
-# UniApp-WebView 向应用通信
+# UniApp 和 WebView 双向通信
 
+## WebViewx
 ## Vue
 
 - `index.html`
