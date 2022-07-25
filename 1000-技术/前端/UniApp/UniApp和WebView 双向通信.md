@@ -3,7 +3,7 @@ title: UniApp 和 WebView 双向通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-25 09:14:14
+date updated: 2022-07-25 09:15:28
 ---
 
 # UniApp 和 WebView 双向通信
@@ -12,7 +12,7 @@ date updated: 2022-07-25 09:14:14
 
 ### Vue
 
-- `index.html`
+- `index.html` 网页中导入 UniApp-Sdk
 
 ```html
 <script type="text/javascript" src="https://js.cdn.aliyun.dcloud.net.cn/dev/uni-app/uni.webview.1.5.2.js"></script>
@@ -72,4 +72,4 @@ uni.postMessage({
 </script>
 ```
 
-## 
+## UniApp 向 WebView
