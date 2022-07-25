@@ -3,7 +3,7 @@ title: UniApp 和 WebView 双向通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-25 09:15:31
+date updated: 2022-07-25 09:19:06
 ---
 
 # UniApp 和 WebView 双向通信
