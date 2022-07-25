@@ -5,6 +5,14 @@
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     },
     {
+      "basename": "APP混合开发",
+      "path": "1000-技术/前端/其它/APP混合开发.md"
+    },
+    {
+      "basename": "前端工作笔记",
+      "path": "1000-技术/前端/其它/前端工作笔记.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "命名规范",
       "path": "1000-技术/前端/JavaScript/命名规范.md"
-    },
-    {
-      "basename": "数据类型",
-      "path": "1000-技术/前端/JavaScript/数据类型.md"
-    },
-    {
-      "basename": "语言学习-游戏",
-      "path": "1000-技术/语言学习实践/语言学习-游戏.md"
     }
   ],
   "omittedPaths": [],
