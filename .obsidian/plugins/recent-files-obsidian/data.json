@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "辞职通知-邓某某-范文",
+      "path": "0000-拾肆/辞职通知-邓某某-范文.md"
+    },
+    {
       "basename": "UniApp和WebView 双向通信",
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "浏览器休眠对setTimeout和setInterval的影响",
       "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
-    },
-    {
-      "basename": "📅任务管理",
-      "path": "📅任务管理.md"
     },
     {
       "basename": "📚知识博客",
@@ -195,10 +199,6 @@
     {
       "basename": "1.2-JavaScriptr版本",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
-    },
-    {
-      "basename": "命名规范",
-      "path": "1000-技术/前端/JavaScript/命名规范.md"
     }
   ],
   "omittedPaths": [],
