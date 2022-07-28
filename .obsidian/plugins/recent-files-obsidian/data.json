@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "开源项目",
+      "path": "1000-技术/项目/开源项目.md"
+    },
+    {
       "basename": "搭建WSL开发环境",
       "path": "9999-信箱/搭建WSL开发环境.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "gitignore",
       "path": "1000-技术/前端/工程化/gitignore.md"
-    },
-    {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
     },
     {
       "basename": "2022-06-28",
