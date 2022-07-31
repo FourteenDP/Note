@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/WSL基本命令.md",
+            "file": "9999-信箱/搭建WSL开发环境.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file wsl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md"
+                "file": "9999-信箱/搭建WSL开发环境.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,10 +216,10 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "8ed20c26f553db13",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
-    "9999-信箱/搭建WSL开发环境.md",
     "1000-技术/计算机基础/WSL基本命令.md",
+    "9999-信箱/搭建WSL开发环境.md",
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/uni-app $refs初始化失败.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
