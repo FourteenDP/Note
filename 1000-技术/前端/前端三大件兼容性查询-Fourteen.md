@@ -1,0 +1,13 @@
+---
+title: 浏览器兼容性查询
+aliases: 
+tags: 
+date created: 2022-07-15 11:36:25
+date updated: 2022-07-15 11:43:49
+---
+
+# 浏览器兼容性查询
+
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- [Mobile HTML5 compatibility on iPhone, Android, Windows Phone, BlackBerry, Firefox OS and other mobile devices](http://mobilehtml5.org/)

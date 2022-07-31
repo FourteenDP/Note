@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "搭建WSL开发环境",
+      "path": "9999-信箱/搭建WSL开发环境.md"
+    },
+    {
+      "basename": "WSL基本命令",
+      "path": "1000-技术/计算机基础/WSL基本命令.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "uniapp-$refs初始化失败",
+      "path": "9999-信箱/uniapp-$refs初始化失败.md"
+    },
+    {
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
+      "basename": "开源项目",
+      "path": "1000-技术/项目/开源项目.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "前端ui组件库",
+      "path": "9999-信箱/前端ui组件库.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux目录结构和作用.md"
+    },
+    {
+      "basename": "前端开发知识点",
+      "path": "1000-技术/前端/其它/前端开发知识点.md"
+    },
+    {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
+      "basename": "3.3-变量",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
+    },
+    {
+      "basename": "1.1-简单的历史回顾",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
+    },
+    {
+      "basename": "1.2-JavaScriptr版本",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/1.2-JavaScriptr版本.md"
+    },
+    {
+      "basename": "2.4-noscript元素",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
+    },
+    {
+      "basename": "3.1-语法",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
+    },
+    {
+      "basename": "3.2 -关键字与保留字",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md"
+    },
+    {
+      "basename": "命名规范",
+      "path": "1000-技术/前端/JavaScript/命名规范.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "1000-技术/前端/JavaScript/数据类型.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
+      "basename": "前端三大件兼容性查询",
+      "path": "1000-技术/前端/前端三大件兼容性查询.md"
+    },
+    {
+      "basename": "语言学习-游戏",
+      "path": "1000-技术/语言学习实践/语言学习-游戏.md"
+    },
+    {
+      "basename": "想开发的项目",
+      "path": "0000-拾肆/想开发的项目.md"
+    },
+    {
+      "basename": "感兴趣的事物",
+      "path": "0000-拾肆/感兴趣的事物.md"
+    },
+    {
+      "basename": "✨知识社区",
+      "path": "✨知识社区.md"
+    },
+    {
+      "basename": "📅任务管理",
+      "path": "📅任务管理.md"
+    },
+    {
+      "basename": "📚知识博客",
+      "path": "📚知识博客.md"
+    },
+    {
+      "basename": "怎么画一条0.5px的线",
+      "path": "9999-信箱/怎么画一条0.5px的线.md"
+    },
+    {
+      "basename": "原型链",
+      "path": "1000-技术/前端/JavaScript/原型链.md"
+    },
+    {
+      "basename": "原型链",
+      "path": "-附件-/原型链.png"
+    },
+    {
+      "basename": "CMD终端代理设置环境变量",
+      "path": "-附件-/CMD终端代理设置环境变量.png"
+    },
+    {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "Git 操作规范",
+      "path": "1000-技术/前端/工程化/Git 操作规范.md"
+    },
+    {
+      "basename": "gitignore",
+      "path": "1000-技术/前端/工程化/gitignore.md"
+    },
+    {
+      "basename": "2022-06-28",
+      "path": "~日记~/2022-06-28.md"
+    },
+    {
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
+      "basename": "通过Vue-cli创建UniApp-Vue2项目",
+      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
+    },
+    {
+      "basename": "UniApp生命周期.drawio",
+      "path": "-附件-/drawio/UniApp生命周期.drawio.svg"
+    },
+    {
+      "basename": "2022-07-13",
+      "path": "~日记~/2022-07-13.md"
+    },
+    {
+      "basename": "UniApp生命周期",
+      "path": "9999-信箱/UniApp生命周期.md"
+    },
+    {
+      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
+      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+    },
+    {
+      "basename": "Vue生命周期",
+      "path": "-附件-/Vue生命周期.png"
+    },
+    {
+      "basename": "Pasted image 20220708135633",
+      "path": "-附件-/Pasted image 20220708135633.png"
+    },
+    {
+      "basename": "分析Vue2中的Vue与VueComponent的关系",
+      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    },
+    {
+      "basename": "Vue2生命周期",
+      "path": "1000-技术/前端/Vue/Vue2/Vue2生命周期.md"
+    },
+    {
+      "basename": "inpnt框常见样式修改",
+      "path": "9999-信箱/inpnt框常见样式修改.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
