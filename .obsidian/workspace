@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/uni-app $refs初始化失败.md",
+            "file": "9999-信箱/node的process.nextTick.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/uni-app $refs初始化失败.md"
+                "file": "9999-信箱/node的process.nextTick.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/uni-app $refs初始化失败.md",
+                "file": "9999-信箱/node的process.nextTick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/uni-app $refs初始化失败.md",
+                "file": "9999-信箱/node的process.nextTick.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "fb4ddcb66ae0d70f",
   "lastOpenFiles": [
+    "9999-信箱/uni-app $refs初始化失败.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
     "9999-信箱/vue的不同构建版本.md",
     "1000-技术/项目/开源项目.md",
@@ -226,7 +227,6 @@
     "README.md",
     "9999-信箱/搭建WSL开发环境.md",
     "1000-技术/计算机基础/Linux常用命令.md",
-    "1000-技术/计算机基础/Linux查看操作系统信息.md",
-    "1000-技术/计算机基础/Linux目录结构和作用.md"
+    "1000-技术/计算机基础/Linux查看操作系统信息.md"
   ]
 }

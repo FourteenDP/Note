@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "inpnt框常见样式修改",
       "path": "9999-信箱/inpnt框常见样式修改.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
     }
   ],
   "omittedPaths": [],
