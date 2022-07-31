@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2286b128df90fc",
+        "id": "fb4ddcb66ae0d70f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+            "file": "9999-信箱/搭建WSL开发环境.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniapp生命",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -95,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 232
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md"
+                "file": "9999-信箱/搭建WSL开发环境.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +216,17 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "ad2286b128df90fc",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "~日记~/2022-07-13.md",
-    "1000-技术/前端/UniApp/开源组件.md",
-    "1000-技术/前端/其它/便携蓝牙打印机.md",
-    "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
-    "1000-技术/前端/前端三大件兼容性查询.md",
-    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
-    "-附件-/Pasted image 20220715105230.png",
-    "-附件-/Pasted image 20220713154807.png",
-    "-附件-/Pasted image 20220708135633.png"
+    "1000-技术/计算机基础/WSL基本命令.md",
+    "9999-信箱/搭建WSL开发环境.md",
+    "9999-信箱/node的process.nextTick.md",
+    "9999-信箱/uni-app $refs初始化失败.md",
+    "9999-信箱/uniapp-$refs初始化失败.md",
+    "9999-信箱/vue的不同构建版本.md",
+    "1000-技术/项目/开源项目.md",
+    "conflict-files-obsidian-git.md",
+    "9999-信箱/前端ui组件库.md",
+    "README.md"
   ]
 }
