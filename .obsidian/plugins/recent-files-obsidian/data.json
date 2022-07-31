@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL基本命令",
+      "path": "1000-技术/计算机基础/WSL基本命令.md"
+    },
+    {
+      "basename": "搭建WSL开发环境",
+      "path": "9999-信箱/搭建WSL开发环境.md"
+    },
+    {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
     },
@@ -33,20 +41,12 @@
       "path": "README.md"
     },
     {
-      "basename": "搭建WSL开发环境",
-      "path": "9999-信箱/搭建WSL开发环境.md"
-    },
-    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux常用命令.md"
     },
     {
       "basename": "Linux目录结构和作用",
       "path": "1000-技术/计算机基础/Linux目录结构和作用.md"
-    },
-    {
-      "basename": "WSL基本命令",
-      "path": "1000-技术/计算机基础/WSL基本命令.md"
     },
     {
       "basename": "前端开发知识点",
