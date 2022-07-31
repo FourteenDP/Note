@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78163dea51113ce4",
+        "id": "fb4ddcb66ae0d70f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/项目/开源项目.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/项目/开源项目.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +207,7 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "78163dea51113ce4",
+  "active": "fb4ddcb66ae0d70f",
   "lastOpenFiles": [
     "1000-技术/项目/开源项目.md",
     "conflict-files-obsidian-git.md",
