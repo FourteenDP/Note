@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+            "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "ad2286b128df90fc",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
@@ -227,7 +228,6 @@
     "📅任务管理.md",
     "0000-拾肆/辞职通知-邓某某-范文.md",
     "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
-    "1000-技术/前端/其它/APP混合开发.md",
-    "1000-技术/前端/其它/前端工作笔记.md"
+    "1000-技术/前端/其它/APP混合开发.md"
   ]
 }
