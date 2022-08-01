@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/搭建WSL开发环境.md",
+            "file": "✨知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/搭建WSL开发环境.md"
+                "file": "✨知识社区.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/搭建WSL开发环境.md",
+                "file": "✨知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/搭建WSL开发环境.md",
+                "file": "✨知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +216,17 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "877abaaccc8c97ae",
+  "active": "fb4ddcb66ae0d70f",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/WSL基本命令.md",
+    "📚知识博客.md",
+    "✨知识社区.md",
     "9999-信箱/搭建WSL开发环境.md",
+    "1000-技术/计算机基础/WSL基本命令.md",
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/uni-app $refs初始化失败.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
     "9999-信箱/vue的不同构建版本.md",
     "1000-技术/项目/开源项目.md",
-    "conflict-files-obsidian-git.md",
-    "9999-信箱/前端ui组件库.md",
-    "README.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
