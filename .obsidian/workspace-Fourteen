@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2286b128df90fc",
+        "id": "fb4ddcb66ae0d70f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "24104cac616bc68d",
-        "type": "leaf",
-        "state": {
-          "type": "diff-view",
-          "state": {
-            "file": "1000-技术/前端/前端三大件兼容性查询-Fourteen.md",
-            "staged": true
-          }
-        }
-      },
-      {
-        "id": "4ff2ef23387de213",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "9999-信箱/搭建WSL开发环境.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 63.152804642166345,
+        "dimension": 63.53965183752418,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -99,13 +75,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 36.847195357833655,
+        "dimension": 36.46034816247582,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -119,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 232
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "9999-信箱/搭建WSL开发环境.md"
               }
             }
           },
@@ -201,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,17 +216,17 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "4ff2ef23387de213",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
-    "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
+    "1000-技术/计算机基础/WSL基本命令.md",
+    "9999-信箱/搭建WSL开发环境.md",
+    "9999-信箱/node的process.nextTick.md",
+    "9999-信箱/uni-app $refs初始化失败.md",
+    "9999-信箱/uniapp-$refs初始化失败.md",
+    "9999-信箱/vue的不同构建版本.md",
     "1000-技术/项目/开源项目.md",
-    "9999-信箱/Flutter开源项目.md",
-    "📅任务管理.md",
-    "0000-拾肆/辞职通知-邓某某-范文.md",
-    "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
+    "conflict-files-obsidian-git.md",
+    "9999-信箱/前端ui组件库.md",
+    "README.md"
   ]
 }
