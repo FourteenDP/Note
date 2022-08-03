@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✨知识社区.md",
+            "file": "unlinked files output.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨知识社区.md"
+                "file": "unlinked files output.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨知识社区.md",
+                "file": "unlinked files output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨知识社区.md",
+                "file": "unlinked files output.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +218,7 @@
   },
   "active": "fb4ddcb66ae0d70f",
   "lastOpenFiles": [
+    "unlinked files output.md",
     "✨知识社区.md",
     "📚知识博客.md",
     "9999-信箱/搭建WSL开发环境.md",
@@ -227,7 +227,6 @@
     "9999-信箱/uni-app $refs初始化失败.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
     "9999-信箱/vue的不同构建版本.md",
-    "1000-技术/项目/开源项目.md",
-    "conflict-files-obsidian-git.md"
+    "1000-技术/项目/开源项目.md"
   ]
 }
