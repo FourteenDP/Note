@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "d9fd3299aeaf7adf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,14 +230,14 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "ad2286b128df90fc",
+  "active": "d9fd3299aeaf7adf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量-Fourteen.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "1000-技术/前端/前端三大件兼容性查询-Fourteen.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
-    "conflict-files-obsidian-git.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "1000-技术/项目/开源项目.md",
