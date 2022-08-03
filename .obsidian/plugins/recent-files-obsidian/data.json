@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 操作规范",
+      "path": "1000-技术/前端/工程化/Git 操作规范.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "Uniapp全局消息提示及其组件的实现",
       "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
-      "basename": "vue的不同构建版本",
-      "path": "9999-信箱/vue的不同构建版本.md"
     },
     {
       "basename": "✨知识社区",
@@ -149,24 +161,12 @@
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
     },
     {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
-    },
-    {
       "basename": "📚知识博客",
       "path": "📚知识博客.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "浏览器存储",
       "path": "1000-技术/前端/浏览器/浏览器存储.md"
-    },
-    {
-      "basename": "Git 操作规范",
-      "path": "1000-技术/前端/工程化/Git 操作规范.md"
     },
     {
       "basename": "盒子模型",
