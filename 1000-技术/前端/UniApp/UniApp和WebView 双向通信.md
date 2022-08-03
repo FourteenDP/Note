@@ -3,7 +3,7 @@ title: UniApp 和 WebView 双向通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-08-03 14:02:29
+date updated: 2022-08-03 14:04:48
 ---
 
 # UniApp 和 WebView 双向通信
@@ -89,5 +89,13 @@ wv.evalJS("getUniAppMessage(" + params + ")");
 ## Vue
 
 ```javascript
-
+export default {
+  mounted() {
+    window.getUniAppMessage = (e) => {
+      if (e.function) {
+        this[e.function](e.data);
+      }
+    };
+  },
+}
 ```
