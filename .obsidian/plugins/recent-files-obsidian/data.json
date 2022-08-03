@@ -5,6 +5,10 @@
       "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
     },
     {
+      "basename": "如何编写好的技术文档",
+      "path": "2000-高效/写作/如何编写好的技术文档.md"
+    },
+    {
       "basename": "怎么画一条0.5px的线",
       "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
       "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-    },
-    {
-      "basename": "如何编写好的技术文档",
-      "path": "2000-高效/写作/如何编写好的技术文档.md"
     },
     {
       "basename": "UniApp开源组件",
