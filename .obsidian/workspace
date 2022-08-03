@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/开源ERP系统.md",
+            "file": "📚知识博客.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/开源ERP系统.md"
+                "file": "📚知识博客.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/开源ERP系统.md",
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/开源ERP系统.md",
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,15 +219,15 @@
   },
   "active": "fc7c3b5ffce16106",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "9999-信箱/开源ERP系统.md",
     "📚知识博客.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "conflict-files-obsidian-git.md",
     "1000-技术/计算机基础/Linux常用命令.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "1000-技术/环境配置/Windows终端设置代理.md",
-    "📅任务管理.md",
     "9999-信箱/uni-app $refs初始化失败.md",
-    "9999-信箱/uniapp-$refs初始化失败.md",
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    "9999-信箱/uniapp-$refs初始化失败.md"
   ]
 }
