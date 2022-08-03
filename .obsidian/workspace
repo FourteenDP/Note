@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4ddcb66ae0d70f",
+        "id": "ba2cbd9a977e8c50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unlinked files output.md",
+            "file": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ccb8847927ec0ff4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uniapp 通信",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unlinked files output.md"
+                "file": "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md"
               }
             }
           },
@@ -176,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +230,17 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "fb4ddcb66ae0d70f",
+  "active": "ccb8847927ec0ff4",
   "lastOpenFiles": [
-    "unlinked files output.md",
-    "✨知识社区.md",
-    "📚知识博客.md",
-    "9999-信箱/搭建WSL开发环境.md",
-    "1000-技术/计算机基础/WSL基本命令.md",
+    "1000-技术/前端/UniApp/UniApp-Vue单页面WebView 向应用通信.md",
+    "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
+    "9999-信箱/实用工具.md",
+    "9999-信箱/Flutter开源项目.md",
+    "9999-信箱/Git基本操作.md",
+    "9999-信箱/inpnt框常见样式修改.md",
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/uni-app $refs初始化失败.md",
-    "9999-信箱/uniapp-$refs初始化失败.md",
-    "9999-信箱/vue的不同构建版本.md",
-    "1000-技术/项目/开源项目.md"
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
+    "9999-信箱/vue的不同构建版本.md"
   ]
 }
