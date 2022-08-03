@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "前端三大件兼容性查询-Fourteen",
-      "path": "1000-技术/前端/前端三大件兼容性查询-Fourteen.md"
+      "basename": "Vue路由Keep-alive实现原理",
+      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
+    },
+    {
+      "basename": "3.3-变量",
+      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
     },
     {
       "basename": "前端三大件兼容性查询",
       "path": "1000-技术/前端/前端三大件兼容性查询.md"
     },
     {
-      "basename": "Vue路由Keep-alive实现原理",
-      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
-    },
-    {
       "basename": "Vue生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
-    },
-    {
-      "basename": "3.3-变量",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
     },
     {
       "basename": "UniApp生命周期",
@@ -195,10 +191,6 @@
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux目录结构和作用",
-      "path": "1000-技术/计算机基础/Linux目录结构和作用.md"
     }
   ],
   "omittedPaths": [],
