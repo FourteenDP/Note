@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/WSL基本命令.md",
+            "file": "📚知识博客.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "路线",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md"
+                "file": "📚知识博客.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md",
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/WSL基本命令.md",
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,8 +220,8 @@
   },
   "active": "fc7c3b5ffce16106",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1000-技术/计算机基础/WSL基本命令.md",
+    "conflict-files-obsidian-git.md",
     "1000-技术/计算机基础/Linux常用命令.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "1000-技术/环境配置/Windows终端设置代理.md",
