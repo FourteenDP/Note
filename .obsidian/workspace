@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚知识博客.md",
+            "file": "✨知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚知识博客.md"
+                "file": "✨知识社区.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "✨知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "✨知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,8 +220,8 @@
   "active": "fc7c3b5ffce16106",
   "lastOpenFiles": [
     "📅任务管理.md",
-    "9999-信箱/开源ERP系统.md",
     "📚知识博客.md",
+    "9999-信箱/开源ERP系统.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "conflict-files-obsidian-git.md",
     "1000-技术/计算机基础/Linux常用命令.md",
