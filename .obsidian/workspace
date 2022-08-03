@@ -217,10 +217,10 @@
     "direction": "horizontal",
     "width": 243
   },
-  "active": "46165ddb1970e70d",
+  "active": "fb4ddcb66ae0d70f",
   "lastOpenFiles": [
-    "📚知识博客.md",
     "✨知识社区.md",
+    "📚知识博客.md",
     "9999-信箱/搭建WSL开发环境.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "9999-信箱/node的process.nextTick.md",
