@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4ddcb66ae0d70f",
+        "id": "fc7c3b5ffce16106",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✨知识社区.md",
+            "file": "1000-技术/计算机基础/WSL基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨知识社区.md"
+                "file": "1000-技术/计算机基础/WSL基本命令.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨知识社区.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨知识社区.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,19 +215,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "active": "46165ddb1970e70d",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux常用命令.md",
+    "1000-技术/计算机基础/计算机有那些基础.md",
+    "1000-技术/环境配置/Windows终端设置代理.md",
     "📚知识博客.md",
-    "✨知识社区.md",
-    "9999-信箱/搭建WSL开发环境.md",
-    "1000-技术/计算机基础/WSL基本命令.md",
-    "9999-信箱/node的process.nextTick.md",
+    "📅任务管理.md",
     "9999-信箱/uni-app $refs初始化失败.md",
     "9999-信箱/uniapp-$refs初始化失败.md",
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
     "9999-信箱/vue的不同构建版本.md",
-    "1000-技术/项目/开源项目.md",
-    "conflict-files-obsidian-git.md"
+    "✨知识社区.md"
   ]
 }
