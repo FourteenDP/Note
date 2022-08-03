@@ -10,6 +10,19 @@
           "type": "memos_view",
           "state": {}
         }
+      },
+      {
+        "id": "b8e9ed04483d9ed9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "~日记~/2022-06-20.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "~日记~/2022-06-20.md"
+              }
             }
           },
           {
@@ -168,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~日记~/2022-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "~日记~/2022-06-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,8 +224,9 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "0e51dca4f08744b2",
+  "active": "b8e9ed04483d9ed9",
   "lastOpenFiles": [
+    "~日记~/2022-06-20.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "9999-信箱/怎么画一条0.5px的线.md",
@@ -217,7 +235,6 @@
     "~日记~/2022-06-28.md",
     "~日记~/2022-06-27.md",
     "~日记~/2022-06-23.md",
-    "~日记~/2022-07-06.md",
-    "~日记~/2022-07-13.md"
+    "~日记~/2022-07-06.md"
   ]
 }
