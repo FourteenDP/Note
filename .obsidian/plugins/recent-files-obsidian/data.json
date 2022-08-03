@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
       "basename": "UniApp和WebView 双向通信",
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
     {
       "basename": "Uniapp全局消息提示及其组件的实现",
@@ -159,10 +159,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "uniapp-$refs初始化失败",
-      "path": "9999-信箱/uniapp-$refs初始化失败.md"
     },
     {
       "basename": "浏览器存储",
