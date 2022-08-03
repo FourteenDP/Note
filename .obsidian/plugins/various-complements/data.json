@@ -43,46 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "索引": {
-      "索引": {
-        "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1656752944458
-        }
-      }
-    },
-    "等上的方法和数据。": {
-      "等上的方法和数据。": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1656296608449
-        }
-      }
-    },
-    "日记": {
-      "日记": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1656752946172
-        }
-      }
-    },
-    "马原": {
-      "马原": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1656752947774
-        }
-      }
-    },
-    "line2": {
-      "line2": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1656814379162
-        }
-      }
-    },
     "创建UniApp": {
       "创建UniApp": {
         "currentFile": {
@@ -270,8 +230,8 @@
     "UniApp生命周期": {
       "UniApp生命周期": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1658297279474
+          "count": 2,
+          "lastUpdated": 1659506460022
         }
       }
     },
@@ -280,6 +240,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1658711686434
+        }
+      }
+    },
+    "Vue3组件库": {
+      "Vue3组件库": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659506496447
         }
       }
     }

@@ -3,7 +3,7 @@ title: UniApp 和 WebView 双向通信
 aliases: 
 tags: 
 date created: 2022-07-20 13:58:09
-date updated: 2022-07-25 11:02:26
+date updated: 2022-08-03 14:01:19
 ---
 
 # UniApp 和 WebView 双向通信
@@ -74,3 +74,18 @@ uni.postMessage({
 
 ## UniApp 向 WebView
 
+## UniApp
+
+```javascript
+let currentWebview = _this.$scope.$getAppWebview();
+            let wv = currentWebview.children()[0];
+            let params = JSON.stringify({
+              function: "handleLabelScanCode",
+              data,
+            });
+            wv.evalJS("getUniAppMessage(" + params + ")");
+```
+
+## Web 
+```javascript
+```
