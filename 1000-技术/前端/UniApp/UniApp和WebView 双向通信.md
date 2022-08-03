@@ -86,7 +86,7 @@ let params = JSON.stringify({
 wv.evalJS("getUniAppMessage(" + params + ")");
 ```
 
-## Web
+## Vue
 
 ```javascript
 
