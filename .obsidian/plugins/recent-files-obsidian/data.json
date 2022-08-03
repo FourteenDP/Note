@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器URL限制",
+      "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
+    },
+    {
       "basename": "怎么画一条0.5px的线",
       "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "原型链",
       "path": "1000-技术/前端/JavaScript/原型链.md"
-    },
-    {
-      "basename": "浏览器跨域",
-      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
     }
   ],
   "omittedPaths": [],
