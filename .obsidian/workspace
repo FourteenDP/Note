@@ -7,9 +7,12 @@
         "id": "0e51dca4f08744b2",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+            "file": "1000-技术/前端/浏览器/浏览器URL限制.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -109,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+                "file": "1000-技术/前端/浏览器/浏览器URL限制.md"
               }
             }
           },
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+                "file": "1000-技术/前端/浏览器/浏览器URL限制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
+                "file": "1000-技术/前端/浏览器/浏览器URL限制.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,15 +218,15 @@
   },
   "active": "0e51dca4f08744b2",
   "lastOpenFiles": [
+    "1000-技术/前端/浏览器/浏览器URL限制.md",
+    "conflict-files-obsidian-git.md",
+    "1000-技术/前端/浏览器/浏览器跨域.md",
+    "1000-技术/前端/浏览器/浏览器存储.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "✨知识社区.md",
     "~日记~/2022-06-20.md",
-    "1000-技术/前端/浏览器/浏览器URL限制.md",
     "2000-高效/写作/如何编写好的技术文档.md",
     "9999-信箱/怎么画一条0.5px的线.md",
-    "📚知识博客.md",
-    "📅任务管理.md",
-    "~日记~/2022-06-28.md",
-    "~日记~/2022-06-27.md"
+    "📚知识博客.md"
   ]
 }
