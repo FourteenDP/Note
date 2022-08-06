@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/未命名.md",
+            "file": "9999-信箱/其它.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/未命名.md"
+                "file": "9999-信箱/其它.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/未命名.md",
+                "file": "9999-信箱/其它.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/未命名.md",
+                "file": "9999-信箱/其它.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
   },
   "active": "0e51dca4f08744b2",
   "lastOpenFiles": [
-    "9999-信箱/未命名.md",
+    "9999-信箱/其它.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
     "1000-技术/前端/浏览器/浏览器跨域.md",
     "1000-技术/前端/浏览器/浏览器存储.md",
