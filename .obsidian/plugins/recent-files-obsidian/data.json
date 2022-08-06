@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
+      "basename": "开源项目",
+      "path": "1000-技术/项目/开源项目.md"
+    },
+    {
       "basename": "其它",
       "path": "9999-信箱/其它.md"
+    },
+    {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
     },
     {
       "basename": "浏览器URL限制",
@@ -89,14 +101,6 @@
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     },
     {
-      "basename": "实用工具",
-      "path": "9999-信箱/实用工具.md"
-    },
-    {
-      "basename": "Flutter开源项目",
-      "path": "9999-信箱/Flutter开源项目.md"
-    },
-    {
       "basename": "Git基本操作",
       "path": "9999-信箱/Git基本操作.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "UniApp生命周期",
       "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
-    },
-    {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
     },
     {
       "basename": "辞职通知-邓某某-范文",
