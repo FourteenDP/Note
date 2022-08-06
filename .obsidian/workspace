@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Flutter开源项目.md",
+            "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kraken",
+                "query": "视频",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md"
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
+    "1000-技术/前端/其它/前端开发知识点.md",
+    "1000-技术/前端/其它/前端工作笔记.md",
+    "3000-自考/资料/KM02-马克思主义基本原理概论/00-马克思主义基本原理概论相关视频/马克思主义基本原理概论相关视频索引.md",
+    "1000-技术/前端/其它/截图.md",
     "9999-信箱/Flutter开源项目.md",
     "1000-技术/GO/入门文档.md",
     "9999-信箱/实用工具.md",
     "1000-技术/项目/开源项目.md",
-    "9999-信箱/其它.md",
-    "9999-信箱/未命名.md",
-    "conflict-files-obsidian-git.md",
-    "1000-技术/前端/浏览器/浏览器URL限制.md",
-    "1000-技术/前端/浏览器/浏览器跨域.md",
-    "1000-技术/前端/浏览器/浏览器存储.md"
+    "9999-信箱/其它.md"
   ]
 }
