@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
+            "file": "1000-技术/项目/开源项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "视频",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "1000-技术/项目/开源项目.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
     "1000-技术/前端/其它/前端开发知识点.md",
     "1000-技术/前端/其它/前端工作笔记.md",
@@ -226,7 +227,6 @@
     "9999-信箱/Flutter开源项目.md",
     "1000-技术/GO/入门文档.md",
     "9999-信箱/实用工具.md",
-    "1000-技术/项目/开源项目.md",
     "9999-信箱/其它.md"
   ]
 }
