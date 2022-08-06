@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "803bab3dbb863672",
+        "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/GO/入门文档.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/GO/入门文档.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/GO/入门文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/GO/入门文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +206,7 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "803bab3dbb863672",
+  "active": "0294b54d855f3432",
   "lastOpenFiles": [
     "1000-技术/GO/入门文档.md",
     "9999-信箱/实用工具.md",
