@@ -1,6 +1,6 @@
 package main
 
-import ("./helloWorld.go")
+import ("helloWorld.go")
 func main() {
 
 }
