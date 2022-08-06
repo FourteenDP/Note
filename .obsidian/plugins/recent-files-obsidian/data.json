@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
       "basename": "其它",
       "path": "9999-信箱/其它.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "箭头函数",
       "path": "1000-技术/前端/JavaScript/箭头函数.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     }
   ],
   "omittedPaths": [],
