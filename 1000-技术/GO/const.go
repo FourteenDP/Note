@@ -1,6 +1,6 @@
-package main
+package constant
 import "fmt"
-func main() {
+func constant() {
 	const	a = 45321654351
 	fmt.Println(a)
 }
