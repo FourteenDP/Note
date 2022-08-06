@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/其它.md",
+            "file": "9999-信箱/实用工具.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniapp 通信",
+                "query": "path:工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/其它.md"
+                "file": "9999-信箱/实用工具.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/其它.md",
+                "file": "9999-信箱/实用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/其它.md",
+                "file": "9999-信箱/实用工具.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,15 +218,15 @@
   },
   "active": "803bab3dbb863672",
   "lastOpenFiles": [
+    "9999-信箱/实用工具.md",
+    "1000-技术/项目/开源项目.md",
     "9999-信箱/其它.md",
+    "9999-信箱/Flutter开源项目.md",
     "9999-信箱/未命名.md",
     "conflict-files-obsidian-git.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
     "1000-技术/前端/浏览器/浏览器跨域.md",
     "1000-技术/前端/浏览器/浏览器存储.md",
-    "~日记~/2022-06-20.md",
-    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
-    "✨知识社区.md",
-    "2000-高效/写作/如何编写好的技术文档.md"
+    "~日记~/2022-06-20.md"
   ]
 }
