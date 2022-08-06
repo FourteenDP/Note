@@ -1,5 +1,5 @@
-package hello_world
+package helloWorld
 import "fmt"
-func  hello_world() {
+func  helloWorld() {
 	fmt.Println("Hello", "world")
 }
