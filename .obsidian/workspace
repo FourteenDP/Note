@@ -7,8 +7,13 @@
         "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/Flutter开源项目.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flutter 开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -105,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/Flutter开源项目.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/Flutter开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/Flutter开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,11 +218,11 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "9999-信箱/Flutter开源项目.md",
     "1000-技术/GO/入门文档.md",
     "9999-信箱/实用工具.md",
     "1000-技术/项目/开源项目.md",
     "9999-信箱/其它.md",
-    "9999-信箱/Flutter开源项目.md",
     "9999-信箱/未命名.md",
     "conflict-files-obsidian-git.md",
     "1000-技术/前端/浏览器/浏览器URL限制.md",
