@@ -3,7 +3,7 @@ aliases: CSS选择器参考手册
 tags:
   - CSS选择器参考手册
 date created: 2022-06-20 19:58
-date updated: 2022-06-22 10:53:28
+date updated: 2022-08-09 00:02:23
 title: CSS 选择器参考手册
 ---
 
@@ -55,7 +55,6 @@ title: CSS 选择器参考手册
 | :checked                  | input:checked              | 选择每个选中的输入元素                                       | 3       |
 | :not\(selector\)          | :not\(p\)                  | 选择每个并非 p 元素的元素                                    | 3       |
 | ::selection               | ::selection                | 匹配元素中被用户选中或处于高亮状态的部分                     | 3       |
-<!--SR:!2022-08-10,1,230-->
 | :out\-of\-range           | :out\-of\-range            | 匹配值在指定区间之外的 input 元素                            | 3       |
 | :in\-range                | :in\-range                 | 匹配值在指定区间之内的 input 元素                            | 3       |
 | :read\-write              | :read\-write               | 用于匹配可读及可写的元素                                     | 3       |

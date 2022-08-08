@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
+            "file": "9999-信箱/卡片.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
+                "file": "9999-信箱/卡片.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
+                "file": "9999-信箱/卡片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
+                "file": "9999-信箱/卡片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,12 +218,12 @@
   },
   "active": "c53ef86252d80625",
   "lastOpenFiles": [
+    "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "1000-技术/计算机基础/Drawing 2022-08-08 23.52.13.excalidraw.md",
     "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
     "9999-信箱/卡片.md",
     "unlinked files output.md",
     "9999-信箱/未命名看板.md",
-    "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "9999-信箱/1000-技术.md",
     "1000-技术/前端/HTML&CSS/盒子模型.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
