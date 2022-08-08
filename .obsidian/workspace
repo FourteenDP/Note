@@ -15,8 +15,13 @@
         "id": "21e2857154442353",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/WSL SSH远程连接.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/WSL SSH远程连接.md"
+              }
             }
           },
           {
@@ -160,6 +170,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dc2f7ae21cc0662",
-  "lastOpenFiles": []
+  "active": "21e2857154442353",
+  "lastOpenFiles": [
+    "9999-信箱/WSL登录Root.md"
+  ]
 }
