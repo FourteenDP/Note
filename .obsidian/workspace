@@ -15,6 +15,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "90afb7661bda4190",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/卡片.md"
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
               }
             }
           },
@@ -176,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/卡片.md",
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/卡片.md",
+                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,8 +227,10 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "c7e3dd6b14216cab",
+  "active": "90afb7661bda4190",
   "lastOpenFiles": [
+    "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
+    "9999-信箱/卡片.md",
     "9999-信箱/未命名.md",
     "README.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
@@ -226,8 +238,6 @@
     "9999-信箱/node的process.nextTick.md",
     "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
     "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
-    "9999-信箱/开源ERP系统.md",
-    "conflict-files-obsidian-git.md"
+    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md"
   ]
 }
