@@ -3,7 +3,7 @@ title: WSL 登录 Root
 aliases: 
 tags: 
 date created: 2022-08-08 21:35:17
-date updated: 2022-08-08 21:43:04
+date updated: 2022-08-08 21:43:49
 ---
 
 # WSL 登录 Root
