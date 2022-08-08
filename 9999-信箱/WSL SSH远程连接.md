@@ -12,5 +12,5 @@ date updated: 2022-08-08 22:01:32
 
 - 编辑 `/etc/ssh/sshd_config`
 ```shell
-
+[PasswordAuthentication yes](file:///etc/ssh/sshd_config)
 ```
