@@ -3,7 +3,7 @@ title: WSL SSH 远程连接
 aliases: 
 tags: 
 date created: 2022-08-08 22:00:28
-date updated: 2022-08-08 22:07:07
+date updated: 2022-08-08 22:07:50
 ---
 
 # WSL SSH 远程连接
@@ -27,4 +27,5 @@ Port 22
 PermitRootLogin yes
 ```
 
-- 重启f
+- 重启服务
+`servece ssh restart`
