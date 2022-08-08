@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚知识博客.md",
+            "file": "9999-信箱/搭建WSL开发环境.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚知识博客.md"
+                "file": "9999-信箱/搭建WSL开发环境.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "9999-信箱/搭建WSL开发环境.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,15 +217,15 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "877abaaccc8c97ae",
+  "active": "fc7c3b5ffce16106",
   "lastOpenFiles": [
+    "9999-信箱/开源ERP系统.md",
+    "📚知识博客.md",
     "8888-公司/驰雄/工作资料.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
-    "9999-信箱/开源ERP系统.md",
     "conflict-files-obsidian-git.md",
     "✨知识社区.md",
     "📅任务管理.md",
-    "📚知识博客.md",
     "1000-技术/计算机基础/WSL基本命令.md",
     "1000-技术/计算机基础/Linux常用命令.md",
     "1000-技术/计算机基础/计算机有那些基础.md"
