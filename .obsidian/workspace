@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81af5ec8248a4ecf",
+        "id": "c53ef86252d80625",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -23,6 +28,14 @@
         "type": "tabs",
         "dimension": 46.562721474131834,
         "children": [
+          {
+            "id": "b89ebad1de37bcf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "cdd512709bf4ee30",
             "type": "leaf",
@@ -61,14 +74,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "b89ebad1de37bcf7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
         ]
       },
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
+              }
             }
           },
           {
@@ -155,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -168,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +216,7 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "81af5ec8248a4ecf",
+  "active": "c53ef86252d80625",
   "lastOpenFiles": [
     "1000-技术/计算机基础/Drawing 2022-08-08 23.52.13.excalidraw.md",
     "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
