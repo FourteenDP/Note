@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d68fb28dfaf9f688",
+        "id": "ea369b3b73590048",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/卡片.md",
+            "file": "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md"
+              }
             }
           },
           {
@@ -141,8 +142,10 @@
             "id": "c3a00fd93dc09a21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md"
+              }
             }
           },
           {
@@ -174,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -212,7 +217,7 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "c3a00fd93dc09a21",
+  "active": "ea369b3b73590048",
   "lastOpenFiles": [
     "9999-信箱/卡片.md",
     "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
