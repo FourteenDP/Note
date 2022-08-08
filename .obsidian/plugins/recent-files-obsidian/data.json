@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL SSH远程连接",
+      "path": "9999-信箱/WSL SSH远程连接.md"
+    },
+    {
+      "basename": "WSL登录Root",
+      "path": "9999-信箱/WSL登录Root.md"
+    },
+    {
       "basename": "怎么画一条0.5px的线",
       "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "2022-07-02",
       "path": "~日记~/2022-07-02.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "9999-信箱/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "WSL登录Root",
-      "path": "9999-信箱/WSL登录Root.md"
     },
     {
       "basename": "工作资料",
@@ -195,10 +195,6 @@
     {
       "basename": "3.1-语法",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
-    },
-    {
-      "basename": "浏览器休眠对setTimeout和setInterval的影响",
-      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
     }
   ],
   "omittedPaths": [],
