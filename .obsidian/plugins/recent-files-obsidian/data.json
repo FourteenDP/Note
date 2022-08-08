@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "中国近现代历史文献选集",
+      "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md"
+    },
+    {
+      "basename": "唯心历史观的破产",
+      "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/解放战争时期/唯心历史观的破产.md"
+    },
+    {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2.4-noscript元素",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/2.4-noscript元素.md"
-    },
-    {
-      "basename": "3.1-语法",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.1-语法.md"
     }
   ],
   "omittedPaths": [],
