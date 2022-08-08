@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:1000-技术",
+                "query": "tag:#flashcards/subdeck/subdeck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -110,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/卡片.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -176,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/卡片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/卡片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,13 +210,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 293.5
   },
-  "active": "d68fb28dfaf9f688",
+  "active": "c3a00fd93dc09a21",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
     "9999-信箱/卡片.md",
+    "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
     "unlinked files output.md",
     "1000-技术/计算机基础/Drawing 2022-08-08 23.52.13.excalidraw.md",
     "9999-信箱/未命名看板.md",
