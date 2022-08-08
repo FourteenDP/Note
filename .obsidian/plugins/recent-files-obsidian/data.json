@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL SSH远程连接",
+      "path": "9999-信箱/WSL SSH远程连接.md"
+    },
+    {
+      "basename": "WSL登录Root",
+      "path": "9999-信箱/WSL登录Root.md"
+    },
+    {
       "basename": "工作资料",
       "path": "8888-公司/驰雄/工作资料.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "WSL基本命令",
       "path": "1000-技术/计算机基础/WSL基本命令.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "9999-信箱/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "WSL登录Root",
-      "path": "9999-信箱/WSL登录Root.md"
     },
     {
       "basename": "Debian配置镜像源",
