@@ -3,7 +3,7 @@ title: WSL SSH 远程连接
 aliases: 
 tags: 
 date created: 2022-08-08 22:00:28
-date updated: 2022-08-08 22:15:48
+date updated: 2022-08-08 22:37:56
 ---
 
 # WSL SSH 远程连接
@@ -27,7 +27,11 @@ Port 22
 PermitRootLogin yes
 ```
 
-- 重启服务
-`servece ssh restart`
+- 开启服务
+`/etc/init.d/ssh start`
+- 查看状态
+`/etc/init.d/ssh status`
 
-- [ ] WSL SSH 远程连接
+## 开机自启
+
+- [ ] SSH 远程连接开机自启
