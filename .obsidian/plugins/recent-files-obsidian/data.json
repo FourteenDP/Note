@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
+      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+    },
+    {
+      "basename": "《中共中央关于全面推进依法治国若干重大问题的决定》的说明",
+      "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
+      "basename": "浏览器休眠对setTimeout和setInterval的影响",
+      "path": "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    },
+    {
       "basename": "炮打司令部——我的一张大字报",
       "path": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md"
     },
@@ -149,10 +169,6 @@
       "path": "1000-技术/前端/其它/前端工作笔记.md"
     },
     {
-      "basename": "Drawing 2022-07-08 20.20.34.excalidraw",
-      "path": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-    },
-    {
       "basename": "如何编写好的技术文档",
       "path": "2000-高效/写作/如何编写好的技术文档.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
       "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
-    },
-    {
-      "basename": "3.2 -关键字与保留字",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.2 -关键字与保留字.md"
-    },
-    {
-      "basename": "箭头函数",
-      "path": "1000-技术/前端/JavaScript/箭头函数.md"
     }
   ],
   "omittedPaths": [],
