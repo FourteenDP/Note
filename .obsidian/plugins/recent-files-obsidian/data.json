@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
+      "basename": "怎么画一条0.5px的线",
+      "path": "9999-信箱/怎么画一条0.5px的线.md"
+    },
+    {
+      "basename": "Debian配置镜像源",
+      "path": "9999-信箱/Debian配置镜像源.md"
+    },
+    {
+      "basename": "image标签图片的白边",
+      "path": "9999-信箱/image标签图片的白边.md"
+    },
+    {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
+    },
+    {
+      "basename": "2022-06-28",
+      "path": "~日记~/2022-06-28.md"
+    },
+    {
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
+      "basename": "2022-07-02",
+      "path": "~日记~/2022-07-02.md"
+    },
+    {
       "basename": "WSL SSH远程连接",
       "path": "9999-信箱/WSL SSH远程连接.md"
     },
@@ -19,10 +51,6 @@
     {
       "basename": "WSL基本命令",
       "path": "1000-技术/计算机基础/WSL基本命令.md"
-    },
-    {
-      "basename": "Debian配置镜像源",
-      "path": "9999-信箱/Debian配置镜像源.md"
     },
     {
       "basename": "开源ERP系统",
@@ -85,16 +113,8 @@
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
     },
     {
-      "basename": "UniApp生命周期",
-      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
-    },
-    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
-    },
-    {
-      "basename": "Flutter开源项目",
-      "path": "9999-信箱/Flutter开源项目.md"
     },
     {
       "basename": "辞职通知-邓某某-范文",
@@ -179,18 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
-    },
-    {
-      "basename": "浏览器存储",
-      "path": "1000-技术/前端/浏览器/浏览器存储.md"
     }
   ],
   "omittedPaths": [],
