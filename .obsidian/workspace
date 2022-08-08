@@ -15,16 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "90afb7661bda4190",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -120,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +213,7 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "90afb7661bda4190",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "9999-信箱/卡片.md",
