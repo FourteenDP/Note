@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e3dd6b14216cab",
+        "id": "4a3f9fc79d171140",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/1000-技术.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/1000-技术.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/1000-技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/1000-技术.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,8 +208,9 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "c7e3dd6b14216cab",
+  "active": "4a3f9fc79d171140",
   "lastOpenFiles": [
+    "9999-信箱/1000-技术.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "1000-技术/前端/HTML&CSS/盒子模型.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
@@ -228,7 +219,6 @@
     "README.md",
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
     "9999-信箱/node的process.nextTick.md",
-    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md",
-    "1000-技术/前端/JavaScript/浏览器休眠对setTimeout和setInterval的影响.md"
+    "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
   ]
 }
