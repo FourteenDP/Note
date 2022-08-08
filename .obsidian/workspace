@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/WSL登录Root.md",
+            "file": "9999-信箱/WSL SSH远程连接.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md"
+                "file": "9999-信箱/WSL SSH远程连接.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md",
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md",
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "b9bc6170eccd327b",
   "lastOpenFiles": [
+    "9999-信箱/WSL登录Root.md",
     "9999-信箱/Debian配置镜像源.md",
     "9999-信箱/搭建WSL开发环境.md",
     "9999-信箱/开源ERP系统.md",
@@ -227,7 +228,6 @@
     "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
     "conflict-files-obsidian-git.md",
     "✨知识社区.md",
-    "📅任务管理.md",
-    "1000-技术/计算机基础/WSL基本命令.md"
+    "📅任务管理.md"
   ]
 }
