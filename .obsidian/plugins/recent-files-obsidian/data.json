@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名看板",
+      "path": "3000-自考/未命名看板.md"
+    },
+    {
       "basename": "卡片",
       "path": "9999-信箱/卡片.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "箭头函数",
       "path": "1000-技术/前端/JavaScript/箭头函数.md"
-    },
-    {
-      "basename": "计算setTimeout和setInterval计时器的误差",
-      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     }
   ],
   "omittedPaths": [],
