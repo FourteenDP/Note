@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:1000-技术 -tag:HTML&CSS -tag:HTML&CSS -tag:1000-技术 tag:前端",
+                "query": "tag:1000-技术",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -209,7 +208,7 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "8ed20c26f553db13",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
     "9999-信箱/1000-技术.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
