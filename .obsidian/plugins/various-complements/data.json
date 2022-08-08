@@ -43,59 +43,11 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "创建UniApp": {
-      "创建UniApp": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657259056118
-        }
-      }
-    },
-    "前端": {
-      "前端": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1657259368720
-        }
-      }
-    },
-    "Vue3": {
-      "Vue3": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1657259373162
-        }
-      }
-    },
-    "Vue2路由Keep-alive实现原理": {
-      "Vue2路由Keep-alive实现原理": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1657259384577
-        }
-      }
-    },
-    "local": {
-      "local": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1657260909898
-        }
-      }
-    },
     "gitignore": {
       "gitignore": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1657783421539
-        }
-      }
-    },
-    "Vue2生命周期": {
-      "Vue2生命周期": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1657284229979
         }
       }
     },
@@ -248,6 +200,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1659506496447
+        }
+      }
+    },
+    "Sshd_config": {
+      "Sshd_config": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659967567301
         }
       }
     }
