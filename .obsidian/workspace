@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "a7cdc1005a91c778",
+    "id": "ba8439ab2d2f5996",
     "type": "split",
     "children": [
       {
-        "id": "0ef3da1a9f18f09b",
+        "id": "fc7c3b5ffce16106",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/卡片.md",
+            "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,26 +20,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e353ed9bb4e2100f",
+    "id": "6015379668b8a54c",
     "type": "split",
     "children": [
       {
-        "id": "6dfb533e1beba478",
+        "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 65.92449177153921,
+        "dimension": 63.53965183752418,
         "children": [
           {
-            "id": "94df47a5a06af52e",
+            "id": "877abaaccc8c97ae",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3000-自考/未命名看板.md"
-              }
+              "type": "file-explorer",
+              "state": {}
             }
           },
           {
-            "id": "83d90c572caa7aa6",
+            "id": "cdd512709bf4ee30",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -47,12 +45,12 @@
             }
           },
           {
-            "id": "eca8626c296f63a1",
+            "id": "8ed20c26f553db13",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#<%",
+                "query": "“",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,22 +60,31 @@
             }
           },
           {
-            "id": "c83552824904d320",
+            "id": "8022282199e47d02",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "46165ddb1970e70d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "9e6d8bc2bb38a166",
+        "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 34.07550822846079,
+        "dimension": 36.46034816247582,
         "children": [
           {
-            "id": "845dab9cc030c67e",
+            "id": "a4346df1b91a6ac9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,31 +95,89 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232
   },
   "right": {
-    "id": "73e7089853bcd1f9",
+    "id": "b105e6a105c3707c",
     "type": "split",
     "children": [
       {
-        "id": "9470cfe507378ef0",
+        "id": "7a816b97e3effd0a",
         "type": "tabs",
+        "dimension": 35.783365570599614,
         "children": [
           {
-            "id": "538d1507e3422fcf",
+            "id": "340732f8f09c09c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md"
+              }
+            }
+          },
+          {
+            "id": "e7f8df0058a77ade",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b8d4922c316608b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "4278453747cdd498",
+        "type": "tabs",
+        "dimension": 36.847195357833655,
+        "children": [
+          {
+            "id": "c3a00fd93dc09a21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "ffb18f15bf27d794",
+            "id": "fedcce7d10d0242b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba3cdf8a24203ea8",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "44afa61abb5d7c2c",
+        "type": "tabs",
+        "dimension": 27.36943907156673,
+        "children": [
+          {
+            "id": "cf254ce72212bb7b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3000-自考/未命名看板.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,19 +189,19 @@
             }
           },
           {
-            "id": "2038a5d332a93acc",
+            "id": "0d128f0eb0b327e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3000-自考/未命名看板.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "9d0f580fbe71c200",
+            "id": "9fd37984a2bb73a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,44 +210,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "2457e650dbbaa27c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3000-自考/未命名看板.md"
-              }
-            }
-          },
-          {
-            "id": "4d51c2fa856a026a",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
+    "width": 243,
     "collapsed": true
   },
-  "active": "94df47a5a06af52e",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
-    "9999-信箱/卡片.md",
-    "3000-自考/未命名看板.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/解放战争时期/唯心历史观的破产.md",
+    "9999-信箱/开源ERP系统.md",
+    "conflict-files-obsidian-git.md",
     "✨知识社区.md",
     "📅任务管理.md",
     "📚知识博客.md",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
-    "9999-信箱/WSL SSH远程连接.md",
-    "9999-信箱/WSL登录Root.md"
+    "1000-技术/计算机基础/WSL基本命令.md",
+    "1000-技术/计算机基础/Linux常用命令.md",
+    "1000-技术/计算机基础/计算机有那些基础.md",
+    "1000-技术/环境配置/Windows终端设置代理.md",
+    "9999-信箱/uni-app $refs初始化失败.md"
   ]
 }
