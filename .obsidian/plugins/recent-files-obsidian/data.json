@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "1000-技术",
+      "path": "9999-信箱/1000-技术.md"
+    },
+    {
       "basename": "CSS选择器参考手册",
       "path": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
+    },
+    {
+      "basename": "盒子模型",
+      "path": "1000-技术/前端/HTML&CSS/盒子模型.md"
     },
     {
       "basename": "卡片",
@@ -191,10 +199,6 @@
     {
       "basename": "Pasted image 20220713154807",
       "path": "-附件-/Pasted image 20220713154807.png"
-    },
-    {
-      "basename": "Pasted image 20220708135633",
-      "path": "-附件-/Pasted image 20220708135633.png"
     }
   ],
   "omittedPaths": [],
