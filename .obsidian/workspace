@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ba8439ab2d2f5996",
+    "id": "a7cdc1005a91c778",
     "type": "split",
     "children": [
       {
-        "id": "f4a9db88f53f5cf0",
+        "id": "7dc2f7ae21cc0662",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -12,7 +12,7 @@
         }
       },
       {
-        "id": "5b695c1d4befe795",
+        "id": "bb5eb25de54beaa3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -23,16 +23,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6015379668b8a54c",
+    "id": "e353ed9bb4e2100f",
     "type": "split",
     "children": [
       {
-        "id": "06921f42ea8af414",
+        "id": "6dfb533e1beba478",
         "type": "tabs",
-        "dimension": 63.53965183752418,
         "children": [
           {
-            "id": "877abaaccc8c97ae",
+            "id": "c83552824904d320",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "94df47a5a06af52e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,20 +47,12 @@
             }
           },
           {
-            "id": "cdd512709bf4ee30",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ed20c26f553db13",
+            "id": "eca8626c296f63a1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "WSL 重启",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,33 +62,10 @@
             }
           },
           {
-            "id": "8022282199e47d02",
+            "id": "83d90c572caa7aa6",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "46165ddb1970e70d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4d38c8caee60270",
-        "type": "tabs",
-        "dimension": 36.46034816247582,
-        "children": [
-          {
-            "id": "a4346df1b91a6ac9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "starred",
               "state": {}
             }
           }
@@ -97,82 +73,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 300
   },
   "right": {
-    "id": "b105e6a105c3707c",
+    "id": "73e7089853bcd1f9",
     "type": "split",
     "children": [
       {
-        "id": "7a816b97e3effd0a",
+        "id": "9470cfe507378ef0",
         "type": "tabs",
-        "dimension": 35.783365570599614,
         "children": [
           {
-            "id": "340732f8f09c09c4",
+            "id": "845dab9cc030c67e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "e7f8df0058a77ade",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b8d4922c316608b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4278453747cdd498",
-        "type": "tabs",
-        "dimension": 36.847195357833655,
-        "children": [
-          {
-            "id": "c3a00fd93dc09a21",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fedcce7d10d0242b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba3cdf8a24203ea8",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "44afa61abb5d7c2c",
-        "type": "tabs",
-        "dimension": 27.36943907156673,
-        "children": [
-          {
-            "id": "cf254ce72212bb7b",
+            "id": "ffb18f15bf27d794",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -188,18 +108,18 @@
             }
           },
           {
-            "id": "0d128f0eb0b327e5",
+            "id": "2038a5d332a93acc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9fd37984a2bb73a5",
+            "id": "9d0f580fbe71c200",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,25 +128,38 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "2457e650dbbaa27c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d51c2fa856a026a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "538d1507e3422fcf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243,
+    "width": 300,
     "collapsed": true
   },
-  "active": "f4a9db88f53f5cf0",
-  "lastOpenFiles": [
-    "8888-公司/驰雄/工作资料.md",
-    "8888-公司/驰雄/README.md",
-    "~日记~/2022-08-08.md",
-    "1000-技术/计算机基础/WSL基本命令.md",
-    "9999-信箱/WSL SSH远程连接.md",
-    "9999-信箱/WSL登录Root.md",
-    "9999-信箱/Debian配置镜像源.md",
-    "9999-信箱/搭建WSL开发环境.md",
-    "9999-信箱/开源ERP系统.md",
-    "📚知识博客.md"
-  ]
+  "active": "7dc2f7ae21cc0662",
+  "lastOpenFiles": []
 }
