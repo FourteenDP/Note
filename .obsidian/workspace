@@ -26,8 +26,16 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 46.56272147413183,
+        "dimension": 46.562721474131834,
         "children": [
+          {
+            "id": "036177844fc9c912",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "cdd512709bf4ee30",
             "type": "leaf",
@@ -72,7 +80,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 53.43727852586817,
+        "dimension": 53.437278525868166,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -209,17 +217,17 @@
     "width": 243,
     "collapsed": true
   },
-  "active": "cdd512709bf4ee30",
+  "active": "40f46f6b07273948",
   "lastOpenFiles": [
-    "9999-信箱/未命名看板.md",
+    "1000-技术/计算机基础/Drawing 2022-08-08 23.52.13.excalidraw.md",
     "9999-信箱/卡片.md",
+    "9999-信箱/未命名看板.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "9999-信箱/1000-技术.md",
     "1000-技术/前端/HTML&CSS/盒子模型.md",
     "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md",
     "9999-信箱/未命名.md",
     "README.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
-    "9999-信箱/node的process.nextTick.md"
+    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md"
   ]
 }
