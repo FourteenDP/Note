@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Debian配置镜像源.md",
+            "file": "9999-信箱/WSL登录Root.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Debian配置镜像源.md"
+                "file": "9999-信箱/WSL登录Root.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Debian配置镜像源.md",
+                "file": "9999-信箱/WSL登录Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Debian配置镜像源.md",
+                "file": "9999-信箱/WSL登录Root.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,6 +219,7 @@
   },
   "active": "b9bc6170eccd327b",
   "lastOpenFiles": [
+    "9999-信箱/Debian配置镜像源.md",
     "9999-信箱/搭建WSL开发环境.md",
     "9999-信箱/开源ERP系统.md",
     "📚知识博客.md",
@@ -227,7 +228,6 @@
     "conflict-files-obsidian-git.md",
     "✨知识社区.md",
     "📅任务管理.md",
-    "1000-技术/计算机基础/WSL基本命令.md",
-    "1000-技术/计算机基础/Linux常用命令.md"
+    "1000-技术/计算机基础/WSL基本命令.md"
   ]
 }
