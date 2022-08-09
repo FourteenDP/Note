@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL SSH远程连接",
+      "path": "9999-信箱/WSL SSH远程连接.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "3.3-变量",
       "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "9999-信箱/WSL SSH远程连接.md"
     },
     {
       "basename": "WSL登录Root",
