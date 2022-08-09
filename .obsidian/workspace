@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/WSL登录Root.md",
+            "file": "1000-技术/计算机基础/Linux常用命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md"
+                "file": "1000-技术/计算机基础/Linux常用命令.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md",
+                "file": "1000-技术/计算机基础/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/WSL登录Root.md",
+                "file": "1000-技术/计算机基础/Linux常用命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +218,15 @@
   },
   "active": "714a8d3079f08090",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/WSL基本命令.md",
+    "9999-信箱/WSL登录Root.md",
     "9999-信箱/Debian配置镜像源.md",
     "9999-信箱/WSL SSH远程连接.md",
-    "9999-信箱/WSL登录Root.md",
     "9999-信箱/卡片.md",
-    "1000-技术/计算机基础/WSL基本命令.md",
     "📅任务管理.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "1000-技术/计算机基础/Drawing 2022-08-08 23.52.13.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md",
-    "unlinked files output.md"
+    "Excalidraw/Drawing 2022-08-08 23.55.07.excalidraw.md"
   ]
 }
