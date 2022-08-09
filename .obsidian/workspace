@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3000-自考/考试信息_网络工程080903.md",
+            "file": "1000-技术/计算机基础/Debian配置镜像源.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/计算机有那些基础.md"
+                "file": "1000-技术/计算机基础/Debian配置镜像源.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/计算机有那些基础.md",
+                "file": "1000-技术/计算机基础/Debian配置镜像源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/计算机有那些基础.md",
+                "file": "1000-技术/计算机基础/Debian配置镜像源.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
