@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+            "file": "1000-技术/计算机基础/Linux查看系统信息.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md"
+                "file": "1000-技术/计算机基础/Linux查看系统信息.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+                "file": "1000-技术/计算机基础/Linux查看系统信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+                "file": "1000-技术/计算机基础/Linux查看系统信息.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,9 +216,10 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "714a8d3079f08090",
+  "active": "b89ebad1de37bcf7",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux常用命令.md",
+    "9999-信箱/Linxu重命名文件夹和文件.md",
+    "1000-技术/计算机基础/Linux查看系统信息.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Debian配置镜像源.md",
     "3000-自考/考试信息_网络工程080903.md",
@@ -226,7 +227,6 @@
     "9999-信箱/vue的不同构建版本.md",
     "1000-技术/前端/JavaScript/原型链.md",
     "1000-技术/计算机基础/WSL基本命令.md",
-    "1000-技术/计算机基础/WSL登录Root.md",
-    "9999-信箱/WSL SSH远程连接.md"
+    "1000-技术/计算机基础/WSL登录Root.md"
   ]
 }
