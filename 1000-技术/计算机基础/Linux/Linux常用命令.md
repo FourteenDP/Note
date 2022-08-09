@@ -3,7 +3,7 @@ title: Linux 常用命令
 aliases: 
 tags: 
 date created: 2022-08-09 22:13:35
-date updated: 2022-08-09 22:20:50
+date updated: 2022-08-09 22:23:34
 ---
 
 # Linux 常用命令
