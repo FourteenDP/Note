@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -256,11 +256,11 @@
     "width": 293.5,
     "collapsed": true
   },
-  "active": "ca52c5241efb594f",
+  "active": "7d19c2f6fd670555",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
     "9999-信箱/Linux安装Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",

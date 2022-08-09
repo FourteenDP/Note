@@ -3,7 +3,7 @@ title: Linux 安装命令行工具 Oh My Zsh
 aliases: 
 tags: 
 date created: 2022-08-09 22:35:37
-date updated: 2022-08-09 22:58:01
+date updated: 2022-08-09 23:10:20
 ---
 
 # Linux 安装命令行工具 Oh My Zsh
@@ -21,5 +21,6 @@ date updated: 2022-08-09 22:58:01
 apt install zsh
 ```
 
-## 设置为默认 shell 
+## 设置为默认 Shell
 
+![[]]

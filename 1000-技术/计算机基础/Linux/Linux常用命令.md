@@ -3,7 +3,7 @@ title: Linux 常用命令
 aliases: 
 tags: 
 date created: 2022-08-09 22:13:35
-date updated: 2022-08-09 22:39:30
+date updated: 2022-08-09 23:09:54
 ---
 
 # Linux 常用命令
@@ -15,4 +15,4 @@ date updated: 2022-08-09 22:39:30
 - 新建文件夹: `mkdir folderName`
 - 递归创建文件夹: `mkdir -p folderName/folderName1/folderName2`
 - 更新已安装的软件包: `apt upgrade`
-- 
+- 设置默认 shell:`chsh -s /bin/zsh`
