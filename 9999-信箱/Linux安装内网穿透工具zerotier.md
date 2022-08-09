@@ -11,3 +11,9 @@ date updated: 2022-08-10 00:27:45
 ```shell
 curl -s https://install.zerotier.com | sudo bash
 ```
+
+
+- 提示缺少关键包 
+
+```shell
+E: gn
