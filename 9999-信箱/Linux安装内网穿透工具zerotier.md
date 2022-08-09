@@ -3,7 +3,7 @@ title: Linux 安装内网穿透工具 Zerotier
 aliases: 
 tags: 
 date created: 2022-08-10 00:27:09
-date updated: 2022-08-10 00:27:45
+date updated: 2022-08-10 00:30:25
 ---
 
 # Linux 安装内网穿透工具 Zerotier
@@ -12,8 +12,14 @@ date updated: 2022-08-10 00:27:45
 curl -s https://install.zerotier.com | sudo bash
 ```
 
-
-- 提示缺少关键包 
+- 提示缺少关键包
 
 ```shell
-E: gn
+E: gnupg, gnupg2 and gnupg1 do not seem to be installed, but one of them is required for this operation
+```
+
+- 安装关键包
+
+```shell
+apt install gnupg gnupg2 gnupg1
+```
