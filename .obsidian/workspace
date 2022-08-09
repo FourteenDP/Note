@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux常用命令.md",
-            "mode": "preview",
+            "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md"
+                "file": "9999-信箱/Linxu重命名文件夹和文件.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md",
+                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux常用命令.md",
+                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,8 +218,8 @@
   },
   "active": "714a8d3079f08090",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Debian配置镜像源.md",
     "3000-自考/考试信息_网络工程080903.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
