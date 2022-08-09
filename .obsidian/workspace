@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+            "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -233,14 +233,14 @@
   "active": "f039f02765a6ba33",
   "lastOpenFiles": [
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/WSL基本命令.md",
     "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "9999-信箱/Linux安装Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
-    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/WSL登录Root.md"
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
   ]
 }
