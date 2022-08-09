@@ -11,3 +11,4 @@ date updated: 2022-08-09 22:15:51
 - 查看已安装的软件包:`apt list --installed`
 - 查看当前使用的 `shell` : `echo $SHELL`
 - 查看系统中的所有 `shell`:`cat /etc/shells`
+- 重命名文件夹和文件:`mv old`
