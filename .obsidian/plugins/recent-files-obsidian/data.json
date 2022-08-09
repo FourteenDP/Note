@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux查看系统信息",
-      "path": "1000-技术/计算机基础/Linux查看系统信息.md"
+      "basename": "Debian配置镜像源",
+      "path": "1000-技术/计算机基础/Debian配置镜像源.md"
+    },
+    {
+      "basename": "WSL登录Root",
+      "path": "1000-技术/计算机基础/WSL登录Root.md"
+    },
+    {
+      "basename": "Linux查看硬件和系统信息",
+      "path": "1000-技术/计算机基础/Linux查看硬件和系统信息.md"
     },
     {
       "basename": "Linxu重命名文件夹和文件",
@@ -11,10 +19,6 @@
     {
       "basename": "Linux目录结构和作用",
       "path": "1000-技术/计算机基础/Linux目录结构和作用.md"
-    },
-    {
-      "basename": "Debian配置镜像源",
-      "path": "1000-技术/计算机基础/Debian配置镜像源.md"
     },
     {
       "basename": "考试信息_网络工程080903",
@@ -35,10 +39,6 @@
     {
       "basename": "WSL基本命令",
       "path": "1000-技术/计算机基础/WSL基本命令.md"
-    },
-    {
-      "basename": "WSL登录Root",
-      "path": "1000-技术/计算机基础/WSL登录Root.md"
     },
     {
       "basename": "WSL SSH远程连接",
