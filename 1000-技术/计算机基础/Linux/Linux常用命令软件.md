@@ -14,4 +14,4 @@ date updated: 2022-08-09 22:35:30
 - Wget: `apt install wget`
 - Curl: `apt install curl`
 - Nvm: [[Linux安装Node版本管理器Nvm]]
-- zsh: [[Linux安装命令行工具Oh My Zsh]]
+- Zsh: [[Linux安装命令行工具Oh My Zsh]]
