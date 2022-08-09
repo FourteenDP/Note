@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SSH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -216,7 +217,7 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "714a8d3079f08090",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
     "✨知识社区.md",
     "9999-信箱/WSL SSH远程连接.md",
