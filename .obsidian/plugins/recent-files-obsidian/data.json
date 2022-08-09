@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Debian配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
+    },
+    {
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Linux查看硬件和系统信息",
       "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
-    },
-    {
-      "basename": "Debian配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
     },
     {
       "basename": "Linxu重命名文件夹和文件",
