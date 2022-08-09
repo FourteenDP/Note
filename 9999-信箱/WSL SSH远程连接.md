@@ -4,7 +4,7 @@ aliases:
 tags: 
   - WSL
 date created: 2022-08-08 22:00:28
-date updated: 2022-08-09 21:18:33
+date updated: 2022-08-09 21:18:49
 ---
 
 # WSL SSH 远程连接
@@ -32,7 +32,3 @@ PermitRootLogin yes
 `service ssh start`
 - 查看状态
 `service ssh status`
-
-## 开机自启
-
-- [ ] SSH 远程连接开机自启
