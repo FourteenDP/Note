@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "1000-技术/计算机基础/Linux/未命名.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "APP混合开发",
       "path": "1000-技术/前端/其它/APP混合开发.md"
-    },
-    {
-      "basename": "前端工作笔记",
-      "path": "1000-技术/前端/其它/前端工作笔记.md"
     }
   ],
   "omittedPaths": [],
