@@ -3,7 +3,7 @@ title: Linux 安装命令行工具 Oh My Zsh
 aliases: 
 tags: 
 date created: 2022-08-09 22:35:37
-date updated: 2022-08-09 22:37:00
+date updated: 2022-08-09 22:37:43
 ---
 
 # Linux 安装命令行工具 Oh My Zsh
@@ -13,4 +13,5 @@ date updated: 2022-08-09 22:37:00
 - **Zsh** 是一款强大的虚拟终端，既是一个系统的虚拟终端，也可以作为一个脚本语言的交互解析器
 - **Oh My Zsh** 是基于 **Zsh** 命令行的一个扩展工具集，提供了丰富的扩展功能
 
-## 
+## 安装 Zsh
+
