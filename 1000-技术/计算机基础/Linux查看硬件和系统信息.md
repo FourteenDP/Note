@@ -1,12 +1,12 @@
 ---
-title: Linux 查看系统信息
+title: Linux 查看硬件和系统信息
 aliases: 
 tags: 
 date created: 2022-07-18 21:00:05
-date updated: 2022-08-09 20:58:43
+date updated: 2022-08-09 20:59:07
 ---
 
-# Linux 查看系统信息
+# Linux 查看硬件和系统信息
 
 ## 查看操作系统版本信息
 
