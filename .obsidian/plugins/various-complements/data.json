@@ -242,6 +242,14 @@
           "lastUpdated": 1660057826525
         }
       }
+    },
+    "zerotier": {
+      "zerotier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660062456149
+        }
+      }
     }
   }
 }
