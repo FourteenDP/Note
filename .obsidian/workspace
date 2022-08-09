@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/WSL SSH远程连接.md",
+            "file": "1000-技术/计算机基础/WSL基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/subdeck/subdeck",
+                "query": "WSL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -94,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 416.5
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md"
+                "file": "1000-技术/计算机基础/WSL基本命令.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "1000-技术/计算机基础/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,8 +217,9 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "c53ef86252d80625",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
+    "9999-信箱/WSL SSH远程连接.md",
     "📅任务管理.md",
     "9999-信箱/卡片.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
@@ -226,7 +228,6 @@
     "unlinked files output.md",
     "9999-信箱/未命名看板.md",
     "9999-信箱/1000-技术.md",
-    "1000-技术/前端/HTML&CSS/盒子模型.md",
-    "Excalidraw/Drawing 2022-07-08 20.20.34.excalidraw.md"
+    "1000-技术/前端/HTML&CSS/盒子模型.md"
   ]
 }

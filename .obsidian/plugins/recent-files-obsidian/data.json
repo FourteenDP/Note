@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL基本命令",
+      "path": "1000-技术/计算机基础/WSL基本命令.md"
+    },
+    {
       "basename": "WSL SSH远程连接",
       "path": "9999-信箱/WSL SSH远程连接.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "README",
       "path": "8888-公司/驰雄/README.md"
-    },
-    {
-      "basename": "WSL基本命令",
-      "path": "1000-技术/计算机基础/WSL基本命令.md"
     },
     {
       "basename": "开源ERP系统",
