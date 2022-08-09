@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "9999-信箱/WSL SSH远程连接.md": [
-      {
-        "title": "SSH 远程连接开机自启",
-        "time": "2022-08-09",
-        "rowNumber": 37
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:30",
