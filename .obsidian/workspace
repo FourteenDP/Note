@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Mvm.md",
+            "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Nvm.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Mvm.md"
+                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Nvm.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Mvm.md",
+                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Nvm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Mvm.md",
+                "file": "1000-技术/计算机基础/Dbian安装Node版本管理其Nvm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
