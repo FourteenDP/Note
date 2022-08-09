@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "前端工作笔记",
       "path": "1000-技术/前端/其它/前端工作笔记.md"
-    },
-    {
-      "basename": "如何编写好的技术文档",
-      "path": "2000-高效/写作/如何编写好的技术文档.md"
     }
   ],
   "omittedPaths": [],
