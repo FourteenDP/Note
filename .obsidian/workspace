@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
+            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +219,7 @@
   },
   "active": "714a8d3079f08090",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
@@ -226,7 +228,6 @@
     "9999-信箱/Git基本操作.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "1000-技术/计算机基础/Linux/Dbian安装Node版本管理其Nvm.md",
-    "✨知识社区.md",
-    "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
+    "✨知识社区.md"
   ]
 }
