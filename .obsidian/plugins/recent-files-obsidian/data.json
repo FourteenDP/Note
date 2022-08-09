@@ -14,11 +14,11 @@
     },
     {
       "basename": "WSL登录Root",
-      "path": "9999-信箱/WSL登录Root.md"
+      "path": "1000-技术/计算机基础/WSL登录Root.md"
     },
     {
       "basename": "Debian配置镜像源",
-      "path": "9999-信箱/Debian配置镜像源.md"
+      "path": "1000-技术/计算机基础/Debian配置镜像源.md"
     },
     {
       "basename": "WSL SSH远程连接",
