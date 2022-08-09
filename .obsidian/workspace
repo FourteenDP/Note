@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/WSL SSH远程连接.md",
-            "mode": "source",
+            "file": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md"
+                "file": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +216,17 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "b89ebad1de37bcf7",
+  "active": "714a8d3079f08090",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linxu重命名文件夹和文件.md",
+    "9999-信箱/WSL SSH远程连接.md",
+    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
     "9999-信箱/Git基本操作.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
-    "9999-信箱/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/Dbian安装Node版本管理其Nvm.md",
     "✨知识社区.md",
-    "1000-技术/计算机基础/Debian配置镜像源.md",
-    "1000-技术/计算机基础/WSL登录Root.md",
-    "1000-技术/计算机基础/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux目录结构和作用.md"
+    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
+    "1000-技术/计算机基础/Linux/WSL登录Root.md",
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
   ]
 }
