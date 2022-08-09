@@ -10,9 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "9999-信箱/WSL SSH远程连接.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
