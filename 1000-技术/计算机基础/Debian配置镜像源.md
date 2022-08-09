@@ -3,7 +3,7 @@ title: Debian 配置镜像源
 aliases: 
 tags: 
 date created: 2022-08-08 21:22:18
-date updated: 2022-08-08 21:33:26
+date updated: 2022-08-09 20:33:44
 ---
 
 # Debian 配置镜像源
@@ -30,3 +30,7 @@ deb http://mirrors.ustc.edu.cn/debian stable-updates main contrib non-free
 # deb http://mirrors.ustc.edu.cn/debian stable-proposed-updates main contrib non-free
 # deb-src http://mirrors.ustc.edu.cn/debian stable-proposed-updates main contrib non-free
 ```
+
+## 参考资料
+
+- [Debian 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/debian.html)
