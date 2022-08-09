@@ -15,4 +15,5 @@ date updated: 2022-08-09 23:09:54
 - 新建文件夹: `mkdir folderName`
 - 递归创建文件夹: `mkdir -p folderName/folderName1/folderName2`
 - 更新已安装的软件包: `apt upgrade`
-- 设置默认 shell:`chsh -s /bin/zsh` ^244e71
+- 设置默认 shell: `chsh -s /bin/zsh` ^244e71
+- 删除包的配置文件:``
