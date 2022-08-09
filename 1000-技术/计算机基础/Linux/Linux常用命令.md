@@ -14,4 +14,5 @@ date updated: 2022-08-09 22:39:30
 - 重命名文件夹和文件:`mv oldFileName newFileName`
 - 新建文件夹: `mkdir folderName`
 - 递归创建文件夹: `mkdir -p folderName/folderName1/folderName2`
-- 更新已安装的软件包:`apt upgrade`
+- 更新已安装的软件包: `apt upgrade`
+- u
