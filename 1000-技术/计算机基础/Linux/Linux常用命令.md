@@ -13,4 +13,4 @@ date updated: 2022-08-09 22:20:50
 - 查看系统中的所有 `shell`:`cat /etc/shells`
 - 重命名文件夹和文件:`mv oldFileName newFileName`
 - 新建文件夹: `mkdir folderName`
-- 
+- 递归创建文件夹: `mkdir -p folderName/`
