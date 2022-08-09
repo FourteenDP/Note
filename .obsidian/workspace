@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4e18a45a95efad",
-        "type": "leaf",
-        "state": {
-          "type": "memos_view",
-          "state": {}
-        }
-      },
-      {
         "id": "cf4c820fdae697cc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -113,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+              }
             }
           },
           {
@@ -177,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,10 +217,10 @@
     "width": 293.5,
     "collapsed": true
   },
-  "active": "5e4e18a45a95efad",
+  "active": "cf4c820fdae697cc",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
