@@ -1,12 +1,13 @@
 ---
-title: Linxu重命名文件夹和文件
+title: Linxu 重命名文件夹和文件
 aliases: 
 tags: 
 date created: 2022-08-09 20:57:19
-date updated: 2022-08-09 20:57:19
+date updated: 2022-08-09 20:57:52
 ---
 
 # Linxu 重命名文件夹和文件
-```
+
+```shell
 mv A B
 ```
