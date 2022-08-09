@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL登录Root.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Debian配置镜像源",
       "path": "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
-    },
-    {
-      "basename": "WSL登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL登录Root.md"
     },
     {
       "basename": "考试信息_网络工程080903",
