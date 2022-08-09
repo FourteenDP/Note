@@ -12,3 +12,4 @@ date updated: 2022-08-09 22:17:46
 - 查看当前使用的 `shell` : `echo $SHELL`
 - 查看系统中的所有 `shell`:`cat /etc/shells`
 - 重命名文件夹和文件:`mv oldFileName newFileName`
+- 新建文件夹:``
