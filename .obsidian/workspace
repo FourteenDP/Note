@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/WSL SSH远程连接.md",
+            "file": "✨知识社区.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "## 参考资料",
+                "query": "知识社区",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md"
+                "file": "✨知识社区.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "✨知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/WSL SSH远程连接.md",
+                "file": "✨知识社区.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +219,7 @@
   },
   "active": "714a8d3079f08090",
   "lastOpenFiles": [
+    "9999-信箱/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Debian配置镜像源.md",
     "1000-技术/计算机基础/WSL登录Root.md",
     "1000-技术/计算机基础/Linux查看硬件和系统信息.md",
@@ -226,7 +228,6 @@
     "3000-自考/考试信息_网络工程080903.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "9999-信箱/vue的不同构建版本.md",
-    "1000-技术/前端/JavaScript/原型链.md",
-    "1000-技术/计算机基础/WSL基本命令.md"
+    "1000-技术/前端/JavaScript/原型链.md"
   ]
 }
