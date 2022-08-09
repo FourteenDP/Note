@@ -3,7 +3,7 @@ title: Linux 常用命令
 aliases: 
 tags: 
 date created: 2022-08-09 22:13:35
-date updated: 2022-08-09 22:33:17
+date updated: 2022-08-09 22:39:30
 ---
 
 # Linux 常用命令
@@ -14,3 +14,4 @@ date updated: 2022-08-09 22:33:17
 - 重命名文件夹和文件:`mv oldFileName newFileName`
 - 新建文件夹: `mkdir folderName`
 - 递归创建文件夹: `mkdir -p folderName/folderName1/folderName2`
+- 更新已安装的软件包:`apt upgrade`
