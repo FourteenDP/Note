@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+            "file": "9999-信箱/WSL SSH远程连接.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md"
+                "file": "9999-信箱/WSL SSH远程连接.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linxu重命名文件夹和文件.md",
+                "file": "9999-信箱/WSL SSH远程连接.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,7 @@
   },
   "active": "714a8d3079f08090",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linxu重命名文件夹和文件.md",
     "9999-信箱/Git基本操作.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "9999-信箱/WSL SSH远程连接.md",
@@ -226,7 +227,6 @@
     "1000-技术/计算机基础/Debian配置镜像源.md",
     "1000-技术/计算机基础/WSL登录Root.md",
     "1000-技术/计算机基础/Linux查看硬件和系统信息.md",
-    "9999-信箱/Linxu重命名文件夹和文件.md",
     "1000-技术/计算机基础/Linux目录结构和作用.md"
   ]
 }

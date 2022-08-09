@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL SSH远程连接",
+      "path": "9999-信箱/WSL SSH远程连接.md"
+    },
+    {
       "basename": "Linxu重命名文件夹和文件",
-      "path": "9999-信箱/Linxu重命名文件夹和文件.md"
+      "path": "1000-技术/计算机基础/Linxu重命名文件夹和文件.md"
     },
     {
       "basename": "Git基本操作",
@@ -11,10 +15,6 @@
     {
       "basename": "计算机有那些基础",
       "path": "1000-技术/计算机基础/计算机有那些基础.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "9999-信箱/WSL SSH远程连接.md"
     },
     {
       "basename": "Dbian安装Node版本管理其Nvm",
