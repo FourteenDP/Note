@@ -3,7 +3,7 @@ title: Linux 常用命令
 aliases: 
 tags: 
 date created: 2022-08-09 22:13:35
-date updated: 2022-08-10 00:43:35
+date updated: 2022-08-10 00:43:37
 ---
 
 # Linux 常用命令
@@ -16,4 +16,4 @@ date updated: 2022-08-10 00:43:35
 - 递归创建文件夹: `mkdir -p folderName/folderName1/folderName2`
 - 更新已安装的软件包: `apt upgrade`
 - 设置默认 shell: `chsh -s /bin/zsh` ^244e71
-- 删除包的配置文件:`dpkg -P packageName`
+- 删除包并且删除配置
