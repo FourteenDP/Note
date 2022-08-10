@@ -4,51 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4c820fdae697cc",
+        "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7d19c2f6fd670555",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ca52c5241efb594f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f039f02765a6ba33",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
+            "file": "1000-技术/项目/开源项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -65,10 +26,10 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 64.47241045498548,
+        "dimension": 63.53965183752418,
         "children": [
           {
-            "id": "b89ebad1de37bcf7",
+            "id": "877abaaccc8c97ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SSH",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,12 +75,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 35.52758954501452,
+        "dimension": 36.46034816247582,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -133,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 311
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -150,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -181,7 +143,7 @@
             "id": "c3a00fd93dc09a21",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -201,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -215,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -253,20 +214,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 416
   },
-  "active": "7d19c2f6fd670555",
+  "active": "0294b54d855f3432",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
-    "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
-    "conflict-files-obsidian-git.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/WSL基本命令.md",
-    "9999-信箱/Linux安装Oh My Zsh.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
-    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
-    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
+    "1000-技术/项目/开源项目.md",
+    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
+    "1000-技术/前端/其它/前端开发知识点.md",
+    "1000-技术/前端/其它/前端工作笔记.md",
+    "3000-自考/资料/KM02-马克思主义基本原理概论/00-马克思主义基本原理概论相关视频/马克思主义基本原理概论相关视频索引.md",
+    "1000-技术/前端/其它/截图.md",
+    "9999-信箱/Flutter开源项目.md",
+    "1000-技术/GO/入门文档.md",
+    "9999-信箱/实用工具.md",
+    "9999-信箱/其它.md"
   ]
 }
