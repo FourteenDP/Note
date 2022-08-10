@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL基本命令",
+      "path": "1000-技术/计算机基础/Linux/WSL基本命令.md"
+    },
+    {
+      "basename": "WSL登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL登录Root.md"
+    },
+    {
+      "basename": "Linxu重命名文件夹和文件",
+      "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
+    },
+    {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
+    },
+    {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux查看硬件和系统信息",
+      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    },
+    {
+      "basename": "Linux安装Node版本管理器Nvm",
+      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+    },
+    {
+      "basename": "Debian配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "辞职通知-邓某某-范文",
       "path": "0000-拾肆/辞职通知-邓某某-范文.md"
-    },
-    {
-      "basename": "APP混合开发",
-      "path": "1000-技术/前端/其它/APP混合开发.md"
-    },
-    {
-      "basename": "UniApp开源组件",
-      "path": "1000-技术/前端/UniApp/UniApp开源组件.md"
-    },
-    {
-      "basename": "便携蓝牙打印机",
-      "path": "1000-技术/前端/其它/便携蓝牙打印机.md"
-    },
-    {
-      "basename": "Pasted image 20220715105230",
-      "path": "-附件-/Pasted image 20220715105230.png"
-    },
-    {
-      "basename": "Pasted image 20220713154807",
-      "path": "-附件-/Pasted image 20220713154807.png"
-    },
-    {
-      "basename": "Pasted image 20220708135633",
-      "path": "-附件-/Pasted image 20220708135633.png"
-    },
-    {
-      "basename": "通过Vue-cli创建UniApp-Vue2项目",
-      "path": "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
-    },
-    {
-      "basename": "前端文档",
-      "path": "1000-技术/前端/前端文档.md"
     }
   ],
   "omittedPaths": [],

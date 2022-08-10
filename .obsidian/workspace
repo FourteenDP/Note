@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,15 +217,15 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
-    "1000-技术/项目/开源项目.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/让网络空间清朗起来.md",
-    "1000-技术/前端/其它/前端开发知识点.md",
-    "1000-技术/前端/其它/前端工作笔记.md",
-    "3000-自考/资料/KM02-马克思主义基本原理概论/00-马克思主义基本原理概论相关视频/马克思主义基本原理概论相关视频索引.md",
-    "1000-技术/前端/其它/截图.md",
-    "9999-信箱/Flutter开源项目.md",
-    "1000-技术/GO/入门文档.md",
-    "9999-信箱/实用工具.md",
-    "9999-信箱/其它.md"
+    "1000-技术/计算机基础/Linux/WSL基本命令.md",
+    "1000-技术/计算机基础/Linux/WSL登录Root.md",
+    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
+    "1000-技术/项目/开源项目.md"
   ]
 }
