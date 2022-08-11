@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "WSL SSH远程连接",
-      "path": "9999-信箱/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "WSL登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL登录Root.md"
-    },
-    {
       "basename": "WSL基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL基本命令.md"
+    },
+    {
+      "basename": "WSL  登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    },
+    {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
     {
       "basename": "Linux查看硬件和系统信息",
