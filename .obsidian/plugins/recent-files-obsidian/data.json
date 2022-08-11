@@ -9,6 +9,10 @@
       "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
     },
     {
+      "basename": "Linux安装内网穿透工具zerotier",
+      "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -21,6 +25,7 @@
       "path": "1000-技术/计算机基础/Linux/WSL基本命令.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
@@ -177,6 +182,10 @@
       "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
     },
     {
+      "basename": "前端三大件兼容性查询-Fourteen",
+      "path": "1000-技术/前端/前端三大件兼容性查询-Fourteen.md"
+    },
+    {
       "basename": "前端三大件兼容性查询",
       "path": "1000-技术/前端/前端三大件兼容性查询.md"
     },
@@ -189,16 +198,12 @@
       "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
     },
     {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
     },
     {
       "basename": "辞职通知-邓某某-范文",
       "path": "0000-拾肆/辞职通知-邓某某-范文.md"
-    },
-    {
-      "basename": "UniApp和WebView 双向通信",
-      "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     }
   ],
   "omittedPaths": [],
