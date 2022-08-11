@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+            "file": "1000-技术/项目/开源项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "前端开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,9 +218,9 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "9999-信箱/Linux安装内网穿透工具zerotier.md",
