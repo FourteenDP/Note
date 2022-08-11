@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf4c820fdae697cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fdfcfc20168e6ffd",
+        "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,10 +26,10 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 64.47241045498548,
+        "dimension": 63.53965183752418,
         "children": [
           {
-            "id": "b89ebad1de37bcf7",
+            "id": "877abaaccc8c97ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SSH",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +80,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 35.52758954501452,
+        "dimension": 36.46034816247582,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -107,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 311
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md"
               }
             }
           },
@@ -155,7 +142,7 @@
             "id": "c3a00fd93dc09a21",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -175,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "44afa61abb5d7c2c",
@@ -189,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,20 +213,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 416
   },
-  "active": "cf4c820fdae697cc",
+  "active": "0294b54d855f3432",
   "lastOpenFiles": [
-    "9999-信箱/Linux安装内网穿透工具zerotier.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
-    "conflict-files-obsidian-git.md",
-    "9999-信箱/Linux安装Oh My Zsh.md",
+    "1000-技术/计算机基础/Linux/WSL登录Root.md",
+    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
-    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
-    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
+    "1000-技术/项目/开源项目.md"
   ]
 }
