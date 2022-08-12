@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+            "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "29731410af89f4c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +229,17 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "0294b54d855f3432",
+  "active": "29731410af89f4c8",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
-    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/环境配置/Windows创建软连接.md",
-    "1000-技术/环境配置/Windows终端设置代理.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/项目/开源项目.md"
+    "1000-技术/环境配置/Windows终端设置代理.md"
   ]
 }
