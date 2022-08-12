@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux查看硬件和系统信息",
-      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
-    },
-    {
       "basename": "Linux配置镜像源",
       "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux查看硬件和系统信息",
+      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
     },
     {
       "basename": "WSL SSH远程连接",
