@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux",
-      "path": "1000-技术/计算机基础/Linux/Linux.md"
-    },
-    {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
     {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
+      "basename": "Linux安装命令行工具Oh My Zsh",
+      "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
     },
     {
       "basename": "Linux安装内网穿透工具zerotier",
