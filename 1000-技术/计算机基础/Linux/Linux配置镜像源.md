@@ -1,12 +1,12 @@
 ---
-title: Debian 配置镜像源
+title: Linux 配置镜像源
 aliases: 
 tags: 
 date created: 2022-08-08 21:22:18
-date updated: 2022-08-09 20:33:44
+date updated: 2022-08-09 20:33:46
 ---
 
-# Debian 配置镜像源
+# Linux 配置镜像源
 
 ## 简介
 
