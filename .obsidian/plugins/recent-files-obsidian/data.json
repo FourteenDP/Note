@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+    },
+    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
     {
       "basename": "WSL 修改默认安装目录到其他盘",
