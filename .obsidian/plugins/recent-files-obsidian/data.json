@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux常用命令",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
-    },
-    {
       "basename": "WSL SSH远程连接",
       "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
@@ -17,8 +9,12 @@
       "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
     },
     {
-      "basename": "Linux配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+      "basename": "WSL  登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    },
+    {
+      "basename": "Linxu重命名文件夹和文件",
+      "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
     },
     {
       "basename": "Linux目录结构和作用",
@@ -29,8 +25,16 @@
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
-      "basename": "Linxu重命名文件夹和文件",
-      "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
     },
     {
       "basename": "Linux安装Node版本管理器Nvm",
@@ -59,10 +63,6 @@
     {
       "basename": "Windows终端设置代理",
       "path": "1000-技术/环境配置/Windows终端设置代理.md"
-    },
-    {
-      "basename": "WSL  登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
     },
     {
       "basename": "开源项目",
