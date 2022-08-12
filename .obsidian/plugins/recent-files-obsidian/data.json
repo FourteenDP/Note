@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Linxu重命名文件夹和文件",
       "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
-    },
-    {
-      "basename": "Linux配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
     },
     {
       "basename": "WSL 修改默认安装目录到其他盘",
