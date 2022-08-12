@@ -3,7 +3,7 @@ title: Linux 安装 Node 版本管理器 Nvm
 aliases:
 tags:
 date created: 2022-08-09 21:46:04
-date updated: 2022-08-12 20:09:01
+date updated: 2022-08-12 20:22:45
 ---
 
 # Linux 安装 Node 版本管理器 Nvm
@@ -21,6 +21,9 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```shell
 # .zshrc
 export NVM_NODEJS_ORG_MIRROR="https://npmmirror.com/mirrors/node"
+# 刷新环境变量
+source ~/.zshrc 
+
 ```
 
 ## 关联资料
