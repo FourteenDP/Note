@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
+      "basename": "Linux安装Node版本管理器Nvm",
+      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+    },
+    {
+      "basename": "Linux查看硬件和系统信息",
+      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
     {
       "basename": "Linux常用命令软件",
@@ -21,14 +33,6 @@
       "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
     },
     {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
-    },
-    {
-      "basename": "Linux常用命令",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
@@ -37,16 +41,12 @@
       "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
     },
     {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
     {
-      "basename": "Linux安装Node版本管理器Nvm",
-      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
-    },
-    {
-      "basename": "Linux查看硬件和系统信息",
-      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+      "basename": "Linux安装命令行工具Oh My Zsh",
+      "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
     },
     {
       "basename": "Linux安装内网穿透工具zerotier",
