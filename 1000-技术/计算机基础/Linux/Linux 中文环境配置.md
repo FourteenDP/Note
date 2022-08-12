@@ -3,7 +3,7 @@ title: Linux 中文环境配置
 aliases: 
 tags: 
 date created: 2022-08-12 13:38:28
-date updated: 2022-08-12 13:39:42
+date updated: 2022-08-12 13:45:58
 ---
 
 # Linux 中文环境配置
@@ -13,4 +13,6 @@ date updated: 2022-08-12 13:39:42
 apt install locales
 # 配置
 dpkg-reconfigure locales
+# 查看当前语言
+locale
 ```
