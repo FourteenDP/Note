@@ -3,9 +3,9 @@ title: Nvm 常用命令
 aliases: 
 tags: 
 date created: 2022-08-12 20:09:03
-date updated: 2022-08-12 20:41:48
+date updated: 2022-08-12 20:42:34
 ---
 
 # Nvm 常用命令
 
-- 
+- `nvm ls-remote` 查看可安装版本
