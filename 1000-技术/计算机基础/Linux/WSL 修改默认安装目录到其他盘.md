@@ -23,5 +23,5 @@ wsl --unregister Deabin
 ## 导入
 
 ```shell
-wsl --import Debian d:Debian d:\wsl-debian.tar --version 2
+wsl --import Debian d:\Debian d:\wsl-debian.tar --version 2
 ```
