@@ -18,4 +18,4 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 ## 参考资料
 
-- [Fetching Title#a18y](https://github.com/nvm-sh/nvm#install--update-script)
+- [Site Unreachable](https://github.com/nvm-sh/nvm#install--update-script)
