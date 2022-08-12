@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "1000-技术/计算机基础/Linux/未命名.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 311,
+    "collapsed": true
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/计算机基础/Linux/未命名.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/计算机基础/Linux/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/计算机基础/Linux/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,12 +214,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 416,
+    "collapsed": true
   },
-  "active": "0294b54d855f3432",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
-    "📚知识博客.md",
     "1000-技术/项目/开源项目.md",
+    "📚知识博客.md",
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/计算机基础/Linux/WSL  登录Root.md",
