@@ -3,7 +3,7 @@ title: Linux 配置镜像源
 aliases: 
 tags: 
 date created: 2022-08-08 21:22:18
-date updated: 2022-08-12 13:06:35
+date updated: 2022-08-12 13:07:05
 ---
 
 # Linux 配置镜像源
@@ -17,10 +17,14 @@ date updated: 2022-08-12 13:06:35
 sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
 # 编辑apt地址源
 sudo sed -i 's/deb.debian.org/mirrors.ustc.edu.cn/g' /etc/apt/sources.list
-## 更新地址源索引
+# 更新地址源索引
 sudo apt update
 # 更新系统
 sudo apt upgrade
+# 删除未使用的依赖项
+apt --purge autoremove
+```
+
 ```
 
 ```shell
