@@ -3,7 +3,7 @@ title: Linux 配置镜像源
 aliases: 
 tags: 
 date created: 2022-08-08 21:22:18
-date updated: 2022-08-12 13:07:07
+date updated: 2022-08-12 19:15:33
 ---
 
 # Linux 配置镜像源
@@ -23,8 +23,6 @@ sudo apt update
 sudo apt upgrade
 # 删除未使用的依赖项
 sudo apt --purge autoremove
-```
-
 ```
 
 ```shell
