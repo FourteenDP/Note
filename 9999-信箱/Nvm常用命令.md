@@ -14,3 +14,4 @@ date updated: 2022-08-12 20:57:55
 - `nvm ls` 查看已安装版本
 - `nvm use version` 切换 「node」 版本
 - `nvm uninstall version` 卸载相应「node」版本
+- 
