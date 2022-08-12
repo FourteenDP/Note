@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/未命名.md",
+            "file": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/未命名.md"
+                "file": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/未命名.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/未命名.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +217,7 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "877abaaccc8c97ae",
+  "active": "0294b54d855f3432",
   "lastOpenFiles": [
     "1000-技术/项目/开源项目.md",
     "📚知识博客.md",
