@@ -3,7 +3,7 @@ title: Linux 常用命令
 aliases: 
 tags: 
 date created: 2022-08-09 22:13:35
-date updated: 2022-08-12 20:21:22
+date updated: 2022-08-12 20:23:03
 ---
 
 # Linux 常用命令
@@ -18,4 +18,4 @@ date updated: 2022-08-12 20:21:22
 - 设置默认 shell: `chsh -s /bin/zsh` ^244e71
 - 删除包并且删除包的配置文件: `apt remove --purge packageName`
 - 删除未使用的依赖项 `apt --purge autoremove`
-- 刷新 shell 环境:`source .zshrc`
+- 刷新 shell 环境:`source ~/.zshrc
