@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+            "file": "9999-信箱/Nvm常用命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+                "file": "9999-信箱/Nvm常用命令.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+                "file": "9999-信箱/Nvm常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+                "file": "9999-信箱/Nvm常用命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,10 +218,10 @@
   },
   "active": "6b8760f97e777591",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
     "📅任务管理.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "~日记~/2022-08-12.md",
     "~日记~/2022-08-09.md",
     "9999-信箱/Nvm常用命令.md",
