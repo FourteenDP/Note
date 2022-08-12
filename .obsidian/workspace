@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "77e0b72e8cff4d10",
-        "type": "leaf",
-        "state": {
-          "type": "memos_view",
-          "state": {}
-        }
-      },
-      {
-        "id": "e7dd7b43b51f7e7f",
+        "id": "6b8760f97e777591",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -119,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -183,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -224,17 +216,17 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "77e0b72e8cff4d10",
+  "active": "6b8760f97e777591",
   "lastOpenFiles": [
-    "9999-信箱/Nvm常用命令.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+    "~日记~/2022-08-12.md",
+    "~日记~/2022-08-09.md",
+    "9999-信箱/Nvm常用命令.md",
     "9999-信箱/镜像站.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
   ]
 }
