@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ba5cc163be03bcc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,10 +229,10 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "0294b54d855f3432",
+  "active": "ba5cc163be03bcc5",
   "lastOpenFiles": [
-    "9999-信箱/Linux安装内网穿透工具zerotier.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "9999-信箱/Linux安装内网穿透工具zerotier.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
