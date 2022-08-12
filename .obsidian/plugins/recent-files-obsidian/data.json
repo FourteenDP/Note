@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+    },
+    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
     {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
     {
       "basename": "Linux安装命令行工具Oh My Zsh",
@@ -31,10 +35,6 @@
     {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
     {
       "basename": "Linux查看硬件和系统信息",

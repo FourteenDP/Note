@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+            "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,6 +218,8 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "9999-信箱/Linux安装命令行工具Oh My Zsh.md",
@@ -225,8 +227,6 @@
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
   ]
 }
