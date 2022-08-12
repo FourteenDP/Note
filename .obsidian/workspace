@@ -232,6 +232,7 @@
   "active": "e7dd7b43b51f7e7f",
   "lastOpenFiles": [
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+    "9999-信箱/Nvm常用命令.md",
     "9999-信箱/镜像站.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
@@ -239,7 +240,6 @@
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md"
   ]
 }
