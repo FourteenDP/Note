@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux安装Node版本管理器Nvm",
+      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+    },
+    {
+      "basename": "Linux安装命令行工具Oh My Zsh",
+      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
+    },
+    {
       "basename": "📅任务管理",
       "path": "📅任务管理.md"
     },
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux安装Node版本管理器Nvm",
-      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
     {
       "basename": "2022-08-12",
@@ -63,10 +67,6 @@
     {
       "basename": "WSL SSH远程连接",
       "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
     },
     {
       "basename": "Linux安装内网穿透工具zerotier",
