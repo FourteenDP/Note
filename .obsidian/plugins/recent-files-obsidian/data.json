@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linxu重命名文件夹和文件",
+      "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
+    },
+    {
+      "basename": "WSL  登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    },
+    {
       "basename": "Linux安装命令行工具Oh My Zsh",
       "path": "9999-信箱/Linux安装命令行工具Oh My Zsh.md"
     },
@@ -21,20 +29,12 @@
       "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
     },
     {
-      "basename": "WSL  登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
-    },
-    {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
     {
       "basename": "WSL SSH远程连接",
       "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "Linxu重命名文件夹和文件",
-      "path": "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
     },
     {
       "basename": "WSL 修改默认安装目录到其他盘",
