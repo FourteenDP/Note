@@ -3,7 +3,7 @@ title: Linux 安装 Node 版本管理器 Nvm
 aliases:
 tags:
 date created: 2022-08-09 21:46:04
-date updated: 2022-08-12 19:53:16
+date updated: 2022-08-12 19:56:40
 ---
 
 # Linux 安装 Node 版本管理器 Nvm
@@ -18,4 +18,4 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 ## 参考资料
 
-- [Site Unreachable](https://github.com/nvm-sh/nvm#install--update-script)
+- [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
