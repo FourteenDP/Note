@@ -3,7 +3,7 @@ title: Linux 中文环境配置
 aliases: 
 tags: 
 date created: 2022-08-12 13:38:28
-date updated: 2022-08-12 13:39:23
+date updated: 2022-08-12 13:39:42
 ---
 
 # Linux 中文环境配置
