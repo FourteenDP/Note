@@ -15,3 +15,4 @@ date updated: 2022-08-12 21:09:01
 - `nvm use version` 切换 「node」 版本
 - `nvm uninstall version` 卸载相应「node」版本
 - `nvm alias default version` 设置默认「node」版本
+- `nvm run `
