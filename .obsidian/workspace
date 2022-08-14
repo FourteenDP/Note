@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~卡片~/常用单词.md",
+            "file": "~卡片~/单词.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~卡片~/常用单词.md"
+                "file": "~卡片~/单词.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~卡片~/常用单词.md",
+                "file": "~卡片~/单词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~卡片~/常用单词.md",
+                "file": "~卡片~/单词.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
