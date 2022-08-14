@@ -110,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4278453747cdd498",
@@ -175,14 +174,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -192,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,18 +206,18 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 416,
-    "collapsed": true
+    "width": 416
   },
-  "active": "877abaaccc8c97ae",
+  "active": "2b8d4922c316608b",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "📅任务管理.md",
     "9999-信箱/Vue2 中的页面数据缓存.md",
-    "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "✨知识社区.md",
     "📚知识博客.md",
     "~日记~/delete.md",
