@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8760f97e777591",
+        "id": "98e87e87bfd60876",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/前端文档.md",
+            "file": "1000-技术/技术文档.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/前端/前端文档.md"
+                "file": "1000-技术/技术文档.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/前端/前端文档.md",
+                "file": "1000-技术/技术文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/前端/前端文档.md",
+                "file": "1000-技术/技术文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,11 +216,11 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "6b8760f97e777591",
+  "active": "98e87e87bfd60876",
   "lastOpenFiles": [
+    "1000-技术/前端/前端文档.md",
     "1000-技术/技术文档.md",
     "8888-公司/驰雄/工作资料.md",
-    "1000-技术/前端/前端文档.md",
     "README.md",
     "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
     "9999-信箱/Nvm常用命令.md",
