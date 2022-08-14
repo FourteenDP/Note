@@ -1,9 +1,9 @@
 ---
 title: Linux 安装 Rust
-aliases: 
-tags: 
+aliases:
+tags:
 date created: 2022-08-14 11:53:49
-date updated: 2022-08-14 11:54:46
+date updated: 2022-08-14 11:54:52
 ---
 
 # Linux 安装 Rust
