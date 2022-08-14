@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
+            "file": "~卡片~/常用单词.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "~卡片~/常用单词.md"
+              }
             }
           },
           {
@@ -174,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~卡片~/常用单词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "~卡片~/常用单词.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +217,7 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "2b8d4922c316608b",
+  "active": "352dd61839d41c29",
   "lastOpenFiles": [
     "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "📅任务管理.md",
