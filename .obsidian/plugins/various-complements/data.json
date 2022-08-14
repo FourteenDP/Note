@@ -1,0 +1,151 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "子系统版本": {
+      "子系统版本": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658149703084
+        }
+      }
+    },
+    "更换镜像源": {
+      "更换镜像源": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658151551698
+        }
+      }
+    },
+    "UniApp生命周期": {
+      "UniApp生命周期": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1659506460022
+        }
+      }
+    },
+    "WebView": {
+      "WebView": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1658711686434
+        }
+      }
+    },
+    "Vue3组件库": {
+      "Vue3组件库": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659506496447
+        }
+      }
+    },
+    "Sshd_config": {
+      "Sshd_config": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659967567301
+        }
+      }
+    },
+    "Kaljsd": {
+      "Kaljsd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659973330326
+        }
+      }
+    },
+    "常用命令软件": {
+      "常用命令软件": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660054042651
+        }
+      }
+    },
+    " 是一款强大的虚拟终端，既是一个系统的虚拟终端，也可以作为一个脚本语言的交互解析器。": {
+      " 是一款强大的虚拟终端，既是一个系统的虚拟终端，也可以作为一个脚本语言的交互解析器。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660055800884
+        }
+      }
+    },
+    "shell": {
+      "shell": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1660057826525
+        }
+      }
+    },
+    "zerotier": {
+      "zerotier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660062456149
+        }
+      }
+    },
+    "提示缺少关键包": {
+      "提示缺少关键包": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660062579934
+        }
+      }
+    },
+    "Style’": {
+      "Style’": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1660482214012
+        }
+      }
+    }
+  }
+}
