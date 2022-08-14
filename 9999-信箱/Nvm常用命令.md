@@ -3,7 +3,7 @@ title: Nvm 常用命令
 aliases: 
 tags: 
 date created: 2022-08-12 20:09:03
-date updated: 2022-08-12 21:09:01
+date updated: 2022-08-14 10:47:12
 ---
 
 # Nvm 常用命令
@@ -15,4 +15,4 @@ date updated: 2022-08-12 21:09:01
 - `nvm use version` 切换 「node」 版本
 - `nvm uninstall version` 卸载相应「node」版本
 - `nvm alias default version` 设置默认「node」版本
-- `nvm run `
+- `nvm current` 显示当前的版本
