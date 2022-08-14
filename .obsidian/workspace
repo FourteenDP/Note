@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "98e87e87bfd60876",
+        "id": "352dd61839d41c29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅任务管理.md",
+            "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +216,17 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "98e87e87bfd60876",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
-    "1000-技术/前端/Vue/Vue2/Vue2中的页面数据缓存.md",
     "📅任务管理.md",
+    "9999-信箱/Vue2 中的页面数据缓存.md",
+    "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "✨知识社区.md",
     "📚知识博客.md",
     "~日记~/delete.md",
     "~日记~/2022-08-12.md",
     "~日记~/2022-06-20.md",
     "~日记~/2022-06-22.md",
-    "~日记~/2022-06-23.md",
-    "~日记~/2022-06-27.md"
+    "~日记~/2022-06-23.md"
   ]
 }
