@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Linux 安装卸载 Rust",
       "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
     },
