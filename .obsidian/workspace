@@ -131,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4278453747cdd498",
@@ -215,9 +214,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 300.5
   },
-  "active": "352dd61839d41c29",
+  "active": "340732f8f09c09c4",
   "lastOpenFiles": [
     "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "📅任务管理.md",
