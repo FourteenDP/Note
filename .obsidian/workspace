@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "352dd61839d41c29",
+        "id": "1ea1953a3c8faa74",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -12,33 +12,7 @@
         }
       },
       {
-        "id": "e48d81af1dedb4c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "~日记~/2022-08-17.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "eac4dede44ee5b14",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/package.json中坑.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d0918cf29ef00a42",
+        "id": "7b47d1cc253ad1bc",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -124,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311,
-    "collapsed": true
+    "width": 311
   },
   "right": {
     "id": "b105e6a105c3707c",
@@ -141,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/package.json中坑.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/package.json中坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/package.json中坑.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,9 +216,10 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "eac4dede44ee5b14",
+  "active": "1ea1953a3c8faa74",
   "lastOpenFiles": [
     "~日记~/2022-08-17.md",
+    "9999-信箱/package.json 中的坑.md",
     "9999-信箱/Nvm常用命令.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "📅任务管理.md",
@@ -257,7 +227,6 @@
     "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "9999-信箱/Vue2 中的页面数据缓存.md",
     "✨知识社区.md",
-    "📚知识博客.md",
-    "~日记~/delete.md"
+    "📚知识博客.md"
   ]
 }
