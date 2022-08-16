@@ -7,8 +7,13 @@
         "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/常用正则表达式.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 63.53965183752418,
+        "dimension": 63.50496838301717,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -75,7 +80,7 @@
       {
         "id": "e4d38c8caee60270",
         "type": "tabs",
-        "dimension": 36.46034816247582,
+        "dimension": 36.495031616982835,
         "children": [
           {
             "id": "a4346df1b91a6ac9",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/常用正则表达式.md"
+              }
             }
           },
           {
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/常用正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/常用正则表达式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,6 +217,7 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "9999-信箱/常用正则表达式.md",
     "9999-信箱/Vue 自定义单击双击长按.md",
     "📚知识博客.md",
     "📅任务管理.md",
@@ -216,7 +226,6 @@
     "conflict-files-obsidian-git.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL登录Root.md",
-    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
+    "1000-技术/计算机基础/Linux/WSL登录Root.md"
   ]
 }
