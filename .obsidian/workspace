@@ -7,13 +7,8 @@
         "id": "0294b54d855f3432",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/Vue 自定义单击双击长按.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/Vue 自定义单击双击长按.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Vue 自定义单击双击长按.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Vue 自定义单击双击长按.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,6 +208,8 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "📚知识博客.md",
+    "📅任务管理.md",
     "9999-信箱/Vue 自定义单击双击长按.md",
     "1000-技术/前端/其它/前端工作笔记.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
@@ -224,8 +217,6 @@
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
     "1000-技术/计算机基础/Linux/WSL登录Root.md",
-    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
-    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md"
   ]
 }
