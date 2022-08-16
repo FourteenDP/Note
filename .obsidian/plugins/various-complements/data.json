@@ -242,6 +242,22 @@
           "lastUpdated": 1660057826525
         }
       }
+    },
+    "zerotier": {
+      "zerotier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660062456149
+        }
+      }
+    },
+    "提示缺少关键包": {
+      "提示缺少关键包": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660062579934
+        }
+      }
     }
   }
 }
