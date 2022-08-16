@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "~卡片~/单词卡片.md",
+            "file": "📅任务管理.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "06921f42ea8af414",
         "type": "tabs",
-        "dimension": 63.50496838301717,
+        "dimension": 63.504968383017165,
         "children": [
           {
             "id": "877abaaccc8c97ae",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~卡片~/单词卡片.md"
+                "file": "📅任务管理.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~卡片~/单词卡片.md",
+                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~卡片~/单词卡片.md",
+                "file": "📅任务管理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,8 +216,9 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "340732f8f09c09c4",
+  "active": "352dd61839d41c29",
   "lastOpenFiles": [
+    "~卡片~/单词卡片.md",
     "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
     "📅任务管理.md",
     "9999-信箱/Vue2 中的页面数据缓存.md",
@@ -226,7 +227,6 @@
     "~日记~/delete.md",
     "~日记~/2022-08-12.md",
     "~日记~/2022-06-20.md",
-    "~日记~/2022-06-22.md",
-    "~日记~/2022-06-23.md"
+    "~日记~/2022-06-22.md"
   ]
 }
