@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -218,6 +219,7 @@
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
     "1000-技术/前端/其它/前端工作笔记.md",
+    "9999-信箱/Vue 自定义单击双击长按.md",
     "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md",
     "conflict-files-obsidian-git.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
@@ -225,7 +227,6 @@
     "1000-技术/计算机基础/Linux/WSL登录Root.md",
     "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
   ]
 }
