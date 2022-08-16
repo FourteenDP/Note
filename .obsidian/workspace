@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
+            "file": "1000-技术/前端/其它/前端工作笔记.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "长按",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md"
+                "file": "1000-技术/前端/其它/前端工作笔记.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
+                "file": "1000-技术/前端/其它/前端工作笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL基本命令.md",
+                "file": "1000-技术/前端/其它/前端工作笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,6 +218,7 @@
   },
   "active": "0294b54d855f3432",
   "lastOpenFiles": [
+    "1000-技术/前端/其它/前端工作笔记.md",
     "1000-技术/计算机基础/Linux/WSL基本命令.md",
     "1000-技术/计算机基础/Linux/WSL登录Root.md",
     "1000-技术/计算机基础/Linux/Linxu重命名文件夹和文件.md",
@@ -225,7 +227,6 @@
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
-    "1000-技术/计算机基础/Linux/Debian配置镜像源.md",
-    "1000-技术/项目/开源项目.md"
+    "1000-技术/计算机基础/Linux/Debian配置镜像源.md"
   ]
 }
