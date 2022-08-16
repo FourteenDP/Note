@@ -6,9 +6,7 @@
       "initialized": true
     }
   ],
-  "trackedProjects": [
-    "/"
-  ],
+  "trackedProjects": ["/"],
   "checkpointList": [
     {
       "path": "/",
@@ -297,12 +295,8 @@
           "value": 22
         },
         {
-          "date": "2022-08-09",
-          "value": 4825
-        },
-        {
           "date": "2022-08-10",
-          "value": 586
+          "value": 1959
         },
         {
           "date": "2022-08-12",
