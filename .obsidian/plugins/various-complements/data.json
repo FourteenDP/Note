@@ -43,126 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "gitignore": {
-      "gitignore": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1657783421539
-        }
-      }
-    },
-    "Vuex，关闭页面时数据丢失": {
-      "Vuex，关闭页面时数据丢失": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1657729244668
-        }
-      }
-    },
-    "盘数据迁移到其它盘而不影响原来的文件路径，列如：迁移浏览器缓存": {
-      "盘数据迁移到其它盘而不影响原来的文件路径，列如：迁移浏览器缓存": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657730706375
-        }
-      }
-    },
-    "突破性变更比如：": {
-      "突破性变更比如：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657785732711
-        }
-      }
-    },
-    "分支管理规范": {
-      "分支管理规范": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657786166897
-        }
-      }
-    },
-    "JavaScript（浏览器中的）": {
-      "JavaScript（浏览器中的）": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657853403779
-        }
-      }
-    },
-    "BOM（浏览器对象模型）": {
-      "BOM（浏览器对象模型）": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1657853748739
-        }
-      }
-    },
-    "console": {
-      "console": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657866512350
-        }
-      }
-    },
-    "最好在外部先声明变量": {
-      "最好在外部先声明变量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657868582811
-        }
-      }
-    },
-    "声明的提升": {
-      "声明的提升": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657868999579
-        }
-      }
-    },
-    "undefined": {
-      "undefined": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1657874920255
-        }
-      }
-    },
-    "let跟var的作用差不多，区别在于let声明的范围是块级作用域，var的范围声明的是函数作用域": {
-      "let跟var的作用差不多，区别在于let声明的范围是块级作用域，var的范围声明的是函数作用域": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657869747263
-        }
-      }
-    },
-    "ReferenceError": {
-      "ReferenceError": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657873068143
-        }
-      }
-    },
-    "let，var": {
-      "let，var": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657874953201
-        }
-      }
-    },
-    "SyntaxError，必须确保作用域不会重复声明同一个变量": {
-      "SyntaxError，必须确保作用域不会重复声明同一个变量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1657878361502
-        }
-      }
-    },
     "子系统版本": {
       "子系统版本": {
         "currentFile": {
@@ -256,6 +136,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1660062579934
+        }
+      }
+    },
+    "Style’": {
+      "Style’": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1660482214012
+        }
+      }
+    },
+    "单词卡片": {
+      "单词卡片": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1660483641268
         }
       }
     }
