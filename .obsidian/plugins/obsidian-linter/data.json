@@ -111,6 +111,7 @@
   "lintOnSave": true,
   "displayChanged": true,
   "foldersToIgnore": [
-    "-模板-"
+    "-模板-",
+    "~卡片~"
   ]
 }

@@ -3,7 +3,7 @@ title: Nvm 常用命令
 aliases: 
 tags: 
 date created: 2022-08-12 20:09:03
-date updated: 2022-08-14 10:54:22
+date updated: 2022-08-16 23:23:29
 ---
 
 # Nvm 常用命令
@@ -17,3 +17,5 @@ date updated: 2022-08-14 10:54:22
 - `nvm alias default version` 设置默认「node」版本
 - `nvm current` 显示当前的版本
 - `nvm run version` 运行指定版本
+- `nvm npm_mirror https://npmmirror.com/mirrors/npm` 设置 `npm_mirror`
+- `nvm node_mirror https://npmmirror.com/mirrors/node` 设置 `node_mirror`
