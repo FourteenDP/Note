@@ -7,8 +7,13 @@
         "id": "9b9c55e08a1a829d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/Git忽略文件中的特定行或多行.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -70,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/Git忽略文件中的特定行或多行.md"
+              }
             }
           },
           {
@@ -169,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/Git忽略文件中的特定行或多行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/Git忽略文件中的特定行或多行.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
