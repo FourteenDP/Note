@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "长按",
+                "query": "u",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -215,7 +216,7 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "9b9c55e08a1a829d",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
     "9999-信箱/常用正则表达式.md",
     "conflict-files-obsidian-git.md",
