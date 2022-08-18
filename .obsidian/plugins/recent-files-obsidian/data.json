@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "原型链",
+      "path": "-附件-/原型链.png"
+    },
+    {
+      "basename": "盒子模型",
+      "path": "-附件-/盒子模型.png"
+    },
+    {
+      "basename": "分析Vue2中的Vue与VueComponent的关系",
+      "path": "-附件-/分析Vue2中的Vue与VueComponent的关系.png"
+    },
+    {
+      "basename": "4191a5f8695fa00a6f42af3cc99f906",
+      "path": "-附件-/4191a5f8695fa00a6f42af3cc99f906.png"
+    },
+    {
+      "basename": "CMD终端代理设置环境变量",
+      "path": "-附件-/CMD终端代理设置环境变量.png"
+    },
+    {
+      "basename": "Pasted image 20220715105230",
+      "path": "-附件-/Pasted image 20220715105230.png"
+    },
+    {
       "basename": "UniApp生命周期",
       "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
     },
@@ -175,22 +199,6 @@
     {
       "basename": "前端三大件兼容性查询-Fourteen",
       "path": "1000-技术/前端/前端三大件兼容性查询-Fourteen.md"
-    },
-    {
-      "basename": "前端三大件兼容性查询",
-      "path": "1000-技术/前端/前端三大件兼容性查询.md"
-    },
-    {
-      "basename": "Vue路由Keep-alive实现原理",
-      "path": "1000-技术/前端/Vue/Vue2/Vue路由Keep-alive实现原理.md"
-    },
-    {
-      "basename": "3.3-变量",
-      "path": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
-    },
-    {
-      "basename": "前端三大件兼容性查询",
-      "path": "1000-技术/前端/前端三大件兼容性查询.md"
     }
   ],
   "omittedPaths": [],
