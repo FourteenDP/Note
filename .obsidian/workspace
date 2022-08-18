@@ -12,6 +12,30 @@
             "file": "-附件-/原型链.png"
           }
         }
+      },
+      {
+        "id": "a63441896caf83ec",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "309fc32d8a7d32d0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8cc18f55f62bbac5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -212,7 +236,7 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "9b9c55e08a1a829d",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
     "-附件-/盒子模型.png",
     "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
