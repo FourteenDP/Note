@@ -7,10 +7,8 @@
         "id": "9b9c55e08a1a829d",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "-附件-/原型链.png"
-          }
+          "type": "memos_view",
+          "state": {}
         }
       },
       {
@@ -131,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "-附件-/原型链.png"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/原型链.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/原型链.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -236,8 +230,10 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "877abaaccc8c97ae",
+  "active": "9b9c55e08a1a829d",
   "lastOpenFiles": [
+    "📅任务管理.md",
+    "-附件-/原型链.png",
     "-附件-/盒子模型.png",
     "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
     "-附件-/4191a5f8695fa00a6f42af3cc99f906.png",
@@ -245,8 +241,6 @@
     "-附件-/Pasted image 20220715105230.png",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "~日记~/2022-07-13.md",
-    "9999-信箱/Git忽略文件中的特定行或多行.md",
-    "9999-信箱/常用正则表达式.md",
-    "conflict-files-obsidian-git.md"
+    "9999-信箱/Git忽略文件中的特定行或多行.md"
   ]
 }
