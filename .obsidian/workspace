@@ -4,27 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b9c55e08a1a829d",
+        "id": "c92a2cb2ffa6e7c8",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
-        }
-      },
-      {
-        "id": "309fc32d8a7d32d0",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "8cc18f55f62bbac5",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/未命名.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -121,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/未命名.md"
+              }
             }
           },
           {
@@ -184,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,9 +213,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 416,
+    "collapsed": true
   },
-  "active": "9b9c55e08a1a829d",
+  "active": "c92a2cb2ffa6e7c8",
   "lastOpenFiles": [
     "📚知识博客.md",
     "📅任务管理.md",
