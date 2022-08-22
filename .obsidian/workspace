@@ -15,8 +15,13 @@
         "id": "a63441896caf83ec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚知识博客.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       },
       {
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚知识博客.md"
+              }
             }
           },
           {
@@ -192,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚知识博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📚知识博客.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +239,7 @@
     "direction": "horizontal",
     "width": 416
   },
-  "active": "9b9c55e08a1a829d",
+  "active": "a63441896caf83ec",
   "lastOpenFiles": [
     "📅任务管理.md",
     "-附件-/原型链.png",
