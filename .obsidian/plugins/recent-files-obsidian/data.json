@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
       "basename": "让CSS flex布局最后一行列表左对齐",
       "path": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Flutter开源项目",
       "path": "9999-信箱/Flutter开源项目.md"
-    },
-    {
-      "basename": "实用工具",
-      "path": "9999-信箱/实用工具.md"
     },
     {
       "basename": "其它",

@@ -7,8 +7,13 @@
         "id": "430f67a989f6bbb3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9999-信箱/实用工具.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "软件",
+                "query": "工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/实用工具.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/实用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/实用工具.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +217,7 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "8ed20c26f553db13",
+  "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
     "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
