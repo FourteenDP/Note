@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c92a2cb2ffa6e7c8",
+        "id": "430f67a989f6bbb3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,8 +207,9 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "c92a2cb2ffa6e7c8",
+  "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
+    "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
     "📅任务管理.md",
     "-附件-/原型链.png",
@@ -226,7 +218,6 @@
     "-附件-/4191a5f8695fa00a6f42af3cc99f906.png",
     "-附件-/CMD终端代理设置环境变量.png",
     "-附件-/Pasted image 20220715105230.png",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "~日记~/2022-07-13.md"
+    "1000-技术/前端/UniApp/UniApp生命周期.md"
   ]
 }
