@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "软件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -207,7 +208,7 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "430f67a989f6bbb3",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
     "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
