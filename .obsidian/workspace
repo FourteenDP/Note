@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uniapp顶部",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -216,7 +217,7 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "c92a2cb2ffa6e7c8",
+  "active": "8ed20c26f553db13",
   "lastOpenFiles": [
     "📚知识博客.md",
     "📅任务管理.md",
