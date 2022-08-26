@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
+            "file": "0000-拾肆/想了解编程语言.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniapp顶部",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e4d38c8caee60270",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
+                "file": "0000-拾肆/想了解编程语言.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
+                "file": "0000-拾肆/想了解编程语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
+                "file": "0000-拾肆/想了解编程语言.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,8 +216,10 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "8ed20c26f553db13",
+  "active": "c92a2cb2ffa6e7c8",
   "lastOpenFiles": [
+    "0000-拾肆/想开发的项目.md",
+    "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
     "📅任务管理.md",
     "-附件-/原型链.png",
@@ -226,8 +227,6 @@
     "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
     "-附件-/4191a5f8695fa00a6f42af3cc99f906.png",
     "-附件-/CMD终端代理设置环境变量.png",
-    "-附件-/Pasted image 20220715105230.png",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "~日记~/2022-07-13.md"
+    "-附件-/Pasted image 20220715105230.png"
   ]
 }

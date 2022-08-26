@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "想了解编程语言",
+      "path": "0000-拾肆/想了解编程语言.md"
+    },
+    {
+      "basename": "想开发的项目",
+      "path": "0000-拾肆/想开发的项目.md"
+    },
+    {
       "basename": "让CSS flex布局最后一行列表左对齐",
       "path": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "inpnt框常见样式修改",
       "path": "9999-信箱/inpnt框常见样式修改.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
     }
   ],
   "omittedPaths": [],
