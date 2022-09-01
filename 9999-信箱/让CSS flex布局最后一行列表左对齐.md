@@ -1,9 +1,9 @@
 ---
-title: 让 CSS flex 布局最后一行列表左对齐
+title: 让 CSS Flex 布局最后一行列表左对齐
 aliases: 
 tags: 
 date created: 2022-08-22 16:03:17
-date updated: 2022-08-22 16:04:26
+date updated: 2022-08-22 16:04:31
 ---
 
 # 让 CSS Flex 布局最后一行列表左对齐
