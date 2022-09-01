@@ -195,10 +195,6 @@
     {
       "basename": "node的process.nextTick",
       "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
     }
   ],
   "omittedPaths": [],
