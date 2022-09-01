@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "开源项目",
+      "path": "1000-技术/项目/开源项目.md"
+    },
+    {
       "basename": "实用工具",
       "path": "9999-信箱/实用工具.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
-    },
-    {
-      "basename": "开源项目",
-      "path": "1000-技术/项目/开源项目.md"
     },
     {
       "basename": "让网络空间清朗起来",
