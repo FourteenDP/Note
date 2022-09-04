@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/项目/开源项目.md",
+            "file": "9999-信箱/实用工具.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源项目",
+                "query": "win-vind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "9999-信箱/实用工具.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "9999-信箱/实用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "9999-信箱/实用工具.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +219,8 @@
   },
   "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1000-技术/项目/开源项目.md",
+    "conflict-files-obsidian-git.md",
     "9999-信箱/实用工具.md",
     "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
