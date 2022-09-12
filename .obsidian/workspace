@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00001工作台/uniapp和flutter通信.md",
+            "file": "0001工作台/uniapp和flutter通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00001工作台/uniapp和flutter通信.md"
+                "file": "0001工作台/uniapp和flutter通信.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00001工作台/uniapp和flutter通信.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00001工作台/uniapp和flutter通信.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +219,7 @@
   "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
     "9999-信箱/Flutter开源项目.md",
-    "00001工作台/uniapp和flutter通信.md",
+    "0001工作台/uniapp和flutter通信.md",
     "9999-信箱/实用工具.md",
     "1000-技术/项目/开源项目.md",
     "conflict-files-obsidian-git.md",
