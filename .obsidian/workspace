@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0001工作台/uniapp和flutter通信.md",
+            "file": "1000-技术/项目/开源项目.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kraken",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d38c8caee60270",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,17 +217,17 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "877abaaccc8c97ae",
+  "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
-    "9999-信箱/Flutter开源项目.md",
+    "1000-技术/前端/其它/APP混合开发.md",
     "0001工作台/uniapp和flutter通信.md",
+    "9999-信箱/Flutter开源项目.md",
     "9999-信箱/实用工具.md",
     "1000-技术/项目/开源项目.md",
     "conflict-files-obsidian-git.md",
     "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
     "📚知识博客.md",
     "📅任务管理.md",
-    "-附件-/原型链.png",
-    "-附件-/盒子模型.png"
+    "-附件-/原型链.png"
   ]
 }
