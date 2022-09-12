@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0000-拾肆/想开发的项目.md",
+            "file": "~日记~/2022-06-23.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "项vue3",
+                "query": "注入",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000-拾肆/想开发的项目.md"
+                "file": "~日记~/2022-06-23.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000-拾肆/想开发的项目.md",
+                "file": "~日记~/2022-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000-拾肆/想开发的项目.md",
+                "file": "~日记~/2022-06-23.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,17 +217,17 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "8ed20c26f553db13",
+  "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue3/Vue3组件库.md",
+    "1000-技术/前端/其它/前端工具.md",
+    "~日记~/2022-06-27.md",
+    "0000-拾肆/想开发的项目.md",
     "1000-技术/前端/JavaScript/命名规范.md",
     "1000-技术/项目/开源项目.md",
     "1000-技术/前端/其它/APP混合开发.md",
     "0001工作台/uniapp和flutter通信.md",
     "9999-信箱/Flutter开源项目.md",
-    "9999-信箱/实用工具.md",
-    "conflict-files-obsidian-git.md",
-    "9999-信箱/让CSS flex布局最后一行列表左对齐.md",
-    "📚知识博客.md",
-    "📅任务管理.md"
+    "9999-信箱/实用工具.md"
   ]
 }

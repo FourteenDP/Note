@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-23",
+      "path": "~日记~/2022-06-23.md"
+    },
+    {
+      "basename": "Vue3组件库",
+      "path": "1000-技术/前端/Vue/Vue3/Vue3组件库.md"
+    },
+    {
+      "basename": "前端工具",
+      "path": "1000-技术/前端/其它/前端工具.md"
+    },
+    {
+      "basename": "2022-06-27",
+      "path": "~日记~/2022-06-27.md"
+    },
+    {
       "basename": "想开发的项目",
       "path": "0000-拾肆/想开发的项目.md"
     },
@@ -165,14 +181,6 @@
       "path": "~日记~/2022-06-28.md"
     },
     {
-      "basename": "2022-06-27",
-      "path": "~日记~/2022-06-27.md"
-    },
-    {
-      "basename": "2022-06-23",
-      "path": "~日记~/2022-06-23.md"
-    },
-    {
       "basename": "2022-07-06",
       "path": "~日记~/2022-07-06.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "UniApp和WebView 双向通信",
-      "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     }
   ],
   "omittedPaths": [],
