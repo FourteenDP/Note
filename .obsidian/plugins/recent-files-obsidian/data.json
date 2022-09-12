@@ -5,6 +5,10 @@
       "path": "00001工作台/uniapp和flutter通信.md"
     },
     {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
+    },
+    {
       "basename": "实用工具",
       "path": "9999-信箱/实用工具.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "截图",
       "path": "1000-技术/前端/其它/截图.md"
-    },
-    {
-      "basename": "Flutter开源项目",
-      "path": "9999-信箱/Flutter开源项目.md"
     },
     {
       "basename": "其它",

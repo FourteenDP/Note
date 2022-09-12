@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kraken",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +216,10 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "430f67a989f6bbb3",
+  "active": "877abaaccc8c97ae",
   "lastOpenFiles": [
+    "9999-信箱/Flutter开源项目.md",
+    "00001工作台/uniapp和flutter通信.md",
     "9999-信箱/实用工具.md",
     "1000-技术/项目/开源项目.md",
     "conflict-files-obsidian-git.md",
@@ -225,8 +227,6 @@
     "📚知识博客.md",
     "📅任务管理.md",
     "-附件-/原型链.png",
-    "-附件-/盒子模型.png",
-    "-附件-/分析Vue2中的Vue与VueComponent的关系.png",
-    "-附件-/4191a5f8695fa00a6f42af3cc99f906.png"
+    "-附件-/盒子模型.png"
   ]
 }
