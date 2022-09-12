@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "想开发的项目",
+      "path": "0000-拾肆/想开发的项目.md"
+    },
+    {
+      "basename": "命名规范",
+      "path": "1000-技术/前端/JavaScript/命名规范.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "UniApp和WebView 双向通信",
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
-    },
-    {
-      "basename": "inpnt框常见样式修改",
-      "path": "9999-信箱/inpnt框常见样式修改.md"
     }
   ],
   "omittedPaths": [],
