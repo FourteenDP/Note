@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Vue生命周期",
+      "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
+    },
+    {
+      "basename": "UniApp生命周期",
+      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
+    },
+    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "Pasted image 20220715105230",
       "path": "-附件-/Pasted image 20220715105230.png"
-    },
-    {
-      "basename": "UniApp生命周期",
-      "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
     },
     {
       "basename": "2022-07-13",
@@ -191,14 +199,6 @@
     {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "UniApp和WebView 双向通信",
-      "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
     }
   ],
   "omittedPaths": [],
