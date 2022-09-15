@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "实用工具",
-      "path": "9999-信箱/实用工具.md"
-    },
-    {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
+    },
+    {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
     },
     {
       "basename": "让CSS flex布局最后一行列表左对齐",
