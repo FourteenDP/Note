@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
       "basename": "Linux配置镜像源",
       "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Linux安装内网穿透工具zerotier",
       "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
-    },
-    {
-      "basename": "Linux常用命令",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
     {
       "basename": "Linux 安装卸载 Rust",
