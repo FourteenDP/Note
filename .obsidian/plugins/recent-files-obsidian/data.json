@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux常用命令",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Windows终端设置代理",
       "path": "1000-技术/环境配置/Windows终端设置代理.md"
-    },
-    {
-      "basename": "Linux常用命令",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
     {
       "basename": "Linux配置镜像源",
