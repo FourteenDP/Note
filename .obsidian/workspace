@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
-            "mode": "source",
+            "file": "1000-技术/环境配置/Windows终端设置代理.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zhong'zhuanglinux",
+                "query": "终端代理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+                "file": "1000-技术/环境配置/Windows终端设置代理.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/环境配置/Windows终端设置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令.md",
+                "file": "1000-技术/环境配置/Windows终端设置代理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -217,8 +217,9 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "8ed20c26f553db13",
+  "active": "430f67a989f6bbb3",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
@@ -226,7 +227,6 @@
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "9999-信箱/Linux安装内网穿透工具zerotier.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
     "1000-技术/环境配置/Windows终端设置代理.md"
   ]
