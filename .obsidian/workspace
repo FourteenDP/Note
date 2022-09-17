@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "e4d38c8caee60270",
@@ -216,7 +217,7 @@
     "width": 416,
     "collapsed": true
   },
-  "active": "430f67a989f6bbb3",
+  "active": "46165ddb1970e70d",
   "lastOpenFiles": [
     "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
