@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL 基本命令",
+      "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    },
+    {
+      "basename": "想开发的项目",
+      "path": "0000-拾肆/想开发的项目.md"
+    },
+    {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Linux目录结构和作用",
       "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
-    },
-    {
-      "basename": "WSL 基本命令",
-      "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
     {
       "basename": "WSL 修改默认安装目录到其他盘",
@@ -95,10 +99,6 @@
     {
       "basename": "2022-06-27",
       "path": "~日记~/2022-06-27.md"
-    },
-    {
-      "basename": "想开发的项目",
-      "path": "0000-拾肆/想开发的项目.md"
     },
     {
       "basename": "命名规范",
