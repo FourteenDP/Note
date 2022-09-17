@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
+            "file": "1000-技术/计算机基础/Linux/WSL 基本命令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md"
+                "file": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Linux安装内网穿透工具zerotier.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 基本命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,15 +231,15 @@
   },
   "active": "4815c02413ef5045",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+    "9999-信箱/Linux安装内网穿透工具zerotier.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
     "1000-技术/环境配置/Windows终端设置代理.md",
     "1000-技术/环境配置/Windows创建软连接.md",
     "0001工作台/uniapp和flutter通信.md",
     "1100-设计/字体.md",
-    "1100-设计/颜色.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "9999-信箱/Linux安装内网穿透工具zerotier.md"
+    "1100-设计/颜色.md"
   ]
 }

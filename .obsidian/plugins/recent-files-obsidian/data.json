@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL 基本命令",
+      "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    },
+    {
+      "basename": "WSL 修改默认安装目录到其他盘",
+      "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
+    },
+    {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
       "basename": "Linux安装内网穿透工具zerotier",
       "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
     },
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
     {
       "basename": "Linux 安装卸载 Rust",
@@ -191,14 +199,6 @@
     {
       "basename": "浏览器URL限制",
       "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
-    },
-    {
-      "basename": "浏览器跨域",
-      "path": "1000-技术/前端/浏览器/浏览器跨域.md"
-    },
-    {
-      "basename": "浏览器存储",
-      "path": "1000-技术/前端/浏览器/浏览器存储.md"
     }
   ],
   "omittedPaths": [],
