@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
+    },
+    {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
     {
       "basename": "WSL 修改默认安装目录到其他盘",
       "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
+    },
+    {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     },
     {
       "basename": "Linux 中文环境配置",
@@ -173,10 +185,6 @@
       "path": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
     },
     {
-      "basename": "Linux目录结构和作用",
-      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
-    },
-    {
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "截图",
       "path": "1000-技术/前端/其它/截图.md"
-    },
-    {
-      "basename": "其它",
-      "path": "9999-信箱/其它.md"
-    },
-    {
-      "basename": "浏览器URL限制",
-      "path": "1000-技术/前端/浏览器/浏览器URL限制.md"
     }
   ],
   "omittedPaths": [],
