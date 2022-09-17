@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "字体",
+      "path": "1100-设计/字体.md"
+    },
+    {
+      "basename": "颜色",
+      "path": "1100-设计/颜色.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "✨知识社区",
       "path": "✨知识社区.md"
-    },
-    {
-      "basename": "如何编写好的技术文档",
-      "path": "2000-高效/写作/如何编写好的技术文档.md"
-    },
-    {
-      "basename": "怎么画一条0.5px的线",
-      "path": "9999-信箱/怎么画一条0.5px的线.md"
     }
   ],
   "omittedPaths": [],
