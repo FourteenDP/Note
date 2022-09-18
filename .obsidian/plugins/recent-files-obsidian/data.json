@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "想了解编程语言",
+      "path": "0000-拾肆/想了解编程语言.md"
+    },
+    {
       "basename": "Git 操作规范",
       "path": "1000-技术/前端/工程化/Git 操作规范.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "前端工作笔记",
       "path": "1000-技术/前端/其它/前端工作笔记.md"
-    },
-    {
-      "basename": "CSS选择器参考手册",
-      "path": "1000-技术/前端/HTML&CSS/CSS选择器参考手册.md"
     }
   ],
   "omittedPaths": [],
