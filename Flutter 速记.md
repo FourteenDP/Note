@@ -3,7 +3,7 @@ title: Flutter 速记
 aliases: 
 tags: 
 date created: 2022-09-21 14:11:58
-date updated: 2022-09-21 14:13:05
+date updated: 2022-09-21 14:13:45
 ---
 
 # Flutter 速记
@@ -21,4 +21,4 @@ date updated: 2022-09-21 14:13:05
 - Image_picker
 - File_picker
 - Open_file
-- path_provider
+- Path_provider
