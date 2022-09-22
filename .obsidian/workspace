@@ -7,8 +7,13 @@
         "id": "2d1967eb27bed386",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+              }
             }
           },
           {
@@ -152,6 +162,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ced5d932adb24ea",
-  "lastOpenFiles": []
+  "active": "2d1967eb27bed386",
+  "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+    "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+    "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
+    "1000-技术/前端/其它/前端开发知识点.md",
+    "1000-技术/计算机基础/计算机有那些基础.md",
+    "1000-技术/项目/开源项目.md"
+  ]
 }
