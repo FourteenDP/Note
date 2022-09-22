@@ -3,7 +3,7 @@ title: Flutter 速记
 aliases: 
 tags: 
 date created: 2022-09-21 14:11:58
-date updated: 2022-09-22 11:05:39
+date updated: 2022-09-22 11:14:26
 ---
 
 # Flutter 速记
@@ -25,11 +25,15 @@ date updated: 2022-09-22 11:05:39
 - Dio
 
 ## 变量
+
 类型声明再变量的前面
 类型声明变量 = 变量值
-Var b
-Const 常量初始化时赋值
 
+Object 动态任意类型，**编译阶段**检查类型
+
+Var 没有初始值**可以**变成任何类型
+
+Const 常量初始化时赋值
 
 ## Flutter 生命周期
 
