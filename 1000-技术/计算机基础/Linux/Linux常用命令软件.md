@@ -3,7 +3,7 @@ title: Linux 常用命令软件
 aliases:
 tags:
 date created: 2022-08-09 22:01:59
-date updated: 2022-09-22 22:06:28
+date updated: 2022-09-22 22:08:13
 ---
 
 # Linux 常用命令软件
@@ -18,5 +18,5 @@ date updated: 2022-09-22 22:06:28
 - Zsh: [[Linux安装命令行工具Oh My Zsh]]
 - Zerotier: [[Linux安装内网穿透工具zerotier]]
 - Openssh-server: [[WSL SSH远程连接]]
-- Fzf: 终端文件管理
-- 
+- [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#installation): 终端文件管理
+- [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): vim 模式的终端控制
