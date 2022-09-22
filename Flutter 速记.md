@@ -24,6 +24,11 @@ date updated: 2022-09-22 11:05:39
 - Path_provider
 - Dio
 
+## 变量
+```go
+<type> anme = "ding"
+```
+
 ## Flutter 生命周期
 
 ![[Pasted image 20220922110031.png]]
