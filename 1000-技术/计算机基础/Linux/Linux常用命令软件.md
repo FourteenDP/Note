@@ -18,4 +18,5 @@ date updated: 2022-09-22 22:06:28
 - Zsh: [[Linux安装命令行工具Oh My Zsh]]
 - Zerotier: [[Linux安装内网穿透工具zerotier]]
 - Openssh-server: [[WSL SSH远程连接]]
-- fzf：
+- Fzf: 终端文件管理
+- 
