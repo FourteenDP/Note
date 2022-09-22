@@ -25,9 +25,8 @@ date updated: 2022-09-22 11:05:39
 - Dio
 
 ## 变量
-```go
-<type> anme = "ding"
-```
+类型声明再变量的前面
+类型声明 
 
 ## Flutter 生命周期
 
