@@ -3,7 +3,7 @@ title: Flutter 速记
 aliases: 
 tags: 
 date created: 2022-09-21 14:11:58
-date updated: 2022-09-22 11:14:40
+date updated: 2022-09-22 11:17:16
 ---
 
 # Flutter 速记
@@ -32,6 +32,8 @@ date updated: 2022-09-22 11:14:40
 Object 动态任意类型，**编译阶段**检查类型
 
 Dynamic 动态任意类型，**编译阶段不检查**类型
+
+Late 声明一个不可空的变量，并在声明后初始化
 
 Var 没有初始值**可以**变成任何类型
 
