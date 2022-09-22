@@ -3,7 +3,7 @@ title: Flutter 速记
 aliases: 
 tags: 
 date created: 2022-09-21 14:11:58
-date updated: 2022-09-22 11:17:16
+date updated: 2022-09-22 11:18:05
 ---
 
 # Flutter 速记
@@ -38,6 +38,8 @@ Late 声明一个不可空的变量，并在声明后初始化
 Var 没有初始值**可以**变成任何类型
 
 Const 常量初始化时赋值
+
+Final 后赋值只赋值一次
 
 ## Flutter 生命周期
 
