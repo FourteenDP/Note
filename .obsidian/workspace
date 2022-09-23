@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+            "file": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "e002f4366ba654ca",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+                "file": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
               }
             }
           },
@@ -164,10 +165,10 @@
   },
   "active": "2d1967eb27bed386",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
