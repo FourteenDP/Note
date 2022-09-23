@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
       "basename": "Linux安装命令行工具Oh My Zsh",
       "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
     },
     {
-      "basename": "Linux常用命令软件",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+      "basename": "Linux 安装卸载 Rust",
+      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
+    },
+    {
+      "basename": "Linux安装Node版本管理器Nvm",
+      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
     {
       "basename": "Linux查看硬件和系统信息",
       "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    },
+    {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
       "basename": "Linux常用命令",
@@ -41,24 +53,12 @@
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
     {
-      "basename": "Linux安装Node版本管理器Nvm",
-      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
-    },
-    {
       "basename": "编程范式",
       "path": "1000-技术/计算机基础/编程范式.md"
     },
     {
       "basename": "计算机有那些基础",
       "path": "1000-技术/计算机基础/计算机有那些基础.md"
-    },
-    {
-      "basename": "Linux 安装卸载 Rust",
-      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
     {
       "basename": "前端开发知识点",
