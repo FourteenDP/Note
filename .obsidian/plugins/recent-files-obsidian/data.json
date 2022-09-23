@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机有那些基础",
+      "path": "1000-技术/计算机基础/计算机有那些基础.md"
+    },
+    {
+      "basename": "编程范式",
+      "path": "1000-技术/计算机基础/编程范式.md"
+    },
+    {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+    },
+    {
+      "basename": "Linux 安装卸载 Rust",
+      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
+    },
+    {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
       "basename": "Linux安装命令行工具Oh My Zsh",
       "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
     },
@@ -29,10 +49,6 @@
       "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
     },
     {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
-    },
-    {
       "basename": "WSL 修改默认安装目录到其他盘",
       "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
     },
@@ -45,20 +61,8 @@
       "path": "Linux常用命令软件.md"
     },
     {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
-    },
-    {
-      "basename": "Linux 安装卸载 Rust",
-      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
-    },
-    {
       "basename": "前端开发知识点",
       "path": "1000-技术/前端/其它/前端开发知识点.md"
-    },
-    {
-      "basename": "计算机有那些基础",
-      "path": "1000-技术/计算机基础/计算机有那些基础.md"
     },
     {
       "basename": "开源项目",
