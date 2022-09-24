@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux 中文环境配置",
+      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+    },
+    {
+      "basename": "Linux 安装卸载 Rust",
+      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
+    },
+    {
+      "basename": "Linux安装命令行工具Oh My Zsh",
+      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
+    },
+    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "Linux查看硬件和系统信息",
       "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
-    },
-    {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
-    },
-    {
-      "basename": "Linux 安装卸载 Rust",
-      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
     {
       "basename": "Linux目录结构和作用",
