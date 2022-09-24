@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
-    },
-    {
-      "basename": "WSL 基本命令",
-      "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
-    },
-    {
-      "basename": "WSL  登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
-    },
-    {
-      "basename": "Linux目录结构和作用",
-      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
-    },
-    {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
+    },
+    {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
+      "basename": "WSL  登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    },
+    {
+      "basename": "WSL 基本命令",
+      "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    },
+    {
+      "basename": "WSL SSH远程连接",
+      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+    },
+    {
+      "basename": "WSL 修改默认安装目录到其他盘",
+      "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
     },
     {
       "basename": "Linux查看硬件和系统信息",
@@ -43,14 +51,6 @@
     {
       "basename": "Linux 安装卸载 Rust",
       "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
-    },
-    {
-      "basename": "WSL 修改默认安装目录到其他盘",
-      "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
     },
     {
       "basename": "编程范式",
