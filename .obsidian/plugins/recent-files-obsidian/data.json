@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
@@ -9,20 +17,12 @@
       "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
     },
     {
-      "basename": "Linux配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
-    },
-    {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
     },
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux常用命令软件",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
       "basename": "Linux查看硬件和系统信息",
