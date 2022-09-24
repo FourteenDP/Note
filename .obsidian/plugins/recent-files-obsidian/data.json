@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
+      "basename": "WSL  登录Root",
+      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
+    },
+    {
+      "basename": "Linux配置镜像源",
+      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
+    },
+    {
+      "basename": "Linux目录结构和作用",
+      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
+    },
+    {
       "basename": "Linux安装命令行工具Oh My Zsh",
       "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
     },
@@ -19,22 +35,6 @@
     {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
-    },
-    {
-      "basename": "WSL  登录Root",
-      "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
-    },
-    {
-      "basename": "Linux配置镜像源",
-      "path": "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
-    },
-    {
-      "basename": "Linux目录结构和作用",
-      "path": "1000-技术/计算机基础/Linux/Linux目录结构和作用.md"
-    },
-    {
-      "basename": "Linux常用命令软件",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
       "basename": "Linux常用命令",
