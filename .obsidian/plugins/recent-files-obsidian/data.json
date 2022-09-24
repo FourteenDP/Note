@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux安装命令行工具Oh My Zsh",
+      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
+    },
+    {
       "basename": "Linux 中文环境配置",
       "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Linux安装Node版本管理器Nvm",
       "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
-    },
-    {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
     },
     {
       "basename": "Linux配置镜像源",
