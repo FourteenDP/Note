@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux查看硬件和系统信息",
+      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    },
+    {
+      "basename": "Linux安装Node版本管理器Nvm",
+      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+    },
+    {
       "basename": "Linux安装命令行工具Oh My Zsh",
       "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "Linux常用命令",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux查看硬件和系统信息",
-      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
-    },
-    {
-      "basename": "Linux安装Node版本管理器Nvm",
-      "path": "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
     },
     {
       "basename": "Linux配置镜像源",
