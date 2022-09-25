@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d1967eb27bed386",
+  "active": "d4702f8e5908fc67",
   "lastOpenFiles": [
     "📚知识博客.md",
     "1000-技术/计算机基础/Linux/WSL  登录Root.md",
