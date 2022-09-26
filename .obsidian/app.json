@@ -12,7 +12,7 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "useTab": false,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
