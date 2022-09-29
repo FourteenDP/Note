@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux常用命令软件",
+      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    },
+    {
       "basename": "单词卡片",
       "path": "~卡片~/单词卡片.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "WSL  登录Root",
       "path": "1000-技术/计算机基础/Linux/WSL  登录Root.md"
-    },
-    {
-      "basename": "Linux常用命令软件",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     },
     {
       "basename": "Linux目录结构和作用",
