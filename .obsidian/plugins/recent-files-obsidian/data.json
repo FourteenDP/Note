@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "编程语言",
+      "path": "9999-信箱/编程语言.md"
+    },
+    {
+      "basename": "vue的不同构建版本",
+      "path": "9999-信箱/vue的不同构建版本.md"
+    },
+    {
+      "basename": "Vue 自定义单击双击长按",
+      "path": "9999-信箱/Vue 自定义单击双击长按.md"
+    },
+    {
+      "basename": "Uniapp全局消息提示及其组件的实现",
+      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "package.json 中的坑",
+      "path": "9999-信箱/package.json 中的坑.md"
+    },
+    {
+      "basename": "Nvm常用命令",
+      "path": "9999-信箱/Nvm常用命令.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
       "basename": "Linux安装内网穿透工具zerotier",
       "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
     },
@@ -69,22 +101,6 @@
       "path": "~日记~/2022-08-12.md"
     },
     {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Nvm常用命令",
-      "path": "9999-信箱/Nvm常用命令.md"
-    },
-    {
       "basename": "为什么使用 settimeout 实现 setinterval",
       "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
     },
@@ -93,16 +109,8 @@
       "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
     },
     {
-      "basename": "package.json 中的坑",
-      "path": "9999-信箱/package.json 中的坑.md"
-    },
-    {
       "basename": "Vue2 中的页面数据缓存",
       "path": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md"
-    },
-    {
-      "basename": "Vue 自定义单击双击长按",
-      "path": "9999-信箱/Vue 自定义单击双击长按.md"
     },
     {
       "basename": "2022-09-29",
@@ -191,10 +199,6 @@
     {
       "basename": "WSL 基本命令",
       "path": "1000-技术/计算机基础/Linux/WSL 基本命令.md"
-    },
-    {
-      "basename": "编程范式",
-      "path": "1000-技术/计算机基础/编程范式.md"
     }
   ],
   "omittedPaths": [],
