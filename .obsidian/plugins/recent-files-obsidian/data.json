@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "计算机指令集",
+      "path": "9999-信箱/计算机指令集.md"
+    },
+    {
+      "basename": "镜像站",
+      "path": "9999-信箱/镜像站.md"
+    },
+    {
       "basename": "系统",
       "path": "9999-信箱/系统.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "开源ERP系统",
       "path": "9999-信箱/开源ERP系统.md"
-    },
-    {
-      "basename": "镜像站",
-      "path": "9999-信箱/镜像站.md"
     },
     {
       "basename": "常用正则表达式",
@@ -195,10 +199,6 @@
     {
       "basename": "WSL 修改默认安装目录到其他盘",
       "path": "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
-    },
-    {
-      "basename": "WSL SSH远程连接",
-      "path": "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
     }
   ],
   "omittedPaths": [],
