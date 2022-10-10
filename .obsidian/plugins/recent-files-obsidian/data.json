@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Nvm常用命令",
+      "path": "9999-信箱/Nvm常用命令.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "为什么使用 settimeout 实现 setinterval",
+      "path": "1000-技术/前端/JavaScript/为什么使用 settimeout 实现 setinterval.md"
+    },
+    {
+      "basename": "计算setTimeout和setInterval计时器的误差",
+      "path": "1000-技术/前端/JavaScript/计算setTimeout和setInterval计时器的误差.md"
+    },
+    {
       "basename": "Vue2 中的页面数据缓存",
       "path": "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md"
     },
