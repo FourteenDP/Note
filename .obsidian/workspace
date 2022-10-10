@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000-拾肆/想了解编程语言.md",
+                "file": "9999-信箱/编程语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000-拾肆/想了解编程语言.md",
+                "file": "9999-信箱/编程语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000-拾肆/想了解编程语言.md"
+                "file": "9999-信箱/编程语言.md"
               }
             }
           },
@@ -175,10 +175,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6b2eabd56e569bf",
+  "active": "cd15b26320997419",
   "lastOpenFiles": [
-    "9999-信箱/编程语言.md",
     "0000-拾肆/想了解编程语言.md",
+    "9999-信箱/编程语言.md",
     "0000-拾肆/想开发的项目.md",
     "9999-信箱/vue的不同构建版本.md",
     "9999-信箱/Vue 自定义单击双击长按.md",
