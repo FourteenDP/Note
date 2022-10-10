@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux安装内网穿透工具zerotier",
+      "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
+    },
+    {
+      "basename": "inpnt框常见样式修改",
+      "path": "9999-信箱/inpnt框常见样式修改.md"
+    },
+    {
+      "basename": "image标签图片的白边",
+      "path": "9999-信箱/image标签图片的白边.md"
+    },
+    {
+      "basename": "Git基本操作",
+      "path": "9999-信箱/Git基本操作.md"
+    },
+    {
+      "basename": "Git忽略文件中的特定行或多行",
+      "path": "9999-信箱/Git忽略文件中的特定行或多行.md"
+    },
+    {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
+    },
+    {
+      "basename": "怎么画一条0.5px的线",
+      "path": "9999-信箱/怎么画一条0.5px的线.md"
+    },
+    {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
       "basename": "让CSS flex布局最后一行列表左对齐",
       "path": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
     },
@@ -39,10 +71,6 @@
     {
       "basename": "uni-app $refs初始化失败",
       "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
     },
     {
       "basename": "Uniapp全局消息提示及其组件的实现",
