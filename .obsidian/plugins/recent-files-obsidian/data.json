@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "移动端跨平台开发框架",
+      "path": "9999-信箱/移动端跨平台开发框架.md"
+    },
+    {
+      "basename": "2022-06-23",
+      "path": "~日记~/2022-06-23.md"
+    },
+    {
       "basename": "截图",
       "path": "1000-技术/前端/其它/截图.md"
     },
     {
       "basename": "前端开发知识点",
       "path": "1000-技术/前端/其它/前端开发知识点.md"
-    },
-    {
-      "basename": "移动端跨平台开发框架",
-      "path": "9999-信箱/移动端跨平台开发框架.md"
     },
     {
       "basename": "uniapp和flutter通信",
@@ -195,10 +199,6 @@
     {
       "basename": "Linux 中文环境配置",
       "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
-    },
-    {
-      "basename": "单词卡片",
-      "path": "~卡片~/单词卡片.md"
     }
   ],
   "omittedPaths": [],
