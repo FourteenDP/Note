@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/镜像站.md",
+            "file": "9999-信箱/vue的不同构建版本.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/镜像站.md",
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/镜像站.md",
+                "file": "9999-信箱/vue的不同构建版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/镜像站.md"
+                "file": "9999-信箱/vue的不同构建版本.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "cd15b26320997419",
   "lastOpenFiles": [
-    "9999-信箱/编程语言.md",
-    "9999-信箱/计算机指令集.md",
-    "9999-信箱/数据库.md",
-    "9999-信箱/镜像站.md",
-    "9999-信箱/系统.md",
-    "0000-拾肆/想了解编程语言.md",
-    "0000-拾肆/想开发的项目.md",
-    "9999-信箱/vue的不同构建版本.md",
     "9999-信箱/Vue 自定义单击双击长按.md",
-    "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
+    "9999-信箱/uni-app $refs初始化失败.md",
+    "9999-信箱/inpnt框常见样式修改.md",
+    "9999-信箱/Linux安装内网穿透工具zerotier.md",
+    "9999-信箱/node的process.nextTick.md",
+    "9999-信箱/Nvm常用命令.md",
+    "9999-信箱/package.json 中的坑.md",
+    "9999-信箱/系统.md",
+    "9999-信箱/数据库.md"
   ]
 }
