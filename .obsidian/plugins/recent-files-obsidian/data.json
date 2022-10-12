@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue 自定义单击双击长按",
+      "path": "9999-信箱/Vue 自定义单击双击长按.md"
+    },
+    {
+      "basename": "Uniapp全局消息提示及其组件的实现",
+      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "inpnt框常见样式修改",
+      "path": "9999-信箱/inpnt框常见样式修改.md"
+    },
+    {
+      "basename": "Linux安装内网穿透工具zerotier",
+      "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "Nvm常用命令",
+      "path": "9999-信箱/Nvm常用命令.md"
+    },
+    {
+      "basename": "package.json 中的坑",
+      "path": "9999-信箱/package.json 中的坑.md"
+    },
+    {
+      "basename": "系统",
+      "path": "9999-信箱/系统.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "9999-信箱/数据库.md"
+    },
+    {
+      "basename": "实用工具",
+      "path": "9999-信箱/实用工具.md"
+    },
+    {
+      "basename": "让CSS flex布局最后一行列表左对齐",
+      "path": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
+    },
+    {
+      "basename": "前端ui组件库",
+      "path": "9999-信箱/前端ui组件库.md"
+    },
+    {
+      "basename": "其它",
+      "path": "9999-信箱/其它.md"
+    },
+    {
       "basename": "开源ERP系统",
       "path": "9999-信箱/开源ERP系统.md"
     },
@@ -17,52 +73,12 @@
       "path": "9999-信箱/计算机指令集.md"
     },
     {
-      "basename": "数据库",
-      "path": "9999-信箱/数据库.md"
-    },
-    {
-      "basename": "系统",
-      "path": "9999-信箱/系统.md"
-    },
-    {
       "basename": "想开发的项目",
       "path": "0000-拾肆/想开发的项目.md"
     },
     {
       "basename": "vue的不同构建版本",
       "path": "9999-信箱/vue的不同构建版本.md"
-    },
-    {
-      "basename": "Vue 自定义单击双击长按",
-      "path": "9999-信箱/Vue 自定义单击双击长按.md"
-    },
-    {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
-    },
-    {
-      "basename": "package.json 中的坑",
-      "path": "9999-信箱/package.json 中的坑.md"
-    },
-    {
-      "basename": "Nvm常用命令",
-      "path": "9999-信箱/Nvm常用命令.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Linux安装内网穿透工具zerotier",
-      "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
-    },
-    {
-      "basename": "inpnt框常见样式修改",
-      "path": "9999-信箱/inpnt框常见样式修改.md"
     },
     {
       "basename": "image标签图片的白边",
@@ -83,22 +99,6 @@
     {
       "basename": "怎么画一条0.5px的线",
       "path": "9999-信箱/怎么画一条0.5px的线.md"
-    },
-    {
-      "basename": "实用工具",
-      "path": "9999-信箱/实用工具.md"
-    },
-    {
-      "basename": "让CSS flex布局最后一行列表左对齐",
-      "path": "9999-信箱/让CSS flex布局最后一行列表左对齐.md"
-    },
-    {
-      "basename": "前端ui组件库",
-      "path": "9999-信箱/前端ui组件库.md"
-    },
-    {
-      "basename": "其它",
-      "path": "9999-信箱/其它.md"
     },
     {
       "basename": "常用正则表达式",
