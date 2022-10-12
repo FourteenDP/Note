@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "编程语言",
-      "path": "9999-信箱/编程语言.md"
+      "basename": "开源ERP系统",
+      "path": "9999-信箱/开源ERP系统.md"
     },
     {
-      "basename": "数据库",
-      "path": "9999-信箱/数据库.md"
+      "basename": "镜像站",
+      "path": "9999-信箱/镜像站.md"
+    },
+    {
+      "basename": "编程语言",
+      "path": "9999-信箱/编程语言.md"
     },
     {
       "basename": "计算机指令集",
       "path": "9999-信箱/计算机指令集.md"
     },
     {
-      "basename": "镜像站",
-      "path": "9999-信箱/镜像站.md"
+      "basename": "数据库",
+      "path": "9999-信箱/数据库.md"
     },
     {
       "basename": "系统",
@@ -95,10 +99,6 @@
     {
       "basename": "其它",
       "path": "9999-信箱/其它.md"
-    },
-    {
-      "basename": "开源ERP系统",
-      "path": "9999-信箱/开源ERP系统.md"
     },
     {
       "basename": "常用正则表达式",
