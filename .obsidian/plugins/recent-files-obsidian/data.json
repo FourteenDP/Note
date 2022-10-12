@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Flutter 速记",
+      "path": "0001工作台/Flutter 速记.md"
+    },
+    {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
+    },
+    {
+      "basename": "uniapp和flutter通信",
+      "path": "0001工作台/uniapp和flutter通信.md"
+    },
+    {
+      "basename": "UniApp和WebView 双向通信",
+      "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
+    },
+    {
       "basename": "UniApp生命周期.drawio",
       "path": "-附件-/drawio/UniApp生命周期.drawio.svg"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "UniApp开源组件",
       "path": "1000-技术/前端/UniApp/UniApp开源组件.md"
-    },
-    {
-      "basename": "UniApp和WebView 双向通信",
-      "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
-    },
-    {
-      "basename": "uniapp和flutter通信",
-      "path": "0001工作台/uniapp和flutter通信.md"
     },
     {
       "basename": "uni-app $refs初始化失败",
@@ -117,10 +125,6 @@
       "path": "9999-信箱/Git忽略文件中的特定行或多行.md"
     },
     {
-      "basename": "Flutter开源项目",
-      "path": "9999-信箱/Flutter开源项目.md"
-    },
-    {
       "basename": "怎么画一条0.5px的线",
       "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "2000-高效/学习/笔记方法.md"
-    },
-    {
-      "basename": "如何编写好的技术文档",
-      "path": "2000-高效/写作/如何编写好的技术文档.md"
     }
   ],
   "omittedPaths": [],
