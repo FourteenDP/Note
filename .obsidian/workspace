@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0001工作台/uniapp和flutter通信.md",
+            "file": "9999-信箱/移动端跨平台开发框架.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:flutter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md",
+                "file": "9999-信箱/移动端跨平台开发框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md",
+                "file": "9999-信箱/移动端跨平台开发框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001工作台/uniapp和flutter通信.md"
+                "file": "9999-信箱/移动端跨平台开发框架.md"
               }
             }
           },
@@ -164,9 +164,9 @@
   },
   "active": "cd15b26320997419",
   "lastOpenFiles": [
+    "0001工作台/uniapp和flutter通信.md",
     "0001工作台/Flutter 速记.md",
     "9999-信箱/Flutter开源项目.md",
-    "0001工作台/uniapp和flutter通信.md",
     "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
