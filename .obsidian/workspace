@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0001工作台/Flutter 速记.md",
+            "file": "0001工作台/uniapp和flutter通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001工作台/Flutter 速记.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001工作台/Flutter 速记.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001工作台/Flutter 速记.md"
+                "file": "0001工作台/uniapp和flutter通信.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "cd15b26320997419",
   "lastOpenFiles": [
+    "0001工作台/Flutter 速记.md",
     "9999-信箱/Flutter开源项目.md",
     "0001工作台/uniapp和flutter通信.md",
     "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
@@ -172,7 +173,6 @@
     "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
     "1000-技术/前端/UniApp/UniApp开源组件.md",
     "9999-信箱/uni-app $refs初始化失败.md",
-    "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
-    "9999-信箱/vue的不同构建版本.md"
+    "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md"
   ]
 }
