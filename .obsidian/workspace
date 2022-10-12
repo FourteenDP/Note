@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9999-信箱/vue的不同构建版本.md",
+            "file": "0001工作台/uniapp和flutter通信.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:uni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md",
+                "file": "0001工作台/uniapp和flutter通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/vue的不同构建版本.md"
+                "file": "0001工作台/uniapp和flutter通信.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "cd15b26320997419",
   "lastOpenFiles": [
-    "9999-信箱/Vue 自定义单击双击长按.md",
+    "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md",
+    "-附件-/drawio/UniApp生命周期.drawio.svg",
+    "1000-技术/前端/UniApp/UniApp生命周期.md",
     "9999-信箱/Uniapp全局消息提示及其组件的实现.md",
+    "0001工作台/uniapp和flutter通信.md",
     "9999-信箱/uni-app $refs初始化失败.md",
-    "9999-信箱/inpnt框常见样式修改.md",
-    "9999-信箱/Linux安装内网穿透工具zerotier.md",
-    "9999-信箱/node的process.nextTick.md",
-    "9999-信箱/Nvm常用命令.md",
-    "9999-信箱/package.json 中的坑.md",
-    "9999-信箱/系统.md",
-    "9999-信箱/数据库.md"
+    "1000-技术/前端/UniApp/通过Vue-cli创建UniApp-Vue2项目.md",
+    "9999-信箱/vue的不同构建版本.md",
+    "9999-信箱/Vue 自定义单击双击长按.md",
+    "9999-信箱/inpnt框常见样式修改.md"
   ]
 }
