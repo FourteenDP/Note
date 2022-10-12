@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "移动端跨平台开发框架",
+      "path": "9999-信箱/移动端跨平台开发框架.md"
+    },
+    {
       "basename": "uniapp和flutter通信",
       "path": "0001工作台/uniapp和flutter通信.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "记忆方法",
       "path": "2000-高效/学习/记忆方法.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "2000-高效/学习/笔记方法.md"
     }
   ],
   "omittedPaths": [],
