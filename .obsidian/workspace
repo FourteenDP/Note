@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "移动端",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd15b26320997419",
+  "active": "e21b190d34945961",
   "lastOpenFiles": [
     "~日记~/2022-06-23.md",
     "1000-技术/前端/其它/截图.md",
