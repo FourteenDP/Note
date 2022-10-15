@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "字体",
+      "path": "1100-设计/字体.md"
+    },
+    {
+      "basename": "颜色",
+      "path": "1100-设计/颜色.md"
+    },
+    {
+      "basename": "辞职通知-邓某某-范文",
+      "path": "0000-拾肆/辞职通知-邓某某-范文.md"
+    },
+    {
+      "basename": "防脱生发",
+      "path": "0000-拾肆/防脱生发.md"
+    },
+    {
+      "basename": "感兴趣的事物",
+      "path": "0000-拾肆/感兴趣的事物.md"
+    },
+    {
+      "basename": "想开发的项目",
+      "path": "0000-拾肆/想开发的项目.md"
+    },
+    {
       "basename": "编程语言",
       "path": "9999-信箱/编程语言.md"
+    },
+    {
+      "basename": "node的process.nextTick",
+      "path": "9999-信箱/node的process.nextTick.md"
+    },
+    {
+      "basename": "Nvm常用命令",
+      "path": "9999-信箱/Nvm常用命令.md"
+    },
+    {
+      "basename": "uni-app $refs初始化失败",
+      "path": "9999-信箱/uni-app $refs初始化失败.md"
+    },
+    {
+      "basename": "前端开发知识点",
+      "path": "1000-技术/前端/其它/前端开发知识点.md"
+    },
+    {
+      "basename": "截图",
+      "path": "1000-技术/前端/其它/截图.md"
+    },
+    {
+      "basename": "uniapp和flutter通信",
+      "path": "0001工作台/uniapp和flutter通信.md"
+    },
+    {
+      "basename": "Uniapp全局消息提示及其组件的实现",
+      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
+    },
+    {
+      "basename": "怎么画一条0.5px的线",
+      "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
     {
       "basename": "移动端跨平台开发框架",
@@ -11,18 +67,6 @@
     {
       "basename": "2022-06-23",
       "path": "~日记~/2022-06-23.md"
-    },
-    {
-      "basename": "截图",
-      "path": "1000-技术/前端/其它/截图.md"
-    },
-    {
-      "basename": "前端开发知识点",
-      "path": "1000-技术/前端/其它/前端开发知识点.md"
-    },
-    {
-      "basename": "uniapp和flutter通信",
-      "path": "0001工作台/uniapp和flutter通信.md"
     },
     {
       "basename": "Flutter 速记",
@@ -45,16 +89,8 @@
       "path": "1000-技术/前端/UniApp/UniApp生命周期.md"
     },
     {
-      "basename": "Uniapp全局消息提示及其组件的实现",
-      "path": "9999-信箱/Uniapp全局消息提示及其组件的实现.md"
-    },
-    {
       "basename": "UniApp开源组件",
       "path": "1000-技术/前端/UniApp/UniApp开源组件.md"
-    },
-    {
-      "basename": "uni-app $refs初始化失败",
-      "path": "9999-信箱/uni-app $refs初始化失败.md"
     },
     {
       "basename": "通过Vue-cli创建UniApp-Vue2项目",
@@ -75,14 +111,6 @@
     {
       "basename": "Linux安装内网穿透工具zerotier",
       "path": "9999-信箱/Linux安装内网穿透工具zerotier.md"
-    },
-    {
-      "basename": "node的process.nextTick",
-      "path": "9999-信箱/node的process.nextTick.md"
-    },
-    {
-      "basename": "Nvm常用命令",
-      "path": "9999-信箱/Nvm常用命令.md"
     },
     {
       "basename": "package.json 中的坑",
@@ -125,10 +153,6 @@
       "path": "9999-信箱/计算机指令集.md"
     },
     {
-      "basename": "想开发的项目",
-      "path": "0000-拾肆/想开发的项目.md"
-    },
-    {
       "basename": "image标签图片的白边",
       "path": "9999-信箱/image标签图片的白边.md"
     },
@@ -139,10 +163,6 @@
     {
       "basename": "Git忽略文件中的特定行或多行",
       "path": "9999-信箱/Git忽略文件中的特定行或多行.md"
-    },
-    {
-      "basename": "怎么画一条0.5px的线",
-      "path": "9999-信箱/怎么画一条0.5px的线.md"
     },
     {
       "basename": "常用正则表达式",
@@ -179,26 +199,6 @@
     {
       "basename": "Linux常用命令软件",
       "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
-    },
-    {
-      "basename": "Linux常用命令",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux查看硬件和系统信息",
-      "path": "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
-    },
-    {
-      "basename": "Linux安装命令行工具Oh My Zsh",
-      "path": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
-    },
-    {
-      "basename": "Linux 安装卸载 Rust",
-      "path": "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
-    },
-    {
-      "basename": "Linux 中文环境配置",
-      "path": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
     }
   ],
   "omittedPaths": [],
