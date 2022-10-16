@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "编程语言",
+      "path": "1000-技术/编程语言.md"
+    },
+    {
+      "basename": "技术文档",
+      "path": "1000-技术/技术文档.md"
+    },
+    {
       "basename": "计算机有那些基础",
       "path": "1000-技术/计算机基础/计算机有那些基础.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "想开发的项目",
       "path": "0000-拾肆/想开发的项目.md"
-    },
-    {
-      "basename": "编程语言",
-      "path": "9999-信箱/编程语言.md"
     },
     {
       "basename": "node的process.nextTick",
@@ -195,10 +199,6 @@
     {
       "basename": "开源项目",
       "path": "1000-技术/项目/开源项目.md"
-    },
-    {
-      "basename": "Linux常用命令软件",
-      "path": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
     }
   ],
   "omittedPaths": [],
