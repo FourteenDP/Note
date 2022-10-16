@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1000-技术/编程语言.md",
+            "file": "1000-技术/技术文档.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/编程语言.md",
+                "file": "1000-技术/技术文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/编程语言.md",
+                "file": "1000-技术/技术文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/编程语言.md"
+                "file": "1000-技术/技术文档.md"
               }
             }
           },
@@ -162,12 +162,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4702f8e5908fc67",
+  "active": "e21b190d34945961",
   "lastOpenFiles": [
+    "1000-技术/编程语言.md",
     "1000-技术/计算机指令集.md",
     "1000-技术/系统.md",
     "1000-技术/数据库.md",
-    "1000-技术/编程语言.md",
     "1000-技术/技术文档.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "1100-设计/字体.md",
