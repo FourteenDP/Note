@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "测试",
+                "query": "数据结构",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd15b26320997419",
+  "active": "e21b190d34945961",
   "lastOpenFiles": [
     "1100-设计/颜色.md",
     "0000-拾肆/辞职通知-邓某某-范文.md",
