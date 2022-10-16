@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1100-设计/字体.md",
+            "file": "1000-技术/计算机基础/计算机有那些基础.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1100-设计/字体.md",
+                "file": "1000-技术/计算机基础/计算机有那些基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1100-设计/字体.md",
+                "file": "1000-技术/计算机基础/计算机有那些基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1100-设计/字体.md"
+                "file": "1000-技术/计算机基础/计算机有那些基础.md"
               }
             }
           },
@@ -162,8 +162,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e21b190d34945961",
+  "active": "cd15b26320997419",
   "lastOpenFiles": [
+    "1100-设计/字体.md",
     "1100-设计/颜色.md",
     "0000-拾肆/辞职通知-邓某某-范文.md",
     "0000-拾肆/防脱生发.md",
@@ -172,7 +173,6 @@
     "9999-信箱/编程语言.md",
     "9999-信箱/node的process.nextTick.md",
     "9999-信箱/Nvm常用命令.md",
-    "9999-信箱/uni-app $refs初始化失败.md",
-    "1000-技术/前端/其它/前端开发知识点.md"
+    "9999-信箱/uni-app $refs初始化失败.md"
   ]
 }
