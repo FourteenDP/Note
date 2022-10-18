@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd15b26320997419",
+  "active": "d4702f8e5908fc67",
   "lastOpenFiles": [
     "1000-技术/技术文档.md",
     "1000-技术/编程语言.md",
