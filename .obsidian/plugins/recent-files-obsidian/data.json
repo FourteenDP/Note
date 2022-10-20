@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "语言学习-游戏",
+      "path": "1000-技术/语言/语言学习实践/语言学习-游戏.md"
+    },
+    {
+      "basename": "笔记方法",
+      "path": "2000-高效/学习/笔记方法.md"
+    },
+    {
       "basename": "Vue生命周期",
       "path": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "镜像站",
       "path": "9999-信箱/镜像站.md"
-    },
-    {
-      "basename": "image标签图片的白边",
-      "path": "9999-信箱/image标签图片的白边.md"
-    },
-    {
-      "basename": "Git基本操作",
-      "path": "9999-信箱/Git基本操作.md"
     }
   ],
   "omittedPaths": [],
