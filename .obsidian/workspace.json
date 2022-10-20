@@ -4,23 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3077122a39715310",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f87f940a6a4ce924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚知识博客.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "169b5e4ec4dda9c3",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "17c60086d77a3170",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚知识博客.md",
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚知识博客.md"
+                "file": "1000-技术/前端/Vue/Vue2/Vue生命周期.md"
               }
             }
           },
@@ -167,23 +169,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f87f940a6a4ce924",
+  "active": "17c60086d77a3170",
   "lastOpenFiles": [
+    "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
+    "~日记~/2022-06-09.md",
+    "README.md",
+    "📚知识博客.md",
     "📅任务管理.md",
     "✨知识社区.md",
     "~日记~/2022-10-20.md",
     "1000-技术/计算机基础/计算机有那些基础.md",
     "1000-技术/计算机基础/编程范式.md",
-    "1000-技术/编程语言.md",
-    "1000-技术/技术文档.md",
-    "1000-技术/计算机指令集.md",
-    "1000-技术/系统.md",
-    "1000-技术/数据库.md"
+    "1000-技术/编程语言.md"
   ]
 }
