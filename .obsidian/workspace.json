@@ -11,8 +11,13 @@
             "id": "71cfcc7e859f7e4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9999-信箱/Flutter开源项目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9999-信箱/Flutter开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9999-信箱/Flutter开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9999-信箱/Flutter开源项目.md"
+              }
             }
           },
           {
@@ -165,6 +174,7 @@
   },
   "active": "71cfcc7e859f7e4d",
   "lastOpenFiles": [
+    "9999-信箱/开源ERP系统.md",
     "1000-技术/语言/语言学习实践/语言学习-游戏.md",
     "2000-高效/学习/笔记方法.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
@@ -173,7 +183,6 @@
     "README.md",
     "📚知识博客.md",
     "📅任务管理.md",
-    "✨知识社区.md",
-    "~日记~/2022-10-20.md"
+    "✨知识社区.md"
   ]
 }

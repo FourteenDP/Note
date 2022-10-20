@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Flutter开源项目",
+      "path": "9999-信箱/Flutter开源项目.md"
+    },
+    {
+      "basename": "开源ERP系统",
+      "path": "9999-信箱/开源ERP系统.md"
+    },
+    {
       "basename": "语言学习-游戏",
       "path": "1000-技术/语言/语言学习实践/语言学习-游戏.md"
     },
@@ -133,10 +141,6 @@
       "path": "0001工作台/Flutter 速记.md"
     },
     {
-      "basename": "Flutter开源项目",
-      "path": "9999-信箱/Flutter开源项目.md"
-    },
-    {
       "basename": "UniApp和WebView 双向通信",
       "path": "1000-技术/前端/UniApp/UniApp和WebView 双向通信.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "其它",
       "path": "9999-信箱/其它.md"
-    },
-    {
-      "basename": "开源ERP系统",
-      "path": "9999-信箱/开源ERP系统.md"
     },
     {
       "basename": "镜像站",
