@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "编程语言",
+      "path": "1000-技术/编程语言.md"
+    },
+    {
       "basename": "Flutter开源项目",
       "path": "9999-信箱/Flutter开源项目.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "编程范式",
       "path": "1000-技术/计算机基础/编程范式.md"
-    },
-    {
-      "basename": "编程语言",
-      "path": "1000-技术/编程语言.md"
     },
     {
       "basename": "技术文档",

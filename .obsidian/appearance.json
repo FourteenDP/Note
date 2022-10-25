@@ -9,7 +9,5 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "",
-  "accentColor": "",
-  "nativeMenus": true
+  "monospaceFontFamily": ""
 }
