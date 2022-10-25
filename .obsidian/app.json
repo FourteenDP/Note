@@ -1,4 +1,6 @@
 {
+  "accentColor": "",
+  "nativeMenus": true,
   "legacyEditor": false,
   "livePreview": true,
   "trashOption": "local",
