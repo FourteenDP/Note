@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6d335b7e43dd86b4",
+        "id": "5b323645b797e52a",
         "type": "tabs",
         "children": [
           {
-            "id": "64708147d40c5355",
+            "id": "c7aaff7ed10f1677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1100-设计/颜色.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1100-设计/颜色.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1100-设计/颜色.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,27 +126,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1100-设计/颜色.md"
+                "file": "README.md"
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e5703e4b313c0652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a13f81406e6b9d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "64708147d40c5355",
+  "active": "c7aaff7ed10f1677",
   "lastOpenFiles": [
-    "1100-设计/字体.md",
+    "📚知识博客.md",
+    "README.md",
+    "📅任务管理.md",
+    "9999-信箱/实用工具.md",
+    "9999-信箱/未命名.md",
     "1100-设计/颜色.md",
+    "1100-设计/字体.md",
     "~日记~/2022-08-16.md",
     "~日记~/2022-09-29.md",
-    "~日记~/2022-08-12.md",
-    "~日记~/2022-07-01.md"
+    "~日记~/2022-08-12.md"
   ]
 }
