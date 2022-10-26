@@ -1,10 +1,10 @@
 {
   "baseFontSize": 26,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "FD Theme"
   ],
-  "translucency": true,
+  "translucency": false,
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
