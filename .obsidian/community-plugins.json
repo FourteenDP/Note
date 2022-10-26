@@ -1,5 +1,6 @@
 [
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-activity-history"
+  "obsidian-activity-history",
+  "obsidian-linter"
 ]
