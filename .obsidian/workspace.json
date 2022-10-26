@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35a67ef47f2d876e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,27 +132,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e5703e4b313c0652",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a13f81406e6b9d4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,13 +145,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c7aaff7ed10f1677",
+  "active": "e8213c75782efa7d",
   "lastOpenFiles": [
-    "📅任务管理.md",
+    "9999-信箱/你的事.md",
     "README.md",
+    "📅任务管理.md",
     "📚知识博客.md",
     "9999-信箱/实用工具.md",
-    "9999-信箱/未命名.md",
     "1100-设计/颜色.md",
     "1100-设计/字体.md",
     "~日记~/2022-08-16.md",
