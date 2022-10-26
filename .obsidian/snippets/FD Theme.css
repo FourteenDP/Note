@@ -1,6 +1,6 @@
 :root {
   --default-font: "微软雅黑";
-  --code-font: "Fira Code Retina", var(--default-font);
+  --code-font: "FiraCode NF Retina", var(--default-font);
   --header-font: var(--default-font);
   --header-weight: 800;
   --h1: 2.25em;
