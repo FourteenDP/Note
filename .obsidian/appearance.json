@@ -1,15 +1,3 @@
 {
-  "baseFontSize": 26,
-  "cssTheme": "",
-  "enabledCssSnippets": [
-    "FD Theme"
-  ],
-  "translucency": false,
-  "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "baseFontSizeAction": true,
-  "monospaceFontFamily": "",
-  "accentColor": "",
-  "nativeMenus": true
+  "accentColor": ""
 }

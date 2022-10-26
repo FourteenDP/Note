@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "f6c481d6d9a2d4f6",
+    "id": "6c5d1bbcb1637d3d",
     "type": "split",
     "children": [
       {
-        "id": "d862c42fd9f8cf34",
+        "id": "6d335b7e43dd86b4",
         "type": "tabs",
         "children": [
           {
-            "id": "71cfcc7e859f7e4d",
+            "id": "64708147d40c5355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md",
+                "file": "1100-设计/颜色.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,23 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0752e81f28d171d9",
+    "id": "6a8ae7e61a594bdb",
     "type": "split",
     "children": [
       {
-        "id": "aaee234490d3fa55",
+        "id": "8d92aed2dc15c57a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a21d65ac103dd9b",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4702f8e5908fc67",
+            "id": "dddccc43b1ddcfa0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +43,12 @@
             }
           },
           {
-            "id": "e21b190d34945961",
+            "id": "8a509d2ee91053df",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:编程语言",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,35 +58,34 @@
             }
           },
           {
-            "id": "919c69f8ff96bde1",
+            "id": "ae5f304f79dbb367",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 232.5
   },
   "right": {
-    "id": "e002f4366ba654ca",
+    "id": "dc8c5cdc3bbc7097",
     "type": "split",
     "children": [
       {
-        "id": "cd8155c63118904d",
+        "id": "a413aca8ca5d269f",
         "type": "tabs",
         "children": [
           {
-            "id": "b281c3e78322192c",
+            "id": "f3885687e4b8d8da",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md",
+                "file": "1100-设计/颜色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,19 +97,19 @@
             }
           },
           {
-            "id": "d309a9fae8841f4a",
+            "id": "017fe48998258696",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md",
+                "file": "1100-设计/颜色.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cb857bdfab97b071",
+            "id": "e8213c75782efa7d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,51 +120,32 @@
             }
           },
           {
-            "id": "e7efcee209369b11",
+            "id": "c22d86fa1149abd1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/Flutter开源项目.md"
+                "file": "1100-设计/颜色.md"
               }
-            }
-          },
-          {
-            "id": "6749fe22d54a8539",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ced5d932adb24ea",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "71cfcc7e859f7e4d",
+  "active": "64708147d40c5355",
   "lastOpenFiles": [
-    "9999-信箱/开源ERP系统.md",
-    "1000-技术/语言/语言学习实践/语言学习-游戏.md",
-    "2000-高效/学习/笔记方法.md",
-    "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
-    "1000-技术/前端/Vue/Vue2/Vue2 中的页面数据缓存.md",
-    "~日记~/2022-06-09.md",
-    "README.md",
-    "📚知识博客.md",
-    "📅任务管理.md",
-    "✨知识社区.md"
+    "1100-设计/字体.md",
+    "1100-设计/颜色.md",
+    "~日记~/2022-08-16.md",
+    "~日记~/2022-09-29.md",
+    "~日记~/2022-08-12.md",
+    "~日记~/2022-07-01.md"
   ]
 }
