@@ -90,14 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c54659e65fc0f119",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "b281c3e78322192c",
             "type": "leaf",
             "state": {
