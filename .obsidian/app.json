@@ -1,27 +1,17 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-GB"
+  ],
+  "tabSize": 4,
+  "vimMode": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "communityThemeSortOrder": "download",
-  "strictLineBreaks": true,
-  "foldHeading": true,
-  "foldIndent": true,
-  "showLineNumber": false,
-  "rightToLeft": false,
-  "spellcheck": true,
-  "spellcheckLanguages": null,
-  "useTab": false,
-  "vimMode": true,
   "newFileLocation": "folder",
+  "newFileFolderPath": "9999-信箱",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
-  "promptDelete": true,
-  "fileSortOrder": "alphabetical",
-  "communityPluginSortOrder": "download",
-  "readableLineLength": true,
-  "tabSize": 2,
-  "userIgnoreFilters": null,
-  "newFileFolderPath": "9999-信箱",
-  "defaultViewMode": "source"
+  "userIgnoreFilters": null
 }
