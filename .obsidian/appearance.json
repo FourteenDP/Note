@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "",
+  "baseFontSize": 26,
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "FD Theme"
   ],
