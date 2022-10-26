@@ -4,10 +4,12 @@
   "enabledCssSnippets": [
     "FD Theme"
   ],
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "accentColor": "",
+  "nativeMenus": true
 }
