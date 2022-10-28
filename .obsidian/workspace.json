@@ -27,19 +27,6 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fbd073283deba1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/后端常见分层.md"
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md"
               }
             }
           }
@@ -161,7 +148,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c2291bdb23b8c899",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
     "-附件-/drawio/后端常见分层.svg",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
