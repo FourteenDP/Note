@@ -73,37 +73,37 @@
       "Heading levels should only increment by one level at a time": true
     },
     "Footnote after Punctuation": {
-      "Ensures that footnote references are placed after punctuation, not before.": true
+      "Ensures that footnote references are placed after punctuation, not before.": false
     },
     "Move Footnotes to the bottom": {
-      "Move all footnotes to the bottom of the document.": true
+      "Move all footnotes to the bottom of the document.": false
     },
     "Re-Index Footnotes": {
-      "Re-indexes footnote keys and footnote, based on the order of occurrence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": true
+      "Re-indexes footnote keys and footnote, based on the order of occurrence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
     },
     "Convert Bullet List Markers": {
-      "Converts common bullet list marker symbols to markdown list markers.": true
+      "Converts common bullet list marker symbols to markdown list markers.": false
     },
     "Emphasis Style": {
-      "Makes sure the emphasis style is consistent.": true,
+      "Makes sure the emphasis style is consistent.": false,
       "Style": "consistent"
     },
     "No Bare URLs": {
-      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": true
+      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": false
     },
     "Ordered List Style": {
-      "Makes sure that ordered lists follow the style specified. Note that 2 spaces or 1 tab is considered to be an indentation level.": true,
+      "Makes sure that ordered lists follow the style specified. Note that 2 spaces or 1 tab is considered to be an indentation level.": false,
       "Number Style": "ascending",
       "Ordered List Indicator End Style": "."
     },
     "Proper Ellipsis": {
-      "Replaces three consecutive dots with an ellipsis.": true
+      "Replaces three consecutive dots with an ellipsis.": false
     },
     "Remove Consecutive List Markers": {
-      "Removes consecutive list markers. Useful when copy-pasting list items.": true
+      "Removes consecutive list markers. Useful when copy-pasting list items.": false
     },
     "Remove Empty List Markers": {
-      "Removes empty list markers, i.e. list items without content.": true
+      "Removes empty list markers, i.e. list items without content.": false
     },
     "Remove Hyphenated Line Breaks": {
       "Removes hyphenated line breaks. Useful when pasting text from textbooks.": true
@@ -123,14 +123,14 @@
       "List item style": "consistent"
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": true,
-      "Inner New Lines": true
+      "Removes leading and trailing blank lines in the YAML front matter.": false,
+      "Inner New Lines": false
     },
     "Consecutive blank lines": {
-      "There should be at most one consecutive blank line.": true
+      "There should be at most one consecutive blank line.": false
     },
     "Convert Spaces to Tabs": {
-      "Converts leading spaces to tabs.": false,
+      "Converts leading spaces to tabs.": true,
       "Tabsize": 4
     },
     "Empty Line Around Blockquotes": {
@@ -144,8 +144,8 @@
     },
     "Heading blank lines": {
       "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": false,
-      "Bottom": true,
-      "Empty Line Between Yaml and Header": true
+      "Bottom": false,
+      "Empty Line Between Yaml and Header": false
     },
     "Line Break at Document End": {
       "Ensures that there is exactly one line break at the end of a document.": false
