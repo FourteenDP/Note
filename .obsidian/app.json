@@ -13,5 +13,6 @@
   "newFileFolderPath": "9999-信箱",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "promptDelete": true
 }
