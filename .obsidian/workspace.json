@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/后端常见分层.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "71683c13e862543c",
   "lastOpenFiles": [
+    "9999-信箱/后端常见分层.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "-附件-/Vue生命周期.png",
@@ -150,7 +151,6 @@
     "9999-信箱/开源ERP系统.md",
     "9999-信箱/你的事.md",
     "📅任务管理.md",
-    "📚知识博客.md",
-    "9999-信箱/实用工具.md"
+    "📚知识博客.md"
   ]
 }
