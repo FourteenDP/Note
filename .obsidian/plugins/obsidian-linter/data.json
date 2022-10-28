@@ -44,33 +44,33 @@
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,
       "Date Created": true,
       "Date Created Key": "date created",
-      "Date Modified": true,
+      "Date Modified": false,
       "Date Modified Key": "date modified",
       "Format": ""
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
       "Title Key": "title"
     },
     "YAML Title Alias": {
-      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": true,
+      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
       "YAML aliases section style": "Multi-line array",
-      "Preserve existing aliases section style": true,
-      "Keep alias that matches the filename": true,
-      "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
+      "Preserve existing aliases section style": false,
+      "Keep alias that matches the filename": false,
+      "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": false
     },
     "Capitalize Headings": {
-      "Headings should be formatted with capitalization": true,
+      "Headings should be formatted with capitalization": false,
       "Style": "Title Case",
-      "Ignore Cased Words": true,
+      "Ignore Cased Words": false,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "File Name Heading": {
-      "Inserts the file name as a H1 heading if no H1 heading exists.": true
+      "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": true
+      "Heading levels should only increment by one level at a time": false
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": false
