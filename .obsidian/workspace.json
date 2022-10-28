@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/后端常见分层.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "c2291bdb23b8c899",
   "lastOpenFiles": [
+    "9999-信箱/后端常见分层.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "-附件-/drawio/后端常见分层.svg",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
-    "9999-信箱/后端常见分层.md",
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "README.md",
     "-附件-/Vue生命周期.png",
