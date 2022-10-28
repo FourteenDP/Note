@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅任务管理.md"
+                "file": "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "c2291bdb23b8c899",
   "lastOpenFiles": [
+    "📅任务管理.md",
     "README.md",
     "9999-信箱/后端常见分层.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
@@ -158,7 +159,6 @@
     "1000-技术/前端/Vue/Vue2/Vue生命周期.md",
     "-附件-/Vue生命周期.png",
     "9999-信箱/开源ERP系统.md",
-    "9999-信箱/你的事.md",
-    "📅任务管理.md"
+    "9999-信箱/你的事.md"
   ]
 }
