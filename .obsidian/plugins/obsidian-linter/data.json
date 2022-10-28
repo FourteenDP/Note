@@ -7,7 +7,7 @@
       "Force Yaml Escape on Keys": ""
     },
     "Format Tags in YAML": {
-      "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": true
+      "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": false
     },
     "Format Yaml Array": {
       "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": true,
@@ -21,7 +21,7 @@
       "Force key values to be multi-line arrays": ""
     },
     "Insert YAML attributes": {
-      "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": true,
+      "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": false,
       "Text to insert": "aliases: \ntags: "
     },
     "Move Tags to Yaml": {
@@ -123,8 +123,8 @@
       "List item style": "consistent"
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": false,
-      "Inner New Lines": false
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
+      "Inner New Lines": true
     },
     "Consecutive blank lines": {
       "There should be at most one consecutive blank line.": false
