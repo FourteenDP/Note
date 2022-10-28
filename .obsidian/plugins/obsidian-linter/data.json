@@ -1,22 +1,22 @@
 {
   "ruleConfigs": {
     "Escape YAML Special Characters": {
-      "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": true,
+      "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": false,
       "Default Escape Character": "\"",
-      "Try to Escape Single Line Arrays": true,
+      "Try to Escape Single Line Arrays": false,
       "Force Yaml Escape on Keys": ""
     },
     "Format Tags in YAML": {
       "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": false
     },
     "Format Yaml Array": {
-      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": true,
+      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": false,
       "Yaml aliases section style": "single-line",
-      "Format yaml aliases section": true,
+      "Format yaml aliases section": false,
       "Yaml tags section style": "single-line",
-      "Format yaml tags section": true,
+      "Format yaml tags section": false,
       "Default yaml array section style": "single-line",
-      "Format yaml array sections": true,
+      "Format yaml array sections": false,
       "Force key values to be single-line arrays": "",
       "Force key values to be multi-line arrays": ""
     },
@@ -25,24 +25,24 @@
       "Text to insert": "aliases: \ntags: "
     },
     "Move Tags to Yaml": {
-      "Move all tags to Yaml frontmatter of the document.": true,
+      "Move all tags to Yaml frontmatter of the document.": false,
       "Yaml tags section style": "single-line",
-      "Remove the hashtag from tags in content body": true,
+      "Remove the hashtag from tags in content body": false,
       "Tags to ignore": ""
     },
     "Remove YAML Keys": {
-      "Removes the YAML keys specified": true,
+      "Removes the YAML keys specified": false,
       "YAML Keys to Remove": ""
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
       "YAML Key Priority Sort Order": "",
-      "Priority Keys at Start of YAML": true,
+      "Priority Keys at Start of YAML": false,
       "YAML Sort Order for Other Keys": "None"
     },
     "YAML Timestamp": {
-      "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,
-      "Date Created": true,
+      "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
+      "Date Created": false,
       "Date Created Key": "date created",
       "Date Modified": false,
       "Date Modified Key": "date modified",
@@ -173,8 +173,8 @@
       "Two Space Linebreak": false
     }
   },
-  "lintOnSave": true,
-  "displayChanged": true,
+  "lintOnSave": false,
+  "displayChanged": false,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": 4,
