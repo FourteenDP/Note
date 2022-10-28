@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "5927d8ebe79033f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-附件-/drawio/后端常见分层.drawio.svg"
+              }
+            }
+          },
+          {
             "id": "f31bc4b6e23e7a4d",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "-附件-/drawio/后端常见分层.drawio.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-信箱/后端常见分层.md",
+                "file": "-附件-/drawio/后端常见分层.drawio.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999-信箱/后端常见分层.md"
+                "file": "-附件-/drawio/后端常见分层.drawio.svg"
               }
             }
           }
@@ -149,12 +159,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c2291bdb23b8c899",
+  "active": "5927d8ebe79033f0",
   "lastOpenFiles": [
+    "9999-信箱/后端常见分层.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "📅任务管理.md",
     "README.md",
-    "9999-信箱/后端常见分层.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "-附件-/drawio/后端常见分层.svg",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
