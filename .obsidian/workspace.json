@@ -11,8 +11,13 @@
             "id": "a3da5fa32bc285e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0000-拾肆/想开发的项目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000-拾肆/想开发的项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0000-拾肆/想开发的项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0000-拾肆/想开发的项目.md"
+              }
             }
           }
         ],
@@ -133,15 +142,15 @@
   },
   "active": "a3da5fa32bc285e4",
   "lastOpenFiles": [
+    "0000-拾肆/感兴趣的事物.md",
+    "0000-拾肆/防脱生发.md",
+    "0000-拾肆/辞职通知-邓某某-范文.md",
     "📅任务管理.md",
     "📚知识博客.md",
     "~采集~/采集.md",
     "~日记~/2022-06-27.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
   ]
 }
