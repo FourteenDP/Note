@@ -8,23 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f02bb561d5cdbfa",
+            "id": "a900d994fba97e0b",
             "type": "leaf",
             "state": {
               "type": "custom-frames-itab",
               "state": {}
             }
-          },
-          {
-            "id": "21ef0e99f383a963",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +132,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "21ef0e99f383a963",
+  "active": "a900d994fba97e0b",
   "lastOpenFiles": [
     "9999-工具/ITab.md",
     "9999-信箱/未命名.md",
