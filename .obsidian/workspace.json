@@ -11,8 +11,13 @@
             "id": "6dcad1d87848a795",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           }
         ]
@@ -130,7 +139,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dddccc43b1ddcfa0",
+  "active": "6dcad1d87848a795",
   "lastOpenFiles": [
     "1000-技术/项目/开源项目.md",
     "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
