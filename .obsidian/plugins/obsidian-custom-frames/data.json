@@ -3,7 +3,7 @@
     {
       "url": "https://go.itab.link/",
       "displayName": "ITab",
-      "icon": "",
+      "icon": "aperture",
       "hideOnMobile": true,
       "addRibbonIcon": false,
       "openInCenter": false,
