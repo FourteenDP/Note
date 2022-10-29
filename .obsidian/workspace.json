@@ -23,7 +23,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2f02bb561d5cdbfa",
+  "active": "40fd394fb8e4a231",
   "lastOpenFiles": [
     "9999-工具/ITab.md",
     "9999-信箱/未命名.md",
