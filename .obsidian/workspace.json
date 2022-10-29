@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "后端常见",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7606b38f1c8b33c4",
+  "active": "8a509d2ee91053df",
   "lastOpenFiles": [
     "📅任务管理.md",
     "📚知识博客.md",
