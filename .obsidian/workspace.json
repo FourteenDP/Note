@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/环境配置/Windows终端设置代理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/环境配置/Windows终端设置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/环境配置/Windows终端设置代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+                "file": "1000-技术/环境配置/Windows终端设置代理.md"
               }
             }
           }
@@ -141,6 +142,7 @@
   },
   "active": "a3da5fa32bc285e4",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "-附件-/drawio/后端常见分层.drawio.svg",
@@ -149,7 +151,6 @@
     "~日记~/2022-06-20.md",
     "~日记~/2022-06-22.md",
     "~日记~/2022-06-23.md",
-    "~日记~/2022-06-27.md",
-    "~日记~/2022-06-28.md"
+    "~日记~/2022-06-27.md"
   ]
 }
