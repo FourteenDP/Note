@@ -180,7 +180,8 @@
   "displayChanged": true,
   "foldersToIgnore": [
     "-模板-",
-    "~卡片~"
+    "~卡片~",
+    "~日记~"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,
