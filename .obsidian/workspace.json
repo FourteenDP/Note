@@ -11,8 +11,13 @@
             "id": "3ec19ecdd546c84d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md"
+              }
             }
           }
         ]
