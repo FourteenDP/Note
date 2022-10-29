@@ -181,7 +181,8 @@
   "foldersToIgnore": [
     "-模板-",
     "~卡片~",
-    "~日记~"
+    "~日记~",
+    "9999-工具"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,
