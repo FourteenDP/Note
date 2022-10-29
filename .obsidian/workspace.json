@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c811867b3c1cb9be",
+        "id": "ef4c5ba9156965f2",
         "type": "tabs",
         "children": [
           {
-            "id": "62467d07ac240a50",
+            "id": "adc62da1b6abe4f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9999-工具/ITab.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-工具/ITab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-工具/ITab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-工具/ITab.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -141,10 +132,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "62467d07ac240a50",
+  "active": "adc62da1b6abe4f5",
   "lastOpenFiles": [
-    "9999-信箱/未命名.md",
     "9999-工具/ITab.md",
+    "9999-信箱/未命名.md",
     "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
     "1000-技术/项目/开源项目.md",
     "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
