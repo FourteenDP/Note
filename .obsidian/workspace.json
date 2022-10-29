@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~日记~/delete.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~日记~/delete.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~日记~/delete.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~日记~/delete.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "c010060e2e019503",
   "lastOpenFiles": [
+    "📅任务管理.md",
     "📚知识博客.md",
-    "README.md",
     "~日记~/delete.md",
+    "README.md",
     "~日记~/2022-08-16.md",
     "~日记~/2022-08-17.md",
     "~日记~/2022-09-29.md",
     "9999-信箱/2022-10-29.md",
     "9999-信箱/后端常见分层.md",
-    "~日记~/2022-06-22.md",
-    "-附件-/drawio/后端常见分层.drawio.svg"
+    "~日记~/2022-06-22.md"
   ]
 }

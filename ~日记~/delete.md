@@ -1,9 +1,9 @@
 ---
-title:
+title: Delete
 aliases: 
 tags: 
 date created: 2022-06-20 19:58:19
-date updated: 2022-10-29 11:09:25
+date updated: 2022-10-29 11:11:31
 ---
 
 # Delete
