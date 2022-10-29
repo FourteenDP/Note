@@ -5,10 +5,10 @@
       "displayName": "ITab",
       "icon": "aperture",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
-      "forceIframe": false,
+      "forceIframe": true,
       "customCss": ""
     }
   ],
