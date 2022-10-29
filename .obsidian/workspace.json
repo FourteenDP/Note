@@ -11,8 +11,13 @@
             "id": "0dd8f2e241853b56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ping",
+                "query": "linux常用",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+              }
             }
           }
         ]
@@ -132,15 +142,15 @@
   },
   "active": "0dd8f2e241853b56",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/环境配置/Windows终端设置代理.md",
     "9999-信箱/WSL 系统代理.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
     "-附件-/drawio/后端常见分层.drawio.svg",
     "~日记~/2022-06-09.md",
-    "~日记~/2022-06-10.md",
-    "~日记~/2022-06-20.md",
-    "~日记~/2022-06-22.md"
+    "~日记~/2022-06-10.md"
   ]
 }
