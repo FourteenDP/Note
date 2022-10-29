@@ -14,22 +14,8 @@
               "type": "custom-frames-itab",
               "state": {}
             }
-          },
-          {
-            "id": "e699be75f47571df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9999-工具/ITab.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999-工具/ITab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999-工具/ITab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9999-工具/ITab.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,7 +132,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e699be75f47571df",
+  "active": "2f02bb561d5cdbfa",
   "lastOpenFiles": [
     "9999-工具/ITab.md",
     "9999-信箱/未命名.md",
