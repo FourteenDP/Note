@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b49123c5596fb5",
+        "id": "10a2e441cfe02c65",
         "type": "tabs",
         "children": [
           {
-            "id": "7606b38f1c8b33c4",
+            "id": "a3da5fa32bc285e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅任务管理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅任务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅任务管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📅任务管理.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,10 +131,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7606b38f1c8b33c4",
+  "active": "a3da5fa32bc285e4",
   "lastOpenFiles": [
-    "📚知识博客.md",
     "📅任务管理.md",
+    "📚知识博客.md",
     "~采集~/采集.md",
     "~日记~/2022-06-27.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
