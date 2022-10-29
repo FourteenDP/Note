@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63a8c05290701b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0000-拾肆/驰雄项目.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000-拾肆/驰雄项目.md",
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000-拾肆/驰雄项目.md",
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000-拾肆/驰雄项目.md"
+                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md"
               }
             }
           }
@@ -153,8 +139,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3885687e4b8d8da",
+  "active": "3ec19ecdd546c84d",
   "lastOpenFiles": [
+    "0000-拾肆/驰雄项目.md",
     "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
     "9999-信箱/英语教程.md",
     "📚知识博客.md",
@@ -163,7 +150,6 @@
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/环境配置/Windows终端设置代理.md",
     "9999-信箱/WSL 系统代理.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "-附件-/drawio/UniApp生命周期.drawio.svg"
+    "1000-技术/前端/UniApp/UniApp生命周期.md"
   ]
 }
