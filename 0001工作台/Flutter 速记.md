@@ -3,7 +3,7 @@ title: Flutter 速记
 aliases: 
 tags: 
 date created: 2022-09-21 14:11:58
-date updated: 2022-09-22 11:18:41
+date updated: 2022-10-29 16:58:29
 ---
 
 # Flutter 速记
@@ -27,6 +27,7 @@ date updated: 2022-09-22 11:18:41
 ## 变量
 
 类型声明再变量的前面
+
 类型声明变量 = 变量值
 
 Object 动态任意类型，**编译阶段**检查类型

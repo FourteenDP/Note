@@ -2,8 +2,8 @@
 aliases: CSS选择器参考手册
 tags:
   - CSS选择器参考手册
-date created: 2022-06-20 19:58
-date updated: 2022-08-09 00:02:23
+date created: 2022-06-20 19:58:18
+date updated: 2022-10-29 16:58:28
 title: CSS 选择器参考手册
 ---
 

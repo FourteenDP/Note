@@ -2,8 +2,8 @@
 aliases: Windows终端设置代理
 tags:
   - Windows终端设置代理
-date created: 2022-06-20 19:58
-date updated: 2022-06-27 10:17:46
+date created: 2022-06-20 19:58:18
+date updated: 2022-10-29 16:58:19
 title: Windows 终端设置代理
 ---
 
@@ -22,6 +22,7 @@ set https_proxy = "http://127.0.0.1:10808"
 ## 长期生效
 
 设置系统环境变量
+
 ![[CMD终端代理设置环境变量.png]]
 
 ## 测试
