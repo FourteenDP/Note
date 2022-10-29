@@ -19,15 +19,6 @@
   --text-title-h6: #ccb4e9;
 }
 
-/* TODO编辑ICON */
-.tasks-edit {
-  width: 16px !important;
-  height: 16px !important;
-}
-/* 顶部导航 */
-.titlebar {
-  background-color: var(--background-title-bar);
-}
 /* ---标题--- */
 /* 字体&大小 */
 .markdown-preview-view h1,
