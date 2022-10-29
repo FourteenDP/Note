@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
