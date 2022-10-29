@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
+                "file": "1000-技术/项目/开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md"
+                "file": "1000-技术/项目/开源项目.md"
               }
             }
           }
@@ -141,8 +142,8 @@
   },
   "active": "3ec19ecdd546c84d",
   "lastOpenFiles": [
-    "0000-拾肆/驰雄项目.md",
     "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
+    "0000-拾肆/驰雄项目.md",
     "9999-信箱/英语教程.md",
     "📚知识博客.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
