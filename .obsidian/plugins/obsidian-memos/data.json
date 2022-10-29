@@ -24,7 +24,7 @@
   "AutoSaveWhenOnMobile": false,
   "DeleteFileName": "delete",
   "QueryFileName": "query",
-  "UseVaultTags": false,
+  "UseVaultTags": true,
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
   "DefaultMemoComposition": "{TIME} {CONTENT}",
