@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0dd8f2e241853b56",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
