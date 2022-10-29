@@ -106,7 +106,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -153,7 +153,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "63a8c05290701b36",
+  "active": "f3885687e4b8d8da",
   "lastOpenFiles": [
     "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
     "9999-信箱/英语教程.md",
