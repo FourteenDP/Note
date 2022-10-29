@@ -13,7 +13,7 @@
     {
       "path": "/",
       "date": "2022-10-29",
-      "size": 2169095
+      "size": 2169084
     }
   ],
   "activityHistory": [
@@ -30,7 +30,7 @@
         },
         {
           "date": "2022-10-29",
-          "value": 0
+          "value": 11
         }
       ]
     }
@@ -42,5 +42,5 @@
   "textColor": "#000000",
   "emptyColor": "#ecedf0",
   "cellRadius": 1,
-  "type": "yearly"
+  "type": "monthly"
 }

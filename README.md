@@ -4,7 +4,7 @@ aliases: 全局索引
 tags:
   - 索引
 date created: 2022-06-10 22:35:29
-date updated: 2022-10-29 11:12:19
+date updated: 2022-10-29 11:12:44
 ---
 
 # 索引
@@ -14,5 +14,3 @@ date updated: 2022-10-29 11:12:19
 /
 
 ```
-
-[Site not found · GitHub Pages](https://www.fourteen.top/)
