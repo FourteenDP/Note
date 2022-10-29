@@ -173,7 +173,7 @@
       "Two Space Linebreak": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "displayChanged": false,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
