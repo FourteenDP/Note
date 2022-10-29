@@ -11,8 +11,13 @@
             "id": "7606b38f1c8b33c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+              }
             }
           }
         ],
@@ -132,8 +140,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8a509d2ee91053df",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
+    "~日记~/2022-08-09.md",
     "📅任务管理.md",
     "📚知识博客.md",
     "9999-信箱/Nvm常用命令.md",
@@ -141,8 +151,6 @@
     "9999-信箱/Git忽略文件中的特定行或多行.md",
     "9999-信箱/怎么画一条0.5px的线.md",
     "✨知识社区.md",
-    "README.md",
-    "~日记~/2022-08-12.md",
-    "~日记~/2022-07-01.md"
+    "README.md"
   ]
 }
