@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "~日记~/2022-06-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "~日记~/2022-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "~日记~/2022-06-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "~日记~/2022-06-22.md"
               }
             }
           }
@@ -156,11 +156,11 @@
   },
   "active": "5927d8ebe79033f0",
   "lastOpenFiles": [
+    "README.md",
     "-附件-/drawio/后端常见分层.drawio.svg",
     "9999-信箱/后端常见分层.md",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "📅任务管理.md",
-    "README.md",
     "1000-技术/前端/UniApp/UniApp生命周期.md",
     "-附件-/drawio/后端常见分层.svg",
     "-附件-/drawio/UniApp生命周期.drawio.svg",
