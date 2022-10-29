@@ -16,7 +16,7 @@
                 "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -140,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c22d86fa1149abd1",
+  "active": "6dcad1d87848a795",
   "lastOpenFiles": [
     "未命名.md",
     "1000-技术/项目/开源项目.md",
