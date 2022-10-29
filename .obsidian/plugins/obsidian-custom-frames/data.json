@@ -12,14 +12,14 @@
       "customCss": ""
     },
     {
-      "url": "",
+      "url": "https://to-do.live.com/tasks/",
       "displayName": "ToDo",
-      "icon": "",
+      "icon": "zap",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
-      "forceIframe": false,
+      "forceIframe": true,
       "customCss": ""
     }
   ],
