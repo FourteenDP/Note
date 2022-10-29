@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "6c5d1bbcb1637d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "839a70eece69ff24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f660362bd920dc",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "416b3db19e2b3785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9999-信箱/Nvm常用命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a8ae7e61a594bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d92aed2dc15c57a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddccc43b1ddcfa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a509d2ee91053df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "后端常见",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae5f304f79dbb367",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "right": {
+    "id": "dc8c5cdc3bbc7097",
+    "type": "split",
+    "children": [
+      {
+        "id": "a413aca8ca5d269f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3885687e4b8d8da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9999-信箱/Nvm常用命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "017fe48998258696",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9999-信箱/Nvm常用命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8213c75782efa7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c22d86fa1149abd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9999-信箱/Nvm常用命令.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "416b3db19e2b3785",
+  "lastOpenFiles": [
+    "9999-信箱/inpnt框常见样式修改.md",
+    "9999-信箱/Git忽略文件中的特定行或多行.md",
+    "9999-信箱/怎么画一条0.5px的线.md",
+    "✨知识社区.md",
+    "📅任务管理.md",
+    "📚知识博客.md",
+    "README.md",
+    "~日记~/2022-08-12.md",
+    "~日记~/2022-07-01.md",
+    "~日记~/2022-07-06.md"
+  ]
+}
