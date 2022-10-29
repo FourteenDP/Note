@@ -3,7 +3,7 @@ title: Linux 常用命令软件
 aliases:
 tags:
 date created: 2022-08-09 22:01:59
-date updated: 2022-10-29 16:57:10
+date updated: 2022-10-29 17:16:02
 ---
 
 # Linux 常用命令软件
@@ -20,3 +20,4 @@ date updated: 2022-10-29 16:57:10
 - Openssh-server: [[WSL SSH远程连接]]
 - [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#installation): 终端文件管理
 - [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): vim 模式的终端控制
+- starship
