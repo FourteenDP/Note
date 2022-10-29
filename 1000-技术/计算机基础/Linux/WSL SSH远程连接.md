@@ -4,7 +4,7 @@ aliases:
 tags: 
   - WSL
 date created: 2022-08-08 22:00:28
-date updated: 2022-08-09 21:18:49
+date updated: 2022-10-29 16:58:18
 ---
 
 # WSL SSH 远程连接

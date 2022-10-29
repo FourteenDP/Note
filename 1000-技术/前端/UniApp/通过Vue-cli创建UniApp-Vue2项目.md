@@ -7,7 +7,7 @@ tags:
   - UniApp
   - 项目构建
 date created: 2022-07-08 13:32:41
-date updated: 2022-07-08 20:50:20
+date updated: 2022-10-29 16:58:22
 ---
 
 # 通过 Vue-cli 创建 UniApp-Vue2 项目
