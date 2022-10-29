@@ -11,20 +11,6 @@
   --h6: 1em;
 }
 .theme-dark {
-  --background-primary: #faf7f5;
-  --background-primary-alt: #f5f8fa;
-  --background-secondary: #f2f3f5;
-  --background-secondary-alt: #e3e5e8;
-  --background-modifier-border: #ddd;
-  --background-modifier-form-field: #fff;
-  --background-modifier-form-field-highlighted: #fff;
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
-  --background-modifier-success: #a4e7c3;
-  --background-modifier-error: #900;
-  --background-modifier-error-rgb: 230, 135, 135;
-  --background-modifier-error-hover: #b00;
-  --background-modifier-cover: rgba(198, 200, 209, 0.8);
-  --background-title-bar: #6b0cc5;
   --text-accent: #705dcf;
   --text-accent-hover: #7a6ae6;
   --text-normal: #2e3338;
