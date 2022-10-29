@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md"
               }
             }
           }
