@@ -1,6 +1,6 @@
 
 ```custom-frames
-frame: IT
+frame: ITab
 style: height: 1000px;
 urlSuffix: #reminders
 ```
