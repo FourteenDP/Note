@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c71afdd0f90d08fe",
+        "id": "17f706ca21c0393a",
         "type": "tabs",
         "children": [
           {
-            "id": "38a91e96d344fac3",
+            "id": "c539ce48a00a8029",
             "type": "leaf",
             "state": {
               "type": "memos_view",
               "state": {}
             }
-          },
-          {
-            "id": "6b15b27072571cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~日记~/2022-08-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~日记~/2022-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~日记~/2022-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "~日记~/2022-08-17.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,8 +131,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6b15b27072571cb4",
+  "active": "c539ce48a00a8029",
   "lastOpenFiles": [
+    "~日记~/2022-08-17.md",
     "~日记~/2022-09-29.md",
     "9999-信箱/2022-10-29.md",
     "9999-信箱/后端常见分层.md",
@@ -159,7 +142,6 @@
     "-附件-/drawio/后端常见分层.drawio.svg",
     "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
     "📅任务管理.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md",
-    "-附件-/drawio/后端常见分层.svg"
+    "1000-技术/前端/UniApp/UniApp生命周期.md"
   ]
 }
