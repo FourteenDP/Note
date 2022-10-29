@@ -14,6 +14,14 @@
               "type": "custom-frames-itab",
               "state": {}
             }
+          },
+          {
+            "id": "40fd394fb8e4a231",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todo",
+              "state": {}
+            }
           }
         ]
       }
