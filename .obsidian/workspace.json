@@ -14,8 +14,22 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "c010060e2e019503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~日记~/delete.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~日记~/delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "~日记~/delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "~日记~/delete.md"
+              }
             }
           }
         ],
@@ -131,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5be35bef1aae96fb",
+  "active": "c010060e2e019503",
   "lastOpenFiles": [
+    "~日记~/delete.md",
+    "~日记~/2022-08-16.md",
     "~日记~/2022-08-17.md",
+    "📚知识博客.md",
     "~日记~/2022-09-29.md",
     "9999-信箱/2022-10-29.md",
     "9999-信箱/后端常见分层.md",
     "~日记~/2022-06-22.md",
     "README.md",
-    "-附件-/drawio/后端常见分层.drawio.svg",
-    "1000-技术/前端/JavaScript/JavaScript红宝书/3.3-变量.md",
-    "📅任务管理.md",
-    "1000-技术/前端/UniApp/UniApp生命周期.md"
+    "-附件-/drawio/后端常见分层.drawio.svg"
   ]
 }
