@@ -25,3 +25,4 @@ date updated: 2022-11-07 14:18:14
 - [tldr](https://github.com/tldr-pages/tldr)
 - [gvm](https://github.com/moovweb/gvm)
 - [nvm](https://github.com/nvm-sh/nvm)
+- brew install gcc
