@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4292ffbeed3f3837",
+            "id": "396c102d22ee3065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,10 +156,10 @@
   },
   "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
-    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",

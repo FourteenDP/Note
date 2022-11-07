@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: 
 tags: 
 date created: 2022-11-07 21:15:40
-date updated: 2022-11-07 22:01:48
+date updated: 2022-11-07 22:04:23
 ---
 
 # Linux 开发环境配置
@@ -72,6 +72,19 @@ deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src ht
 - [Debian 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/debian.html)
 - [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
 - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
+
+## 中文环境
+
+```shell
+# 安装
+apt install locales
+# 配置
+dpkg-reconfigure locales
+# 查看当前语言
+locale
+# 设置失败执行以下
+export LANG=zh_CN.UTF-8
+```
 
 ## 常用下载器
 
