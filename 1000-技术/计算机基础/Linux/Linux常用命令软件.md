@@ -3,7 +3,7 @@ title: Linux 常用命令软件
 aliases:
 tags:
 date created: 2022-08-09 22:01:59
-date updated: 2022-10-29 17:24:15
+date updated: 2022-11-07 14:18:14
 ---
 
 # Linux 常用命令软件
@@ -22,3 +22,6 @@ date updated: 2022-10-29 17:24:15
 - [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): vim 模式的终端控制
 - [starship](https://github.com/starship/starship)
 - [Homebrew](https://brew.sh/)
+- [tldr](https://github.com/tldr-pages/tldr)
+- [gvm](https://github.com/moovweb/gvm)
+- [nvm](https://github.com/nvm-sh/nvm)
