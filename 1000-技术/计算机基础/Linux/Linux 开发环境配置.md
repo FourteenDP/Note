@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: 
 tags: 
 date created: 2022-11-07 21:15:40
-date updated: 2022-11-07 22:10:36
+date updated: 2022-11-07 22:12:10
 ---
 
 # Linux 开发环境配置
@@ -93,6 +93,8 @@ sudo apt install curl wget axel git
 ```
 
 ## zsh和Oh My Zsh
+
+![[Linux安装命令行工具Oh My Zsh]]
 
 ## Homebrew包管理器
 
