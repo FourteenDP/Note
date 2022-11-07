@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: 
 tags: 
 date created: 2022-11-07 21:15:40
-date updated: 2022-11-07 21:19:37
+date updated: 2022-11-07 21:28:42
 ---
 
 # Linux 开发环境配置
@@ -25,6 +25,8 @@ sudo apt upgrade
 sudo apt --purge autoremove
 ```
 
-## 参考资料
+### 相关连接
 
 - [Debian 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/debian.html)
+- [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
+- [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
