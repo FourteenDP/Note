@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 系统代理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 系统代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+                "file": "1000-技术/计算机基础/Linux/WSL 系统代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
+                "file": "1000-技术/计算机基础/Linux/WSL 系统代理.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
-    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
-    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL 系统代理.md"
+    "1000-技术/计算机基础/Linux/Linux配置镜像源.md"
   ]
 }
