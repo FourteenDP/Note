@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: 
 tags: 
 date created: 2022-11-07 21:15:40
-date updated: 2022-11-07 21:45:47
+date updated: 2022-11-07 21:51:29
 ---
 
 # Linux 开发环境配置
@@ -72,3 +72,5 @@ deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src ht
 - [Debian 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/debian.html)
 - [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
 - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
+
+## BrewHome 包管理器
