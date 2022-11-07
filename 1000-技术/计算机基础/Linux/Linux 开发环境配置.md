@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: 
 tags: 
 date created: 2022-11-07 21:15:40
-date updated: 2022-11-07 21:58:05
+date updated: 2022-11-07 22:01:48
 ---
 
 # Linux 开发环境配置
@@ -33,37 +33,37 @@ sudo apt --purge autoremove
 
 1、阿里云镜像站
 
-```html
+```sh
 deb https://mirrors.aliyun.com/debian/ bullseye main non-free contribdeb-src https://mirrors.aliyun.com/debian/ bullseye main non-free contrib deb https://mirrors.aliyun.com/debian-security/ bullseye-security maindeb-src https://mirrors.aliyun.com/debian-security/ bullseye-security main deb https://mirrors.aliyun.com/debian/ bullseye-updates main non-free contribdeb-src https://mirrors.aliyun.com/debian/ bullseye-updates main non-free contrib deb https://mirrors.aliyun.com/debian/ bullseye-backports main non-free contribdeb-src https://mirrors.aliyun.com/debian/ bullseye-backports main non-free contrib
 ```
 
 2、腾讯云镜像站
 
-```html
+```sh
 deb https://mirrors.tencent.com/debian/ bullseye main non-free contribdeb-src https://mirrors.tencent.com/debian/ bullseye main non-free contrib deb https://mirrors.tencent.com/debian-security/ bullseye-security maindeb-src https://mirrors.tencent.com/debian-security/ bullseye-security main deb https://mirrors.tencent.com/debian/ bullseye-updates main non-free contribdeb-src https://mirrors.tencent.com/debian/ bullseye-updates main non-free contrib deb https://mirrors.tencent.com/debian/ bullseye-backports main non-free contribdeb-src https://mirrors.tencent.com/debian/ bullseye-backports main non-free contrib
 ```
 
 3、网易云镜像站
 
-```html
+```sh
 deb https://mirrors.163.com/debian/ bullseye main non-free contribdeb-src https://mirrors.163.com/debian/ bullseye main non-free contrib deb https://mirrors.163.com/debian-security/ bullseye-security maindeb-src https://mirrors.163.com/debian-security/ bullseye-security main deb https://mirrors.163.com/debian/ bullseye-updates main non-free contribdeb-src https://mirrors.163.com/debian/ bullseye-updates main non-free contrib deb https://mirrors.163.com/debian/ bullseye-backports main non-free contribdeb-src https://mirrors.163.com/debian/ bullseye-backports main non-free contrib
 ```
 
 4、华为镜像站
 
-```html
+```sh
 deb https://mirrors.huaweicloud.com/debian/ bullseye main non-free contribdeb-src https://mirrors.huaweicloud.com/debian/ bullseye main non-free contrib deb https://mirrors.huaweicloud.com/debian-security/ bullseye-security maindeb-src https://mirrors.huaweicloud.com/debian-security/ bullseye-security main deb https://mirrors.huaweicloud.com/debian/ bullseye-updates main non-free contribdeb-src https://mirrors.huaweicloud.com/debian/ bullseye-updates main non-free contrib deb https://mirrors.huaweicloud.com/debian/ bullseye-backports main non-free contribdeb-src https://mirrors.huaweicloud.com/debian/ bullseye-backports main non-free contrib
 ```
 
 5、清华镜像站
 
-```html
+```sh
 deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye main contrib non-freedeb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye main contrib non-free deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-updates main contrib non-freedeb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-updates main contrib non-free deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-backports main contrib non-freedeb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-backports main contrib non-free deb https://mirrors.tuna.tsinghua.edu.cn/debian-security bullseye-security main contrib non-freedeb-src https://mirrors.tuna.tsinghua.edu.cn/debian-security bullseye-security main contrib non-free
 ```
 
 6、中科大镜像站
 
-```html
+```sh
 deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-free deb https://mirrors.ustc.edu.cn/debian/ bullseye-updates main contrib non-freedeb-src https://mirrors.ustc.edu.cn/debian/ bullseye-updates main contrib non-free deb https://mirrors.ustc.edu.cn/debian/ bullseye-backports main contrib non-freedeb-src https://mirrors.ustc.edu.cn/debian/ bullseye-backports main contrib non-free deb https://mirrors.ustc.edu.cn/debian-security/ bullseye-security main contrib non-freedeb-src https://mirrors.ustc.edu.cn/debian-security/ bullseye-security main contrib non-free
 ```
 
@@ -76,7 +76,7 @@ deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src ht
 ## 常用下载器
 
 ```sh
-
+sudo apt install curl wget axel git
 ```
 
 ## Homebrew包管理器
