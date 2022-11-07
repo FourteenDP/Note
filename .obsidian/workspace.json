@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "67e56f4965c48e51",
+        "id": "f4b86ef5b73c6dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "027b438f4f4743aa",
+            "id": "73ae9704d5f1132e",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-itab",
-              "state": {}
-            }
-          },
-          {
-            "id": "779302a3e356fb83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eb6acb4191e4584",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todo",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "语言",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,8 +132,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2eb6acb4191e4584",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
@@ -169,7 +143,6 @@
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
     "1000-技术/计算机基础/Linux/WSL  登录Root.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
-    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
   ]
 }
