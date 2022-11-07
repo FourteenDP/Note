@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5caaac91ad0bd409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
+                "file": "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux 中文环境配置.md"
+                "file": "1000-技术/计算机基础/Linux/Linux 开发环境配置.md"
               }
             }
           }
@@ -143,15 +156,15 @@
   },
   "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
+    "1000-技术/计算机基础/Linux/Linux 中文环境配置.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
     "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/编程范式.md",
-    "README.md",
-    "📅任务管理.md",
-    "📚知识博客.md",
-    "1000-技术/编程语言.md"
+    "README.md"
   ]
 }
