@@ -13,8 +13,8 @@
     },
     {
       "url": "https://to-do.live.com/tasks/",
-      "displayName": "ToDo",
-      "icon": "zap",
+      "displayName": "TODO",
+      "icon": "clipboard-list",
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": true,

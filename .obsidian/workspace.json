@@ -4,18 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6dcd856c5334143a",
+        "id": "67e56f4965c48e51",
         "type": "tabs",
         "children": [
           {
-            "id": "a900d994fba97e0b",
+            "id": "027b438f4f4743aa",
             "type": "leaf",
             "state": {
               "type": "custom-frames-itab",
               "state": {}
             }
+          },
+          {
+            "id": "779302a3e356fb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eb6acb4191e4584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/编程语言.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "语言",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +88,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 326.5
   },
   "right": {
     "id": "dc8c5cdc3bbc7097",
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/编程语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/编程语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/编程语言.md"
+              }
             }
           }
         ],
@@ -129,20 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a900d994fba97e0b",
+  "active": "2eb6acb4191e4584",
   "lastOpenFiles": [
-    "9999-工具/ITab.md",
-    "9999-信箱/未命名.md",
-    "3000-自考/资料/KM01-中国近现代史纲要/03-中国近现代史事件可视化地图/中国近现代史事件可视化地图.md",
-    "1000-技术/项目/开源项目.md",
-    "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
-    "0000-拾肆/驰雄项目.md",
-    "9000-信箱/英语教程.md",
-    "📚知识博客.md",
+    "1000-技术/计算机基础/Linux/WSL 系统代理.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+    "1000-技术/计算机基础/Linux/Linux配置镜像源.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
+    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md"
   ]
 }
