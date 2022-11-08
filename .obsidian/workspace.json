@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+                "file": "README.md"
               }
             }
           }
@@ -138,11 +138,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
@@ -151,7 +149,6 @@
     "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
     "1000-技术/前端/工程化/Git 操作规范.md",
-    "9000-信箱/Git基本操作.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    "9000-信箱/Git基本操作.md"
   ]
 }
