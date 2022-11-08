@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0001工作台/Flutter 速记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0001工作台/Flutter 速记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0001工作台/Flutter 速记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0001工作台/Flutter 速记.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
+    "0001工作台/uniapp和flutter通信.md",
+    "0001工作台/Flutter 速记.md",
+    "README.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
     "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
     "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
     "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
-    "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
-    "1000-技术/计算机基础/Linux/WSL 系统代理.md",
-    "1000-技术/前端/工程化/Git 操作规范.md",
-    "9000-信箱/Git基本操作.md"
+    "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
   ]
 }
