@@ -3,7 +3,7 @@ title: Linux 常用命令软件
 aliases:
 tags:
 date created: 2022-08-09 22:01:59
-date updated: 2022-11-07 14:18:14
+date updated: 2022-11-08 14:25:21
 ---
 
 # Linux 常用命令软件
