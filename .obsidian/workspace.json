@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "~日记~/2022-07-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c7adc1cae7be45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sheng'pin",
+                "query": "生命周期",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/项目/开源项目.md",
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/项目/开源项目.md"
+                "file": "1000-技术/前端/UniApp/UniApp生命周期.md"
               }
             }
           }
@@ -139,8 +153,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a509d2ee91053df",
+  "active": "3c7adc1cae7be45d",
   "lastOpenFiles": [
+    "~日记~/2022-07-13.md",
+    "1000-技术/项目/开源项目.md",
     "9000-信箱/实用工具.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
@@ -148,8 +164,6 @@
     "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md"
   ]
 }
