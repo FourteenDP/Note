@@ -11,8 +11,13 @@
             "id": "35487de703e2dcae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+              }
             }
           }
         ],
@@ -129,17 +138,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35487de703e2dcae",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
-    "0001工作台/Flutter 速记.md",
-    "0001工作台/uniapp和flutter通信.md",
-    "README.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
+    "1000-技术/计算机基础/Linux/WSL 系统代理.md",
+    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md",
-    "1000-技术/计算机基础/Linux/Linux安装命令行工具Oh My Zsh.md",
-    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
-    "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md"
+    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
   ]
 }
