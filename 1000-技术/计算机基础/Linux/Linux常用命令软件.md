@@ -3,7 +3,7 @@ title: Linux 常用命令软件
 aliases:
 tags:
 date created: 2022-08-09 22:01:59
-date updated: 2022-11-08 14:25:21
+date updated: 2022-11-08 21:38:27
 ---
 
 # Linux 常用命令软件
@@ -25,4 +25,6 @@ date updated: 2022-11-08 14:25:21
 - [tldr](https://github.com/tldr-pages/tldr)
 - [gvm](https://github.com/moovweb/gvm)
 - [nvm](https://github.com/nvm-sh/nvm)
-- brew install gcc
+- pyenv
+- build-essential
+- Ranger
