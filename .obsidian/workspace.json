@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开源",
+                "query": "sheng'pin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35487de703e2dcae",
+  "active": "8a509d2ee91053df",
   "lastOpenFiles": [
     "9000-信箱/实用工具.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
