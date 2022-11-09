@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b86ef5b73c6dbc",
+        "id": "41def816b04f0255",
         "type": "tabs",
         "children": [
           {
-            "id": "73ae9704d5f1132e",
+            "id": "35487de703e2dcae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0001工作台/Flutter 速记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001工作台/Flutter 速记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001工作台/Flutter 速记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0001工作台/Flutter 速记.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,10 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73ae9704d5f1132e",
+  "active": "35487de703e2dcae",
   "lastOpenFiles": [
-    "0001工作台/uniapp和flutter通信.md",
     "0001工作台/Flutter 速记.md",
+    "0001工作台/uniapp和flutter通信.md",
     "README.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
