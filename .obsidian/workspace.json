@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/编程语言.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "系统代理",
+                "query": "链接",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/编程语言.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/编程语言.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/编程语言.md"
+                "file": "1000-技术/环境配置/Windows创建软连接.md"
               }
             }
           }
@@ -142,8 +142,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8a509d2ee91053df",
+  "active": "73ae9704d5f1132e",
   "lastOpenFiles": [
+    "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
@@ -152,7 +153,6 @@
     "1000-技术/计算机基础/Linux/WSL 基本命令.md",
     "1000-技术/计算机基础/Linux/WSL  登录Root.md",
     "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md",
-    "1000-技术/计算机基础/Linux/Linux安装Node版本管理器Nvm.md"
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
   ]
 }
