@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "开源",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b98221bc187b0e5",
+  "active": "8a509d2ee91053df",
   "lastOpenFiles": [
     "2000-高效/学习/笔记方法.md",
     "2000-高效/写作/如何编写好的技术文档.md",
