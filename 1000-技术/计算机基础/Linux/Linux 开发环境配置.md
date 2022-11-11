@@ -73,6 +73,10 @@ deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src ht
 - [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
 - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
 
+## 设置代理
+
+![[WSL 系统代理]]
+
 ## 中文环境
 
 ```shell
