@@ -3,7 +3,7 @@ title: WSL 系统代理
 aliases: 
 tags: 
 date created: 2022-10-29 17:41:51
-date updated: 2022-11-07 22:44:18
+date updated: 2022-11-11 11:14:30
 ---
 
 # WSL 系统代理
@@ -12,7 +12,7 @@ date updated: 2022-11-07 22:44:18
 
  WSL1的 Linux 子系统和 Windows 共享了网络端口
 
- ```bash
+```sh
 
 export ALL_PROXY="http://127.0.0.1:10808"
 
