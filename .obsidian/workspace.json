@@ -139,6 +139,9 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "6b98221bc187b0e5",
   "lastOpenFiles": [
     "1000-技术/编程语言.md",
