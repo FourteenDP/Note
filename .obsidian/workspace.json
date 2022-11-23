@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70056ecaed2ffb11",
+        "id": "5c7baf764be93f3c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b9fd51c37161f1d",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "ac6e8450a997004e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "777c3f022bc9370d",
+            "id": "fdfb631750e06eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚知识博客.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69dd635564c8f7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000-技术/环境配置/Windows创建软连接.md",
+                "file": "0000-拾肆/驰雄项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "链接",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/环境配置/Windows创建软连接.md",
+                "file": "0000-拾肆/驰雄项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/环境配置/Windows创建软连接.md",
+                "file": "0000-拾肆/驰雄项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/环境配置/Windows创建软连接.md"
+                "file": "0000-拾肆/驰雄项目.md"
               }
             }
           },
@@ -173,9 +144,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "69dd635564c8f7ed",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fdfb631750e06eea",
   "lastOpenFiles": [
     "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
