@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9ae428d94bce02",
+        "id": "70056ecaed2ffb11",
         "type": "tabs",
         "children": [
           {
-            "id": "6b98221bc187b0e5",
+            "id": "1b9fd51c37161f1d",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac6e8450a997004e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "777c3f022bc9370d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "📚知识博客.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +37,20 @@
             }
           },
           {
-            "id": "e93e22741e3db1ba",
+            "id": "69dd635564c8f7ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/WSL 系统代理.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -62,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:linux",
+                "query": "链接",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
+                "file": "1000-技术/环境配置/Windows创建软连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,29 +156,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+                "file": "1000-技术/环境配置/Windows创建软连接.md"
               }
+            }
+          },
+          {
+            "id": "0350cd7d65f419ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6b98221bc187b0e5",
+  "active": "69dd635564c8f7ed",
   "lastOpenFiles": [
-    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
-    "1000-技术/计算机基础/Linux/Linux 开发环境配置.md",
-    "1000-技术/计算机基础/Linux/Linux 安装卸载 Rust.md",
+    "1000-技术/计算机基础/Linux/Linux常用命令.md",
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
-    "1000-技术/项目/开源项目.md",
-    "2000-高效/学习/记忆方法.md",
-    "2000-高效/学习/笔记方法.md",
-    "2000-高效/写作/如何编写好的技术文档.md",
-    "3000-自考/KM01-中国近现代史纲要/中国近现代史纲要.md"
+    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
+    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
+    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
+    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
   ]
 }
