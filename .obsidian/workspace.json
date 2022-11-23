@@ -11,9 +11,12 @@
             "id": "fdfb631750e06eea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "-附件-/Vue生命周期.png"
+                "file": "9000-信箱/Vue 自定义单击双击长按.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -59,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "长安",
+                "query": "长按",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-附件-/Vue生命周期.png",
+                "file": "9000-信箱/Vue 自定义单击双击长按.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-附件-/Vue生命周期.png",
+                "file": "9000-信箱/Vue 自定义单击双击长按.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-附件-/Vue生命周期.png"
+                "file": "9000-信箱/Vue 自定义单击双击长按.md"
               }
             }
           },
@@ -157,8 +160,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a509d2ee91053df",
+  "active": "fdfb631750e06eea",
   "lastOpenFiles": [
+    "~日记~/2022-08-16.md",
+    "-附件-/Vue生命周期.png",
     "9000-信箱/开发便捷工具.md",
     "0000-拾肆/驰雄项目.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
@@ -166,8 +171,6 @@
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
-    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
-    "1000-技术/计算机基础/Linux/WSL 系统代理.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md"
+    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
   ]
 }
