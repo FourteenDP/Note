@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1aeef0590b2cf6f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000-技术/前端/前端三大件兼容性查询.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Can I use",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdfb631750e06eea",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
+    "1000-技术/前端/前端三大件兼容性查询.md",
+    "开发便捷工具.md",
+    "0000-拾肆/驰雄项目.md",
     "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
     "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
     "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md",
     "1000-技术/计算机基础/Linux/WSL 系统代理.md",
-    "1000-技术/计算机基础/Linux/WSL 基本命令.md",
-    "1000-技术/计算机基础/Linux/WSL  登录Root.md",
-    "1000-技术/计算机基础/Linux/Linux目录结构和作用.md",
-    "1000-技术/计算机基础/Linux/Linux查看硬件和系统信息.md"
+    "1000-技术/计算机基础/Linux/WSL 基本命令.md"
   ]
 }
