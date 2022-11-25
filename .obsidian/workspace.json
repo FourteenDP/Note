@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9000-信箱/Vue 自定义单击双击长按.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "长按",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9000-信箱/Vue 自定义单击双击长按.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9000-信箱/Vue 自定义单击双击长按.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9000-信箱/Vue 自定义单击双击长按.md"
+                "file": "3000-自考/考试信息_网络工程080903.md"
               }
             }
           },
@@ -160,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdfb631750e06eea",
+  "active": "dddccc43b1ddcfa0",
   "lastOpenFiles": [
+    "9000-信箱/Vue 自定义单击双击长按.md",
     "~日记~/2022-08-16.md",
     "-附件-/Vue生命周期.png",
     "9000-信箱/开发便捷工具.md",
@@ -170,7 +170,6 @@
     "1000-技术/编程语言.md",
     "1000-技术/计算机基础/Linux/Linux常用命令软件.md",
     "1000-技术/计算机基础/Linux/Linux常用命令.md",
-    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md",
-    "1000-技术/计算机基础/Linux/WSL 修改默认安装目录到其他盘.md"
+    "1000-技术/计算机基础/Linux/WSL SSH远程连接.md"
   ]
 }
