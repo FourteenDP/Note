@@ -174,6 +174,9 @@
     "width": 300,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "a9ffcad573399614",
   "lastOpenFiles": [
     "9000-信箱/Uniapp全局消息提示及其组件的实现.md",
