@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9fab190890c6c4",
+        "id": "f1661d5abe4f5736",
         "type": "tabs",
         "children": [
           {
-            "id": "69a837283db4265e",
+            "id": "86b77284c72b9c91",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,18 +76,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "799e3ce2ed27bd5b",
+            "id": "8a4083e8a0bc55af",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c2cffe91c95bd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -103,34 +106,33 @@
             }
           },
           {
-            "id": "f6c2cffe91c95bd1",
+            "id": "799e3ce2ed27bd5b",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "8a4083e8a0bc55af",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "69a837283db4265e",
-  "lastOpenFiles": []
+  "active": "86b77284c72b9c91",
+  "lastOpenFiles": [
+    "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md"
+  ]
 }
