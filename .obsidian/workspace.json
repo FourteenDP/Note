@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9000-信箱/Uniapp全局消息提示及其组件的实现.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniapp 全局",
+                "query": "自考",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9000-信箱/Uniapp全局消息提示及其组件的实现.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9000-信箱/Uniapp全局消息提示及其组件的实现.md",
+                "file": "3000-自考/考试信息_网络工程080903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9000-信箱/Uniapp全局消息提示及其组件的实现.md"
+                "file": "3000-自考/考试信息_网络工程080903.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "a9ffcad573399614",
   "lastOpenFiles": [
+    "9000-信箱/Uniapp全局消息提示及其组件的实现.md",
     "~日记~/2022-07-06.md",
     "3000-自考/考试信息_网络工程080903.md",
     "9000-信箱/Vue 自定义单击双击长按.md",
@@ -184,7 +185,6 @@
     "9000-信箱/开发便捷工具.md",
     "0000-拾肆/驰雄项目.md",
     "1000-技术/前端/前端三大件兼容性查询.md",
-    "1000-技术/编程语言.md",
-    "1000-技术/计算机基础/Linux/Linux常用命令软件.md"
+    "1000-技术/编程语言.md"
   ]
 }
