@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "6c5d1bbcb1637d3d",
+    "id": "791d709e511b396e",
     "type": "split",
     "children": [
       {
-        "id": "57143154f1eb70a8",
+        "id": "00e0ddfc611cf2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ff695c6b431bf197",
+            "id": "bbe11ca332713c48",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-itab",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a8ae7e61a594bdb",
+    "id": "906e882e44ac5e49",
     "type": "split",
     "children": [
       {
-        "id": "8d92aed2dc15c57a",
+        "id": "088a5037ab8b6f43",
         "type": "tabs",
         "children": [
           {
-            "id": "dddccc43b1ddcfa0",
+            "id": "da7f85f96fb9b417",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "8a509d2ee91053df",
+            "id": "80563671172ecd8a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "自考",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,30 +54,29 @@
             }
           },
           {
-            "id": "ae5f304f79dbb367",
+            "id": "cef21ddeef71932b",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300
   },
   "right": {
-    "id": "dc8c5cdc3bbc7097",
+    "id": "46e56880c50a6d44",
     "type": "split",
     "children": [
       {
-        "id": "a413aca8ca5d269f",
+        "id": "a43a458f5f0821c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f3885687e4b8d8da",
+            "id": "d16db1be7bca69ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -87,13 +86,13 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "017fe48998258696",
+            "id": "b92d66a4fa7fdc7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +103,7 @@
             }
           },
           {
-            "id": "e8213c75782efa7d",
+            "id": "a479cd2063fc27f4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,23 +114,14 @@
             }
           },
           {
-            "id": "c22d86fa1149abd1",
+            "id": "53c9c46a12d4fc21",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "0350cd7d65f419ee",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,17 +131,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff695c6b431bf197",
-  "lastOpenFiles": [
-    "0000-拾肆/简历/前端开发-邓智鹏-20岁.md",
-    "0000-拾肆/钱钱钱.md",
-    "0000-拾肆/感兴趣的事物.md",
-    "0000-拾肆/防脱生发.md",
-    "0000-拾肆/辞职通知-邓某某-范文.md",
-    "0000-拾肆/驰雄项目.md",
-    "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本 - 副本.md",
-    "0000-拾肆/简历/前端开发-邓智鹏-20岁 - 副本.md",
-    "0000-拾肆/简历/前端开发-邓智鹏.md",
-    "~日记~/2022-07-06.md"
-  ]
+  "active": "bbe11ca332713c48",
+  "lastOpenFiles": []
 }
