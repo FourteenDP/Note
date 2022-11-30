@@ -62,6 +62,30 @@
           "lastUpdated": 1667914701612
         }
       }
+    },
+    "缺点：增加了系统的复杂性；增加了系统的实现难度": {
+      "缺点：增加了系统的复杂性；增加了系统的实现难度": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669730259761
+        }
+      }
+    },
+    "MVW模式": {
+      "MVW模式": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669730275607
+        }
+      }
+    },
+    "MVA模式": {
+      "MVA模式": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669730358436
+        }
+      }
     }
   }
 }
