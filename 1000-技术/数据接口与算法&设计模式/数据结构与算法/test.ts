@@ -21,34 +21,17 @@ console.log(curriedSum(1, 2, 3)); // 6, 没有变化
 console.log(curriedSum(1)(2, 3)); // 6, 变化了
 console.log(curriedSum(1)(2)(3)); // 6, 变化了
 
-// Path: 1000-技术\数据接口与算法&设计模式\数据结构与算法\test.ts
-// 什么是偏函数
-// 偏函数是指固定一个函数的一个或多个参数，然后产生一个新的函数的技术
-// 偏函数的实现
-function partial(fn, ...argsBound) {
-  return function (...args) {
-    return fn.call(this, ...argsBound, ...args);
-  };
-}
-// 偏函数的应用
-function mul(a, b) {
-  return a * b;
-}
-let double = partial(mul, 2);
-console.log(double(3)); // = mul(2, 3) = 6
-console.log(double(4)); // = mul(2, 4) = 8
-console.log(double(5)); // = mul(2, 5) = 10
+// 柯里化的几种应用
+// 1. 参数复用
+// 2. 提前返回
+// 3. 延迟计算
+// 4. 偏函数
 
-// Path: 1000-技术\数据接口与算法&设计模式\数据结构与算法\test.ts
-// 什么是递归
-// 递归是指在函数的定义中使用函数自身的技术
-// 递归的实现
-function factorial(n) {
-  return n != 1 ? n * factorial(n - 1) : 1;
+// 1. 参数复用
+function check(reg, text) {
+  return reg.test(text);
 }
-console.log(factorial(5)); // 120
-// 递归的应用
-function sumTo(n) {
-  return n != 1 ? n + sumTo(n - 1) : 1;
-}
-console.log(sumTo(100)); // 5050
+let checkTel = check.bind(null, /^1\d{10}$/);
+let checkEmail = check.bind(null, /^(\w)+(\.\w+)*@(\w)+((\.\w+)+)$/);
+console.log(checkTel("12345678901")); // true
+console.log(checkEmail("")); // false
