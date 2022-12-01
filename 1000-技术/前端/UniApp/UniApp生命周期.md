@@ -3,7 +3,7 @@ title: UniApp 生命周期
 aliases: 
 tags: 
 date created: 2022-07-13 14:57:30
-date updated: 2022-10-29 16:58:23
+date updated: 2022-12-01 17:55:25
 ---
 
 # UniApp 生命周期
@@ -22,6 +22,7 @@ date updated: 2022-10-29 16:58:23
 | onUnhandledRejection | 对未处理的 Promise 拒绝事件监听函数（2\.8\.1\+）                          |
 | onPageNotFound       | 页面不存在监听函数                                                  |
 | onThemeChange        | 监听系统主题变化                                                   |
+
 
 ## 页面生命周期
 
@@ -49,6 +50,7 @@ date updated: 2022-10-29 16:58:23
 | onShareTimeline                     | 监听用户点击右上角转发到朋友圈                                                                                                                                                                                                                                                                               | 微信小程序                                                                          | 2\.8\.1\+ |
 | onAddToFavorites                    | 监听用户点击右上角收藏                                                                                                                                                                                                                                                                                       | 微信小程序                                                                          | 2\.8\.1\+ |
 
+
 ## 组件生命周期
 
 - 详见 [组件生命周期 | uni-app官网](https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle)
@@ -63,6 +65,7 @@ date updated: 2022-10-29 16:58:23
 | updated       | 由于数据更改导致的虚拟 DOM 重新渲染和打补丁，在这之后会调用该钩子。详见                                                  | 仅 H5 平台支持 |          |
 | beforeDestroy | 实例销毁之前调用。在这一步，实例仍然完全可用。详见                                                                       |                |          |
 | destroyed     | Vue 实例销毁后调用。调用后，Vue 实例指示的所有东西都会解绑定，所有的事件监听器会被移除，所有的子实例也会被销毁。         |                |          |
+
 
 ## 生命周期执行顺序
 

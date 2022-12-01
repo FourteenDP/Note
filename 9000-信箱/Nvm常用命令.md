@@ -3,7 +3,7 @@ title: Nvm 常用命令
 aliases: 
 tags: 
 date created: 2022-08-12 20:09:03
-date updated: 2022-10-29 16:57:35
+date updated: 2022-12-01 17:53:00
 ---
 
 # Nvm 常用命令

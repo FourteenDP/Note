@@ -3,7 +3,7 @@ aliases: vue不同的构建版本
 tags:
   - vue不同的构建版本
 date created: 2022-06-23 21:55:45
-date updated: 2022-10-29 16:57:35
+date updated: 2022-12-01 17:53:00
 title: Vue 的不同构建版本
 ---
 
