@@ -108,3 +108,7 @@ h6 a {
   width: 100%;
   z-index: 1000;
 }
+
+.markdown-embed-title{
+  display: none;
+}
