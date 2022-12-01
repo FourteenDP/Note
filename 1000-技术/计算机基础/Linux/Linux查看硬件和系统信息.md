@@ -3,7 +3,7 @@ title: Linux 查看硬件和系统信息
 aliases: 
 tags: 
 date created: 2022-07-18 21:00:05
-date updated: 2022-08-09 20:59:07
+date updated: 2022-12-01 17:55:24
 ---
 
 # Linux 查看硬件和系统信息

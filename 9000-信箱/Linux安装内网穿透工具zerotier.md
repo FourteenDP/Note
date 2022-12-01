@@ -3,7 +3,7 @@ title: Linux 安装内网穿透工具 Zerotier
 aliases: 
 tags: 
 date created: 2022-08-10 00:27:09
-date updated: 2022-10-29 16:57:36
+date updated: 2022-12-01 17:53:00
 ---
 
 # Linux 安装内网穿透工具 Zerotier
