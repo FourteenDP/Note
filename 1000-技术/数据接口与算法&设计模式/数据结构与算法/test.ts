@@ -1,37 +1,22 @@
+// 什么是函数式编程
+// 1.函数式编程是一种编程范式，它将计算机运算视为函数的求值
+// 2.函数式编程中的函数是一等公民，函数可以作为参数传递
+// 3.函数式编程中的函数是一等公民，函数可以作为返回值使用
+// 4.函数式编程中的函数是一等公民，函数可以作为变量进行赋值
+// 5.函数式编程中的函数是一等公民，函数可以作为对象的属性进行赋值
+// 6.函数式编程中的函数是一等公民，函数可以作为数组的元素进行赋值
+
+// 什么是高阶函数
+// 1.一个函数的参数是一个函数
+// 2.一个函数的返回值是一个函数
+// 3.一个函数的参数和返回值都是一个函数
+
+// 什么是纯函数
+// 1.函数的返回结果只依赖于它的参数
+// 2.函数执行过程里面没有副作用
+
 // 什么是柯里化
-// 柯里化是一种将使用多个参数的一个函数转换成一系列使用一个参数的函数的技术
-// 柯里化的实现
-function curry(fn) {
-  return function curried(...args) {
-    if (args.length >= fn.length) {
-      return fn.apply(this, args);
-    } else {
-      return function (...args2) {
-        return curried.apply(this, args.concat(args2));
-      };
-    }
-  };
-}
-// 柯里化的应用
-function sum(a, b, c) {
-  return a + b + c;
-}
-let curriedSum = curry(sum);
-console.log(curriedSum(1, 2, 3)); // 6, 没有变化
-console.log(curriedSum(1)(2, 3)); // 6, 变化了
-console.log(curriedSum(1)(2)(3)); // 6, 变化了
-
-// 柯里化的几种应用
-// 1. 参数复用
-// 2. 提前返回
-// 3. 延迟计算
-// 4. 偏函数
-
-// 1. 参数复用
-function check(reg, text) {
-  return reg.test(text);
-}
-let checkTel = check.bind(null, /^1\d{10}$/);
-let checkEmail = check.bind(null, /^(\w)+(\.\w+)*@(\w)+((\.\w+)+)$/);
-console.log(checkTel("12345678901")); // true
-console.log(checkEmail("")); // false
+// 1.柯里化是把接受多个参数的函数转换成接受一个单一参数的函数，并且返回接受余下的参数而且返回结果的新函数
+// 2.柯里化的本质是把一个多参数的函数转换成一个嵌套函数，函数的每一个参数都可以被一个单独的函数接收
+// 3.柯里化的本质是把一个多参数的函数转换成一个嵌套函数，函数的每一个参数都可以被一个单独的函数接收
+// 4.柯里化的本
