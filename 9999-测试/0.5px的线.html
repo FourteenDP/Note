@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>0.5px的线</title>
+  <style>
+    .line0::after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 1px;
+      background: #000;
+    }
+
+    .line1::after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 1px;
+      background: #000;
+      transform: scaleY(0.5);
+    }
+
+  </style>
+</head>
+
+<body>
+  <h2>
+    div的高度是1px，但是通过transform: scaleY(0.5);放大了一倍，所以看起来是0.5px的线
+  </h2>
+  <div class="line0">1px</div>
+  <div class="line1">0.5px</div>
+  <div class="line2">0.5px</div>
+</body>
+
+</html>
