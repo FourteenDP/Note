@@ -1,34 +1,7 @@
 // 正则表达式
 
 // markdwon 解析器
-//
-// 1. 识别出标题
 
-function parseTitle(text) {
-  let result = text.match(/^#+\s(.*)/)
-  if (result) {
-    return {
-      title: result[1],
-      level: result[0].length - result[1].length - 1
-    }
-  }
+export default function parseMarkdown(text) {
+  const lines = text.split('
 }
-
-// 2. 识别出列表
-// 3. 识别出代码块
-// 4. 识别出引用
-// 5. 识别出图片
-// 6. 识别出链接
-// 7. 识别出粗体
-// 8. 识别出斜体
-// 9. 识别出删除线
-// 10. 识别出分割线
-// 11. 识别出行内代码
-// 12. 识别出表格
-// 13. 识别出脚注
-// 14. 识别出数学公式
-// 15. 识别出 HTML 标签
-// 16. 识别出自动链接
-// 17. 识别出自动换行
-// 18. 识别出自动缩进
-// 19. 识别出自动缩进
