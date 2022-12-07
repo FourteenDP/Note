@@ -1,19 +1,11 @@
-// 使用node遍历.md文件
+// 数组去重
 
-const fs = require('fs');
-const path = require('path');
-
-const dir = path.resolve(__dirname, '9999-测试');
-console.log(dir);
-
-const asdjaklsjdl = fs.readdirSync(dir);
-
-asdjaklsjdl.forEach(file => {
-  if (file.endsWith('.md')) {
-    const content = fs.readAsdjaklsjdlync
-      (path.resolve(dir, file), 'utf8');
-    console.log(content);
-  }
-});
-
-const ASDJAKLSJDL = ""
+/**
+ * @param {Array} arr
+ * @return {Array}
+ * @description 数组去重
+ * @example unique([1, 2, 3, 3, 4, 5, 5, 6]) => [1, 2, 3, 4, 5, 6]
+ */
+function unique(arr) {
+  return Array.from(new Set(arr));
+}
