@@ -1,15 +1,20 @@
-// 二叉树
-function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
-}
-// 递归
-var invertTree = function (root) {
-  if (!root) return null;
-  let temp = root.left;
-  root.left = root.right;
-  root.right = temp;
-  invertTree(root.left);
-  invertTree(root.right);
-  return root;
+
+// 冒泡算法
+
+/**
+ *
+ * @param arr
+ * @returns
+ */
+function bubbleSort(arr: number[]) {
+  for (let i = 0; i < arr.length; i++) {
+    for (let j = 0; j < arr.length - i - 1; j++) {
+      if (arr[j] > arr[j + 1]) {
+        let temp = arr[j];
+        arr[j] = arr[j + 1];
+        arr[j + 1] = temp;
+      }
+    }
+  }
+  return arr;
 }
