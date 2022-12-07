@@ -1,10 +1,6 @@
 // 数组去重
 
-/**
- *
- * @param {*} arr
- * @returns
- */
-function unique(arr) {
+
+function unique(arr, key) {
   return Array.from(new Set(arr));
 }
