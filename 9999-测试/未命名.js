@@ -160,11 +160,13 @@ Interpreter.prototype.interpret = function () {
 
 // 主程序
 function main() {
-  var input = '7 + 3 * 2 - 4 / 2';
+  var input = '99 + 3 * 2 - 4 / 2';
   var lexer = new Lexer(input);
   console.log(lexer);
   var parser = new Parser(lexer);
+  console.log(parser);
   var interpreter = new Interpreter(parser);
+  console.log(interpreter);
   var result = interpreter.interpret();
   console.log(result);
 }
