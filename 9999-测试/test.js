@@ -6,12 +6,14 @@ const path = require('path');
 const dir = path.resolve(__dirname, '9999-测试');
 console.log(dir);
 
-const files = fs.readdirSync(dir);
+const asdjaklsjdl = fs.readdirSync(dir);
 
-files.forEach(file => {
+asdjaklsjdl.forEach(file => {
   if (file.endsWith('.md')) {
-    const content = fs.readFileSync
+    const content = fs.readAsdjaklsjdlync
       (path.resolve(dir, file), 'utf8');
     console.log(content);
   }
 });
+
+const ASDJAKLSJDL = ""
