@@ -1,14 +1,12 @@
-class Singleton {
-  private static instance: Singleton;
-  private constructor() { }
-  public static getInstance() {
-    if (!this.instance) {
-      this.instance = new Singleton();
-    }
-    return this.instance;
-  }
+/**
+ * 解析文本加减乘除
+ * @param text
+ * @returns
+ * @example parseText('1+2*3') => 7
+ */
+export function parseText(text: string): string {
+  // 1. 解析文本中的变量
+  // 2. 解析文本中的运算
+  // 3. 返回解析后的文本
+  return text
 }
-
-// 测试
-const s1 = Singleton.getInstance();
-const s2 = Singleton.getInstance();
