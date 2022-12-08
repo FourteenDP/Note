@@ -2,23 +2,25 @@ const fs = require('fs')
 const path = require('path')
 
 
-/**
- * @description: 生成文件树过滤器
- * @param {string} dir
- * @param {Array} filter
- * @param {string} type
- * @return {Object}
- * @example: buildDirectoryTree('./', ['.js', '.json'], 'include')
-*/
 
 
 
+
+
+// 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
+function filterFile(file) {
+  const prefixs = ['.', '~', '-', '0000']
+  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return false;
+  return true;
+}
+
+// 生成文件树
 function buildDirectoryTree(dir, filter, type) {
   const files = fs.readdirSync(dir)
   const result = {}
   files.forEach((file) => {
     // 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
-    if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return;
+    if (filterFile(file)) return;
     const filePath = path.join(dir, file)
     const stats = fs.statSync(filePath)
     if (stats.isDirectory()) {
