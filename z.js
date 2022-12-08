@@ -21,6 +21,6 @@ function travel(dir, ext, callback) {
   })
 }
 
-travel('./', '.js', function (pathname) {
+travel('./', '.md', function (pathname) {
   console.log(pathname)
 })
