@@ -89,6 +89,7 @@ date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOSt
 
 `
   arr.forEach(item => {
+    item.title = item.title.replace(/\.md$/, '')
     if (item.children) {
       md += `- **[[${item.title}]]**\n`
     } else {
