@@ -1,3 +1,14 @@
+---
+title: INDEX
+aliases: []
+tags:
+  - 目录
+date created: 2022-12-08 14:23:18
+date updated: 2022-12-08 14:23:18
+---
+
+# INDEX
+
 - [[波茨坦公告]]
 - [[开罗宣言]]
 - [[联合国家宣言]]

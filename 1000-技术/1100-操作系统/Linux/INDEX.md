@@ -1,3 +1,14 @@
+---
+title: INDEX
+aliases: []
+tags:
+  - 目录
+date created: 2022-12-08 14:23:17
+date updated: 2022-12-08 14:23:17
+---
+
+# INDEX
+
 - [[Linux 安装卸载 Rust]]
 - [[Linux 开发环境配置]]
 - [[Linux安装命令行工具Oh My Zsh]]
