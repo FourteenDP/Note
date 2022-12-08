@@ -4,7 +4,7 @@ const path = require('path')
 
 // 过滤
 function filterFile(file) {
-  if (file.startsWith('.') || file.startsWith('-') || file.startsWith('0000')) return true;
+  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return true;
   if (file === 'INDEX.md') return true;
   return false;
 }
@@ -63,27 +63,43 @@ function treeToMarkdown(tree, level = 0) {
   let result = ''
   Object.keys(tree).forEach((key) => {
     if (typeof tree[key] === 'string') {
-      result += `${'  '.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
+      result += `${''.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `${'  '.repeat(level)}- ${key}\n`
-      if (typeof tree[key] === 'object') {
-        result += treeToMarkdown(tree[key], level + 1)
-      }
+      result += `${'  '.repeat(level)}- [[${key}/INDEX|${key}]]\n`
+      // if (typeof tree[key] === 'object') {
+      //   result += treeToMarkdown(tree[key], level + 1)
+      // }
     }
   })
   return result
 }
 
-// 生成索引
+// 生成索引所有文件夹
 function generateIndex(dir) {
-  const tree = buildDirectoryTree(dir, ['.md'], 'include')
-  const sortedTree = sortDirectoryTree(tree)
-  const markdown = treeToMarkdown(sortedTree)
-  fs.writeFileSync(path.join(dir, 'INDEX.md'), markdown)
+  const files = fs.readdirSync(dir)
+  // 根目录生成INDEX.md
+  if (dir === './') {
+    const tree = buildDirectoryTree(dir, ['.md'], 'include')
+    const sortTree = sortDirectoryTree(tree)
+    const markdown = treeToMarkdown(sortTree)
+    fs.writeFileSync(path.join(dir, 'INDEX.md'), markdown)
+  }
+  files.forEach((file) => {
+    if (filterFile(file)) return;
+    const filePath = path.join(dir, file)
+    const stats = fs.statSync(filePath)
+    if (stats.isDirectory()) {
+      const tree = buildDirectoryTree(filePath, ['.md'], 'include')
+      const sortTree = sortDirectoryTree(tree)
+      const markdown = treeToMarkdown(sortTree)
+      fs.writeFileSync(path.join(filePath, 'INDEX.md'), markdown)
+      generateIndex(filePath)
+    }
+  })
 }
 
-generateIndex('./')
+
 
 // 删除索引
 function deleteIndex(dir) {
@@ -101,4 +117,4 @@ function deleteIndex(dir) {
   })
 }
 
-// deleteIndex('./')
+true ? generateIndex('./') : deleteIndex('./')
