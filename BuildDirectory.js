@@ -1,7 +1,7 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 20:44:14
+ * @更新时间: 2022-12-08 20:48:11
  */
 
 
@@ -52,14 +52,8 @@ function treeToMarkdown(tree, level = 0) {
     if (typeof tree[key] === 'string') {
       result += `${'  '.repeat(level + 1)}- [[${tree[key]}]]\n`
       return
-    } else if (key === 'README.md' || key === 'DrerectoryTree.md') {
-      return
     } else {
-      let prefix = ''
-      for (let i = 0; i <= level; i++) {
-        prefix += '#'
-      }
-      result += `${''.repeat(level)}${prefix} ${key}\n`
+      result += `${'  '.repeat(level)}- ${key}\n`
       if (typeof tree[key] === 'object') {
         result += treeToMarkdown(tree[key], level + 1)
       }
