@@ -33,7 +33,8 @@ function filter(tree, filter) {
 }
 
 filter(tree, file => {
-  return file === 'node_modules' || file === 'package-lock.json'
+  // 过滤.js文件
+  return /\.js$/.test(file)
 })
 
 // 输出
