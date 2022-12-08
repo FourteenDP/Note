@@ -39,6 +39,7 @@ function filter(tree, prefixs = ['.', '_']) {
 filter(tree, ['.', '_', 'tree.js', '~', '-', '0000'])
 
 
+
 // 输出
 console.log(JSON.stringify(tree, null, 2));
 console.log(tree);
