@@ -11,6 +11,8 @@ const path = require('path')
  * @example: buildDirectoryTree('./', ['.js', '.json'], 'include')
 */
 
+
+
 function buildDirectoryTree(dir, filter, type) {
   const files = fs.readdirSync(dir)
   const result = {}
