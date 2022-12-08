@@ -1,7 +1,7 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 20:48:11
+ * @更新时间: 2022-12-08 20:50:19
  */
 
 
@@ -50,7 +50,7 @@ function treeToMarkdown(tree, level = 0) {
   Object.keys(tree).forEach((key) => {
     // 判断是否是文件
     if (typeof tree[key] === 'string') {
-      result += `${'  '.repeat(level + 1)}- [[${tree[key]}]]\n`
+      result += `${'  '.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
       result += `${'  '.repeat(level)}- ${key}\n`
@@ -63,4 +63,4 @@ function treeToMarkdown(tree, level = 0) {
 }
 
 // 将文件树打印到DrerectoryTree.md
-fs.writeFileSync('DrerectoryTree.md', treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
+fs.writeFileSync('目录.md', treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
