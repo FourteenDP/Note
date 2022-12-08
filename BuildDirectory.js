@@ -1,12 +1,14 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 16:53:45
+ * @更新时间: 2022-12-08 16:55:35
  */
 
-// 遍历文件夹和文件
+
+
 const fs = require('fs')
 const path = require('path')
+const fileNmaeArr = []
 
 // 读取当前文件夹下的所有文件
 const files = fs.readdirSync(__dirname)
