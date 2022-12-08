@@ -2,16 +2,10 @@ const fs = require('fs')
 const path = require('path')
 
 
-
-
-
-
-
 // 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
 function filterFile(file) {
-  const prefixs = ['.', '~', '-', '0000']
-  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return false;
-  return true;
+  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return true;
+  return false;
 }
 
 // 生成文件树
@@ -40,6 +34,20 @@ function buildDirectoryTree(dir, filter, type) {
   return result
 }
 
+// 排序文件树
+function sortDirectoryTree(tree) {
+  const result = {}
+  Object.keys(tree).sort().forEach((key) => {
+    if (typeof tree[key] === 'string') {
+      result[key] = tree[key]
+    } else {
+      result[key] = sortDirectoryTree(tree[key])
+    }
+  })
+  return result
+}
+
+
 // 转成markdown格式
 function treeToMarkdown(tree, level = 0) {
   let result = ''
@@ -57,5 +65,8 @@ function treeToMarkdown(tree, level = 0) {
   return result
 }
 
-// 将文件树打印到DrerectoryTree.md
+// 将文件树打印到目录.md
 fs.writeFileSync('目录.md', treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
+
+// 答应当前目录下的文件树
+console.log(treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
