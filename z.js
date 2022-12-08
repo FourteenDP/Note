@@ -21,13 +21,17 @@ function walk(dir, tree) {
 
 walk(dir, tree)
 
-// 过滤隐藏文件
+// 过滤隐藏文件和前缀
 function filter(tree, prefixs) {
   for (let key in tree) {
-    if (key.startsWith('.')) {
-      delete tree[key]
-    } else if (typeof tree[key] === 'object') {
-      filter(tree[key])
+    if (prefixs) {
+      for (let prefix of prefixs) {
+        if (key.startsWith(prefix)) {
+          delete tree[key]
+        } else if (typeof tree[key] === 'object') {
+          filter(tree[key])
+        }
+      }
     }
   }
 }
