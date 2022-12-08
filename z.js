@@ -42,6 +42,9 @@ function sortTree(tree) {
     if (typeof temp[item] === 'object') {
       temp[item] = sortTree(temp[item])
     }
+    if (typeof temp[item] === 'boolean') {
+      temp[item] = null
+    }
   })
   return temp
 }
