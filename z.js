@@ -1,11 +1,3 @@
-/*
- * @文件路径: \BuildDirectory.js
- * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 20:50:19
- */
-
-
-
 const fs = require('fs')
 const path = require('path')
 
