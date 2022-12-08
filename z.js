@@ -22,7 +22,7 @@ function walk(dir, tree) {
 walk(dir, tree)
 
 // 过滤隐藏文件和前缀
-function filter(tree, prefixs) {
+function filter(tree, prefixs = ['.', '_']) {
   for (let key in tree) {
     if (prefixs) {
       for (let prefix of prefixs) {
