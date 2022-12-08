@@ -1,128 +1,26 @@
 const fs = require('fs')
 const path = require('path')
 
-
-// 过滤
-function filterFile(file) {
-  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000') || file.startsWith('📋目录')) return true;
-  return false;
-}
-
-// 生成文件树
-function buildDirectoryTree(dir, filter, type) {
-  const files = fs.readdirSync(dir)
-  const result = {}
-  files.forEach((file) => {
-    if (filterFile(file)) return;
-    const filePath = path.join(dir, file)
-    const stats = fs.statSync(filePath)
-    if (stats.isDirectory()) {
-      result[file] = buildDirectoryTree(filePath, filter, type)
-    } else if (stats.isFile()) {
-      if (type === 'include') {
-        if (filter.includes(path.extname(filePath))) {
-          result[file] = file
-        }
-      } else if (type === 'exclude') {
-        if (!filter.includes(path.extname(filePath))) {
-          result[file] = file
-        }
+/**
+ * 文件夹遍历方法
+ * @param {string} dir
+ * @param {string} ext
+ * @param {function} callback
+ * @returns {void}
+ */
+function travel(dir, ext, callback) {
+  fs.readdirSync(dir).forEach(function (file) {
+    var pathname = path.join(dir, file)
+    if (fs.statSync(pathname).isDirectory()) {
+      travel(pathname, ext, callback)
+    } else {
+      if (path.extname(pathname) === ext) {
+        callback(pathname)
       }
     }
   })
-  return result
 }
 
-// 对文件树进行排序 优先级：文件夹>文件>文件名
-function sortDirectoryTree(tree) {
-  const result = {}
-  const keys = Object.keys(tree)
-  keys.sort((a, b) => {
-    if (typeof tree[a] === 'object' && typeof tree[b] === 'string') {
-      return -1
-    } else if (typeof tree[a] === 'string' && typeof tree[b] === 'object') {
-      return 1
-    } else if (typeof tree[a] === 'object' && typeof tree[b] === 'object') {
-      return a.localeCompare(b)
-    } else if (typeof tree[a] === 'string' && typeof tree[b] === 'string') {
-      return a.localeCompare(b)
-    }
-  })
-  keys.forEach((key) => {
-    result[key] = tree[key]
-    if (typeof tree[key] === 'object') {
-      result[key] = sortDirectoryTree(tree[key])
-    }
-  })
-  return result
-}
-
-// 转成markdown格式
-function treeToMarkdown(tree, dir) {
-  console.log(dir);
-  let result = `---
-title: ${dir === './' ? '📋目录' : '📋目录-' + dir}
-aliases:
-tags:
-  - 目录
-date created: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
-date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
----
-
-# ${dir === './' ? '📋目录' : '📋目录-' + dir}
-
-`
-  Object.keys(tree).forEach((key) => {
-    if (typeof tree[key] === 'string') {
-      result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
-      return
-    } else {
-      result += `- **[[📋目录-${key}]]**\n`
-    }
-  })
-  return result
-}
-
-// 生成索引所有文件夹
-function generateIndex(dir) {
-  const files = fs.readdirSync(dir)
-  // 根目录生成INDEX.md
-  if (dir === './') {
-    const tree = buildDirectoryTree(dir, ['.md'], 'include')
-    const sortTree = sortDirectoryTree(tree)
-    const markdown = treeToMarkdown(sortTree, dir)
-    fs.writeFileSync(path.join(dir, '📋目录.md'), markdown)
-  }
-  files.forEach((file) => {
-    if (filterFile(file)) return;
-    const filePath = path.join(dir, file)
-    const stats = fs.statSync(filePath)
-    if (stats.isDirectory()) {
-      const tree = buildDirectoryTree(filePath, ['.md'], 'include')
-      const sortTree = sortDirectoryTree(tree)
-      const markdown = treeToMarkdown(sortTree, file)
-      fs.writeFileSync(path.join(filePath, '📋目录-' + file + '.md'), markdown)
-      generateIndex(filePath)
-    }
-  })
-}
-
-
-
-// 删除所有📋目录
-function deleteIndex(dir) {
-  const files = fs.readdirSync(dir)
-  files.forEach((file) => {
-    if (file === '📋目录') {
-      fs.unlinkSync(path.join(dir, file))
-      return
-    }
-    const filePath = path.join(dir, file)
-    const stats = fs.statSync(filePath)
-    if (stats.isDirectory()) {
-      deleteIndex(filePath)
-    }
-  })
-}
-
-false ? generateIndex('./') : deleteIndex('./')
+travel('./', '.js', function (pathname) {
+  console.log(pathname)
+})
