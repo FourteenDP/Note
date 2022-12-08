@@ -3,7 +3,7 @@ aliases: Windows终端设置代理
 tags:
   - Windows终端设置代理
 date created: 2022-06-20 19:58:18
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-08 11:46:37
 title: Windows 终端设置代理
 ---
 
@@ -12,7 +12,7 @@ title: Windows 终端设置代理
 ## 临时代理
 
 > [!warning]
-> 关闭后失效
+> 终端关闭后失效
 
 ```shell
 set http_proxy = "http://127.0.0.1:10808"
