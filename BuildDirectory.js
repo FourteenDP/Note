@@ -1,7 +1,7 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 17:17:37
+ * @更新时间: 2022-12-08 20:12:02
  */
 
 
@@ -23,8 +23,8 @@ function buildDirectoryTree(dir, filter, type) {
   const files = fs.readdirSync(dir)
   const result = {}
   files.forEach((file) => {
-    // 过滤隐藏文件
-    if (file.startsWith('.')) return;
+    // 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
+    if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return;
     const filePath = path.join(dir, file)
     const stats = fs.statSync(filePath)
     if (stats.isDirectory()) {
@@ -32,11 +32,11 @@ function buildDirectoryTree(dir, filter, type) {
     } else if (stats.isFile()) {
       if (type === 'include') {
         if (filter.includes(path.extname(filePath))) {
-          result[file] = filePath
+          result[file] = file
         }
       } else if (type === 'exclude') {
         if (!filter.includes(path.extname(filePath))) {
-          result[file] = filePath
+          result[file] = file
         }
       }
     }
@@ -44,6 +44,25 @@ function buildDirectoryTree(dir, filter, type) {
   return result
 }
 
+// 转成markdown格式
+function treeToMarkdown(tree, level = 0) {
+  let result = ''
+  Object.keys(tree).forEach((key) => {
+    // 判断是否是文件
+    if (typeof tree[key] === 'string') {
+      result += `${'  '.repeat(level + 1)}- [${tree[key]}]\n`
+      return
+    } else if (key === 'README.md' || key === 'DrerectoryTree.md') {
+      return
+    } else {
+      result += `${'  '.repeat(level)}- ${key}\n`
+      if (typeof tree[key] === 'object') {
+        result += treeToMarkdown(tree[key], level + 1)
+      }
+    }
+  })
+  return result
+}
 
-// 将文件树打印到DrerectoryTree.txt
-fs.writeFileSync('DrerectoryTree.txt', JSON.stringify(buildDirectoryTree('./', ['.js', '.json'], 'exclude'), null, 2))
+// 将文件树打印到DrerectoryTree.md
+fs.writeFileSync('DrerectoryTree.md', treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
