@@ -1,16 +1,15 @@
 ---
 title: INDEX
 aliases:
-  - JavaScript红宝书目录
 tags:
   - 目录
-date created: 2022-12-08 14:29:24
-date updated: 2022-12-08 14:29:24
+date created: 2022-12-08 14:38:11
+date updated: 2022-12-08 14:38:11
 ---
 
 # INDEX
 
-      - **[[JavaScript红宝书目录]]**
+- **[[JavaScript红宝书目录]]**
 - [[计算setTimeout和setInterval计时器的误差]]
 - [[箭头函数]]
 - [[浏览器休眠对setTimeout和setInterval的影响]]
