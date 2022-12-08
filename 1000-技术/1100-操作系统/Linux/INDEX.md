@@ -1,13 +1,13 @@
 ---
-title: INDEX
+title: 📋目录-Linux
 aliases:
 tags:
   - 目录
-date created: 2022-12-08 14:38:11
-date updated: 2022-12-08 14:38:11
+date created: 2022-12-08 14:46:18
+date updated: 2022-12-08 14:46:18
 ---
 
-# INDEX
+# 📋目录-Linux
 
 - [[Linux 安装卸载 Rust]]
 - [[Linux 开发环境配置]]

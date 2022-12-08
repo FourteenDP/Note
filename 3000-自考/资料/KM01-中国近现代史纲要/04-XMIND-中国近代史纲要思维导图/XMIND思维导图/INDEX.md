@@ -1,11 +1,11 @@
 ---
-title: INDEX
+title: 📋目录-XMIND思维导图
 aliases:
 tags:
   - 目录
-date created: 2022-12-08 14:38:12
-date updated: 2022-12-08 14:38:12
+date created: 2022-12-08 14:46:18
+date updated: 2022-12-08 14:46:18
 ---
 
-# INDEX
+# 📋目录-XMIND思维导图
 
