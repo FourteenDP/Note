@@ -21,7 +21,7 @@ function walk(dir, tree) {
 
 walk(dir, tree)
 
-// 过滤文件
+// 过滤目录
 function filter(tree, filter) {
   for (let key in tree) {
     if (filter(key)) {
@@ -33,6 +33,7 @@ function filter(tree, filter) {
 }
 
 filter(tree, file => {
+  console.log(file);
   return file === 'node_modules' || file === 'package-lock.json'
 })
 
