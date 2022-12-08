@@ -31,4 +31,4 @@ travel('./', '.md', function (pathname) {
   })
 })
 
-console.log(tree)
+console.log(JSON.stringify(tree, null, 2))
