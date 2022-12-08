@@ -34,15 +34,25 @@ function buildDirectoryTree(dir, filter, type) {
   return result
 }
 
-// 排序文件树
+// 对文件树进行排序 文件在前 文件夹在后 文件夹内部排序
 function sortDirectoryTree(tree) {
   const result = {}
-  Object.keys(tree).sort().forEach((key) => {
+  const files = []
+  const dirs = []
+  Object.keys(tree).forEach((key) => {
     if (typeof tree[key] === 'string') {
-      result[key] = tree[key]
+      // 符号开头的文件放在前面
+      if
+      // files.push(key)
     } else {
-      result[key] = sortDirectoryTree(tree[key])
+      dirs.push(key)
     }
+  })
+  files.sort().forEach((file) => {
+    result[file] = tree[file]
+  })
+  dirs.sort().forEach((dir) => {
+    result[dir] = sortDirectoryTree(tree[dir])
   })
   return result
 }
@@ -65,8 +75,5 @@ function treeToMarkdown(tree, level = 0) {
   return result
 }
 
-// 将文件树打印到目录.md
-fs.writeFileSync('目录.md', treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
-
-// 答应当前目录下的文件树
-console.log(treeToMarkdown(buildDirectoryTree('./', ['.md'], 'include')))
+// 将文件树打印到INDEX.md
+fs.writeFileSync('INDEX.md', treeToMarkdown(sortDirectoryTree(buildDirectoryTree('./', ['.md'], 'include'))))

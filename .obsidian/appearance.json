@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "Theme"
   ],
-  "baseFontSize": 16,
+  "baseFontSize": 23,
   "cssTheme": "Things",
   "theme": "obsidian",
   "translucency": false
