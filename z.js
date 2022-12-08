@@ -34,7 +34,7 @@ function filter(tree, filter) {
 
 filter(tree, file => {
   // 过滤.js文件
-  return /\.js$/.test(file)
+  return /\.md$/.test(file)
 })
 
 // 输出
