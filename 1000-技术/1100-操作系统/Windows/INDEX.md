@@ -1,2 +1,2 @@
-  - [[Windows创建软连接]]
-  - [[Windows终端设置代理]]
+- [[Windows创建软连接]]
+- [[Windows终端设置代理]]
