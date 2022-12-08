@@ -1,7 +1,7 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 20:12:02
+ * @更新时间: 2022-12-08 20:32:41
  */
 
 
@@ -50,7 +50,7 @@ function treeToMarkdown(tree, level = 0) {
   Object.keys(tree).forEach((key) => {
     // 判断是否是文件
     if (typeof tree[key] === 'string') {
-      result += `${'  '.repeat(level + 1)}- [${tree[key]}]\n`
+      result += `${'  '.repeat(level + 1)}- [[${tree[key]}]]\n`
       return
     } else if (key === 'README.md' || key === 'DrerectoryTree.md') {
       return
