@@ -5,6 +5,7 @@ const path = require('path')
  * 文件夹遍历方法
  * @param {string} dir
  * @param {string} ext
+ * @param {Array} fileList
  * @param {function} callback
  * @returns {void}
  */
