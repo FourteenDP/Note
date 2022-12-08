@@ -33,3 +33,19 @@ travel('./', '.md', function (pathname) {
 })
 
 // 排序 tree
+function sortTree(tree) {
+  let arr = Object.keys(tree)
+  arr.sort()
+  let temp = {}
+  arr.forEach(item => {
+    temp[item] = tree[item]
+    if (typeof temp[item] === 'object') {
+      temp[item] = sortTree(temp[item])
+    }
+  })
+  return temp
+}
+
+tree = sortTree(tree)
+
+console.log(tree, null, 2);
