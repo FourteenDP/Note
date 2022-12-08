@@ -22,6 +22,12 @@ function travel(dir, ext, callback) {
   })
 }
 
+let tree = {}
 travel('./', '.md', function (pathname) {
-  // tree结构
+  let dir = path.dirname(pathname)
+  let file = path.basename(pathname)
+  if (!tree[dir]) {
+    tree[dir] = []
+  }
+  tree[dir].push(file)
 })
