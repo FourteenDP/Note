@@ -70,7 +70,7 @@ function filterTree(tree, filter) {
         temp[item] = res
       }
     } else {
-      if (filter.test(item)) {
+      if (!filter.test(item)) {
         temp[item] = true
       }
     }
@@ -78,7 +78,8 @@ function filterTree(tree, filter) {
   return temp
 }
 
-tree = filterTree(tree, /README/)
+// 过滤掉以 '. 开头的文件夹和文件
+tree = filterTree(tree, /^\./)
 
 console.log(JSON.stringify(tree, null, 2));
 console.log(tree);
