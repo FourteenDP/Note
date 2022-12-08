@@ -90,13 +90,13 @@ title: ${title}
 aliases:
 tags:
   - 目录
-date created: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
-date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
 ---
 
 # ${title}
 
 `
+// date created: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
+// date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
   arr.forEach(item => {
     item.title = item.title.replace(/\.md$/, '')
     if (item.title === title || item.title === '📋目录') return
