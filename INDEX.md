@@ -1,4 +1,14 @@
-- 1000-技术
+---
+title: INDEX
+aliases: 
+tags: 
+date created: 2022-12-08 21:14:14
+date updated: 2022-12-08 21:30:58
+---
+
+# INDEX
+
+- [[7000-开源/INDEX]]
   - 1100-操作系统
     - Linux
         - [[Linux 安装卸载 Rust]]
