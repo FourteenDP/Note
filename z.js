@@ -22,7 +22,7 @@ function walk(dir, tree) {
 walk(dir, tree)
 
 // 过滤隐藏文件
-function filter(tree) {
+function filter(tree, prefixs) {
   for (let key in tree) {
     if (key.startsWith('.')) {
       delete tree[key]
