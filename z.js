@@ -59,4 +59,18 @@ function sortTree(tree) {
 
 tree = sortTree(tree)
 
-console.log(tree);
+// 过滤掉不需要的文件夹
+function filterTree(tree, filter) {
+  let keys = Object.keys(tree)
+  keys.forEach((item) => {
+    if (tree[item] !== true) {
+      if (filter.includes(item)) {
+        delete tree[item]
+      } else {
+        filterTree(tree[item], filter)
+      }
+    }
+  })
+}
+
+filterTree(tree, ['node_modules', '.git'])
