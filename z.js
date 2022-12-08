@@ -59,20 +59,9 @@ function sortTree(tree) {
 
 tree = sortTree(tree)
 
-// 过滤掉隐藏文件夹
+// 过滤掉不需要的文件夹 匹配到的文件夹不会被过滤
 function filterTree(tree) {
-  let keys = Object.keys(tree)
-  let temp = {}
-  keys.forEach((item) => {
-    if (item[0] !== '.') {
-      if (tree[item] !== true) {
-        temp[item] = filterTree(tree[item])
-      } else {
-        temp[item] = true
-      }
-    }
-  })
-  return temp
+
 }
 
 tree = filterTree(tree)
