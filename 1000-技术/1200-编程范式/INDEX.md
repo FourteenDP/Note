@@ -1,12 +1,13 @@
 ---
 title: INDEX
-aliases: []
+aliases:
+  - 编程范式.md目录
 tags:
   - 目录
-date created: 2022-12-08 14:23:17
-date updated: 2022-12-08 14:23:17
+date created: 2022-12-08 14:29:24
+date updated: 2022-12-08 14:29:24
 ---
 
 # INDEX
 
-- [[编程范式]]
+      - [[编程范式]]

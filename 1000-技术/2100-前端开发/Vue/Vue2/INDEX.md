@@ -1,15 +1,16 @@
 ---
 title: INDEX
-aliases: []
+aliases:
+  - 分析Vue2中Vue与VueComponent的关系.md目录
 tags:
   - 目录
-date created: 2022-12-08 14:23:17
-date updated: 2022-12-08 14:23:17
+date created: 2022-12-08 14:29:24
+date updated: 2022-12-08 14:29:24
 ---
 
 # INDEX
 
-- [[分析Vue2中Vue与VueComponent的关系]]
+      - [[分析Vue2中Vue与VueComponent的关系]]
 - [[Vue2 中的页面数据缓存]]
 - [[Vue路由Keep-alive实现原理]]
 - [[Vue生命周期]]

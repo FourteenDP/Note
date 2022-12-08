@@ -1,15 +1,16 @@
 ---
 title: INDEX
-aliases: []
+aliases:
+  - 波茨坦公告.md目录
 tags:
   - 目录
-date created: 2022-12-08 14:23:18
-date updated: 2022-12-08 14:23:18
+date created: 2022-12-08 14:29:25
+date updated: 2022-12-08 14:29:25
 ---
 
 # INDEX
 
-- [[波茨坦公告]]
+      - [[波茨坦公告]]
 - [[开罗宣言]]
 - [[联合国家宣言]]
 - [[青年运动的方向]]

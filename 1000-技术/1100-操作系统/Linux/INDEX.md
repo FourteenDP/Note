@@ -1,15 +1,16 @@
 ---
 title: INDEX
-aliases: []
+aliases:
+  - Linux 安装卸载 Rust.md目录
 tags:
   - 目录
-date created: 2022-12-08 14:23:17
-date updated: 2022-12-08 14:23:17
+date created: 2022-12-08 14:29:24
+date updated: 2022-12-08 14:29:24
 ---
 
 # INDEX
 
-- [[Linux 安装卸载 Rust]]
+      - [[Linux 安装卸载 Rust]]
 - [[Linux 开发环境配置]]
 - [[Linux安装命令行工具Oh My Zsh]]
 - [[Linux安装Node版本管理器Nvm]]

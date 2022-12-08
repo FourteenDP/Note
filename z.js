@@ -60,11 +60,13 @@ function sortDirectoryTree(tree) {
 
 // 转成markdown格式
 function treeToMarkdown(tree) {
-  console.log(tree);
-  let index = 0
-  let result = `---
+  let result = ''
+  Object.keys(tree).forEach((key, index) => {
+    if (index === 0) {
+      result += `---
 title: INDEX
-aliases: [${tree['INDEX.md'] ? tree['INDEX.md'].substring(0, tree['INDEX.md'].lastIndexOf(".")) : ''}]
+aliases:
+  - ${key}目录
 tags:
   - 目录
 date created: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
@@ -73,14 +75,14 @@ date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toI
 
 # INDEX
 
-`
-  Object.keys(tree).forEach((key) => {
-    index++
+      `
+    }
+
     if (typeof tree[key] === 'string') {
       result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `- **[[${key}/INDEX|${key}]]**\n`
+      result += `- **[[${key}目录]]**\n`
     }
   })
   return result

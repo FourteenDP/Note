@@ -1,13 +1,14 @@
 ---
 title: INDEX
-aliases: []
+aliases:
+  - Linux目录
 tags:
   - 目录
-date created: 2022-12-08 14:23:17
-date updated: 2022-12-08 14:23:17
+date created: 2022-12-08 14:29:24
+date updated: 2022-12-08 14:29:24
 ---
 
 # INDEX
 
-- **[[Linux/INDEX|Linux]]**
-- **[[Windows/INDEX|Windows]]**
+      - **[[Linux目录]]**
+- **[[Windows目录]]**
