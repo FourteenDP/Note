@@ -32,18 +32,24 @@ travel('./', '.md', function (pathname) {
   })
 })
 
-// 排序 tree
+// 排序 tree 优先级 文件夹 > 文件 > 符号 > 数字 > 字母
 function sortTree(tree) {
-  let arr = Object.keys(tree)
-  arr.sort()
   let temp = {}
-  arr.forEach(item => {
-    temp[item] = tree[item]
-    if (typeof temp[item] === 'object') {
-      temp[item] = sortTree(temp[item])
+  let keys = Object.keys(tree)
+  keys.sort((a, b) => {
+    if (tree[a] === true && tree[b] !== true) {
+      return 1
+    } else if (tree[a] !== true && tree[b] === true) {
+      return -1
+    } else {
+      return 0
     }
-    if (typeof temp[item] === 'boolean') {
-      temp[item] = null
+  })
+  keys.forEach(item => {
+    if (tree[item] === true) {
+      temp[item] = true
+    } else {
+      temp[item] = sortTree(tree[item])
     }
   })
   return temp
