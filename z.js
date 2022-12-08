@@ -59,9 +59,20 @@ function sortTree(tree) {
 
 tree = sortTree(tree)
 
-// 过滤掉不需要的文件夹 匹配到的文件夹不会被过滤
+// 过滤匹配的文件夹
 function filterTree(tree) {
-
+  let keys = Object.keys(tree)
+  let temp = {}
+  keys.forEach((item) => {
+    if (tree[item] !== true) {
+      temp[item] = filterTree(tree[item])
+    } else {
+      if (item !== 'README.md') {
+        temp[item] = true
+      }
+    }
+  })
+  return temp
 }
 
 tree = filterTree(tree)
