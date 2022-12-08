@@ -21,21 +21,19 @@ function walk(dir, tree) {
 
 walk(dir, tree)
 
-// 过滤文件
-function filter(tree, filter) {
+// 过滤隐藏文件
+function filter(tree) {
   for (let key in tree) {
-    if (filter(key)) {
+    if (key.startsWith('.')) {
       delete tree[key]
     } else if (typeof tree[key] === 'object') {
-      filter(tree[key], filter)
+      filter(tree[key])
     }
   }
 }
 
-filter(tree, file => {
-  // 过滤.js文件
-  return /\.md$/.test(file)
-})
+filter(tree)
+
 
 // 输出
 console.log(JSON.stringify(tree, null, 2));
