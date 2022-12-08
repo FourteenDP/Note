@@ -23,5 +23,5 @@ function travel(dir, ext, callback) {
 }
 
 travel('./', '.md', function (pathname) {
-  console.log(pathname)
+  // tree结构
 })
