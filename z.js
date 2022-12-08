@@ -24,12 +24,19 @@ function travel(dir, ext, callback) {
 
 let tree = {}
 travel('./', '.md', function (pathname) {
-  let dir = path.dirname(pathname)
-  let file = path.basename(pathname)
-  if (!tree[dir]) {
-    tree[dir] = []
-  }
-  tree[dir].push(file)
+  // 用\分割路径，然后用/拼接
+  let arr = pathname.split('\\')
+  let temp = tree
+  arr.forEach((item, index) => {
+    if (index === arr.length - 1) {
+      temp[item] = 1
+    } else {
+      if (!temp[item]) {
+        temp[item] = {}
+      }
+      temp = temp[item]
+    }
+  })
 })
 
 console.log(tree)
