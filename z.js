@@ -126,4 +126,4 @@ function deleteIndex(dir) {
   })
 }
 
-true ? generateIndex('./') : deleteIndex('./')
+false ? generateIndex('./') : deleteIndex('./')
