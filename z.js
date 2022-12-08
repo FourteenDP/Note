@@ -4,7 +4,7 @@ const path = require('path')
 
 // 过滤
 function filterFile(file) {
-  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return true;
+  if (file.startsWith('.') || file.startsWith('-') || file.startsWith('0000')) return true;
   if (file === 'INDEX.md') return true;
   return false;
 }
