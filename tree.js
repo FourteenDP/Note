@@ -36,7 +36,7 @@ function filter(tree, prefixs = ['.', '_']) {
   }
 }
 
-filter(tree)
+filter(tree, ['.', '_', 'tree.js', '~', '-', '0000'])
 
 
 // 输出
