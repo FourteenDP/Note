@@ -29,7 +29,7 @@ travel('./', '.md', function (pathname) {
   let temp = tree
   arr.forEach((item, index) => {
     if (index === arr.length - 1) {
-      temp[item] = null
+      temp[item] = true
     } else {
       if (!temp[item]) {
         temp[item] = {}
