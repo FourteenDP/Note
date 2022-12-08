@@ -48,4 +48,4 @@ function sortTree(tree) {
 
 tree = sortTree(tree)
 
-console.log(tree, null, 2);
+console.log(tree);
