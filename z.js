@@ -4,8 +4,7 @@ const path = require('path')
 
 // 过滤
 function filterFile(file) {
-  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return true;
-  if (file === 'INDEX.md') return true;
+  if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000') || file.startsWith('📋目录')) return true;
   return false;
 }
 
@@ -92,7 +91,7 @@ function generateIndex(dir) {
     const tree = buildDirectoryTree(dir, ['.md'], 'include')
     const sortTree = sortDirectoryTree(tree)
     const markdown = treeToMarkdown(sortTree, dir)
-    fs.writeFileSync(path.join(dir, 'INDEX.md'), markdown)
+    fs.writeFileSync(path.join(dir, '📋目录.md'), markdown)
   }
   files.forEach((file) => {
     if (filterFile(file)) return;
@@ -102,7 +101,7 @@ function generateIndex(dir) {
       const tree = buildDirectoryTree(filePath, ['.md'], 'include')
       const sortTree = sortDirectoryTree(tree)
       const markdown = treeToMarkdown(sortTree, file)
-      fs.writeFileSync(path.join(filePath, 'INDEX.md'), markdown)
+      fs.writeFileSync(path.join(filePath, '📋目录-' + file + '.md'), markdown)
       generateIndex(filePath)
     }
   })
@@ -110,11 +109,11 @@ function generateIndex(dir) {
 
 
 
-// 删除索引
+// 删除所有📋目录
 function deleteIndex(dir) {
   const files = fs.readdirSync(dir)
   files.forEach((file) => {
-    if (file === 'INDEX.md') {
+    if (file === '📋目录') {
       fs.unlinkSync(path.join(dir, file))
       return
     }
