@@ -59,14 +59,11 @@ function sortDirectoryTree(tree) {
 }
 
 // 转成markdown格式
-function treeToMarkdown(tree) {
-  let result = ''
-  Object.keys(tree).forEach((key, index) => {
-    if (index === 0) {
-      result += `---
+function treeToMarkdown(tree, dir) {
+  console.log(dir);
+  let result = `---
 title: INDEX
 aliases:
-  - ${key}目录
 tags:
   - 目录
 date created: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
@@ -75,9 +72,8 @@ date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toI
 
 # INDEX
 
-      `
-    }
-
+`
+  Object.keys(tree).forEach((key) => {
     if (typeof tree[key] === 'string') {
       result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
@@ -95,7 +91,7 @@ function generateIndex(dir) {
   if (dir === './') {
     const tree = buildDirectoryTree(dir, ['.md'], 'include')
     const sortTree = sortDirectoryTree(tree)
-    const markdown = treeToMarkdown(sortTree)
+    const markdown = treeToMarkdown(sortTree, dir)
     fs.writeFileSync(path.join(dir, 'INDEX.md'), markdown)
   }
   files.forEach((file) => {
@@ -105,7 +101,7 @@ function generateIndex(dir) {
     if (stats.isDirectory()) {
       const tree = buildDirectoryTree(filePath, ['.md'], 'include')
       const sortTree = sortDirectoryTree(tree)
-      const markdown = treeToMarkdown(sortTree)
+      const markdown = treeToMarkdown(sortTree, file)
       fs.writeFileSync(path.join(filePath, 'INDEX.md'), markdown)
       generateIndex(filePath)
     }
