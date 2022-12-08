@@ -2,9 +2,10 @@ const fs = require('fs')
 const path = require('path')
 
 
-// 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
+// 过滤
 function filterFile(file) {
   if (file.startsWith('.') || file.startsWith('~') || file.startsWith('-') || file.startsWith('0000')) return true;
+  if (file === 'INDEX.md') return true;
   return false;
 }
 
@@ -13,7 +14,6 @@ function buildDirectoryTree(dir, filter, type) {
   const files = fs.readdirSync(dir)
   const result = {}
   files.forEach((file) => {
-    // 过滤隐藏文件和~开头的文件和-开头的文件和0000开头的文件
     if (filterFile(file)) return;
     const filePath = path.join(dir, file)
     const stats = fs.statSync(filePath)
@@ -74,9 +74,6 @@ function treeToMarkdown(tree, level = 0) {
   })
   return result
 }
-
-// 将文件树打印到INDEX.md
-fs.writeFileSync('INDEX.md', treeToMarkdown(sortDirectoryTree(buildDirectoryTree('./', ['.md'], 'include'))))
 
 // 在每个文件夹下生成INDEX.md
 function generateIndex(dir) {
