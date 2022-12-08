@@ -1,7 +1,7 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 20:35:22
+ * @更新时间: 2022-12-08 20:36:32
  */
 
 
@@ -47,6 +47,7 @@ function buildDirectoryTree(dir, filter, type) {
 // 转成markdown格式
 function treeToMarkdown(tree, level = 0) {
   let result = ''
+  let prefix = '-'
   Object.keys(tree).forEach((key) => {
     // 判断是否是文件
     if (typeof tree[key] === 'string') {
@@ -55,8 +56,10 @@ function treeToMarkdown(tree, level = 0) {
     } else if (key === 'README.md' || key === 'DrerectoryTree.md') {
       return
     } else {
-      level === 0 ? result += `# ${key}\n` :
-      result += `${'  '.repeat(level)}- ${key}\n`
+      for (let i = 0; i < level; i++) {
+        result += '  '
+      }
+      result += `${'  '.repeat(level)}${prefix} ${key}\n`
       if (typeof tree[key] === 'object') {
         result += treeToMarkdown(tree[key], level + 1)
       }
