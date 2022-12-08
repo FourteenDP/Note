@@ -31,21 +31,6 @@ function pathToTree(pathname) {
   return temp
 }
 
-let tree = {}
 travel('./', '.md', function (pathname) {
-  // 用\分割路径，然后用转成tree
-  let arr = pathname.split('\\')
-  let temp = tree
-  arr.forEach((item, index) => {
-    if (index === arr.length - 1) {
-      temp[item] = true
-    } else {
-      if (!temp[item]) {
-        temp[item] = {}
-      }
-      temp = temp[item]
-    }
-  })
+  console.log(pathToTree(pathname))
 })
-
-console.log(JSON.stringify(tree, null, 2))
