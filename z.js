@@ -81,3 +81,4 @@ function filterTree(tree, filter) {
 tree = filterTree(tree, /README/)
 
 console.log(JSON.stringify(tree, null, 2));
+console.log(tree);
