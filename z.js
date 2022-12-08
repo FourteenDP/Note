@@ -59,14 +59,28 @@ function sortDirectoryTree(tree) {
 }
 
 // 转成markdown格式
-function treeToMarkdown(tree, level = 0) {
-  let result = ''
+function treeToMarkdown(tree) {
+  console.log(tree);
+  let index = 0
+  let result = `---
+title: INDEX
+aliases: [${tree['INDEX.md'] ? tree['INDEX.md'].substring(0, tree['INDEX.md'].lastIndexOf(".")) : ''}]
+tags:
+  - 目录
+date created: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
+date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
+---
+
+# INDEX
+
+`
   Object.keys(tree).forEach((key) => {
+    index++
     if (typeof tree[key] === 'string') {
       result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `- [[${key}/INDEX|${key}]]\n`
+      result += `- **[[${key}/INDEX|${key}]]**\n`
     }
   })
   return result
