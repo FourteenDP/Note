@@ -14,10 +14,12 @@ function travel(dir, ext, callback) {
   })
 }
 
-// 用\分割路径，然后用转成tree
-function pathToTree(pathname) {
+let tree = {}
+
+travel('./', '.md', function (pathname) {
+  // 用\分割路径，然后用转成tree
   let arr = pathname.split('\\')
-  let temp = {}
+  let temp = tree
   arr.forEach((item, index) => {
     if (index === arr.length - 1) {
       temp[item] = true
@@ -28,9 +30,4 @@ function pathToTree(pathname) {
       temp = temp[item]
     }
   })
-  return temp
-}
-
-travel('./', '.md', function (pathname) {
-  console.log(pathToTree(pathname))
 })
