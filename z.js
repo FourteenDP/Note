@@ -62,7 +62,7 @@ function sortDirectoryTree(tree) {
 function treeToMarkdown(tree, dir) {
   console.log(dir);
   let result = `---
-title: ${dir === './' ? '目录' : dir + '目录'}
+title: ${dir === './' ? '📋目录' : '📋目录-' + dir}
 aliases:
 tags:
   - 目录
@@ -70,7 +70,7 @@ date created: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toI
 date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toISOString().substring(11, 19)}
 ---
 
-# ${dir === './' ? '目录' : dir + '目录'}
+# ${dir === './' ? '📋目录' : '📋目录-' + dir}
 
 `
   Object.keys(tree).forEach((key) => {
@@ -78,7 +78,7 @@ date updated: ${new Date().toISOString().substring(0, 10) + ' ' + new Date().toI
       result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `- **[[${key}目录]]**\n`
+      result += `- **[[📋目录-${key}]]**\n`
     }
   })
   return result
