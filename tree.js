@@ -76,6 +76,15 @@ const arr = treeToArray(tree)
 
 // child node数组 转 markdown 格式
 function arrayToMd(arr, title = '📋目录') {
+  // arr 排序
+  arr.sort((a, b) => {
+    if (a.title === '📋目录') return -1
+    if (b.title === '📋目录') return 1
+    if (a.children && !b.children) return -1
+    if (!a.children && b.children) return 1
+    return a.title.localeCompare(b.title)
+  })
+
   let md = `---
 title: ${title}
 aliases:
@@ -90,8 +99,9 @@ date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOSt
 `
   arr.forEach(item => {
     item.title = item.title.replace(/\.md$/, '')
+    if (item.title === title || item.title === '📋目录') return
     if (item.children) {
-      md += `- **[[${item.title}]]**\n`
+      md += `- **[[${item.title}/📋目录|${item.title}]]**\n`
     } else {
       md += `- [[${item.title}]]\n`
     }
@@ -102,6 +112,9 @@ date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOSt
 
 // 给每个文件夹生成目录
 function generateMd(arr, dir) {
+  if (dir === __dirname) {
+    fs.writeFileSync(path.join(dir, '📋目录.md'), arrayToMd(arr))
+  }
   arr.forEach(item => {
     if (item.children) {
       const md = arrayToMd(item.children, item.title)
