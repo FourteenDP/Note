@@ -63,13 +63,10 @@ function treeToMarkdown(tree, level = 0) {
   let result = ''
   Object.keys(tree).forEach((key) => {
     if (typeof tree[key] === 'string') {
-      result += `${''.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
+      result += `- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `${''.repeat(level)}- [[${key}/INDEX|${key}]]\n`
-      // if (typeof tree[key] === 'object') {
-      //   result += treeToMarkdown(tree[key], level + 1)
-      // }
+      result += `- [[${key}/INDEX|${key}]]\n`
     }
   })
   return result
