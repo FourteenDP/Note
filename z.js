@@ -59,17 +59,18 @@ function sortTree(tree) {
 
 tree = sortTree(tree)
 
-// 过滤匹配的文件夹
-function filterTree(tree, ...args) {
+// 过滤匹配的文件夹和文件
+function filterTree(tree, filter) {
   let keys = Object.keys(tree)
   let temp = {}
   keys.forEach((item) => {
     if (tree[item] !== true) {
-      temp[item] = filterTree(tree[item], ...args)
+      let res = filterTree(tree[item], filter)
+      if (Object.keys(res).length > 0) {
+        temp[item] = res
+      }
     } else {
-      if (args.length > 0) {
-
-      } else {
+      if (filter.test(item)) {
         temp[item] = true
       }
     }
@@ -77,6 +78,6 @@ function filterTree(tree, ...args) {
   return temp
 }
 
-tree = filterTree(tree)
+tree = filterTree(tree, /README/)
 
-console.log(tree);
+console.log(JSON.stringify(tree, null, 2));
