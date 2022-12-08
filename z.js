@@ -84,3 +84,21 @@ function generateIndex(dir) {
 }
 
 generateIndex('./')
+
+// 删除索引
+function deleteIndex(dir) {
+  const files = fs.readdirSync(dir)
+  files.forEach((file) => {
+    if (file === 'INDEX.md') {
+      fs.unlinkSync(path.join(dir, file))
+      return
+    }
+    const filePath = path.join(dir, file)
+    const stats = fs.statSync(filePath)
+    if (stats.isDirectory()) {
+      deleteIndex(filePath)
+    }
+  })
+}
+
+// deleteIndex('./')
