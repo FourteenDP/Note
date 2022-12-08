@@ -1,31 +1,38 @@
 /*
  * @文件路径: \BuildDirectory.js
  * @创建时间: 2022-12-08 16:40:53
- * @更新时间: 2022-12-08 16:55:35
+ * @更新时间: 2022-12-08 16:58:00
  */
 
 
 
 const fs = require('fs')
 const path = require('path')
-const fileNmaeArr = []
+const nodes = []
 
 // 读取当前文件夹下的所有文件
 const files = fs.readdirSync(__dirname)
 
-// 遍历文件夹下的所有文件
+// 遍历所有文件
 files.forEach((file) => {
-  console.log(file);
-  // 获取文件的绝对路径
+  // 获取当前文件的绝对路径
   const filePath = path.join(__dirname, file)
-  // 获取文件信息
+
+  // 获取当前文件的状态
   const stats = fs.statSync(filePath)
-  // 判断是否是文件夹
+
+  // 判断当前文件是否为文件夹
   if (stats.isDirectory()) {
-    console.log('文件夹', file)
+    // 将文件夹的名称添加到数组中
+    nodes.push(file)
   }
-  // 判断是否是文件
+
+  // 判断当前文件是否为文件
   if (stats.isFile()) {
-    console.log('文件', file)
+    // 将文件的名称添加到数组中
+    nodes.push(file)
   }
 })
+
+// 输出数组
+console.log(nodes)
