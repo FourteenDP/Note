@@ -1,4 +1,4 @@
-  - [[通过Vue-cli创建UniApp-Vue2项目]]
-  - [[UniApp和WebView 双向通信]]
-  - [[UniApp开源组件]]
-  - [[UniApp生命周期]]
+- [[通过Vue-cli创建UniApp-Vue2项目]]
+- [[UniApp和WebView 双向通信]]
+- [[UniApp开源组件]]
+- [[UniApp生命周期]]

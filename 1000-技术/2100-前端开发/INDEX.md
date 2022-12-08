@@ -5,4 +5,4 @@
 - [[JavaScript/INDEX|JavaScript]]
 - [[UniApp/INDEX|UniApp]]
 - [[Vue/INDEX|Vue]]
-  - [[前端三大件兼容性查询]]
+- [[前端三大件兼容性查询]]

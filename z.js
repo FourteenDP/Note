@@ -66,7 +66,7 @@ function treeToMarkdown(tree, level = 0) {
       result += `${''.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
     } else {
-      result += `${'  '.repeat(level)}- [[${key}/INDEX|${key}]]\n`
+      result += `${''.repeat(level)}- [[${key}/INDEX|${key}]]\n`
       // if (typeof tree[key] === 'object') {
       //   result += treeToMarkdown(tree[key], level + 1)
       // }
