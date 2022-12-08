@@ -32,24 +32,26 @@ travel('./', '.md', function (pathname) {
   })
 })
 
-// 排序 tree 优先级 文件夹 > 文件 > 符号 > 数字 > 字母
+// 排序 tree 优先级 文件夹 > 文件 > 符号 > 数字 > 字母 > 其他
 function sortTree(tree) {
-  let temp = {}
   let keys = Object.keys(tree)
   keys.sort((a, b) => {
     if (tree[a] === true && tree[b] !== true) {
       return 1
     } else if (tree[a] !== true && tree[b] === true) {
       return -1
+    } else if (tree[a] === true && tree[b] === true) {
+      return a.localeCompare(b)
     } else {
-      return 0
+      return a.localeCompare(b)
     }
   })
-  keys.forEach(item => {
-    if (tree[item] === true) {
-      temp[item] = true
-    } else {
+  let temp = {}
+  keys.forEach((item) => {
+    if (tree[item] !== true) {
       temp[item] = sortTree(tree[item])
+    } else {
+      temp[item] = true
     }
   })
   return temp
