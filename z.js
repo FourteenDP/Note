@@ -34,25 +34,27 @@ function buildDirectoryTree(dir, filter, type) {
   return result
 }
 
-// 对文件树进行排序 文件在前 文件夹在后 文件夹内部排序
+// 对文件树进行排序 优先级 文件夹>文件>文件名
 function sortDirectoryTree(tree) {
   const result = {}
-  const files = []
-  const dirs = []
-  Object.keys(tree).forEach((key) => {
-    if (typeof tree[key] === 'string') {
-      // 符号开头的文件放在前面
-      if
-      // files.push(key)
+  const keys = Object.keys(tree)
+  keys.sort((a, b) => {
+    if (typeof tree[a] === 'string' && typeof tree[b] === 'string') {
+      return a.localeCompare(b)
+    } else if (typeof tree[a] === 'string') {
+      return 1
+    } else if (typeof tree[b] === 'string') {
+      return -1
     } else {
-      dirs.push(key)
+      return a.localeCompare(b)
     }
   })
-  files.sort().forEach((file) => {
-    result[file] = tree[file]
-  })
-  dirs.sort().forEach((dir) => {
-    result[dir] = sortDirectoryTree(tree[dir])
+  keys.forEach((key) => {
+    if (typeof tree[key] === 'string') {
+      result[key] = tree[key]
+    } else {
+      result[key] = sortDirectoryTree(tree[key])
+    }
   })
   return result
 }
