@@ -42,7 +42,6 @@ function buildDirectoryTree(dir, filter, type) {
 function treeToMarkdown(tree, level = 0) {
   let result = ''
   Object.keys(tree).forEach((key) => {
-    // 判断是否是文件
     if (typeof tree[key] === 'string') {
       result += `${'  '.repeat(level + 1)}- [[${tree[key].substring(0, tree[key].lastIndexOf("."))}]]\n`
       return
