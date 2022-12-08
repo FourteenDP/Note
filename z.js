@@ -68,11 +68,7 @@ function filterTree(tree, ...args) {
       temp[item] = filterTree(tree[item], ...args)
     } else {
       if (args.length > 0) {
-        args.forEach((arg) => {
-          if (item.indexOf(arg) > -1) {
-            temp[item] = true
-          }
-        })
+
       } else {
         temp[item] = true
       }
