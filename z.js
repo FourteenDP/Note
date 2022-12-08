@@ -34,26 +34,85 @@ function buildDirectoryTree(dir, filter, type) {
   return result
 }
 
-// 对文件树进行排序 优先级 文件夹>文件>文件名
+// 对文件树进行排序 优先级 文件名>文件>文件夹>符号>数字>字母>其他
 function sortDirectoryTree(tree) {
   const result = {}
   const keys = Object.keys(tree)
   keys.sort((a, b) => {
-    if (typeof tree[a] === 'string' && typeof tree[b] === 'string') {
+    if (a.startsWith('[') && b.startsWith('[')) {
       return a.localeCompare(b)
-    } else if (typeof tree[a] === 'string') {
-      return 1
-    } else if (typeof tree[b] === 'string') {
+    } else if (a.startsWith('[')) {
       return -1
-    } else {
+    } else if (b.startsWith('[')) {
+      return 1
+    } else if (a.startsWith('!') && b.startsWith('!')) {
       return a.localeCompare(b)
+    } else if (a.startsWith('!')) {
+      return -1
+    } else if (b.startsWith('!')) {
+      return 1
+    } else if (a.startsWith('_') && b.startsWith('_')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('_')) {
+      return -1
+    } else if (b.startsWith('_')) {
+      return 1
+    } else if (a.startsWith('#') && b.startsWith('#')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('#')) {
+      return -1
+    } else if (b.startsWith('#')) {
+      return 1
+    } else if (a.startsWith('$') && b.startsWith('$')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('$')) {
+      return -1
+    } else if (b.startsWith('$')) {
+      return 1
+    } else if (a.startsWith('`') && b.startsWith('`')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('`')) {
+      return -1
+    } else if (b.startsWith('`')) {
+      return 1
+    } else if (a.startsWith('[') && b.startsWith('[')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('[')) {
+      return -1
+    } else if (b.startsWith('[')) {
+      return 1
+    } else if (a.startsWith('!') && b.startsWith('!')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('!')) {
+      return -1
+    } else if (b.startsWith('!')) {
+      return 1
+    } else if (a.startsWith('_') && b.startsWith('_')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('_')) {
+      return -1
+    } else if (b.startsWith('_')) {
+      return 1
+    } else if (a.startsWith('#') && b.startsWith('#')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('#')) {
+      return -1
+    } else if (b.startsWith('#')) {
+      return 1
+    } else if (a.startsWith('$') && b.startsWith('$')) {
+      return a.localeCompare(b)
+    } else if (a.startsWith('$')) {
+      return -1
+    } else if (b.startsWith('$')) {
+      return 1
     }
+    return a.localeCompare(b)
   })
   keys.forEach((key) => {
-    if (typeof tree[key] === 'string') {
-      result[key] = tree[key]
-    } else {
+    if (typeof tree[key] === 'object') {
       result[key] = sortDirectoryTree(tree[key])
+    } else {
+      result[key] = tree[key]
     }
   })
   return result
