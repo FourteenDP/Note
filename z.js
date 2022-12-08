@@ -75,18 +75,12 @@ function treeToMarkdown(tree, level = 0) {
   return result
 }
 
-// 在每个文件夹下生成INDEX.md
+// 生成索引
 function generateIndex(dir) {
-  const files = fs.readdirSync(dir)
-  files.forEach((file) => {
-    if (filterFile(file)) return;
-    const filePath = path.join(dir, file)
-    const stats = fs.statSync(filePath)
-    if (stats.isDirectory()) {
-      fs.writeFileSync(path.join(filePath, 'INDEX.md'), treeToMarkdown(sortDirectoryTree(buildDirectoryTree(filePath, ['.md'], 'include'))))
-      generateIndex(filePath)
-    }
-  })
+  const tree = buildDirectoryTree(dir, ['.md'], 'include')
+  const sortedTree = sortDirectoryTree(tree)
+  const markdown = treeToMarkdown(sortedTree)
+  fs.writeFileSync(path.join(dir, 'INDEX.md'), markdown)
 }
 
 generateIndex('./')
