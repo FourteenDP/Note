@@ -60,14 +60,20 @@ function sortTree(tree) {
 tree = sortTree(tree)
 
 // 过滤匹配的文件夹
-function filterTree(tree) {
+function filterTree(tree, ...args) {
   let keys = Object.keys(tree)
   let temp = {}
   keys.forEach((item) => {
     if (tree[item] !== true) {
-      temp[item] = filterTree(tree[item])
+      temp[item] = filterTree(tree[item], ...args)
     } else {
-      if (item !== 'README.md') {
+      if (args.length > 0) {
+        args.forEach((arg) => {
+          if (item.indexOf(arg) > -1) {
+            temp[item] = true
+          }
+        })
+      } else {
         temp[item] = true
       }
     }
