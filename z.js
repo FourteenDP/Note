@@ -31,3 +31,5 @@ travel('./', '.md', function (pathname) {
   }
   tree[dir].push(file)
 })
+
+console.log(tree)
