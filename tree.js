@@ -95,8 +95,6 @@ tags:
 # ${title}
 
 `
-// date created: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
-// date updated: ${new Date().toISOString().slice(0, 10) + ' ' + new Date().toISOString().slice(11, 19)}
   arr.forEach(item => {
     item.title = item.title.replace(/\.md$/, '')
     if (item.title === title || item.title === '📋目录') return
@@ -124,39 +122,4 @@ function generateMd(arr, dir) {
   })
 }
 
-// 判断是否更改
-function isChange(arr, dir) {
-  if (dir === __dirname) {
-    const md = arrayToMd(arr)
-    let old = fs.readFileSync(path.join(dir, '📋目录.md'), 'utf-8')
-    try {
-      old = fs.readFileSync(path.join(dir, '📋目录.md'), 'utf-8')
-    } catch (e) {
-      old = ''
-    }
-    if (md !== old) {
-      fs.writeFileSync(path.join(dir, '📋目录.md'), md)
-      return true
-    }
-  }
-  let isChange = false
-  arr.forEach(item => {
-    if (item.children) {
-      const md = arrayToMd(item.children, item.title)
-      let old
-      try {
-        old = fs.readFileSync(path.join(dir, item.title, '📋目录.md'), 'utf-8')
-      } catch (e) {
-        old = ''
-      }
-      if (md !== old) {
-        fs.writeFileSync(path.join(dir, item.title, '📋目录.md'), md)
-        isChange = true
-      }
-      isChange = isChange || isChange(item.children, path.join(dir, item.title))
-    }
-  })
-  return isChange
-}
-
-isChange(arr, dir) && generateMd(arr, dir)
+generateMd(arr, dir)
