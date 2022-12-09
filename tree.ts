@@ -1,23 +1,28 @@
 const fs: any = require('fs');
 const path: any = require('path');
-export enum FilterType {
-  include,
-  exclude
+export interface FilterType {
+  include?: (file: string) => boolean,
+  exclude?: (file: string) => boolean
 }
 
 export class Tree {
   private root: string;
   private tree: any;
+  private treeArr: any[] = [];
 
   constructor(root: string) {
     this.root = root;
     this.tree = {};
   }
-  public getTree(type?: FilterType, filter?: (file: string) => boolean) {
+  public getTree(filterType?: FilterType) {
     this.tree = this.getDir(this.root);
-    if (type && filter) this.tree = this.filterTree(this.tree, type, filter);
-    fs.writeFileSync('./tree.json', JSON.stringify(this.tree, null, 2));
-    return this.tree;
+    if (filterType) this.tree = this.filterTree(this.tree, filterType);
+    this.treeArr = this.treeToArr(this.tree);
+    fs.writeFileSync('./tree.json', JSON.stringify(this.treeArr, null, 2));
+    return {
+      tree: this.tree,
+      treeArr: this.treeArr
+    };
   }
   private getDir(dir: string) {
     const tree: any = {};
@@ -35,22 +40,16 @@ export class Tree {
     return tree;
   }
 
-  public filterTree(tree: any, type: FilterType, filter: (file: string) => boolean) {
+  public filterTree(tree: any, filterType?: FilterType) {
     const result: any = {};
     Object.keys(tree).forEach((key: string) => {
       const value: any = tree[key];
       if (typeof value === 'string') {
-        if (type === FilterType.include) {
-          if (filter(value)) {
-            result[key] = value;
-          }
-        } else {
-          if (!filter(value)) {
-            result[key] = value;
-          }
-        }
+        if (filterType?.include && (!filterType.include(key) || !filterType.include(value))) return;
+        if (filterType?.exclude && (filterType.exclude(key) || filterType.exclude(value))) return;
+        result[key] = value;
       } else {
-        const subTree: any = this.filterTree(value, type, filter);
+        const subTree: any = this.filterTree(value, filterType);
         if (Object.keys(subTree).length > 0) {
           result[key] = subTree;
         }
@@ -58,15 +57,45 @@ export class Tree {
     });
     return result;
   }
+  private treeToArr(tree: any, arr: any[] = []) {
+    Object.keys(tree).forEach((key: string) => {
+      const value: any = tree[key];
+      if (typeof value === 'string') {
+        arr.push({
+          title: key,
+          path: value
+        });
+      } else {
+        arr.push({
+          title: key,
+          children: this.treeToArr(value)
+        });
+      }
+    });
+    return arr;
+  }
 }
 const tree = new Tree('./');
-tree.getTree(FilterType.exclude, (file: string) => {
-  let boolean = false;
-  const startWiths = ['.', '-', '~', '0000'];
-  startWiths.forEach((char: string) => {
-    if (file.startsWith(char)) {
-      boolean = true;
-    }
-  });
-  return boolean;
+
+tree.getTree({
+  include: (file: string) => {
+    let boolean = false;
+    const endsWith = ['.md'];
+    endsWith.forEach((item: string) => {
+      if (file.endsWith(item)) {
+        boolean = true;
+      }
+    });
+    return boolean;
+  },
+  exclude: (file: string) => {
+    let boolean = false;
+    const startsWith = ['.', '-', '~', '0000', '📋'];
+    startsWith.forEach((item: string) => {
+      if (file.startsWith(item)) {
+        boolean = true;
+      }
+    });
+    return boolean;
+  }
 });
