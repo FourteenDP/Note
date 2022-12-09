@@ -18,6 +18,7 @@ export class Tree {
     this.tree = this.getDir(this.root);
     if (filterType) this.tree = this.filterTree(this.tree, filterType);
     this.treeArr = this.treeToArr(this.tree);
+    this.sortTreeArr(this.treeArr);
     fs.writeFileSync('./tree.json', JSON.stringify(this.treeArr, null, 2));
     return {
       tree: this.tree,
@@ -73,6 +74,25 @@ export class Tree {
       }
     });
     return arr;
+  }
+
+  private sortTreeArr(treeArr: any[]) {
+    treeArr.sort((a: any, b: any) => {
+      if (a.children && b.children) {
+        return 0;
+      } else if (a.children) {
+        return -1;
+      } else if (b.children) {
+        return 1;
+      } else {
+        return a.title.localeCompare(b.title);
+      }
+    });
+    treeArr.forEach((item: any) => {
+      if (item.children) {
+        this.sortTreeArr(item.children);
+      }
+    });
   }
 }
 const tree = new Tree('./');

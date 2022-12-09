@@ -14,6 +14,7 @@ var Tree = /** @class */ (function () {
         if (filterType)
             this.tree = this.filterTree(this.tree, filterType);
         this.treeArr = this.treeToArr(this.tree);
+        this.sortTreeArr(this.treeArr);
         fs.writeFileSync('./tree.json', JSON.stringify(this.treeArr, null, 2));
         return {
             tree: this.tree,
@@ -76,6 +77,28 @@ var Tree = /** @class */ (function () {
             }
         });
         return arr;
+    };
+    Tree.prototype.sortTreeArr = function (treeArr) {
+        var _this = this;
+        treeArr.sort(function (a, b) {
+            if (a.children && b.children) {
+                return 0;
+            }
+            else if (a.children) {
+                return -1;
+            }
+            else if (b.children) {
+                return 1;
+            }
+            else {
+                return a.title.localeCompare(b.title);
+            }
+        });
+        treeArr.forEach(function (item) {
+            if (item.children) {
+                _this.sortTreeArr(item.children);
+            }
+        });
     };
     return Tree;
 }());
