@@ -10,3 +10,4 @@ date updated: 2022-12-10 16:12:14
 
 ## 问题
   - 问题一：在uniapp中使用String.localeCompare方法进行字符串比较时，发现在安卓端和ios端和小程序的结果不一致。
+  - 问题二：在uniapp中数组元素String.localeCompare方法是Undefined
