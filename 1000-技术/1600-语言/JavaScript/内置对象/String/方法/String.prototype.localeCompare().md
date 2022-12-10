@@ -34,7 +34,7 @@ var str1 = "ab";
 var str2 = "cd";
 var str3 = "ab";
 var str4 = "AB";
-
+// 这里需要注意的是，并不是所有解释器都执行相同的排序规则以及返回的结果
 console.log(str1.localeCompare(str2)); // -1
 console.log(str2.localeCompare(str1)); // 1
 console.log(str1.localeCompare(str3)); // 0
@@ -45,6 +45,8 @@ console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 ## 注意
 
 - 浏览器支持情况：[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=localeCompare)
+- 并不是所有的浏览器都执行相同的排序规则以及返回的结果，因此不要依赖于 localeCompare() 的返回值来排序数组
+- 该方法不支持比较 Unicode 扩展字符（非基本多文种平面字符）
 
 ## 参考
 
