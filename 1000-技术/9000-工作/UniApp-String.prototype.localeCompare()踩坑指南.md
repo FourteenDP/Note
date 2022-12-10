@@ -6,6 +6,8 @@ date created: 2022-12-10 16:09:21
 date updated: 2022-12-10 17:36:33
 ---
 
+[[String.prototype.localeCompare()]]
+
 ## 起因
 
 - [[一维数组转通讯录树]]
