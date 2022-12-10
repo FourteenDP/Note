@@ -45,7 +45,7 @@
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
-      "Title Key": "",
+      "Title Key": "Title",
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": true
     },
     "YAML Title Alias": {
