@@ -1,13 +1,13 @@
 ---
-title: UniApp-坑String.localeCompare方法
+title: UniApp-String.prototype.localeCompare()踩坑指南
 aliases:
 tags:
 date created: 2022-12-10 16:09:21
-date updated: 2022-12-10 16:58:12
+date updated: 2022-12-10 17:11:13
 ---
 
-# UniApp-坑String.localeCompare方法
-什么是[[String.portotype.localeCompare()]]
+# UniApp-String.prototype.localeCompare()踩坑指南
+
 ## 起因
 
   - 一维数组转通讯录列表
@@ -29,4 +29,7 @@ date updated: 2022-12-10 16:58:12
 ```js
 // 在APP端和小程序的结果不一致
 '张'.localeCompare('李') // MP => 1, APP => -2094
+```
+## 解决
+```js
 ```
