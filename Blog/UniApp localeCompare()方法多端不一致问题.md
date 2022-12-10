@@ -2,6 +2,143 @@
 title: UniApp localeCompare()方法多端不一致问题
 ---
 
+## 起因
+
+- 一维数组转通讯录树
+
+```js
+['张三','李四','王五'] => {
+  'A': ['张三'],
+  'L': ['李四'],
+  'W': ['王五']
+}
+```
+
+## 问题
+
+- 问题一：在uniapp中使用String.localeCompare方法进行字符串比较时，发现在APP端和小程序的结果不一致。
+- 问题二：~~在uniapp中数组元素String.localeCompare方法是Undefined(未复现)~~
+
+### CODE
+
+```js
+// 在APP端和小程序的结果不一致
+'张'.localeCompare('李') // MP => 1, APP => -2094
+```
+
+## 解决
+
+- APP端使用pinyin.js进行拼音转换，再进行比较
+
+```js
+// 添加
+// #ifdef APP-PLUS
+let py = pinyin(v[key], {
+  style: 'FIRST_LETTER',
+})
+if (py[0][0].toUpperCase() == items) {
+  curr.child.push(v)
+}
+// #endif
+
+// 排序
+// #ifdef APP-PLUS
+result = pinyin(a[key], {
+  style: 'FIRST_LETTER',
+})[0][0].localeCompare(
+  pinyin(b[key], {
+    style: 'FIRST_LETTER',
+  })[0][0],
+)
+// #endif
+// #ifdef MP
+result = a[key].localeCompare(b[key])
+// #endif
+```
+
+## 完整代码
+
+```javascript
+// npm i pinyin
+import pinyin from 'pinyin'
+function pySegSort(arr, key) {
+  if (arr.length == 0) return
+  if (!String.prototype.localeCompare) return null
+  let letters = '*ABCDEFGHJKLMNOPQRSTWXYZ'.split('')
+  let zh = '阿八嚓哒妸发旮哈讥咔垃痳拏噢妑七呥扨它穵夕丫帀'.split('')
+  let segs = [] // 存放数据
+  let res = {}
+  let curr = {} // 当前数据
+  let re = /[^\u4e00-\u9fa5]/ //中文正则
+  let pattern = new RegExp(
+    "[`\\-~!@#$^&*()=|{}':;',\\[\\].<>《》/?~！@#￥……&*（）——|{}【】‘；：”“'。，、？12345678990]",
+  ) //特殊符号
+
+  letters.filter((items, i) => {
+    curr = {
+      initial: '', //字母
+      child: [], //数据
+    }
+    arr.map((v, index) => {
+      // 特殊字符
+      if (pattern.test(v[key][0])) {
+        if (items == '*') {
+          curr.child.push(v)
+        }
+      }
+      // 判断首个字是否是中文
+      if (re.test(v[key][0])) {
+        // 英文
+        if (v[key][0].toUpperCase() == items) {
+          curr.child.push(v)
+        }
+      } else {
+        // 中文
+        // #ifdef MP
+        if (
+          (!zh[i - 1] || `${zh[i - 1]}`.localeCompare(v[key]) <= 0) &&
+          v[key].localeCompare(`${zh[i]}`) == -1
+        ) {
+          curr.child.push(v)
+        }
+        // #endif
+        // #ifdef APP-PLUS
+        let py = pinyin(v[key], {
+          style: 'FIRST_LETTER',
+        })
+        if (py[0][0].toUpperCase() == items) {
+          curr.child.push(v)
+        }
+        // #endif
+      }
+    })
+
+    if (curr.child.length) {
+      curr.initial = letters[i]
+      segs.push(curr)
+      curr.child.sort((a, b) => {
+        let result
+        // #ifdef MP
+        result = a[key].localeCompare(b[key])
+        // #endif
+        // #ifdef APP-PLUS
+        result = pinyin(a[key], {
+          style: 'FIRST_LETTER',
+        })[0][0].localeCompare(
+          pinyin(b[key], {
+            style: 'FIRST_LETTER',
+          })[0][0],
+        )
+        // #endif
+        return result
+      })
+    }
+  })
+  res.segs = Array.from(new Set(segs)) //去重
+  return res
+},
+```
+
 ## String.prototype.localeCompare()方法
 
 - 用于比较两个字符串，返回一个数字，表示比较结果。
