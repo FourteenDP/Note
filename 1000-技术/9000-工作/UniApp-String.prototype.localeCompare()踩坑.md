@@ -1,5 +1,5 @@
 ---
-title: UniApp-String.prototype.localeCompare()踩坑指南
+title: UniApp-String.prototype.localeCompare()踩坑
 aliases:
 tags:
 date created: 2022-12-10 16:09:21
