@@ -69,12 +69,15 @@ console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 
 - APP端使用pinyin.js进行拼音转换，再进行比较
 
+完整代码 [[一维数组转通讯录树]]
+
 ```js
 // 添加
 // #ifdef APP-PLUS
-let py = pinyin(v[key], {
+let py = pinyin(v[key], { // 李世民 => [['l'],['s'],['m']]
   style: 'FIRST_LETTER',
 })
+// L === L
 if (py[0][0].toUpperCase() == items) {
   curr.child.push(v)
 }
@@ -82,7 +85,7 @@ if (py[0][0].toUpperCase() == items) {
 
 // 排序
 // #ifdef APP-PLUS
-result = pinyin(a[key], {
+pinyin(a[key], {
   style: 'FIRST_LETTER',
 })[0][0].localeCompare(
   pinyin(b[key], {
@@ -91,7 +94,7 @@ result = pinyin(a[key], {
 )
 // #endif
 // #ifdef MP
-result = a[key].localeCompare(b[key])
+a[key].localeCompare(b[key])
 // #endif
 ```
 

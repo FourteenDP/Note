@@ -41,9 +41,10 @@ date updated: 2022-12-10 17:36:33
 ```js
 // 添加
 // #ifdef APP-PLUS
-let py = pinyin(v[key], {
+let py = pinyin(v[key], { // 李世民 => [['l'],['s'],['m']]
   style: 'FIRST_LETTER',
 })
+// L === L
 if (py[0][0].toUpperCase() == items) {
   curr.child.push(v)
 }
@@ -51,7 +52,7 @@ if (py[0][0].toUpperCase() == items) {
 
 // 排序
 // #ifdef APP-PLUS
-result = pinyin(a[key], {
+pinyin(a[key], {
   style: 'FIRST_LETTER',
 })[0][0].localeCompare(
   pinyin(b[key], {
@@ -60,6 +61,6 @@ result = pinyin(a[key], {
 )
 // #endif
 // #ifdef MP
-result = a[key].localeCompare(b[key])
+a[key].localeCompare(b[key])
 // #endif
 ```
