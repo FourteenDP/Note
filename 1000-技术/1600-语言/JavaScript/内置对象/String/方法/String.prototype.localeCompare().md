@@ -1,16 +1,16 @@
 ---
-title: UniApp-坑String.localeCompare方法
-aliases:
-tags:
-date created: 2022-12-10 16:09:21
-date updated: 2022-12-10 16:58:12
+title: String.prototype.localeCompare()
+aliases: 
+tags: 
+date created: 2022-12-10 16:56:04
+date updated: 2022-12-10 16:58:51
 ---
 
-# UniApp-坑String.localeCompare方法
+# String.prototype.localeCompare()
 
-## String.localeCompare 方法
+## 解释
 
-  - 用于比较两个字符串，返回一个数字，表示比较结果。
+- 用于比较两个字符串，返回一个数字，表示比较结果。
   - 该方法的返回值如下：
     - 如果字符串在字母表中应该排在字符串参数之前，则该方法返回一个负数。
     - 如果字符串等于字符串参数，则该方法返回 0。
@@ -27,25 +27,21 @@ date updated: 2022-12-10 16:58:12
       - caseFirst：一个字符串，指定是否区分大小写。可能的值有 "upper"、"lower" 或 "false"。默认为 "false"。
   - 返回值：一个数字，表示比较结果。
 
-## 起因
-
-  - 一维数组转通讯录列表
-```js
-['张三','李四','王五'] => {
-  'A': ['张三'],
-  'L': ['李四'],
-  'W': ['王五']
-}
-```
-
-## 问题
-
-  - 问题一：在uniapp中使用String.localeCompare方法进行字符串比较时，发现在APP端和小程序的结果不一致。
-  - 问题二：~~在uniapp中数组元素String.localeCompare方法是Undefined(未复现)~~
-
-### CODE
+## 示例
 
 ```js
-// 在APP端和小程序的结果不一致
-'张'.localeCompare('李') // MP => 1, APP => -2094
+var str1 = "ab";
+var str2 = "cd";
+var str3 = "ab";
+var str4 = "AB";
+
+console.log(str1.localeCompare(str2)); // -1
+console.log(str2.localeCompare(str1)); // 1
+console.log(str1.localeCompare(str3)); // 0
+console.log(str1.localeCompare(str4)); // 1
+console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 ```
+
+## 参考
+
+- [String.prototype.localeCompare()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
