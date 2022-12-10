@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "ZSH和Oh": {
-      "ZSH和Oh": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667830222991
-        }
-      }
-    },
-    "build-essential#": {
-      "build-essential#": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667914701612
-        }
-      }
-    },
     "缺点：增加了系统的复杂性；增加了系统的实现难度": {
       "缺点：增加了系统的复杂性；增加了系统的实现难度": {
         "currentFile": {
@@ -92,6 +76,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669881746363
+        }
+      }
+    },
+    "一维数组转通讯录树": {
+      "一维数组转通讯录树": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670663661751
         }
       }
     }
