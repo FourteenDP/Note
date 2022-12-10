@@ -1,0 +1,5 @@
+---
+title: UniApp localeCompare()方法多端不一致问题
+---
+
+# 问题
