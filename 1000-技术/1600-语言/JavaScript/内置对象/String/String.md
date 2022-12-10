@@ -9,6 +9,9 @@
 
 ```js
 new String([value])
+String([value])
+'value'
+`value`
 ```
 
 ## String对象的属性
