@@ -1,12 +1,10 @@
 ---
-title: UniApp-String.prototype.localeCompare()踩坑指南
+title: 起因
 aliases:
 tags:
 date created: 2022-12-10 16:09:21
-date updated: 2022-12-10 17:14:22
+date updated: 2022-12-10 17:32:51
 ---
-
-# UniApp-String.prototype.localeCompare()踩坑指南
 
 ## 起因
 
@@ -34,5 +32,32 @@ date updated: 2022-12-10 17:14:22
 
 ## 解决
 
+- APP端使用pinyin.js进行拼音转换，再进行比较
+
+完整代码 [[一维数组转通讯录树]]
+
 ```js
+// 添加
+// #ifdef APP-PLUS
+let py = pinyin(v[key], {
+  style: 'FIRST_LETTER',
+})
+if (py[0][0].toUpperCase() == items) {
+  curr.child.push(v)
+}
+// #endif
+
+// 排序
+// #ifdef APP-PLUS
+result = pinyin(a[key], {
+  style: 'FIRST_LETTER',
+})[0][0].localeCompare(
+  pinyin(b[key], {
+    style: 'FIRST_LETTER',
+  })[0][0],
+)
+// #endif
+// #ifdef MP
+result = a[key].localeCompare(b[key])
+// #endif
 ```
