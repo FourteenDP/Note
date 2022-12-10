@@ -1,7 +1,7 @@
 ---
 title: String.prototype.localeCompare()
-aliases: 
-tags: 
+aliases:
+tags:
 date created: 2022-12-10 16:56:04
 date updated: 2022-12-10 16:58:51
 ---
@@ -41,6 +41,10 @@ console.log(str1.localeCompare(str3)); // 0
 console.log(str1.localeCompare(str4)); // 1
 console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 ```
+
+## 注意
+
+- 浏览器支持情况：[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=localeCompare)
 
 ## 参考
 
