@@ -8,6 +8,5 @@ date updated: 2022-12-01 17:55:24
 title: LINUX 目录结构和作用
 ---
 
-# LINUX 目录结构和作用
 
 ![[Linux目录结构.png]]

@@ -1,7 +1,6 @@
 ---
 title: UniApp localeCompare()方法多端不一致问题
 ---
-## String.prototype.localeCompare()方法
 
 - 用于比较两个字符串，返回一个数字，表示比较结果。
   - 该方法的返回值如下：

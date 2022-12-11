@@ -6,7 +6,6 @@ date created: 2022-08-12 20:09:03
 date updated: 2022-12-01 17:53:00
 ---
 
-# Nvm 常用命令
 
 - `nvm ls-remote` 查看可安装版本
 - `nvm ls-remote --lts` 查看可安装 LTS 版本

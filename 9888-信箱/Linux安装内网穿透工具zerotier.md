@@ -6,7 +6,6 @@ date created: 2022-08-10 00:27:09
 date updated: 2022-12-01 17:53:00
 ---
 
-# Linux 安装内网穿透工具 Zerotier
 
 ```shell
 curl -s https://install.zerotier.com | sudo bash

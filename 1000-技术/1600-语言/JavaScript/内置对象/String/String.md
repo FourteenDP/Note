@@ -1,5 +1,4 @@
 
-# String
 
 ## 什么是String对象
 

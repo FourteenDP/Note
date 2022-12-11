@@ -6,7 +6,6 @@ date created: 2022-07-20 13:58:09
 date updated: 2022-12-01 17:55:25
 ---
 
-# UniApp 和 WebView 双向通信
 
 ## WebView 向 UniApp 通信
 

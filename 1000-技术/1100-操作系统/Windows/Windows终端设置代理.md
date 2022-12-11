@@ -7,7 +7,6 @@ date updated: 2022-12-08 11:46:37
 title: Windows 终端设置代理
 ---
 
-# Windows 终端设置代理
 
 ## 临时代理
 

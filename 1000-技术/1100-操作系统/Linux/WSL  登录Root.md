@@ -6,7 +6,6 @@ date created: 2022-08-08 21:35:17
 date updated: 2022-12-01 17:55:24
 ---
 
-# WSL 登录 Root
 
 ## 设置 Root 登录密码和登录
 

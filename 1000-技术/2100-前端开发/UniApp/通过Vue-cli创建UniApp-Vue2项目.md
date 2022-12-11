@@ -10,7 +10,6 @@ date created: 2022-07-08 13:32:41
 date updated: 2022-12-01 17:55:25
 ---
 
-# 通过 Vue-cli 创建 UniApp-Vue2 项目
 
 ## 安装 Vue-cli
 

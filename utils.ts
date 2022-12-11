@@ -248,6 +248,7 @@ namespace Utils {
 2: 生成完整的tree.md
 3: 删除所有📋目录.md文件
 4: 删除所有📋目录.md文件和INDEX.md文件
+5: 删除所有.md文件的一级标题
 `);
           break;
       }
@@ -284,6 +285,8 @@ namespace Utils {
   } else if (command == "4") {
     program.deleteAllTreeMd();
     fs.unlinkSync('./INDEX.md');
+  } else if (command == "5") {
+    program.deleteAllMdTitle();
   }
   else {
     program.run(Command.help);
