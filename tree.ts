@@ -97,16 +97,17 @@ namespace Tree {
     }
   }
 
+  // 在每个文件夹下生成📋目录.md文件, 用于生成当前文件夹和文件目录
   class TreeArrToMd {
     private treeArr: any[];
     private md: string = '';
     constructor(treeArr: any[]) {
       this.treeArr = treeArr;
     }
-    // 为每个文件夹添加
-    public writeMd() {
-      this.treeArrToMd(this.treeArr);
-      fs.writeFileSync('./README.md', this.md);
+
+    public () {
+      this.md = this.treeArrToMd(this.treeArr);
+      return this.md;
     }
   }
 
