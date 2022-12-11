@@ -111,24 +111,12 @@ namespace Tree {
     }
 
     private writeTreeArr(treeArr: any[]) {
-      // 在每个文件夹下生成📋目录.md文件, 用于生成当前文件夹和文件目录
       treeArr.forEach((item: any) => {
         if (item.children) {
-          const dir = item.path;
-          if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir);
-          }
-          const mdPath = path.join(dir, '📋目录.md');
-          let md = '';
+          this.md += `# ${item.title}\n`;
           this.writeTreeArr(item.children);
-          item.children.forEach((child: any) => {
-            if (child.children) {
-              md += `- [${child.title}](./${child.title}/📋目录.md)\n`;
-            } else {
-              md += `- [${child.title}](${child.path})\n`;
-            }
-          });
-          fs.writeFileSync(mdPath, md);
+        } else {
+          this.md += `- [${item.title}](${item.path})\n`;
         }
       });
     }
