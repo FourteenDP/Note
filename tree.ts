@@ -6,6 +6,7 @@ namespace Tree {
     include?: (file: string) => boolean,
     exclude?: (file: string) => boolean
   }
+
   class Tree {
     private root: string;
     private tree: any;
@@ -108,17 +109,33 @@ namespace Tree {
       });
       return this.md;
     }
+
     private itemToMd(item: any) {
       let md = '';
       if (item.children) {
-        md += `## ${item.title}\n`;
-        item.children.forEach((child: any) => {
-          md += this.itemToMd(child);
-        });
+        md += `- **[[${item.title}]]**\n`;
       } else {
-        md += `- [${item.title}](${item.path})\n`;
+        md += `- [[${item.title}]]\n`;
       }
       return md;
+    }
+
+    public writeMd() {
+      this.treeArr.forEach((item: any) => {
+        this.writeItemMd(item);
+      });
+    }
+
+    private writeItemMd(item: any) {
+      if (item.children) {
+        item.children.forEach((child: any) => {
+          this.writeItemMd(child);
+        });
+      } else {
+        const dir = path.dirname(item.path);
+        const md = this.itemToMd(item);
+        fs.writeFileSync(path.join(dir, '📋目录.md'), md);
+      }
     }
   }
 
@@ -137,7 +154,7 @@ namespace Tree {
     },
     exclude: (file: string) => {
       let boolean = false;
-      const startsWith = ['.', '-', '~', '0000', '📋'];
+      const startsWith = ['.', '-', '~', '0000', '📋', 'node_modules'];
       startsWith.forEach((item: string) => {
         if (file.startsWith(item)) {
           boolean = true;
@@ -148,7 +165,5 @@ namespace Tree {
   });
 
   const md = new TreeArrToMd(treeArr.treeArr);
-  fs.writeFileSync('./tree.md', md.getMd());
-
-  fs.writeFileSync('./tree.json', JSON.stringify(treeArr, null, 2));
+  md.writeMd();
 }
