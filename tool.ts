@@ -140,14 +140,18 @@ namespace Tree {
       fs.writeFileSync('./tree.md', treeMd);
     }
 
-    private static generateTreeMdContent(treeArr: any[]) {
+    private static generateTreeMdContent(treeArr: any[], level: number = 0) {
       let treeMd: string = '';
+      let space: string = '';
+      for (let i = 0; i < level; i++) {
+        space += '  ';
+      }
       treeArr.forEach((item: any) => {
         if (item.children) {
-          treeMd += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
-          treeMd += this.generateTreeMdContent(item.children);
+          treeMd += `${space}- **[[${item.title}/📋目录|${item.title}]]**\n`;
+          treeMd += this.generateTreeMdContent(item.children, level + 1);
         } else {
-          treeMd += `- [[${item.title}]]\n`;
+          treeMd += `${space}- [[${item.title}]]\n`;
         }
       });
       return treeMd;
