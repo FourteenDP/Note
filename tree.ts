@@ -120,14 +120,8 @@ namespace Tree {
       return md;
     }
 
-    public writeMd() {
-      this.treeArr.forEach((item: any) => {
-        this.writeItemMd(item);
-      });
-    }
-
-    private writeItemMd(item: any) {
-      console.log(item);
+    // 递归写入目录，每个目录下都有一个📋目录.md文件
+    private writeItemMd(treeArr: any) {
       if (item.children) {
         item.children.forEach((child: any) => {
           this.writeItemMd(child);
