@@ -131,6 +131,7 @@ namespace Tree {
         if (item.children) {
           mdContent += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
         } else {
+          item.title = item.title.replace(/\.md$/, '');
           mdContent += `- [[${item.title}]]\n`;
         }
       });
