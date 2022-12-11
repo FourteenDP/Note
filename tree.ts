@@ -110,19 +110,23 @@ namespace Tree {
       return this.md;
     }
 
-    private itemToMd(item: any) {
+    private itemToMd(children: any) {
       let md = '';
-      if (item.children) {
-        md += `- **[[${item.title}]]**\n`;
-      } else {
-        md += `- [[${item.title}]]\n`;
+      if (children.children) {
+        md += `## ${children.title}\n\n`;
+        children.children.forEach((item: any) => {
+          md += this.itemToMd(item);
+        });
+      }else{
+        md += `### [${children.title}](${children.path})\n\n`;
       }
-      return md;
     }
 
     // 递归写入目录，每个目录下都有一个📋目录.md文件
     public writeMd() {
-      [this.treeArr].forEach((item: any) => {
+      [{
+        children: this.treeArr,
+      }].forEach((item: any) => {
         console.log(item);
 
       });
