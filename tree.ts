@@ -121,9 +121,10 @@ namespace Tree {
     }
 
     // 递归写入目录，每个目录下都有一个📋目录.md文件
-    private writeMd() {
+    public writeMd() {
       [this.treeArr].forEach((item: any) => {
-        this.itemToMd(item);
+        console.log(item);
+
       });
     }
   }
