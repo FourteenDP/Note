@@ -158,13 +158,13 @@ namespace Utils {
           this.generatePath(item.children, path.join(dir, item.title));
         }
         const mdPath: string = path.join(dir, '📋目录.md');
-        const mdContent: string = this.generateMdContent(treeArr);
+        const mdContent: string = this.generateMdContent(treeArr, item.title + '目录');
         fs.writeFileSync(mdPath, mdContent);
       });
     }
 
-    private generateMdContent(treeArr: any[]) {
-      let mdContent: string = '';
+    private generateMdContent(treeArr: any[], title: string = '📋目录') {
+      let mdContent: string = `---\ntitle: ${title}\n---\n`;
       treeArr.forEach((item: any) => {
         if (item.children) {
           mdContent += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
