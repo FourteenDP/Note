@@ -8,7 +8,7 @@
       "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": true
     },
     "Format Yaml Array": {
-      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": false,
+      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": true,
       "Format yaml aliases section": true,
       "Format yaml tags section": true,
       "Default yaml array section style": "single-line",
@@ -30,7 +30,7 @@
       "YAML Keys to Remove": ""
     },
     "YAML Key Sort": {
-      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
       "YAML Key Priority Sort Order": "",
       "Priority Keys at Start of YAML": true,
       "YAML Sort Order for Other Keys": "None"
@@ -44,8 +44,8 @@
       "Format": "YYYY-MM-DD HH:mm:ss"
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
-      "Title Key": "Title",
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
+      "Title Key": "title",
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": true
     },
     "YAML Title Alias": {
@@ -65,7 +65,7 @@
       "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": false
+      "Heading levels should only increment by one level at a time": true
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": true
