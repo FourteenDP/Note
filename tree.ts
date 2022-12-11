@@ -107,25 +107,31 @@ namespace Tree {
     }
 
     public generate() {
-      this.generateMd(this.treeArr, '');
+      this.generatePath(this.treeArr, this.dir);
     }
 
-    private generateMd(treeArr: any[], dir: string) {
-      let md = '';
+    private generatePath(treeArr: any[], dir: string) {
       treeArr.forEach((item: any) => {
         if (item.children) {
-          item.children.forEach((child: any) => {
-            if (child.children) {
-              this.generateMd(child.children, `${dir}/${item.title}`);
-            } else {
-              md += `- [${child.title}](${child.path})\n`;
-            }
-          });
-          fs.writeFileSync(`${this.dir}/${item.title}/📋目录.md`, md);
+          this.generatePath(item.children, path.join(dir, item.title));
         } else {
-          md += `- [${item.title}](${item.path})\n`;
+          const mdPath: string = path.join(dir, '📋目录.md');
+          const mdContent: string = this.generateMdContent(treeArr);
+          fs.writeFileSync(mdPath, mdContent);
         }
       });
+    }
+
+    private generateMdContent(treeArr: any[]) {
+      let mdContent: string = '';
+      treeArr.forEach((item: any) => {
+        if (item.children) {
+          mdContent += `## ${item.title}\n`;
+        } else {
+          mdContent += `- [${item.title}](${item.path})\n`;
+        }
+      });
+      return mdContent;
     }
   }
 
