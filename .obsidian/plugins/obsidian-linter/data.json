@@ -44,8 +44,8 @@
       "Format": "YYYY-MM-DD HH:mm:ss"
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
-      "Title Key": "title",
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
+      "Title Key": "Title",
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": true
     },
     "YAML Title Alias": {
@@ -62,10 +62,10 @@
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "File Name Heading": {
-      "Inserts the file name as a H1 heading if no H1 heading exists.": true
+      "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": true
+      "Heading levels should only increment by one level at a time": false
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": true
