@@ -107,10 +107,6 @@ namespace Tree {
     }
 
     public generate() {
-      // 将treeArr打印到tree.json
-      fs.writeFileSync(path.join(this.dir, 'tree.json'), JSON.stringify(this.treeArr, null, 2));
-
-      // 将treeArr转换为md文件
       this.generatePath(this.treeArr, this.dir);
     }
 
@@ -136,6 +132,12 @@ namespace Tree {
         }
       });
       return mdContent;
+    }
+
+    // 将完整的treeArr转换并生成md文件
+    public static generateMd(treeArr: any[], dir: string = './') {
+      const treeArrToMd = new TreeArrToMd(treeArr, dir);
+      treeArrToMd.generate();
     }
   }
 
@@ -165,4 +167,5 @@ namespace Tree {
 
   const md = new TreeArrToMd(treeArr.treeArr);
   md.generate();
+  fs.writeFileSync('./tree.md', JSON.stringify();
 }
