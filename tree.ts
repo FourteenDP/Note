@@ -105,9 +105,19 @@ namespace Tree {
       this.treeArr = treeArr;
     }
 
-    public () {
-      this.md = this.treeArrToMd(this.treeArr);
-      return this.md;
+    public writeMd() {
+      this.writeTreeArr(this.treeArr);
+      fs.writeFileSync('./📋目录.md', this.md);
+    }
+
+    private writeTreeArr(treeArr: any[]) {
+      treeArr.forEach((item: any) => {
+        if (item.children) {
+          this.writeTreeArr(item.children);
+        } else {
+          this.md += `- [${item.title}](${item.path})\n`;
+        }
+      });
     }
   }
 
