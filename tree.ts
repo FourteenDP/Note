@@ -126,7 +126,7 @@ namespace Tree {
       let mdContent: string = '';
       treeArr.forEach((item: any) => {
         if (item.children) {
-          mdContent += `- **[[${item.title}/📋目录]]**\n`;
+          mdContent += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
         } else {
           mdContent += `- [[${item.title}]]\n`;
         }
