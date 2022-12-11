@@ -101,14 +101,21 @@ namespace Tree {
   class TreeArrToMd {
     private treeArr: any[];
     private md: string = '';
+
     constructor(treeArr: any[]) {
       this.treeArr = treeArr;
     }
 
-    // 在每个文件夹下生成📋目录.md文件, 用于生成当前文件夹和文件目录
     public generate() {
-      // 生成目录
+      this.generateDirArr();
+      fs.writeFileSync('./📋目录.md', this.md);
+    }
 
+    public generateDirArr() {
+      let root = './';
+      this.treeArr.forEach((item: any) => {
+
+      });
     }
   }
 
@@ -139,5 +146,5 @@ namespace Tree {
   });
 
   const md = new TreeArrToMd(treeArr.treeArr);
-  md.writeMd();
+  md.generate();
 }
