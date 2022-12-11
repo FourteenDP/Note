@@ -10,7 +10,6 @@ date updated: 2022-12-02 11:43:45
 title: 计算 setTimeout 和 setInterval 的误差
 ---
 
-# 计算 setTimeout 和 setInterval 的误差
 
 # 参考资料
 

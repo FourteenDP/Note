@@ -1,4 +1,3 @@
-# Lambda表达式
 
 ## 什么是Lambda表达式
 

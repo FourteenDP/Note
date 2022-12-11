@@ -11,7 +11,6 @@ date updated: 2022-12-01 17:55:25
 title: 浏览器休眠对 setTimeout 和 setInterval 的影响
 ---
 
-# 浏览器休眠对 setTimeout 和 setInterval 的影响
 
 # 参考资料
 

@@ -10,7 +10,6 @@ date updated: 2022-12-01 17:55:25
 title: 为什么使用 Settimeout 实现 Setinterval
 ---
 
-# 为什么使用 Settimeout 实现 Setinterval
 
 # 参考资料
 

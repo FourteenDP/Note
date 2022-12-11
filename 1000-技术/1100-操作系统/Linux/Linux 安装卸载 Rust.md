@@ -6,7 +6,6 @@ date created: 2022-08-14 11:53:49
 date updated: 2022-12-01 17:55:24
 ---
 
-# Linux 安装卸载 Rust
 
 ## 安装
 
