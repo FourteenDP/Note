@@ -65,7 +65,7 @@
       "Inserts the file name as a H1 heading if no H1 heading exists.": false
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": true
+      "Heading levels should only increment by one level at a time": false
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": true
