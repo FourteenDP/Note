@@ -1,7 +1,7 @@
 ---
 title: Flutter 速记
-aliases: 
-tags: 
+aliases:
+tags:
 date created: 2022-09-21 14:11:58
 date updated: 2022-12-01 17:53:00
 ---
@@ -9,9 +9,9 @@ date updated: 2022-12-01 17:53:00
 
 ## 其它
 
- - Getx
- - Bloc
- - Rx
+- Getx
+- Bloc
+- Rx
 
 ## 库
 
