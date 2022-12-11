@@ -154,7 +154,7 @@ namespace Tree {
     },
     exclude: (file: string) => {
       let boolean = false;
-      const startsWith = ['.', '-', '~', '0000', '📋', 'node_modules'];
+      const startsWith = ['.', '-', '~', '0000', 'node_modules'];
       startsWith.forEach((item: string) => {
         if (file.startsWith(item)) {
           boolean = true;
