@@ -107,6 +107,10 @@ namespace Tree {
     }
 
     public generate() {
+      // 将treeArr打印到tree.json
+      fs.writeFileSync(path.join(this.dir, 'tree.json'), JSON.stringify(this.treeArr, null, 2));
+
+      // 将treeArr转换为md文件
       this.generatePath(this.treeArr, this.dir);
     }
 
@@ -114,11 +118,10 @@ namespace Tree {
       treeArr.forEach((item: any) => {
         if (item.children) {
           this.generatePath(item.children, path.join(dir, item.title));
-        } else {
-          const mdPath: string = path.join(dir, '📋目录.md');
-          const mdContent: string = this.generateMdContent(treeArr);
-          fs.writeFileSync(mdPath, mdContent);
         }
+        const mdPath: string = path.join(dir, '📋目录.md');
+        const mdContent: string = this.generateMdContent(treeArr);
+        fs.writeFileSync(mdPath, mdContent);
       });
     }
 
