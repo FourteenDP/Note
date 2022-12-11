@@ -134,10 +134,23 @@ namespace Tree {
       return mdContent;
     }
 
-    // 将完整的treeArr转换并生成md文件
-    public static generateMd(treeArr: any[], dir: string = './') {
-      const treeArrToMd = new TreeArrToMd(treeArr, dir);
-      treeArrToMd.generate();
+    // 将完整的treeArr转换并打印到tree.md
+    public static generateTreeMd(treeArr: any[]) {
+      const treeMd: string = this.generateTreeMdContent(treeArr);
+      fs.writeFileSync('./tree.md', treeMd);
+    }
+
+    private static generateTreeMdContent(treeArr: any[]) {
+      let treeMd: string = '';
+      treeArr.forEach((item: any) => {
+        if (item.children) {
+          treeMd += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
+          treeMd += this.generateTreeMdContent(item.children);
+        } else {
+          treeMd += `- [[${item.title}]]\n`;
+        }
+      });
+      return treeMd;
     }
   }
 
@@ -167,5 +180,5 @@ namespace Tree {
 
   const md = new TreeArrToMd(treeArr.treeArr);
   md.generate();
-  fs.writeFileSync('./tree.md', JSON.stringify();
+  TreeArrToMd.generateTreeMd(treeArr.treeArr);
 }
