@@ -105,20 +105,10 @@ namespace Tree {
       this.treeArr = treeArr;
     }
 
-    public writeMd() {
-      this.writeTreeArr(this.treeArr);
-      fs.writeFileSync('./📋目录.md', this.md);
-    }
+    // 在每个文件夹下生成📋目录.md文件, 用于生成当前文件夹和文件目录
+    public generate() {
+      // 生成目录
 
-    private writeTreeArr(treeArr: any[]) {
-      treeArr.forEach((item: any) => {
-        if (item.children) {
-          this.md += `# ${item.title}\n`;
-          this.writeTreeArr(item.children);
-        } else {
-          this.md += `- [${item.title}](${item.path})\n`;
-        }
-      });
     }
   }
 
