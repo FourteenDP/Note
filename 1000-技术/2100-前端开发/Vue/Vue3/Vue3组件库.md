@@ -1,14 +1,10 @@
 ---
-title: Vue3 组件库
-aliases: 
-tags: 
- - Vue3
- - 组件库
- - 
+title: 移动
+aliases: []
+tags: [Vue3, 组件库]
 date created: 2022-06-28 10:00:31
-date updated: 2022-12-01 17:55:25
+date updated: 2022-12-12 01:46:02
 ---
-
 
 ## 移动
 

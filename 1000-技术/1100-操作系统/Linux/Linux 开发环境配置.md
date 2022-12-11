@@ -1,11 +1,10 @@
 ---
-title: Linux 开发环境配置
-aliases: 
-tags: 
+title: 系统镜像源和更新
+aliases: []
+tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-12 01:46:04
 ---
-
 
 ## 系统镜像源和更新
 

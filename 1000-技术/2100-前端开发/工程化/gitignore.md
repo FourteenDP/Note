@@ -1,12 +1,10 @@
 ---
-title: Gitignore
-aliases: 
-tags: 
-  - git
+title: 常用
+aliases: []
+tags: [git]
 date created: 2022-07-08 14:01:31
-date updated: 2022-12-01 17:55:25
+date updated: 2022-12-12 01:46:02
 ---
-
 
 ## 常用
 
