@@ -119,7 +119,9 @@ namespace Tree {
           this.md = [];
           this.dir = dir + item.title + '/';
           // 生成📋目录.md文件
-          fs.writeFileSync(this.dir + '📋目录.md', this.md.join('\r\n'));
+          // 为了方便, 生成的📋目录.md文件, 会在当前文件夹下生成
+          this.generateMd(item.children, this.dir);
+          fs.writeFileSync(this.dir + '📋目录.md', '11111111');
         } else {
 
         }
