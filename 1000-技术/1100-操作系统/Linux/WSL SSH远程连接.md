@@ -1,12 +1,10 @@
 ---
-title: WSL SSH 远程连接
-aliases: 
-tags: 
-  - WSL
+title: SSH 服务安装
+aliases: []
+tags: [WSL]
 date created: 2022-08-08 22:00:28
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-12 01:46:04
 ---
-
 
 ## SSH 服务安装
 

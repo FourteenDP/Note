@@ -1,12 +1,10 @@
 ---
-aliases: Windows终端设置代理
-tags:
-  - Windows终端设置代理
+aliases: [Windows终端设置代理]
+tags: [Windows终端设置代理]
 date created: 2022-06-20 19:58:18
-date updated: 2022-12-08 11:46:37
-title: Windows 终端设置代理
+date updated: 2022-12-12 01:46:04
+title: 临时代理
 ---
-
 
 ## 临时代理
 

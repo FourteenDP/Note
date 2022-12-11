@@ -1,15 +1,10 @@
 ---
-aliases: 计算setTimeout和setInterval的误差
-tags:
-  - 前端
-  - JavaScript
-  - setTimeout
-  - setInterval
+aliases: [计算setTimeout和setInterval的误差]
+tags: [前端, JavaScript, setTimeout, setInterval]
 date created: 2022-06-22 20:49:06
-date updated: 2022-12-02 11:43:45
-title: 计算 setTimeout 和 setInterval 的误差
+date updated: 2022-12-12 01:46:02
+title: 参考资料
 ---
-
 
 # 参考资料
 

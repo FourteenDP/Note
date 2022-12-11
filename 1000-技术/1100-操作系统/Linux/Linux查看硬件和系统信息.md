@@ -1,11 +1,10 @@
 ---
-title: Linux 查看硬件和系统信息
-aliases: 
-tags: 
+title: 查看操作系统版本信息
+aliases: []
+tags: []
 date created: 2022-07-18 21:00:05
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-12 01:46:04
 ---
-
 
 ## 查看操作系统版本信息
 

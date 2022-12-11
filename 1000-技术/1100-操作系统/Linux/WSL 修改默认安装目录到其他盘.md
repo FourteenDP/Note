@@ -1,11 +1,10 @@
 ---
-title: WSL 修改默认安装目录到其他盘
-aliases: 
-tags: 
+title: 导出
+aliases: []
+tags: []
 date created: 2022-08-12 10:37:10
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-12 01:46:04
 ---
-
 
 ## 导出
 

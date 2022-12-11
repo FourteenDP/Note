@@ -1,11 +1,10 @@
 ---
-title: Linux 安装命令行工具 Oh My Zsh
-aliases: 
-tags: 
+title: 简介
+aliases: []
+tags: []
 date created: 2022-08-09 22:35:37
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-12 01:46:04
 ---
-
 
 ## 简介
 

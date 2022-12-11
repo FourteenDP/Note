@@ -1,9 +1,9 @@
 ---
-title: String.prototype.localeCompare()
-aliases:
-tags:
+title: 示例
+aliases: []
+tags: []
 date created: 2022-12-10 16:56:04
-date updated: 2022-12-10 16:58:51
+date updated: 2022-12-12 01:46:03
 ---
 
 - 用于比较两个字符串，返回一个数字，表示比较结果。

@@ -1,16 +1,10 @@
 ---
-aliases: 浏览器休眠对setTimeout和setInterval的影响
-tags:
-  - JavaScript
-  - 前端
-  - 浏览器
-  - setTimeout
-  - setInterval
+aliases: [浏览器休眠对setTimeout和setInterval的影响]
+tags: [JavaScript, 前端, 浏览器, setTimeout, setInterval]
 date created: 2022-06-20 19:58:19
-date updated: 2022-12-01 17:55:25
-title: 浏览器休眠对 setTimeout 和 setInterval 的影响
+date updated: 2022-12-12 01:46:02
+title: 参考资料
 ---
-
 
 # 参考资料
 
