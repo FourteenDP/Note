@@ -100,10 +100,8 @@ namespace Tree {
   // 在每个文件夹下生成📋目录.md文件, 用于生成当前文件夹和文件目录
   class TreeArrToMd {
     private treeArr: any[];
-
-    private md: string[] = [];
-
     private dir: string = '';
+    private md: string[] = [];
     constructor(treeArr: any[], dir: string = './') {
       this.treeArr = treeArr;
       this.dir = dir;
@@ -116,20 +114,15 @@ namespace Tree {
     private generateMd(treeArr: any[], dir: string) {
       treeArr.forEach((item: any) => {
         if (item.children) {
-          this.md = [];
           this.dir = dir + item.title + '/';
-          // 生成📋目录.md文件
-          // 为了方便, 生成的📋目录.md文件, 会在当前文件夹下生成
+          fs.writeFileSync(this.dir + '📋目录.md', md.join('\r'));
           this.generateMd(item.children, this.dir);
-          fs.writeFileSync(this.dir + '📋目录.md', '11111111');
         } else {
-
+          md.push(`- [${item.title}](${item.path})`);
         }
       });
     }
   }
-
-
 
   const tree = new Tree('./');
   const treeArr = tree.getTree({
