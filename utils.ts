@@ -1,4 +1,7 @@
-
+declare var __dirname: string;
+declare var __filename: string;
+declare var process: any;
+declare var require: any;
 namespace Utils {
   const fs: any = require('fs');
   const path: any = require('path');
