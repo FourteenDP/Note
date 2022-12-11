@@ -127,6 +127,7 @@ namespace Tree {
     }
 
     private writeItemMd(item: any) {
+      console.log(item);
       if (item.children) {
         item.children.forEach((child: any) => {
           this.writeItemMd(child);
