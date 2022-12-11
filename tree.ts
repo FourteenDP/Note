@@ -101,7 +101,6 @@ namespace Tree {
   class TreeArrToMd {
     private treeArr: any[];
     private dir: string = '';
-    private md: string[] = [];
     constructor(treeArr: any[], dir: string = './') {
       this.treeArr = treeArr;
       this.dir = dir;
@@ -115,8 +114,14 @@ namespace Tree {
       let md = '';
       treeArr.forEach((item: any) => {
         if (item.children) {
-          md += `- ${item.title}\n`;
-          this.generateMd(item.children, this.dir);
+          item.children.forEach((child: any) => {
+            if (child.children) {
+              this.generateMd(child.children, `${dir}/${item.title}`);
+            } else {
+              md += `- [${child.title}](${child.path})\n`;
+            }
+          });
+          fs.writeFileSync(`${this.dir}/${item.title}/📋目录.md`, md);
         } else {
           md += `- [${item.title}](${item.path})\n`;
         }
