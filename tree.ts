@@ -121,14 +121,9 @@ namespace Tree {
     }
 
     // 递归写入目录，每个目录下都有一个📋目录.md文件
-    private writeItemMd(treeArr: any) {
-      treeArr.forEach((item: any) => {
-        if (item.children) {
-          const dir = path.dirname(item.children[0].path);
-          const md = this.itemToMd(item);
-          fs.writeFileSync(path.join(dir, '📋目录.md'), md);
-          this.writeItemMd(item.children);
-        }
+    private writeMd() {
+      [this.treeArr].forEach((item: any) => {
+        this.itemToMd(item);
       });
     }
   }
