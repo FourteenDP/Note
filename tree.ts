@@ -112,13 +112,13 @@ namespace Tree {
     }
 
     private generateMd(treeArr: any[], dir: string) {
+      let md = '';
       treeArr.forEach((item: any) => {
         if (item.children) {
-          this.dir = dir + item.title + '/';
-          fs.writeFileSync(this.dir + '📋目录.md', md.join('\r'));
+          md += `- ${item.title}\n`;
           this.generateMd(item.children, this.dir);
         } else {
-          md.push(`- [${item.title}](${item.path})`);
+          md += `- [${item.title}](${item.path})\n`;
         }
       });
     }
