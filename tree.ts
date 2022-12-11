@@ -103,33 +103,10 @@ namespace Tree {
     constructor(treeArr: any[]) {
       this.treeArr = treeArr;
     }
-    public getMd() {
-      this.treeArr.forEach((item: any) => {
-        this.md += this.itemToMd(item);
-      });
-      return this.md;
-    }
-
-    private itemToMd(children: any) {
-      let md = '';
-      if (children.children) {
-        md += `## ${children.title}\n\n`;
-        children.children.forEach((item: any) => {
-          md += this.itemToMd(item);
-        });
-      }else{
-        md += `### [${children.title}](${children.path})\n\n`;
-      }
-    }
-
-    // 递归写入目录，每个目录下都有一个📋目录.md文件
+    // 为每个文件夹添加
     public writeMd() {
-      [{
-        children: this.treeArr,
-      }].forEach((item: any) => {
-        console.log(item);
-
-      });
+      this.treeArrToMd(this.treeArr);
+      fs.writeFileSync('./README.md', this.md);
     }
   }
 
@@ -148,7 +125,7 @@ namespace Tree {
     },
     exclude: (file: string) => {
       let boolean = false;
-      const startsWith = ['.', '-', '~', '0000', 'node_modules'];
+      const startsWith = ['.', '-', '~', '0000', '📋目录', 'node_modules'];
       startsWith.forEach((item: string) => {
         if (file.startsWith(item)) {
           boolean = true;
