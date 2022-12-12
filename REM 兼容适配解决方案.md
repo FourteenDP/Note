@@ -10,7 +10,10 @@ date updated: 2022-12-12 11:46:45
 
 原理：rem是相对于根元素html的font-size来计算的，所以只要根元素的font-size发生变化，rem的值也会发生变化，从而达到响应式布局的目的。
 
-## 实现一个视口宽度为 960px,设计稿宽度为 750px 的响应式布局
+## 实现750px设计稿的响应式布局
+
+静态root字体大小公式 : 1rem = 750 / 100
+动态root字体大小公式 : 1rem = clientWidth / 750 * 100
 
 ```html
 <!DOCTYPE html>
