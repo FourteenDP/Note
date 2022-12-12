@@ -12,7 +12,7 @@ date updated: 2022-12-12 11:46:45
 
 ## 实现750px设计稿的响应式布局
 
-静态root字体大小公式 : 1rem = 750 / 100
+静态root字体大小公式 : 1rem =
 动态root字体大小公式 : 1rem = clientWidth / 750 * 100
 
 ```html
