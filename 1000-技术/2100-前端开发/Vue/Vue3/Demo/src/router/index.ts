@@ -4,14 +4,21 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 
 const routes: RouteRecordRaw[] = [
   {
-    path: '/',
-    name: 'Home',
-    component: () => import('@/view/Home'),
-  },
-  {
-    path: '/about',
-    name: 'About',
-    component: () => import('@/view/About'),
+    path: "/",
+    name: "Layout",
+    component: () => import("@/layout"),
+    children: [
+      {
+        path: '/home',
+        name: 'Home',
+        component: () => import('@/view/Home'),
+      },
+      {
+        path: '/about',
+        name: 'About',
+        component: () => import('@/view/About'),
+      },
+    ],
   },
   {
     path: '/:pathMatch(.*)*',
