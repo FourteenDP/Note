@@ -20,8 +20,14 @@ BEM 是 Block Element Modifier 的缩写,为什么要使用 BEM 命名规范呢?
 .block--modifier {}
 ```
 
-## BEM 命名规范的优点
+## 个人使用简化版
 
-- 有利于 CSS 的复用
-- 有利于 CSS 的维护
-- 有利于 CSS 的扩展
+```css
+.block {}
+.block_element {}
+.block-modifier {}
+```
+
+## 参考
+
+- [BEM 101](https://css-tricks.com/bem-101/)
