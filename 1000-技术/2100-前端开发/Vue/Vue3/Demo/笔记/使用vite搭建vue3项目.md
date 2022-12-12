@@ -36,8 +36,32 @@ pnpm dev
 pnpm add -D @vitejs/plugin-vue-jsx
 ```
 
-- 在`vite.config.ts`文件`plugins.plugins`中添加`vueJsx()`。
+- 在`vite.config.ts`中`plugins.plugins`添加`vueJsx()`。
+
+## 添加router
+
+```bash
+pnpm add vue-router
+```
+
+- 在`src`目录下创建`router`目录，创建`index.ts`文件。
+
+```ts
+import { createRouter, createWebHistory } from 'vue-router'
+
+const routes = []
+
+const router = createRouter({
+  history: createWebHistory(),
+  routes,
+})
+
+export default router
+```
 
 ## 参考
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)
+- [pnpm](https://pnpm.io/)
+- [pinia](https://pinia.esm.dev/)
+- [vue-router](https://next.router.vuejs.org/zh/)
