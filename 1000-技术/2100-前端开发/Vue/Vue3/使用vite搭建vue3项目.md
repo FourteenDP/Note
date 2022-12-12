@@ -2,11 +2,12 @@
 title: 使用vite搭建vue3项目
 ---
 
-## 1. 安装pnpm
+## 1. 安装pnpm (可选) 创建vite项目
 
 > pnpm 是一个快速、高效的包管理器，它可以在一个项目中安装多个版本的相同包。它还可以在一个项目中安装多个不同版本的相同包。
 
 ```bash
+npm install -g pnpm
 pnpm create vite
 ```
 
