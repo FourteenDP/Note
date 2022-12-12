@@ -10,6 +10,34 @@ date updated: 2022-12-12 14:55:52
 
 - 更好的 TypeScript 支持
 
+### setup语法糖
+
+- 使用语法糖，可以省略`<script setup>`标签，直接在`<script>`标签中使用`setup`函数。
+
+```html
+<script setup>
+import { ref, onMounted } from 'vue'
+const count = ref(0)
+// ...
+</script>
+```
+
+- 不使用语法糖
+
+  ```html
+  <script>
+  import { ref, onMounted } from 'vue'
+
+  export default {
+    setup() {
+      const count = ref(0)
+      return {
+        count
+      }
+      // ...
+    }
+  }
+
 ### Composition API(组合式 API)
 
 - 相比于 Options API，Composition API 更加灵活，更加符合函数式编程的思想。万物皆是函数，函数是一等公民。
@@ -39,3 +67,72 @@ onMounted(() => {
 ```
 
 ![[Pasted image 20221212145551.png]]
+
+### Teleport(传送门)
+
+- Teleport 可以将组件渲染到 DOM 树的任意位置，而不是其父组件的位置。
+- 常用于弹窗、模态框等组件，可以将组件渲染到 body 标签下，避免样式污染。
+
+```html
+<button @click="open = true">Open Modal</button>
+
+<Teleport to="body">
+  <div v-if="open" class="modal">
+    <p>Hello from the modal!</p>
+    <button @click="open = false">Close</button>
+  </div>
+</Teleport>
+```
+
+### Fragments(片段)
+
+- Fragments 可以让我们在模板中渲染多个根节点，而不是一个根节点。
+- 通常情况下，我们需要在模板中渲染一个根节点，但是有时候我们需要渲染多个根节点，这时候就可以使用 Fragments。
+
+```html
+<template>
+  <Fragment>
+    <h1>标题</h1>
+    <p>内容</p>
+  </Fragment>
+</template>
+```
+
+### Emits 组件选项
+
+- Emits 组件选项可以让我们在组件中声明组件可以触发的事件。
+
+```html
+<template>
+  <button @click="onClick">Click Me</button>
+</template>
+
+<script setup>
+import { emit } from 'vue'
+
+const onClick = () => {
+  emit('click')
+}
+
+export default {
+  emits: ['click']
+}
+</script>
+```
+
+### Suspense(悬念)实现性
+
+- Suspense 可以让我们在异步组件加载时显示一个自定义的 loading 状态，而不是显示一个空白的组件。
+
+```html
+<template>
+  <Suspense>
+    <template #default>
+      <AsyncComponent />
+    </template>
+    <template #fallback>
+      <div>loading...</div>
+    </template>
+  </Suspense>
+</template>
+```
