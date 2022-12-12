@@ -20,7 +20,7 @@ img {
 }
 ```
 
-### 2. 设置`vertical-align`
+### 2. 设置`vertical-align: top;`
 
 ```css
 img {
@@ -33,5 +33,13 @@ img {
 ```css
 img {
   line-height: 0;
+}
+```
+
+### 4. 设置`font-size: 0;`
+
+```css
+img {
+  font-size: 0;
 }
 ```
