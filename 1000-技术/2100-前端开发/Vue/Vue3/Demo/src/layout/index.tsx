@@ -1,9 +1,6 @@
 import { defineComponent } from "vue";
 
-
-
-
-const style = {
+const className = {
   marginRight: "20px",
 };
 
@@ -13,9 +10,9 @@ export default defineComponent({
     return () => (
       <div class="layout">
         <p>
-          <router-link style={style} to="/home">Go to Home</router-link>
+          <router-link class={className} to="/home">首页</router-link>
 
-          <router-link to="/about">Go to About</router-link>
+          <router-link to="/about">关于</router-link>
         </p>
         <router-view />
       </div>
