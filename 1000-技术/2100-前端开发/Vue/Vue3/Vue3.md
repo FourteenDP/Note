@@ -2,4 +2,7 @@
 title: Vue3
 ---
 
-## 什么是 Vue3
+
+## 新特性
+
+ - Composition API(组合式 API)
