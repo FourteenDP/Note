@@ -1,12 +1,13 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "Index",
+  name: "NotFound",
   setup() {
     return () => (
-      <div>
-        <h1>hello vue3</h1>
+      <div class="not-found">
+        <h1>404</h1>
+        <p>Page not found</p>
       </div>
     );
-  }
+  },
 });

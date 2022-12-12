@@ -1,11 +1,12 @@
-// App.tsx vue
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'App',
+  name: 'About',
   setup() {
     return () => (
-      <router-view></router-view>
+      <div class="about">
+        About
+      </div>
     )
   }
 })
