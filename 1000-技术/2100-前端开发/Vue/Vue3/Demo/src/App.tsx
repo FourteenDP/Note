@@ -4,7 +4,9 @@ export default defineComponent({
   name: 'App',
   setup() {
     return () => (
-      <router-view></router-view>
+      <div class="app">
+        <router-view />
+      </div>
     )
   }
 })
