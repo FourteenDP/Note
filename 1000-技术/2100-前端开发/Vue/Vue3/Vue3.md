@@ -1,16 +1,16 @@
 ---
-aliases:
-tags:
+aliases: []
+tags: []
 title: 新特性
 date created: 2022-12-12 14:41:36
-date updated: 2022-12-12 14:55:52
+date updated: 2022-12-12 15:22:58
 ---
 
 ## 新特性
 
 - 更好的 TypeScript 支持
 
-### setup语法糖
+### Setup语法糖
 
 - 使用语法糖，可以省略`<script setup>`标签，直接在`<script>`标签中使用`setup`函数。
 
@@ -24,7 +24,7 @@ const count = ref(0)
 
 - 不使用语法糖
 
-  ```html
+```html
   <script>
   import { ref, onMounted } from 'vue'
 
@@ -37,6 +37,7 @@ const count = ref(0)
       // ...
     }
   }
+```
 
 ### Composition API(组合式 API)
 
@@ -167,6 +168,49 @@ p {
 ```
 
 ### SFC \<style scoped\> 新增全局规则和针对插槽内容的规则
+
+- 在单文件组件中，我们可以在`<style scoped>`标签中使用`::v-deep`选择器，从而实现针对插槽内容的样式。
+- 在 Vue 3.2 中，我们可以使用`::v-global`选择器，从而实现全局样式。
+- 两个选择器都可以和`/deep/`选择器一样，用于针对插槽内容的样式。
+- 两个选择器都可以和`>>>`选择器一样，用于全局样式。
+
+```html
+<template>
+  <div class="container">
+    <slot></slot>
+  </div>
+</template>
+
+<style scoped>
+.container {
+  color: red;
+}
+
+.container::v-deep p {
+  color: blue;
+}
+
+.container::v-global p {
+  color: green;
+}
+
+.container /deep/ p {
+  color: blue;
+}
+
+.container >>> p {
+  color: green;
+}
+
+.container p {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+```
 
 ### 自定义渲染器 API
 
