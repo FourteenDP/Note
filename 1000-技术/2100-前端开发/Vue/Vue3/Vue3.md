@@ -120,6 +120,52 @@ export default {
 </script>
 ```
 
+### 单文件组件中的状态驱动的 CSS 变量 (\<style\> 中的 v-bind)
+
+- 在单文件组件中，我们可以在`<style>`标签中使用`v-bind`绑定组件的状态，从而实现状态驱动的 CSS 变量。
+
+```html
+<template>
+  <div class="text">hello</div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      color: 'red'
+    }
+  }
+}
+</script>
+
+<style>
+.text {
+  color: v-bind(color);
+}
+</style>
+```
+
+- 这个语法同样也适用于 \<script setup\>，且支持 JavaScript 表达式 (需要用引号包裹起来)
+
+```html
+<script setup>
+const theme = {
+  color: 'red'
+}
+</script>
+
+<template>
+  <p>hello</p>
+</template>
+
+<style scoped>
+p {
+  color: v-bind('theme.color');
+}
+</style>
+```
+
 ### 自定义渲染器 API
 
 - 自定义渲染器 API 可以让我们自定义渲染器的行为，比如自定义渲染器的渲染函数。
