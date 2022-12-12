@@ -86,6 +86,31 @@ export default defineConfig({
 
 - tsconfig.json中添加`"baseUrl": "."`和`"paths": { "@/*": ["src/*"] }
 
+## 添加pinia
+
+```bash
+pnpm add pinia
+```
+
+- 在`src`目录下创建`store`目录，创建`index.ts`文件。
+
+```ts
+import { createPinia } from 'pinia'
+
+export const pinia = createPinia()
+```
+
+- 在`main.ts`中引入`pinia`并使用。
+
+```ts
+import { createApp } from 'vue'
+import App from './App.vue'
+import router from './router'
+import { pinia } from './store'
+
+createApp(App).use(router).use(pinia).mount('#app')
+```
+
 ## 参考
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)

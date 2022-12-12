@@ -9,7 +9,7 @@ const routes: RouteRecordRaw[] = [
     component: () => import("@/layout"),
     children: [
       {
-        path: '/home',
+        path: '/',
         name: 'Home',
         component: () => import('@/view/Home'),
       },
