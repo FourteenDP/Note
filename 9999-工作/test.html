@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <title>rem</title>
   <style>
-    html {
-      font-size: 100px;
-    }
-
     body {
-      font-size: 0.14rem;
-      background-color: aqua;
+      margin: auto;
+    }
+    .box {
+      width: 7.5rem;
+      height: 7.5rem;
+      background-color: red;
     }
 
   </style>
@@ -19,6 +19,20 @@
 
 <body>
   <div class="box"></div>
+  <script>
+    (function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+        recalc = function () {
+          var clientWidth = docEl.clientWidth;
+          if (!clientWidth) return;
+          docEl.style.fontSize = 100 * (clientWidth / 750) + 'px';
+        };
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window)
+  </script>
 </body>
 
 </html>
