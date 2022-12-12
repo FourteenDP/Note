@@ -1,9 +1,9 @@
 ---
-title: CSS-BEM 命名规范
-aliases:
-tags:
+title: 什么是 BEM 命名规范
+aliases: []
+tags: []
 date created: 2022-12-12 02:30:12
-date updated: 2022-12-12 02:38:19
+date updated: 2022-12-12 10:48:13
 ---
 
 ## 什么是 BEM 命名规范
@@ -22,6 +22,8 @@ BEM 是 Block Element Modifier 的缩写,为什么要使用 BEM 命名规范呢?
 
 ## 个人使用简化版
 
+- 为什么简化：BEM
+
 ```css
 .block {}
 .block_element {}
@@ -31,3 +33,5 @@ BEM 是 Block Element Modifier 的缩写,为什么要使用 BEM 命名规范呢?
 ## 参考
 
 - [BEM 101](https://css-tricks.com/bem-101/)
+- [[[译] 这些 CSS 命名规范将省下你大把调试时间 - 掘金](https://juejin.cn/post/6844903556420632583)
+- [CSS Naming Conventions that Will Save You Hours of Debugging](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
