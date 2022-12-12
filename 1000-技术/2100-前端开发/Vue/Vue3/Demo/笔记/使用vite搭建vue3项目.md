@@ -59,6 +59,33 @@ const router = createRouter({
 export default router
 ```
 
+- 在`main.ts`中引入`router`并使用。
+
+```ts
+import { createApp } from 'vue'
+import App from './App.vue'
+import router from './router'
+
+createApp(App).use(router).mount('#app')
+```
+
+- 在`App.vue`中使用`<router-view />`。
+- 添加别名`@`指向`src`目录。
+
+```ts
+// vite.config.ts
+export default defineConfig({
+  plugins: [vue(), vueJsx()],
+  resolve: {
+    alias: {
+      '@': '/src',
+    },
+  },
+})
+```
+
+- tsconfig.json中添加`"baseUrl": "."`和`"paths": { "@/*": ["src/*"] }
+
 ## 参考
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)

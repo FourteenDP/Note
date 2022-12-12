@@ -8,6 +8,16 @@ const routes: RouteRecordRaw[] = [
     name: 'Home',
     component: () => import('@/view/Home'),
   },
+  {
+    path: '/about',
+    name: 'About',
+    component: () => import('@/view/About'),
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'NotFound',
+    component: () => import('@/view/NotFound'),
+  },
 ]
 
 const router = createRouter({
