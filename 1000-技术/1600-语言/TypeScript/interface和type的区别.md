@@ -6,8 +6,15 @@ title: interface和type的区别
 
 ## interface和type的区别
 
-- 相同点
-  - 都可以描述一个对象或者函数
-  - 都允许拓展
-- 不同点
-  - interface可以被多次声明合并，type不行
+### 不同点
+
+扩展语法： interface使用extends，type使用‘&’
+同名合并：interface 支持，type 不支持。
+描述类型：对象、函数两者都适用，但是 type 可以用于基础类型、联合类型、元祖。
+计算属性：type 支持计算属性，生成映射类型,interface 不支持。
+
+### 相同点
+
+两者都可以用来描述对象或函数的类型
+两者都可以实现继承
+总的来说，公共的用 interface 实现，不能用 interface 实现的再用 type 实现。主要是一个项目最好保持一致。
