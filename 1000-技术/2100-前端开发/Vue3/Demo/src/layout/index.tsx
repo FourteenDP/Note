@@ -11,7 +11,7 @@ export default defineComponent({
 
     return () => (
       <div class="layou">
-        <div class="fixed left-0 top-1/2 first-letter:first-line:">
+        <div class="fixed bottom-0 left-1/2 bg-opacity-75 bg-slate-900 px-2 py-3 rounded-xl text-white flex">
           {menuRoutes.map(route => {
             return (
               <div class="menu-item" onClick={() => router.push(route.path)}>
