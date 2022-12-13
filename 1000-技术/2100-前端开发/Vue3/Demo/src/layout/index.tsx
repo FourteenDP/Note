@@ -1,5 +1,5 @@
 import { defineComponent } from "vue";
-import { useRouter, RouteRecordNormalized } from 'vue-router'
+import { useRouter } from 'vue-router'
 export default defineComponent({
   name: "Layout",
   setup() {
@@ -7,7 +7,7 @@ export default defineComponent({
     // 获取路由列表
     const routes = router.getRoutes()
     // 过滤出需要显示在菜单中的路由
-    const menuRoutes = routes.filter(route => route.meta?.showMenu)
+    const menuRoutes = routes.filter(route => route.meta?.showInMenu)
     console.log(menuRoutes);
 
 
