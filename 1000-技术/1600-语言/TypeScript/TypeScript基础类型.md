@@ -8,7 +8,7 @@ title: TypeScript基础类型
 - `number` 数字
 - `string` 字符串
 - `array` 数组
-- `tuple` 元组
+- `tuple` 元组*
 - `enum` 枚举
 - `any` 任意类型
 - `void` 空类型
@@ -47,8 +47,6 @@ let list: Array<number> = [1, 2, 3];
 ```
 
 ## 元组
-
-什么是元组？元组类型允许表示一个已知元素数量和类型的数组，各元素的类型不必相同。比如，你可以定义一对值分别为 string 和 number 类型的元组。
 
 ```ts
 let x: [string, number];
