@@ -4,9 +4,7 @@ export default defineComponent({
   name: "Layout",
   setup() {
     const router = useRouter()
-    // 获取路由列表
     const routes = router.getRoutes()
-    // 过滤出需要显示在菜单中的路由
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
     })
