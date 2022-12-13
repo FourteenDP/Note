@@ -5,6 +5,5 @@ declare module 'vue-router' {
     title?: string
     showMenu?: boolean
     icon?: string
-    eomji?: string
   }
 }
