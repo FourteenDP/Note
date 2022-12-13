@@ -11,12 +11,12 @@ export default defineComponent({
 
     return () => (
       <div class="layou">
-        <div class="fixed bottom-1.5 left-1/2 bg-opacity-75 bg-slate-900 px-2 py-3 rounded-xl text-white flex">
+        <div class="btm-nav">
           {menuRoutes.map(route => {
             return (
-              <div class="menu-item" onClick={() => router.push(route.path)}>
+              <button class="menu-item" onClick={() => router.push(route.path)}>
                 {route.meta?.title}
-              </div>
+              </button>
             )
           })}
         </div>
