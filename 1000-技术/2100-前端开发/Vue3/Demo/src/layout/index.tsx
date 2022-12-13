@@ -1,7 +1,5 @@
 import { defineComponent } from "vue";
 import { useRouter } from 'vue-router'
-import "./index.module.styl";
-
 
 export default defineComponent({
   name: "Layout",
