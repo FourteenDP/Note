@@ -57,3 +57,67 @@ x = [10, "hello"]; // Error
 ## 枚举
 
 ```ts
+enum Color {
+  Red,
+  Green,
+  Blue,
+}
+let c: Color = Color.Green;
+```
+
+## 任意类型
+
+```ts
+let notSure: any = 4;
+notSure = "maybe a string instead";
+notSure = false; // okay, definitely a boolean
+```
+
+## 空类型
+
+```ts
+function warnUser(): void {
+  console.log("This is my warning message");
+}
+```
+
+## null 和 undefined
+
+```ts
+let u: undefined = undefined;
+let n: null = null;
+```
+
+## 永不存在的值的类型
+
+```ts
+function error(message: string): never {
+  throw new Error(message);
+}
+```
+
+## 非原始类型
+
+```ts
+let notSure: any = 4;
+notSure.ifItExists(); // okay, ifItExists might exist at runtime
+notSure.toFixed(); // okay, toFixed exists (but the compiler doesn't check)
+
+let prettySure: Object = 4;
+prettySure.toFixed(); // Error: Property 'toFixed' doesn't exist on type 'Object'.
+```
+
+## 未知类型
+
+```ts
+let notSure: unknown = 4;
+notSure.ifItExists(); // Error: Object is of type 'unknown'.
+notSure.toFixed(); // Error: Object is of type 'unknown'.
+
+let value: unknown;
+if (typeof value === "string") {
+  value; // string
+} else {
+  value; // unknown
+}
+```
