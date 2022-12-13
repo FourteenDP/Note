@@ -2,9 +2,13 @@ import { createPinia } from 'pinia'
 
 export const pinia = createPinia()
 
-// 休眠
-export async function sleep(ms: number) {
-   await setTimeout(() => {
-      return true
-   }, ms)
+async function delay(ms: number) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+export async function fetchUser() {
+  await delay(1000)
+  return {
+    name: 'John Doe',
+  }
 }
