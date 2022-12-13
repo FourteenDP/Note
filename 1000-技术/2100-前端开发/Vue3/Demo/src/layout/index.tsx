@@ -1,13 +1,21 @@
 import { defineComponent } from "vue";
-import router from "@/router";
+import { useRouter, useRoute } from 'vue-router'
 
-console.log(router);
+
+
+
+
+
+
 
 
 
 export default defineComponent({
   name: "Layout",
   setup() {
+    const userRouter = useRouter()
+    const userRoute = useRoute()
+    console.log(userRouter);
     return () => (
       <div class="layou">
         <p>
