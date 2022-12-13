@@ -125,6 +125,22 @@ pnpm tailwindcss init -p
 
 VSCode安装插件`Tailwind CSS IntelliSense`。
 
+- 在`tailwind.config.js`中添加`purge`。
+
+```js
+ // tailwind.config.js
+  module.exports = {
+   purge: ['./src/index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+    theme: {
+      extend: {},
+    },
+    variants: {
+      extend: {},
+    },
+    plugins: [],
+  }
+```
+
 - 在`index.css`中引入tailwindcss。
 
 ```css
@@ -136,6 +152,13 @@ VSCode安装插件`Tailwind CSS IntelliSense`。
 - `Unknown at rule @tailwind` 解決方式
 
 VSCode安装插件`PostCSS Language Support`。
+
+- 全局引入tailwindcss
+
+```ts
+// main.ts
+import './index.css'
+```
 
 ## 参考
 
