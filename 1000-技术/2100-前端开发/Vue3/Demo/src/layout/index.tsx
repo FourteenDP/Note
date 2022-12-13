@@ -1,21 +1,16 @@
 import { defineComponent } from "vue";
-import { useRouter, useRoute } from 'vue-router'
-
-
-
-
-
-
-
-
-
-
+import { useRouter } from 'vue-router'
 export default defineComponent({
   name: "Layout",
   setup() {
-    const userRouter = useRouter()
-    const userRoute = useRoute()
-    console.log(userRouter);
+    const router = useRouter()
+    // 获取路由列表
+    const routes = router.getRoutes()
+    // 过滤出需要显示在菜单中的路由
+    const menuRoutes = routes.filter(route => route.meta?.showMenu)
+    console.log(menuRoutes);
+
+
     return () => (
       <div class="layou">
         <p>

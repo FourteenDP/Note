@@ -2,7 +2,7 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 
 
 
-const routes: RouteRecordRaw[] = [
+export const routes: RouteRecordRaw[] = [
   {
     path: '/login',
     name: 'Login',
@@ -16,11 +16,19 @@ const routes: RouteRecordRaw[] = [
       {
         path: '/',
         name: 'Home',
+        meta: {
+          title: '首页',
+          showMenu: true,
+        },
         component: () => import('@/view/Home'),
       },
       {
         path: '/about',
         name: 'About',
+        meta: {
+          title: '关于',
+          showMenu: true,
+        },
         component: () => import('@/view/About'),
       },
     ],
