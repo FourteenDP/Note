@@ -17,4 +17,16 @@ export default {
 }
 ```
 
-## mete
+## 路由元信息类型提示
+
+```js
+router.d.ts
+import 'vue-router'
+
+declare module 'vue-router' {
+  interface RouteMeta {
+    title?: string
+    showMenu?: boolean
+  }
+}
+```
