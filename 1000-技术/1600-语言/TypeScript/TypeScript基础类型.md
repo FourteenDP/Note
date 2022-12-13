@@ -12,7 +12,7 @@ date updated: 2022-12-13 14:49:30
 - `number` 数字
 - `string` 字符串
 - `array` 数组
-- `tuple` 元组*
+- `tuple` 元组
 - `enum` 枚举
 - `any` 任意类型
 - `void` 空类型
