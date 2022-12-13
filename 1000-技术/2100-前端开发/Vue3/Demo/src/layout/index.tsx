@@ -1,7 +1,8 @@
 import { defineComponent } from "vue";
-import { RouterLink, RouterView } from "vue-router";
+import router from "@/router";
 
-console.log(RouterLink, RouterView);
+console.log(router);
+
 
 
 export default defineComponent({
