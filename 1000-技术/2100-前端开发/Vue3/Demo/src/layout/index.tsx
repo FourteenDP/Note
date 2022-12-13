@@ -7,7 +7,9 @@ export default defineComponent({
     // 获取路由列表
     const routes = router.getRoutes()
     // 过滤出需要显示在菜单中的路由
-    const menuRoutes = routes.filter(route => route.meta?.showInMenu)
+    const menuRoutes = routes.filter(route => {
+      return route.meta?.showMenu
+    })
     console.log(menuRoutes);
 
 
