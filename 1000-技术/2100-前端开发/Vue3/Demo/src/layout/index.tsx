@@ -1,5 +1,5 @@
 import { defineComponent } from "vue";
-import { useRouter } from 'vue-router'
+import { useRouter, RouteRecordNormalized } from 'vue-router'
 export default defineComponent({
   name: "Layout",
   setup() {
