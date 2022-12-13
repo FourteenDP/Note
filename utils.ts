@@ -164,7 +164,7 @@ namespace Utils {
     }
 
     private generateMdContent(treeArr: any[], title: string = '📋目录') {
-      let mdContent: string = `---\ntitle: ${title}\n---\n`;
+      let mdContent: string = ``;
       treeArr.forEach((item: any) => {
         if (item.children) {
           mdContent += `- **[[${item.title}/📋目录|${item.title}]]**\n`;
