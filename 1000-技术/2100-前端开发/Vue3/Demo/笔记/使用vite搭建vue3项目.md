@@ -120,8 +120,22 @@ createApp(App).use(router).use(pinia).mount('#app')
 - 初始化tailwindcss配置文件。
 
 ```bash
-npx tailwindcss init -p
+pnpm tailwindcss init -p
 ```
+
+VSCode安装插件`Tailwind CSS IntelliSense`。
+
+- 在`index.css`中引入tailwindcss。
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+- `Unknown at rule @tailwind` 解決方式
+
+VSCode安装插件`PostCSS Language Support`。
 
 ## 参考
 
