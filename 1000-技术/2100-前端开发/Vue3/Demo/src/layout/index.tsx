@@ -1,5 +1,6 @@
 import { defineComponent } from "vue";
 import { useRouter } from 'vue-router'
+import "./index.module.styl";
 export default defineComponent({
   name: "Layout",
   setup() {
@@ -11,12 +12,12 @@ export default defineComponent({
 
     return () => (
       <div class="layou">
-        <div class="btm-nav">
+        <div class="menu">
           {menuRoutes.map(route => {
             return (
-              <button class="menu-item" onClick={() => router.push(route.path)}>
-                <span class="btm-nav-label">{route.meta?.title}</span>
-              </button>
+              <div class="menu-item" onClick={() => router.push(route.path)}>
+                {route.meta?.title}
+              </div>
             )
           })}
         </div>
