@@ -123,25 +123,6 @@ createApp(App).use(router).use(pinia).mount('#app')
 npx tailwindcss init -p
 ```
 
-- 在`vite.config.ts`中添加`tailwindcss`。
-
-```ts
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-import vueJsx from '@vitejs/plugin-vue-jsx'
-import tailwindcss from 'tailwindcss'
-
-// https://vitejs.dev/config/
-export default defineConfig({
-  plugins: [vue(), vueJsx(), tailwindcss],
-  resolve: {
-    alias: {
-      '@': '/src',
-    },
-  },
-})
-```
-
 ## 参考
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)
