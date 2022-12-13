@@ -2,7 +2,7 @@
 title: Vue Router
 ---
 
-## Vue3 setup中使用router
+## setup中使用router
 
 ```js
 import { useRouter } from 'vue-router'
@@ -16,3 +16,5 @@ export default {
   }
 }
 ```
+
+##
