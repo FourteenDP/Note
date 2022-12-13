@@ -15,7 +15,7 @@ export default defineComponent({
           {menuRoutes.map(route => {
             return (
               <button class="menu-item" onClick={() => router.push(route.path)}>
-                {route.meta?.title}
+                <span class="btm-nav-label">{route.meta?.title}</span>
               </button>
             )
           })}
