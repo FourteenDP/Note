@@ -8,11 +8,9 @@ export default defineComponent({
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
     })
-    console.log(menuRoutes);
 
     return () => (
       <div class="layou">
-        {/* tailwind css 定位上下局中*/}
         <div class="fixed left-0 bg-cyan-800 top-1/2">
           {menuRoutes.map(route => {
             return (
