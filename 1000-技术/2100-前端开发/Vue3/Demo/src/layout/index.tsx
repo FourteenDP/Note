@@ -12,7 +12,7 @@ export default defineComponent({
 
     return () => (
       <div class="layou">
-        <div class="menu">
+        <div class="menu fixed bottom-0 left-1/2">
           {menuRoutes.map(route => {
             return (
               <div class="menu-item" onClick={() => router.push(route.path)}>
