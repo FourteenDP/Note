@@ -1,5 +1,9 @@
 ---
-title: TypeScript基础类型
+aliases:
+tags:
+title: TypeScript 基础类型有哪些
+date created: 2022-12-13 14:33:29
+date updated: 2022-12-13 14:49:30
 ---
 
 ## TypeScript 基础类型有哪些
@@ -81,7 +85,7 @@ function warnUser(): void {
 }
 ```
 
-## null 和 undefined
+## Null 和 Undefined
 
 ```ts
 let u: undefined = undefined;
