@@ -6,7 +6,7 @@ title: Vue Router
 
 ```js
 import { useRouter } from 'vue-router'
-
+// cosnt router = useRouter() // 无法使用
 export default {
   setup() {
     const router = useRouter()
