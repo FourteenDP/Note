@@ -1,7 +1,14 @@
+import { ModuleNamespace } from "vite/types/hot";
 
-type Files = Record<string, () => Promise<any>>
+type Files = Record<string, () => Promise<ModuleNamespace>>
+
+interface Tree {
+  [key: string]: Files | (() => Promise<ModuleNamespace>)
+}
+
+
 export function filesToTree(files: Files) {
-  const tree: any = {}
+  const tree: Tree = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
@@ -16,7 +23,7 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item]
+        temp = temp[item] as Tree
       }
     })
   })
