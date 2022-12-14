@@ -1,5 +1,3 @@
-import { ModuleNamespace } from "vite/types/hot";
-
 type Files = Record<string, () => Promise<unknown>>
 
 export function filesToTree(files: Files) {
