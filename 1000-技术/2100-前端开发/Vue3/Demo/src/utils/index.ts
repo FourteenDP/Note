@@ -2,11 +2,6 @@ import { ModuleNamespace } from "vite/types/hot";
 
 type Files = Record<string, () => Promise<ModuleNamespace>>
 
-interface Tree {
-  [key: string]: Files | (() => Promise<ModuleNamespace>)
-}
-
-
 export function filesToTree(files: Files) {
   const tree: Tree = {}
   const keys = Object.keys(files)
@@ -23,11 +18,10 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item] as Tree
+        temp = temp[item]
       }
     })
   })
-
   return tree
 }
 
