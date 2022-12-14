@@ -1,5 +1,4 @@
 import { defineComponent, } from "vue";
-import { $ref } from "vue/macros"
 import { useRouter } from 'vue-router'
 type RouteRecordNormalized = import('vue-router').RouteRecordNormalized
 
@@ -23,7 +22,7 @@ export default defineComponent({
             to={route.path}
             class={[
               "flex flex-col items-center justify-center px-2",
-              currentRoutePath === route.path ? "text-blue-500" : "text-gray-500",
+              currentRoutePath === route.path ? " text-cyan-400" : "text-white",
             ]}
           >
             <span class="text-2xl">{route.meta?.icon}</span>
@@ -32,10 +31,9 @@ export default defineComponent({
         );
       })
     }
-
     return () => (
       <div class="layou">
-        <div class="menu fixed bottom-1.5 left-1/2 -translate-x-1/2 bg-white flex flex-row p-2 rounded-lg">
+        <div class="menu bg-primary textw flex flex-row p-2 rounded-lg">
           {getMenuItem()}
         </div>
         <router-view />
