@@ -1,5 +1,7 @@
-import { defineComponent, ref } from "vue";
+import { defineComponent, } from "vue";
+import { $ref } from "vue/macros"
 import { useRouter } from 'vue-router'
+type RouteRecordNormalized = import('vue-router').RouteRecordNormalized
 
 export default defineComponent({
   name: "Layout",
@@ -9,32 +11,33 @@ export default defineComponent({
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
     })
-
-    const currentRoutePath = ref(router.currentRoute.value.path)
-
-
-
-    // 监听路由变化
-    router.afterEach((to, from) => {
-      currentRoutePath.value = to.path
+    let currentRoutePath = $ref(router.currentRoute.value.path)
+    router.afterEach((to) => {
+      currentRoutePath = to.path
     })
 
-
-    const menu = menuRoutes.map(route => {
-      return (
-        <div
-          class={`menu-item px-1.5 ${route.path === currentRoutePath.value ? 'text-stone-800' : 'text-stone-400'}`}
-          onClick={() => router.push(route.path)}>
-          {route.meta?.title}
-        </div>
-      )
-    })
+    const getMenuItem = () => {
+      return menuRoutes.map(route => {
+        return (
+          <router-link
+            to={route.path}
+            class={[
+              "flex flex-col items-center justify-center px-2",
+              currentRoutePath === route.path ? "text-blue-500" : "text-gray-500",
+            ]}
+          >
+            <span class="text-2xl">{route.meta?.icon}</span>
+            <span class="text-xs">{route.meta?.title}</span>
+          </router-link>
+        );
+      })
+    }
 
 
     return () => (
       <div class="layou">
         <div class="menu fixed bottom-1.5 left-1/2 -translate-x-1/2 bg-white flex flex-row p-2 rounded-lg">
-          {menu}
+          {getMenuItem()}
         </div>
         <router-view />
       </div>
