@@ -52,12 +52,7 @@ const treeToRoutes = (tree: any, parentPath = '') => {
 
 treeToRoutes(tree)
 
-
 console.log(routes);
-
-
-
-
 
 const router = createRouter({
   history: createWebHistory(),
