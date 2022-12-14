@@ -1,7 +1,8 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'About',
+  name: 'Component',
+  title: '',
   setup() {
     return () => (
       <div class="about">
