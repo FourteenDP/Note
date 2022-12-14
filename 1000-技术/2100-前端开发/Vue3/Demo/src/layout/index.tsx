@@ -33,7 +33,6 @@ export default defineComponent({
       })
     }
 
-
     return () => (
       <div class="layou">
         <div class="menu fixed bottom-1.5 left-1/2 -translate-x-1/2 bg-white flex flex-row p-2 rounded-lg">
