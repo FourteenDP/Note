@@ -1,12 +1,13 @@
 import { defineComponent, } from "vue";
 import { useRouter } from 'vue-router'
-type RouteRecordNormalized = import('vue-router').RouteRecordNormalized
 
 export default defineComponent({
   name: "Layout",
   setup() {
     const router = useRouter()
     const routes = router.getRoutes()
+    console.log(routes);
+
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
     })
