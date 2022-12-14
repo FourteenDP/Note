@@ -5,7 +5,7 @@ export default defineComponent({
   meta: {
     title: '深入组件',
     showMenu: true,
-    icon: '🏠',
+    icon: '🔥'
   },
   setup() {
     return () => (
