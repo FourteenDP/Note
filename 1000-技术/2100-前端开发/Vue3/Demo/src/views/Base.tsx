@@ -3,7 +3,7 @@ import { defineComponent } from "vue"
 export default defineComponent({
   name: 'Base',
   meta: {
-    title: '基础组件',
+    title: '基础',
     showMenu: true,
     icon: '🏠',
   },
