@@ -20,7 +20,7 @@ interface A {
   // 对象key
   [key: string]: {
     (): Promise<unknown>
-    [key: string]: Promise<unknown>
+    [key:string]: ()=>Promise<unknown>
   }
 }
 
