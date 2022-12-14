@@ -1,4 +1,4 @@
-import { defineComponent } from "vue";
+import { defineComponent, ref } from "vue";
 import { useRouter } from 'vue-router'
 
 export default defineComponent({
@@ -9,9 +9,22 @@ export default defineComponent({
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
     })
+
+    const currentRoutePath = ref(router.currentRoute.value.path)
+
+
+
+    // 监听路由变化
+    router.afterEach((to, from) => {
+      currentRoutePath.value = to.path
+    })
+
+
     const menu = menuRoutes.map(route => {
       return (
-        <div class="menu-item" onClick={() => router.push(route.path)}>
+        <div
+          class={`menu-item px-1.5 ${route.path === currentRoutePath.value ? 'text-stone-800' : 'text-stone-400'}`}
+          onClick={() => router.push(route.path)}>
           {route.meta?.title}
         </div>
       )
@@ -20,7 +33,7 @@ export default defineComponent({
 
     return () => (
       <div class="layou">
-        <div class="menu fixed  bottom-0 left-1/2 -translate-x-1/2 bg-white flex flex-row">
+        <div class="menu fixed bottom-1.5 left-1/2 -translate-x-1/2 bg-white flex flex-row p-2 rounded-lg">
           {menu}
         </div>
         <router-view />
