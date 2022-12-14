@@ -166,3 +166,4 @@ import './index.css'
 - [pnpm](https://pnpm.io/)
 - [pinia](https://pinia.esm.dev/)
 - [vue-router](https://next.router.vuejs.org/zh/)
+- [daisui](https://daisyui.com/)
