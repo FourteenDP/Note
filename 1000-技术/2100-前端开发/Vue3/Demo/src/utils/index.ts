@@ -11,22 +11,20 @@ export function filesToTree(files: Files) {
 
     pathArr.shift()
     let temp = tree
-    console.log(pathArr);
-
     pathArr.forEach((item, index) => {
-      console.log(index, pathArr.length);
       if (index === pathArr.length - 1) {
         temp[item] = files[key]
       } else {
         if (!temp[item]) {
           temp[item] = {}
         }
+        console.log(111111,temp[item]);
         temp = temp[item]
-        console.log(temp);
-
+        console.log(111111,temp);
       }
     })
   })
+
   console.log(tree);
 
   return tree
