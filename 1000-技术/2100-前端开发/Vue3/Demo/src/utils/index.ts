@@ -1,7 +1,10 @@
 type Files = Record<string, () => Promise<unknown>>
 
-interface Tree {
-  [key: string]: Tree | (() => Promise<unknown>)
+interface A {
+  (): Promise<unknown>
+}
+interface Tree extends Record<string, A | Tree> {
+  [key: string]: A | Tree
 }
 
 export function filesToTree(files: Files) {
@@ -20,7 +23,7 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item] as Tree
+        temp = temp[item]
       }
     })
   })
