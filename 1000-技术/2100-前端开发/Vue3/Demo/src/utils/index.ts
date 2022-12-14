@@ -18,9 +18,7 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        console.log(111111,temp[item]);
         temp = temp[item]
-        console.log(111111,temp);
       }
     })
   })
