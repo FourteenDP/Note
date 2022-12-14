@@ -4,10 +4,8 @@ interface Tree {
   [key: string]: Tree | (() => Promise<unknown>)
 }
 
-type A = Tree | (() => Promise<unknown>)
-
 export function filesToTree(files: Files) {
-  const tree: A = {}
+  const tree: Tree = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
@@ -22,7 +20,7 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item]
+        temp = temp[item] as Tree
       }
     })
   })
