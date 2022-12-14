@@ -6,7 +6,6 @@ export default defineComponent({
   setup() {
     const router = useRouter()
     const routes = router.getRoutes()
-    console.log(routes);
 
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu

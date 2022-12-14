@@ -1,12 +1,5 @@
-type RouteRecordRaw = import('vue-router').RouteRecordRaw
-
-type RouteRecordRawPromise = () => Promise<{ default: RouteRecordRaw }>
-
-interface RoutesTree {
-  [key: string]: RoutesTree | (RouteRecordRawPromise)
-}
 export function filesToTree(files: any) {
-  const tree:RoutesTree = {}
+  const tree: any = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
@@ -29,12 +22,12 @@ export function filesToTree(files: any) {
   return tree
 }
 
-export async function treeToRoutes(tree: RoutesTree, parentPath = '') {
-  let temp = []
+export async function treeToRoutes(tree: any, parentPath = '') {
+  let temp: any[] = []
   const keys = Object.keys(tree)
   for (let i = 0; i < keys.length; i++) {
     const key = keys[i]
-    const module: RouteRecordRaw = (await tree[key]()).default
+    const module = (await tree[key]()).default
     const path = parentPath + '/' + key
     if (typeof tree[key] === 'function') {
       temp.push({
