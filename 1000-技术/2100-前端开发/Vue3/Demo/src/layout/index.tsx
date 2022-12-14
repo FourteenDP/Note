@@ -6,6 +6,7 @@ export default defineComponent({
   setup() {
     const router = useRouter()
     const routes = router.getRoutes()
+    console.log(routes);
 
     const menuRoutes = routes.filter(route => {
       return route.meta?.showMenu
@@ -33,7 +34,7 @@ export default defineComponent({
     }
     return () => (
       <div class="layou">
-        <div class="menu bg-primary textw flex flex-row p-2 rounded-lg">
+        <div class="menu bg-primary textw flex flex-row p-2">
           {getMenuItem()}
         </div>
         <router-view />

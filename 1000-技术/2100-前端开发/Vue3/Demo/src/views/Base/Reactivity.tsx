@@ -2,6 +2,11 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "Reactivity",
+  meta: {
+    title: "Reactivity",
+    showMenu: true,
+    icon: "🔥",
+  },
   setup() {
     let count = $ref(0);
     const double = $computed(() => count * 2);
