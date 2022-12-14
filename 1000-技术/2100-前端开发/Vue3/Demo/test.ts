@@ -1,4 +1,3 @@
-
 function foo() {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
@@ -18,7 +17,7 @@ function bar() {
 foo.bar = bar;
 // 描述A的类型
 interface A {
-
+  //...
 }
 
 let a: A = {
