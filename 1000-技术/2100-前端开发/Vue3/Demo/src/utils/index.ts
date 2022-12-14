@@ -1,16 +1,13 @@
 
-type Files = Record<string, () => Promise<unknown>>
-
-type Tree = Record<string, unknown>
+type Files = Record<string, () => Promise<any>>
 export function filesToTree(files: Files) {
-  const tree: Tree = {}
+  const tree: any = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
     const pathArr = path.split('/')
 
     pathArr.shift()
-
     let temp = tree
     pathArr.forEach((item, index) => {
       if (index === pathArr.length - 1) {
@@ -19,10 +16,11 @@ export function filesToTree(files: Files) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item] as Tree
+        temp = temp[item]
       }
     })
   })
+
   return tree
 }
 
