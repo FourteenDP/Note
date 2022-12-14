@@ -12,7 +12,6 @@ const routes: RouteRecordRaw[] = [
 ]
 const files = import.meta.glob('../views/**/*.tsx')
 const tree = filesToTree(files)
-console.log(tree);
 
 routes[0].children = await treeToRoutes(tree)
 
