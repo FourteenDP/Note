@@ -17,7 +17,11 @@ function bar() {
 foo.bar = bar;
 // 描述A的类型
 interface A {
-  //...
+  // 对象key
+  [key: string]: {
+    (): Promise<unknown>
+    [key: string]: Promise<unknown>
+  }
 }
 
 let a: A = {
