@@ -1,5 +1,9 @@
-export function filesToTree(files: any) {
-  const tree: any = {}
+
+type Files = Record<string, () => Promise<unknown>>
+
+type Tree = Record<string, unknown>
+export function filesToTree(files: Files) {
+  const tree: Tree = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
@@ -15,7 +19,7 @@ export function filesToTree(files: any) {
         if (!temp[item]) {
           temp[item] = {}
         }
-        temp = temp[item]
+        temp = temp[item] as Tree
       }
     })
   })
