@@ -1,12 +1,10 @@
 import { defineComponent, } from "vue";
-import { useRouter } from 'vue-router'
-
+import { routes } from '@/router'
+console.log(routes);
+const menu = routes.filter((route) => route.meta?.title);
 export default defineComponent({
   name: "Layout",
   setup() {
-    const router = useRouter()
-    const routes = router.getRoutes()
-    console.log(routes)
     return () => (
       <div class="layou">
         <div class="menu bg-primary textw flex flex-row p-2">
@@ -18,7 +16,6 @@ export default defineComponent({
             </ul>
           </div>
         </div>
-        <router-view />
       </div>
     );
   },
