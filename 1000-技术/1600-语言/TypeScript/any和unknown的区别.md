@@ -9,6 +9,7 @@ date updated: 2022-12-15 09:45:18
 ## any和unknown的区别
 
 - any可以赋值给任何类型，unknown只能赋值给any和unknown
+- unknown类型的值不能直接使用，需要先判断类型
 
 ```ts
 // any
@@ -34,45 +35,7 @@ let h: boolean = b; // error
 let i: any = b;
 let j: unknown = b;
 
-// any可以调用任何方法
-a.toFixed(2);
-a.trim();
-a.split('');
 
-// unknown只能调用any和unknown的方法
-b.toFixed(2); // error
-b.trim(); // error
-b.split(''); // error
-
-b.toString();
-b.valueOf();
-
-// any可以访问任何属性
-a.length;
-a.name;
-a.age;
-
-// unknown只能访问any和unknown的属性
-b.length; // error
-b.name; // error
-b.age; // error
-
-b.toString();
-b.valueOf();
-
-// any可以作为函数的参数
-function fn1(a: any) {
-  a();
-}
-
-// unknown只能作为any和unknown的参数
-function fn2(a: unknown) {
-  a(); // error
-}
-
-function fn3(a: any) {
-  a();
-}
 
 // 使用unknown需要先判断类型
 if (typeof b === 'string') {
