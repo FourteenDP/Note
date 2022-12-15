@@ -1,6 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router'
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 
+// 自动导入路由
+const modules = import.meta.glob('../views/**/*.tsx')
+
+const addRoutes = (routes: RouteRecordRaw[], path: string) => {
+
+}
+
+
 export const routes: RouteRecordRaw[] = [
   {
     path: '/',
