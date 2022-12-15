@@ -21,28 +21,32 @@ const addRoutes = Object.keys(modules).map(async (key) => {
 
 export const resRoutes = await Promise.all(addRoutes)
 
-function resRoutesToTree() {
-  const resRoutesTree: any = []
-  resRoutes.forEach((item) => {
-    const path = item.path
-    const name = item.name
-    const meta = item.meta
-    const component = item.component
-    const pathArr = path.split('/')
-    const pathArrLen = pathArr.length
-    if (pathArrLen === 2) {
-      resRoutesTree.push({
-        path,
-        name,
-        meta,
-        component,
-      })
+function resRoutesToTree(routers: RouteRecordRaw[], level: number = 0) {
+  const res: RouteRecordRaw[] = []
+  routers.forEach((item) => {
+    if (item.path === '/') {
+      res.push(item)
+    } else {
+      const parent = res.find((i) => i.path === item.path.split('/').slice(0, level + 2).join('/'))
+      console.log('parent', parent);
+
+      if (parent) {
+        if (!parent.children) {
+          parent.children = []
+        }
+        parent.children.push(item)
+      } else {
+        res.push(item)
+      }
     }
   })
-  return resRoutesTree
+  if (level < 3) {
+    resRoutesToTree(routers, level + 1)
+  }
+  return res
 }
 
-export const resRoutesTree = resRoutesToTree()
+export const resRoutesTree = resRoutesToTree(resRoutes)
 console.log('resRoutesTree', resRoutesTree);
 
 
@@ -52,7 +56,7 @@ export const routes: RouteRecordRaw[] = [
     name: 'Layout',
     component: () => import('@/layout'),
     children: [
-      ...resRoutes,
+      ...resRoutesTree,
     ],
   },
 ]
