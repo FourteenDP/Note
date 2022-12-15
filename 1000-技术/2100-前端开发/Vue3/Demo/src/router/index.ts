@@ -18,7 +18,7 @@ export const routes: RouteRecordRaw[] = [
             name: 'Reactivity',
             meta: (await import('@/views/Base/Reactivity')).default.meta,
             component: () => import('@/views/Base/Reactivity'),
-          }
+          },
         ]
       },
       {
@@ -38,6 +38,15 @@ export const routes: RouteRecordRaw[] = [
     ],
   },
 ]
+
+// 自动导入路由
+const files = import.meta.glob('../views/**/*.tsx')
+
+for (const path in files) {
+  const module = (await files[path]())
+  console.log(route);
+}
+
 const router = createRouter({
   history: createWebHistory(),
   routes,
