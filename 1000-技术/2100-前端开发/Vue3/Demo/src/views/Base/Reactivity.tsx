@@ -7,8 +7,6 @@ export default defineComponent({
   },
   setup() {
     const state = reactive({ count: 0 })
-    console.log(state);
-
     function increment() {
       state.count++
     }
