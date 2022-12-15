@@ -1,4 +1,4 @@
-import { defineComponent } from "vue";
+import { computed, defineComponent, markRaw, toRaw } from "vue";
 
 export default defineComponent({
   name: "ComputedProperties",
@@ -32,11 +32,9 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          const { name, age } = addUserInfo
-          state.push({
-            name,
-            age: Number(age),
-          })
+          state.push(toRaw(addUserInfo))
+          console.log(toRaw(addUserInfo));
+
         }}>添加</button>
       </div>
     );
