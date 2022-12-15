@@ -4,9 +4,19 @@ type RouteRecordRaw = import('vue-router').RouteRecordRaw
 // 自动导入路由
 const modules = import.meta.glob('../views/**/*.tsx')
 
-const addRoutes = (routes: RouteRecordRaw[], path: string) => {
+const addRoutes = Object.keys(modules).map((key) => {
+  const path = key.replace('../views', '').replace('.tsx', '')
+  const name = path.replace('/', '')
+  return {
+    path,
+    name,
+    meta: (modules[key] as any).default.meta,
+    component: () => import(`../views${path}`),
+  }
+})
 
-}
+
+console.log(addRoutes);
 
 
 export const routes: RouteRecordRaw[] = [
