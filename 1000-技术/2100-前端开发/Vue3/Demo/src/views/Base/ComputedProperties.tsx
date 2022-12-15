@@ -33,8 +33,8 @@ export default defineComponent({
         </div>
         <button class="btn btn-primary" onClick={() => {
           state.push(addUserInfo)
-          addUserInfo.name = ''
-          addUserInfo.age = 0
+          console.log(state);
+
         }}>添加</button>
       </div>
     );
