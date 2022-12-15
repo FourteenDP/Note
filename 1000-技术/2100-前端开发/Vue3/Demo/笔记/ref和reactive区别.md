@@ -18,7 +18,6 @@ title: ref和reactive区别
   - 浅层次的属性是响应式的，深层次的属性不是响应式的
   - 如果传入的是一个对象，本质是调用reactive，`.value`返回的是一个代理对象
 
-
 ## 参考
 
 - [深入源码彻底搞清vue3中reactive和ref的区别](https://juejin.cn/post/7134631293941186567#heading-7)
