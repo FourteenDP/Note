@@ -1,6 +1,5 @@
 import { defineComponent, reactive, ref } from "vue";
 
-
 export default defineComponent({
   name: "Reactivity",
   meta: {
