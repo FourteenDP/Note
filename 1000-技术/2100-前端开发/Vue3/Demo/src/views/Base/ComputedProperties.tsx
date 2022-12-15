@@ -35,7 +35,7 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push(unlock<any>(addUserInfo))
+          state.push(unlock(addUserInfo))
         }}>添加</button>
       </div>
     );
