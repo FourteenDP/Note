@@ -26,6 +26,14 @@ export const routes: RouteRecordRaw[] = [
         name: 'Component',
         meta: (await import('@/views/Component')).default.meta,
         component: () => import('@/views/Component'),
+        children: [
+          {
+            path: '/Component/ComponentRegistration',
+            name: 'ComponentRegistration',
+            meta: (await import('@/views/Component/ComponentRegistration')).default.meta,
+            component: () => import('@/views/Component/ComponentRegistration'),
+          },
+        ]
       },
     ],
   },
