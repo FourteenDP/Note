@@ -1,3 +1,4 @@
+import { unlock } from "@/utils";
 import { defineComponent } from "vue";
 export default defineComponent({
   name: "ComputedProperties",
@@ -34,7 +35,7 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push({ ...addUserInfo })
+          state.push(unlock<state>(state))
         }}>添加</button>
       </div>
     );

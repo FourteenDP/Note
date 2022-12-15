@@ -1,6 +1,5 @@
 import { defineComponent } from "vue"
 import { RouterView } from "vue-router"
-import { ReactiveVariable } from "vue/macros";
 
 export default defineComponent({
   name: 'Base',
