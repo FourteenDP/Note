@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 
-const routes: RouteRecordRaw[] = [
+export const routes: RouteRecordRaw[] = [
   {
     path: '/',
     name: 'Layout',
