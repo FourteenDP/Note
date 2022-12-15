@@ -32,9 +32,11 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push(addUserInfo)
-          console.log(state);
-
+          const { name, age } = addUserInfo
+          state.push({
+            name,
+            age: Number(age),
+          })
         }}>添加</button>
       </div>
     );
