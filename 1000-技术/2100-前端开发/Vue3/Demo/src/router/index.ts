@@ -26,7 +26,7 @@ const addRoutes = Object.keys(modules).map(async (key) => {
 })
 
 
-export const resRoutes = await Promise.all(addRoutes)
+const resRoutes = await Promise.all(addRoutes)
 
 function resRoutesToTree(routers: RouteRecordRaw[], level: number = 0) {
   const res: RouteRecordRaw[] = []
@@ -51,9 +51,9 @@ function resRoutesToTree(routers: RouteRecordRaw[], level: number = 0) {
   return res
 }
 
-export const resRoutesTree = resRoutesToTree(resRoutes)
+const resRoutesTree = resRoutesToTree(resRoutes)
 
-export const routes: RouteRecordRaw[] = [
+const routes: RouteRecordRaw[] = [
   {
     path: '/',
     name: 'Layout',
