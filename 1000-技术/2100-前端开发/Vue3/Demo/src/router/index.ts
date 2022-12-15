@@ -50,9 +50,11 @@ interface Module {
 }
 
 for (const path in files) {
-  const module = (await files[path]()) as Module
-  const component = module.default
-  console.log(component);
+  const name = path.replace(/^\.\/views\/(.*)\.tsx$/, '$1')
+  const module = files[path] as () => Promise<Module>
+  const { default: { meta, name: routeName } } = await module()
+  const route = routes.find(route => route.name === routeName)
+  console.log(routeName, route);
 
 }
 
