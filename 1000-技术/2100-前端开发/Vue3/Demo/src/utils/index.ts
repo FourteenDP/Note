@@ -1,6 +1,6 @@
 import { ReactiveVariable } from "vue/macros"
 
-export function unlock<T>(reactiveVariable: ReactiveVariable<T>) {
+export function unlock(reactiveVariable: ReactiveVariable<unknown>) {
   if (Array.isArray(reactiveVariable)) {
     return [...reactiveVariable]
   }
