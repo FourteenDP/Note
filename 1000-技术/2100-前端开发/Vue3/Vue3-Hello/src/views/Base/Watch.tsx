@@ -1,4 +1,4 @@
-import { defineComponent, reactive, ref, watch, watchEffect } from "vue";
+import { defineComponent, reactive, ref, watch, watchEffect, watchPostEffect } from "vue";
 
 export default defineComponent({
   name: "Watch",
@@ -60,8 +60,22 @@ export default defineComponent({
 
     // watchEffect
     watchEffect(() => {
-      console.log(`watchEffect: ${count.value}`)
+      console.log(`watchEffect: ${count.value} ${state.count}`)
     })
+
+    // watchPostEffect
+    watchEffect(() => {
+      console.log(`watchPostEffect: ${count.value} ${state.count}`)
+    }, { flush: 'post' })
+    watchPostEffect(() => {
+      console.log(`watchPostEffect: ${count.value} ${state.count}`)
+    })
+
+    // 结束监听
+    const stop = watch(count, (newVal, oldVal) => {
+      console.log(`结束监听: ${oldVal} -> ${newVal}`)
+    })
+    stop()
 
     return () => (
       <div>
