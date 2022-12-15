@@ -1,5 +1,4 @@
-import { computed, defineComponent, markRaw, toRaw } from "vue";
-
+import { defineComponent } from "vue";
 export default defineComponent({
   name: "ComputedProperties",
   meta: {
@@ -12,7 +11,7 @@ export default defineComponent({
       { name: "Carol", age: 40 },
     ])
 
-    const addUserInfo =$ref({
+    const addUserInfo = $ref({
       name: '',
       age: 0
     })
@@ -35,9 +34,7 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push({...addUserInfo})
-          console.log(addUserInfo);
-
+          state.push({ ...addUserInfo })
         }}>添加</button>
       </div>
     );
