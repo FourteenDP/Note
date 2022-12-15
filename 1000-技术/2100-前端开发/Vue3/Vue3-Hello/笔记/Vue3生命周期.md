@@ -39,6 +39,12 @@ date updated: 2022-12-15 20:14:23
 | onActivated | 路由激活时 |
 | onDeactivated | 路由失活时 |
 
+## 服务端渲染钩子
+
+| 钩子 | 说明 |
+| --- | --- |
+| onServerPrefetch | 服务端预取数据 |
+
 ## 生命周期图示
 
 ![[Pasted image 20221215201422.png]]
