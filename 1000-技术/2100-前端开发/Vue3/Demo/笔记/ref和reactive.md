@@ -41,3 +41,7 @@ console.log(obj.count) // 1
 obj.name = 'xiaoming'
 console.log(obj.name) // xiaoming
 ```
+
+## DOM更新时机
+
+![[DOM更新时机]]
