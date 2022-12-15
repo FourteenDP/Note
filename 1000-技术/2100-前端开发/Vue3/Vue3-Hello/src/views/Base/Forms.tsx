@@ -1,29 +1,25 @@
-import { defineComponent } from "vue";
+import { defineComponent, InputHTMLAttributes } from 'vue'
 
 export default defineComponent({
-  name: "Forms",
+  name: 'Forms',
   meta: {
-    title: "表单输入绑定",
+    title: '表单输入绑定',
   },
   setup() {
-    let message = $ref("Hello Vue3");
-    let message2 = $ref("Hello Vue3");
+    // 姓
+    let firstName = $ref('')
+    // 名
+    let lastName = $ref('')
     return () => (
       <div>
-        {/* 完整写法 */}
-        <div class="text-xl">message: {message}</div>
-        <input value={message} onInput={
-          (e: any) => {
-            console.log(e);
-
-            message = e.target.value
-          }
-        } type="text" placeholder="请输入内容" />
         {/* 简写 */}
-        <div class="text-xl">message: {message2}</div>
-        <input v-mode={message2} type="text" placeholder="请输入内容" />
+        <input v-model={firstName} type="text" placeholder='firstName' />
+        {/* 完整写法 */}
+        <input onInput={event => {
+          lastName = (event.target as InputHTMLAttributes).value
+        }} type="text" placeholder='firstName' />
+        <p>{firstName} | {lastName}</p>
       </div>
-    );
-
+    )
   },
 })
