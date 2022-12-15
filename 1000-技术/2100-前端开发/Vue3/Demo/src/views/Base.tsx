@@ -10,7 +10,7 @@ export default defineComponent({
   setup() {
     return () => (
       <div class="home">
-        Home
+        <h1>基础</h1>
       </div>
     )
   }
