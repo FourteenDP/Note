@@ -9,6 +9,11 @@ export default defineComponent({
     icon: '🏠',
   },
   setup() {
+    const a = $ref(1)
+    const b = $ref({
+      name: 'b'
+    })
+    console.log(a, b);
     return () => (
       <div class="home">
         <RouterView></RouterView>
