@@ -1,15 +1,18 @@
-import { defineComponent } from "vue";
+import { defineComponent, watch } from "vue";
 
 export default defineComponent({
   name: "Watch",
   meta: {
-    title: "watch",
+    title: "监听器",
   },
   setup() {
     let count = $ref(0)
     const increment = () => {
       count++
     }
+    watch(count, async (nV, oV) => {
+      console.log("count变化了", nV, oV);
+    })
 
     return () => (
       <div>
