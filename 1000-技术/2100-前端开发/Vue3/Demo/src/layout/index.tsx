@@ -1,5 +1,6 @@
 import { defineComponent, } from "vue";
 import { routes } from '@/router'
+import { RouterLink } from "vue-router";
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 function getMneus(routes: RouteRecordRaw[]) {
   return routes.map(item => {
@@ -13,7 +14,8 @@ function getMneus(routes: RouteRecordRaw[]) {
         </div>
       )
     } else {
-      return <li><a>{item.meta?.title}</a></li>
+      // return <li><a>{item.meta?.title}</a></li>
+      return <li><a> <router-link to={item.path}>{item.meta?.title}</router-link></a></li>
     }
   })
 }
