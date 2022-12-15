@@ -14,16 +14,13 @@ export default defineComponent({
 
     onBeforeMount(() => {
       lifecycleHooksMsgs.push({ msg: "beforeCreate" });
-    });
+       console.log(lifecycleHooksMsgs);
 
+    });
 
     return () => (
       <div>
-        <ul>
-          {lifecycleHooksMsgs.map((msg) => (
-            <li>{msg}</li>
-          ))}
-        </ul>
+
       </div>
     );
   },
