@@ -1,4 +1,5 @@
 import { defineComponent } from 'vue'
+import { RouterView } from 'vue-router'
 
 export default defineComponent({
   name: 'Component',
@@ -9,8 +10,8 @@ export default defineComponent({
   },
   setup() {
     return () => (
-      <div class="about">
-        About
+      <div class="Component">
+        <RouterView></RouterView>
       </div>
     )
   }

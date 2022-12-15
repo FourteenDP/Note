@@ -1,5 +1,5 @@
 import { defineComponent, } from "vue";
-import { useRouter } from "vue-router";
+import { RouterView, useRouter } from "vue-router";
 import { routes } from '@/router'
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 
@@ -34,15 +34,33 @@ export default defineComponent({
         <div class="menu bg-primary textw flex flex-row p-1">
           {getMneus(routes[0].children!)}
         </div>
-        {/* 面包屑导航 */}
-        <div class="text-sm breadcrumbs p-2">
+        <div class="text-xl breadcrumbs p-2">
           <ul>
-            <li><a>Home</a></li>
-            <li><a>Documents</a></li>
-            <li>Add Document</li>
+            {
+              route.currentRoute.value.matched.map(item => {
+                if (item.path === '/') {
+                  return <li onClick={
+                    () => {
+                      route.push('/')
+                    }
+                  }><a>首页</a></li>
+                }
+                return (
+                  <li onClick={
+                    () => {
+                      route.push(item.path)
+                    }
+                  }>
+                    <a>
+                      {item.meta?.title}
+                    </a>
+                  </li>
+                )
+              })
+            }
           </ul>
         </div>
-        <router-view />
+        <RouterView></RouterView>
       </div>
     );
   },
