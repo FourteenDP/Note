@@ -1,18 +1,16 @@
-type Files = Record<string, () => Promise<unknown>>
-
-
-interface Tree {
-  [key: string]: Tree | (() => Promise<unknown>)
+interface Files {
+  [key: string]: () => Promise<unknown>
 }
 
 export function filesToTree(files: Files) {
-  const tree: Tree = {}
+  const tree: any = {}
   const keys = Object.keys(files)
   keys.forEach((key) => {
     const path = key.replace('../views', '').replace('.tsx', '')
     const pathArr = path.split('/')
 
     pathArr.shift()
+
     let temp = tree
     pathArr.forEach((item, index) => {
       if (index === pathArr.length - 1) {
