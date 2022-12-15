@@ -225,7 +225,7 @@ namespace Utils {
         },
         exclude: (file: string) => {
           let boolean = false;
-          const startsWith = ['.', '-', '~', '0000', '📋目录', 'node_modules'];
+          const startsWith = ['.', '-', '~', '0000', '📋目录', 'node_'];
           startsWith.forEach((item: string) => {
             if (file.startsWith(item)) {
               boolean = true;
