@@ -11,7 +11,6 @@ export default defineComponent({
   setup() {
     return () => (
       <div class="home">
-        <h1>基础</h1>
         <RouterView></RouterView>
       </div>
     )

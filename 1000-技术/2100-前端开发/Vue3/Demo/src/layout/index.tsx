@@ -34,6 +34,14 @@ export default defineComponent({
         <div class="menu bg-primary textw flex flex-row p-1">
           {getMneus(routes[0].children!)}
         </div>
+        {/* 面包屑导航 */}
+        <div class="text-sm breadcrumbs p-2">
+          <ul>
+            <li><a>Home</a></li>
+            <li><a>Documents</a></li>
+            <li>Add Document</li>
+          </ul>
+        </div>
         <router-view />
       </div>
     );
