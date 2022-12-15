@@ -9,13 +9,15 @@ export default defineComponent({
 
     // class绑定对象
     let isActive = $ref(true)
+
+    const swapText = $computed(() => isActive ? "Active" : "Inactive")
     return () => (
       <div>
-        <div class={{ btn: true, "btn-accent": isActive }} onClick={
+        <div class={{ btn: true, "btn-secondary": isActive }} onClick={
           () => {
             isActive = !isActive
           }
-        }>class绑定对象</div>
+        }>{swapText}</div>
       </div>
     );
   },
