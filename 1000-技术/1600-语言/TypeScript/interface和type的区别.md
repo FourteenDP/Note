@@ -21,3 +21,24 @@ date updated: 2022-12-13 14:23:06
 - 两者都可以实现继承
 
 总的来说，公共的用 interface 实现，不能用 interface 实现的再用 type 实现。主要是一个项目最好保持一致。
+
+### type计算属性
+
+```ts
+type Person = {
+  name: string;
+  age: number;
+};
+
+type ReadonlyPerson = {
+  readonly [P in keyof Person]: Person[P];
+};
+
+type PartialPerson = {
+  [P in keyof Person]?: Person[P];
+};
+
+type PickPerson = {
+  [P in 'name' | 'age']: Person[P];
+};
+```
