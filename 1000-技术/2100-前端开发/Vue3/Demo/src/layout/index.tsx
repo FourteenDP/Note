@@ -6,35 +6,17 @@ export default defineComponent({
   setup() {
     const router = useRouter()
     const routes = router.getRoutes()
-
-    const menuRoutes = routes.filter(route => {
-      return route.meta?.showMenu
-    })
-    let currentRoutePath = $ref(router.currentRoute.value.path)
-    router.afterEach((to) => {
-      currentRoutePath = to.path
-    })
-
-    const getMenuItem = () => {
-      return menuRoutes.map(route => {
-        return (
-          <router-link
-            to={route.path}
-            class={[
-              "flex flex-col items-center justify-center px-2",
-              currentRoutePath === route.path ? " text-cyan-400" : "text-white",
-            ]}
-          >
-            <span class="text-2xl">{route.meta?.icon}</span>
-            <span class="text-xs">{route.meta?.title}</span>
-          </router-link>
-        );
-      })
-    }
+    console.log(routes)
     return () => (
       <div class="layou">
         <div class="menu bg-primary textw flex flex-row p-2">
-          {getMenuItem()}
+          <div class="dropdown dropdown-bottom">
+            <label tabindex="0" class="btn m-1">Click</label>
+            <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
+              <li><a>Item 1</a></li>
+              <li><a>Item 2</a></li>
+            </ul>
+          </div>
         </div>
         <router-view />
       </div>

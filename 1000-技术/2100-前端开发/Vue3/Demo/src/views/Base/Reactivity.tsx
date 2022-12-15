@@ -3,9 +3,7 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: "Reactivity",
   meta: {
-    title: "Reactivity",
-    showMenu: true,
-    icon: "🔥",
+    title: "响应式",
   },
   setup() {
     let count = $ref(0);
