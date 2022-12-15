@@ -1,14 +1,21 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, RouteMeta } from 'vue-router'
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 
 // 自动导入路由
 const modules = import.meta.glob('../views/**/*.tsx')
 
+interface Module {
+  default: {
+    meta: RouteMeta
+  }
+}
+
+
 const addRoutes = Object.keys(modules).map(async (key) => {
   const path = key.replace('../views', '').replace('.tsx', '')
   const name = path.replace('/', '')
   const component = modules[key]
-  const meta = (await component() as any).default.meta
+  const meta = (await component() as Module).default.meta
 
   return {
     path,
