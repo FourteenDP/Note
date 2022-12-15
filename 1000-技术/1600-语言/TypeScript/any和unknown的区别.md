@@ -8,22 +8,83 @@ date updated: 2022-12-15 09:45:18
 
 ## any和unknown的区别
 
-- `any` 是任意类型，可以赋值给任意类型
-- `unknown` 是未知类型，不能赋值给任意类型，只能赋值给`unknown`和`any`类型
-- `unknown` 类型的值，不能直接访问它的属性和方法，需要先判断类型，再访问
+- any可以赋值给任何类型，unknown只能赋值给any和unknown
 
-## Any
-
-```js
+```ts
+// any
 let a: any = 1;
 a = '1';
 a = true;
-```
 
-## Unknown
+// unknown
+let b: unknown = 1;
+b = '1';
+b = true;
 
-```js
-let a: unknown = 1;
-a = '1';
-a = true;
+// any可以赋值给任何类型
+let c: string = a;
+let d: number = a;
+let e: boolean = a;
+
+// unknown只能赋值给any和unknown
+let f: string = b; // error
+let g: number = b; // error
+let h: boolean = b; // error
+
+let i: any = b;
+let j: unknown = b;
+
+// any可以调用任何方法
+a.toFixed(2);
+a.trim();
+a.split('');
+
+// unknown只能调用any和unknown的方法
+b.toFixed(2); // error
+b.trim(); // error
+b.split(''); // error
+
+b.toString();
+b.valueOf();
+
+// any可以访问任何属性
+a.length;
+a.name;
+a.age;
+
+// unknown只能访问any和unknown的属性
+b.length; // error
+b.name; // error
+b.age; // error
+
+b.toString();
+b.valueOf();
+
+// any可以作为函数的参数
+function fn1(a: any) {
+  a();
+}
+
+// unknown只能作为any和unknown的参数
+function fn2(a: unknown) {
+  a(); // error
+}
+
+function fn3(a: any) {
+  a();
+}
+
+// 使用unknown需要先判断类型
+if (typeof b === 'string') {
+  b.trim();
+}
+
+if (typeof b === 'number') {
+  b.toFixed(2);
+}
+
+if (typeof b === 'boolean') {
+  b.valueOf();
+}
+
 ```
