@@ -17,8 +17,6 @@ export default defineComponent({
 
     // ref() 方法返回一个响应式的代理对象
     const count = ref(0)
-    console.log(count);
-
     return () => (
       <div>
         <div class="text-xl">state: {state.count}</div>
