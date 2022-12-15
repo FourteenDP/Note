@@ -1,6 +1,5 @@
 import { defineComponent, } from "vue";
 import { RouterView, useRouter } from "vue-router";
-import { routes } from '@/router'
 type RouteRecordRaw = import('vue-router').RouteRecordRaw
 
 
@@ -8,7 +7,9 @@ export default defineComponent({
   name: "Layout",
   setup() {
     const route = useRouter()
-    console.log(route.getRoutes());
+    const routes = route.options.routes as RouteRecordRaw[]
+    console.log(routes);
+
 
     const getMneus = (routes: RouteRecordRaw[]) => {
       return routes.map(item => {
