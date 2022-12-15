@@ -44,7 +44,8 @@ const files = import.meta.glob('../views/**/*.tsx')
 
 for (const path in files) {
   const module = (await files[path]())
-  console.log(route);
+  console.log(module);
+
 }
 
 const router = createRouter({
