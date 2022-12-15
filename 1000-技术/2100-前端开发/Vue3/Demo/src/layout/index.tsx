@@ -8,9 +8,6 @@ export default defineComponent({
   setup() {
     const route = useRouter()
     const routes = route.options.routes as RouteRecordRaw[]
-    console.log(routes);
-
-
     const getMneus = (routes: RouteRecordRaw[]) => {
       return routes.map(item => {
         if (item.children) {
