@@ -1,4 +1,4 @@
-import { defineComponent, nextTick, onMounted, ref } from "vue";
+import { defineComponent, onMounted, ref } from "vue";
 export default defineComponent({
   name: "TemplateRefs",
   meta: {
@@ -16,19 +16,22 @@ export default defineComponent({
     })
 
     // 列表渲染时，可以通过 ref 获取到每个元素的引用
-    const list = ref([1, 2, 3])
-    const listRef = ref<(HTMLDivElement | null)[]>([])
+    const list = $ref([1, 2, 3])
+    const listRef = $ref<HTMLElement[]>([])
     onMounted(() => {
-      console.log(listRef.value); // [{ value: <div> }, { value: <div> }, { value: <div> }]
+      console.log(listRef);
     })
-
-    const listEl = list.value.map((item, index) => (
-      <div ref={(el) => (listRef.value[index] = el)}>{item}</div>
-    ))
-
     return () => (
       <div>
         <input ref={inputRef} placeholder="REF" />
+        {
+          list.map((item, index) => (
+            // TODO: 为什么这样写不行？
+            <div ref={(el) => {
+              listRef.push(el)
+            }}>{item}</div>
+          ))
+        }
       </div>
     )
   }
