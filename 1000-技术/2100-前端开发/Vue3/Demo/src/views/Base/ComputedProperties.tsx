@@ -12,7 +12,7 @@ export default defineComponent({
       { name: "Carol", age: 40 },
     ])
 
-    const addUserInfo = $ref({ name: "", age: 0 })
+    const addUserInfo ={ name: "", age: 0 }
     // 平均年龄
     const averageAge = $computed(() => {
       return state.reduce((sum, person) => sum + person.age, 0) / state.length
@@ -32,8 +32,8 @@ export default defineComponent({
           <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push(toRaw(addUserInfo))
-          console.log(toRaw(addUserInfo));
+          state.push(addUserInfo)
+          console.log(addUserInfo);
 
         }}>添加</button>
       </div>
