@@ -10,8 +10,8 @@ export default defineComponent({
     let message2 = $ref("Hello Vue3");
     return () => (
       <div>
-        <div class="text-xl">message: {message}</div>
         {/* 完整写法 */}
+        <div class="text-xl">message: {message}</div>
         <input value={message} onInput={
           (e: any) => {
             console.log(e);
@@ -19,8 +19,9 @@ export default defineComponent({
             message = e.target.value
           }
         } type="text" placeholder="请输入内容" />
-        {/* 简写JSX不支持简写 */}
-        {/* <input v-mode={message2} type="text" placeholder="请输入内容" /> */}
+        {/* 简写 */}
+        <div class="text-xl">message: {message2}</div>
+        <input v-mode={message2} type="text" placeholder="请输入内容" />
       </div>
     );
 
