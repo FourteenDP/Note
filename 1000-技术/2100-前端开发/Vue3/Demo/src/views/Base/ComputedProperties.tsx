@@ -1,20 +1,19 @@
 import { unlock } from "@/utils";
 import { defineComponent } from "vue";
 
-interface Person {
-  name: string;
-  age: number;
+interface UserInfo {
+  name: string
+  age: number
 }
-
 export default defineComponent({
   name: "ComputedProperties",
   meta: {
     title: "计算属性",
   },
   setup() {
-    const state: Person[] = $ref([])
+    const state: UserInfo[] = $ref([])
 
-    const addUserInfo: Person = $ref({
+    const addUserInfo: UserInfo = $ref({
       name: '',
       age: 0
     })
@@ -34,10 +33,12 @@ export default defineComponent({
           <label class="label">
             <span class="label-text">年龄</span>
           </label>
-          <input class="input input-bordered" type="text" v-model={addUserInfo.age} />
+          <input class="input input-bordered" type="number" v-model={addUserInfo.age} />
         </div>
         <button class="btn btn-primary" onClick={() => {
-          state.push(unlock(addUserInfo))
+          state.push({ ...addUserInfo })
+          addUserInfo.name = ''
+          addUserInfo.age = 0
         }}>添加</button>
       </div>
     );
