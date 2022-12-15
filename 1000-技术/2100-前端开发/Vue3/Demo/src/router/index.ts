@@ -10,12 +10,6 @@ const routes: RouteRecordRaw[] = [
     children: [],
   },
 ]
-const files = import.meta.glob('../views/**/*.tsx')
-
-const tree = filesToTree(files)
-
-routes[0].children = await treeToRoutes(tree)
-
 const router = createRouter({
   history: createWebHistory(),
   routes,
