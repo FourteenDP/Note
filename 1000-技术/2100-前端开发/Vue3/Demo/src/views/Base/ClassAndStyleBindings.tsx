@@ -7,10 +7,15 @@ export default defineComponent({
   },
   setup() {
 
+    // class绑定对象
+    let isActive = $ref(true)
     return () => (
       <div>
-        <h2>Class绑定</h2>
-        <div class={{ active: false, textXl: true }}>class绑定对象</div>
+        <div class={{ btn: true, "btn-accent": isActive }} onClick={
+          () => {
+            isActive = !isActive
+          }
+        }>class绑定对象</div>
       </div>
     );
   },
