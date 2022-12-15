@@ -41,22 +41,15 @@ export const routes: RouteRecordRaw[] = [
 // 自动导入路由
 const files = import.meta.glob('../views/**/*.tsx')
 
-interface Module {
-  default: {
-    meta: RouteMeta,
-    name: string,
-  },
-  [key: string | number | symbol]: any
-}
+routes[0].children?.forEach((item) => {
+  Object.keys(files).forEach((key) => {
+    const path = key.replace('../views', '').replace('.tsx', '')
+    const name = path.replace('/', '').split('/')
+    console.log(name);
 
-for (const path in files) {
-  const name = path.replace(/^\.\/views\/(.*)\.tsx$/, '$1')
-  const module = files[path] as () => Promise<Module>
-  const { default: { meta, name: routeName } } = await module()
-  const route = routes.find(route => route.name === routeName)
-  console.log(routeName, route);
 
-}
+  })
+})
 
 const router = createRouter({
   history: createWebHistory(),
