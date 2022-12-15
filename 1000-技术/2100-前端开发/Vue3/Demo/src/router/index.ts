@@ -28,8 +28,6 @@ function resRoutesToTree(routers: RouteRecordRaw[], level: number = 0) {
       res.push(item)
     } else {
       const parent = res.find((i) => i.path === item.path.split('/').slice(0, level + 2).join('/'))
-      console.log('parent', parent);
-
       if (parent) {
         if (!parent.children) {
           parent.children = []
@@ -47,8 +45,6 @@ function resRoutesToTree(routers: RouteRecordRaw[], level: number = 0) {
 }
 
 export const resRoutesTree = resRoutesToTree(resRoutes)
-console.log('resRoutesTree', resRoutesTree);
-
 
 export const routes: RouteRecordRaw[] = [
   {
