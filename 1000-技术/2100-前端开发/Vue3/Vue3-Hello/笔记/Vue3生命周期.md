@@ -1,6 +1,6 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
 title: 什么是生命周期
 date created: 2022-12-15 20:05:25
 date updated: 2022-12-15 20:14:23
@@ -13,17 +13,18 @@ date updated: 2022-12-15 20:14:23
 
 ## Vue2和Vue3生命周期的对比
 
-| Vue2 | Vue3 |
-| --- | --- |
-| beforeCreate | setup |
-| created | setup |
-| beforeMount | beforeMount |
-| mounted | mounted |
-| beforeUpdate | beforeUpdate |
-| updated | updated |
-| beforeDestroy | beforeUnmount |
-| destroyed | unmounted |
-| errorCaptured | errorCaptured |
+| Vue2 | Vue3 | 说明 |
+| --- | --- | --- |
+| beforeCreate | setup |  组件实例化之前 |
+| created | setup | 组件实例化之后 |
+| beforeMount | beforeMount | 挂载之前 |
+| mounted | mounted | 挂载之后 |
+| beforeUpdate | beforeUpdate | 更新之前 |
+| updated | updated | 更新之后 |
+| beforeDestroy | beforeUnmount | 销毁之前 |
+| destroyed | unmounted | 销毁之后 |
+| errorCaptured | errorCaptured | 错误捕获 |
+
 
 
 ## 生命周期图示
