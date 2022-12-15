@@ -25,12 +25,19 @@ date updated: 2022-12-15 20:14:23
 | destroyed | unmounted | 销毁之后 |
 | errorCaptured | errorCaptured | 错误捕获 |
 
-## 开发模式生命周期钩子
+## 开发模式钩子
 
 | 钩子 | 说明 |
 | --- | --- |
 | renderTracked | 跟踪响应式数据的变化 |
+| renderTriggered | 触发响应式数据的变化 |
 
+## 页面路由钩子
+
+| 钩子 | 说明 |
+| --- | --- |
+| onActivated | 路由激活时 |
+| onDeactivated | 路由失活时 |
 
 ## 生命周期图示
 
