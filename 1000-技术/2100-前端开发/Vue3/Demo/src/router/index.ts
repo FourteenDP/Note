@@ -9,6 +9,7 @@ const addRoutes = Object.keys(modules).map(async (key) => {
   const name = path.replace('/', '')
   const component = modules[key]
   const meta = (await component() as any).default.meta
+
   return {
     path,
     name,
@@ -18,10 +19,31 @@ const addRoutes = Object.keys(modules).map(async (key) => {
 })
 
 
-Promise.all(addRoutes).then((routes) => {
-  console.log(routes)
-})
+export const resRoutes = await Promise.all(addRoutes)
 
+function resRoutesToTree() {
+  const resRoutesTree: any = []
+  resRoutes.forEach((item) => {
+    const path = item.path
+    const name = item.name
+    const meta = item.meta
+    const component = item.component
+    const pathArr = path.split('/')
+    const pathArrLen = pathArr.length
+    if (pathArrLen === 2) {
+      resRoutesTree.push({
+        path,
+        name,
+        meta,
+        component,
+      })
+    }
+  })
+  return resRoutesTree
+}
+
+export const resRoutesTree = resRoutesToTree()
+console.log('resRoutesTree', resRoutesTree);
 
 
 export const routes: RouteRecordRaw[] = [
@@ -30,34 +52,7 @@ export const routes: RouteRecordRaw[] = [
     name: 'Layout',
     component: () => import('@/layout'),
     children: [
-      {
-        path: '/Base',
-        name: 'Base',
-        meta: (await import('@/views/Base')).default.meta,
-        component: () => import('@/views/Base'),
-        children: [
-          {
-            path: '/Base/Reactivity',
-            name: 'Reactivity',
-            meta: (await import('@/views/Base/Reactivity')).default.meta,
-            component: () => import('@/views/Base/Reactivity'),
-          },
-        ]
-      },
-      {
-        path: '/Component',
-        name: 'Component',
-        meta: (await import('@/views/Component')).default.meta,
-        component: () => import('@/views/Component'),
-        children: [
-          {
-            path: '/Component/ComponentRegistration',
-            name: 'ComponentRegistration',
-            meta: (await import('@/views/Component/ComponentRegistration')).default.meta,
-            component: () => import('@/views/Component/ComponentRegistration'),
-          },
-        ]
-      },
+      ...resRoutes,
     ],
   },
 ]
