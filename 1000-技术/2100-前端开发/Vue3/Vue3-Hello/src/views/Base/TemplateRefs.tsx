@@ -12,13 +12,23 @@ export default defineComponent({
     onMounted(() => {
       // 在 mounted 时，获取该元素的引用
       // 通过 ref.value 获取
-      nextTick(() => {
-        console.log(inputRef);
-      })
+      console.log(inputRef.value); // { value: <input> }
     })
+
+    // 列表渲染时，可以通过 ref 获取到每个元素的引用
+    const list = ref([1, 2, 3])
+    const listRef = ref<(HTMLDivElement | null)[]>([])
+    onMounted(() => {
+      console.log(listRef.value); // [{ value: <div> }, { value: <div> }, { value: <div> }]
+    })
+
+    const listEl = list.value.map((item, index) => (
+      <div ref={(el) => (listRef.value[index] = el)}>{item}</div>
+    ))
+
     return () => (
       <div>
-        <input ref="inputRef" />
+        <input ref={inputRef} placeholder="REF" />
       </div>
     )
   }
