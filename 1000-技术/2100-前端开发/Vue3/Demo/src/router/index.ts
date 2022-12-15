@@ -9,40 +9,41 @@ const routes: RouteRecordRaw[] = [
   },
 ]
 
-
-const router = createRouter({
-  history: createWebHistory(),
-  routes,
-})
-
 // 自动导入路由
-const files = import.meta.glob('../views/**/*.tsx')
-Object.keys(files).forEach(async (key) => {
-  const path = key.replace('../views', '').replace('.tsx', '')
-  const name = path.replace('/', '').split('/')
-  const meta = ((await files[key]()) as any).default.meta as RouteMeta
-  if (name.length === 1) {
-    routes[0].children?.push({
-      path,
-      name: name[0],
-      meta,
-      component: files[key],
-      children: [],
+function autoImportRoutes() {
+  return new Promise(async (resolve) => {
+    const files = import.meta.glob('../views/**/*.tsx')
+    await Object.keys(files).forEach(async (key) => {
+      const path = key.replace('../views', '').replace('.tsx', '')
+      const name = path.replace('/', '').split('/')
+      const meta = ((await files[key]()) as any).default.meta as RouteMeta
+      if (name.length === 1) {
+        routes[0].children?.push({
+          path,
+          name: name[0],
+          meta,
+          component: files[key],
+          children: [],
+        })
+      } else {
+        const parent = routes[0].children?.find((item) => item.name === name[0])
+        if (parent) {
+          parent.children?.push({
+            path,
+            name: name[1],
+            meta,
+            component: files[key],
+          })
+        }
+      }
     })
-    router.addRoute(routes[0])
-  } else {
-    const parent = routes[0].children?.find((item) => item.name === name[0])
-    if (parent) {
-      parent.children?.push({
-        path,
-        name: name[1],
-        meta,
-        component: files[key],
-      })
-      router.addRoute(parent)
-      console.log(router.getRoutes());
+    resolve(createRouter({
+      history: createWebHistory(),
+      routes,
+    }))
+  })
+}
+const router = await autoImportRoutes()
+console.log('router', router);
 
-    }
-  }
-})
 export default router
