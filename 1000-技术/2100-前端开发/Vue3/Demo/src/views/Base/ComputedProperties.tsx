@@ -1,18 +1,20 @@
 import { unlock } from "@/utils";
 import { defineComponent } from "vue";
+
+interface Person {
+  name: string;
+  age: number;
+}
+
 export default defineComponent({
   name: "ComputedProperties",
   meta: {
     title: "计算属性",
   },
   setup() {
-    const state = $ref([
-      { name: "Alice", age: 20 },
-      { name: "Bob", age: 30 },
-      { name: "Carol", age: 40 },
-    ])
+    const state: Person[] = $ref([])
 
-    const addUserInfo = $ref({
+    const addUserInfo: Person = $ref({
       name: '',
       age: 0
     })
