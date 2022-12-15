@@ -1,4 +1,4 @@
-import { defineComponent } from "vue";
+import { computed, defineComponent, ref } from "vue";
 
 export default defineComponent({
   name: "Reactivity",
@@ -6,11 +6,12 @@ export default defineComponent({
     title: "响应式",
   },
   setup() {
-    let count = $ref(0);
-    const double = $computed(() => count * 2);
+    const count = ref(0);
+    const double = computed(() => count.value * 2);
     const increment = () => {
-      count++;
+      count.value++;
     }
+
     return () => (
       <div>
         <p>count is: {count}</p>
