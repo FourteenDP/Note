@@ -43,6 +43,11 @@ export default defineComponent({
       console.log(`立即执行: ${oldVal} -> ${newVal}`)
     }, { immediate: true })
 
+    // 后置回调DOM更新之后执行
+    watch(count, (newVal, oldVal) => {
+      console.log(`后置回调DOM更新之后执行: ${oldVal} -> ${newVal}`)
+    }, { flush: 'post' })
+
     return () => (
       <div>
         <div class="text-xl">count: {count.value}</div>
