@@ -22,23 +22,28 @@ date updated: 2022-12-13 14:23:06
 
 总的来说，公共的用 interface 实现，不能用 interface 实现的再用 type 实现。主要是一个项目最好保持一致。
 
-### type计算属性
+### type 支持计算属性，生成映射类型,interface 不支持
 
 ```ts
-type Person = {
-  name: string;
-  age: number;
+// type 支持计算属性，生成映射类型
+type Keys = 'a' | 'b';
+
+type Obj = {
+  [p in Keys]: any;
 };
 
-type ReadonlyPerson = {
-  readonly [P in keyof Person]: Person[P];
+const obj: Obj = {
+  a: 1,
+  b: 2,
 };
 
-type PartialPerson = {
-  [P in keyof Person]?: Person[P];
-};
+// interface 不支持
+interface Obj2 {
+  [p in Keys]: any;
+}
 
-type PickPerson = {
-  [P in 'name' | 'age']: Person[P];
+const obj2: Obj2 = {
+  a: 1,
+  b: 2,
 };
 ```
