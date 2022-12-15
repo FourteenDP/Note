@@ -1,5 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
-type RouteRecordRaw = import('vue-router').RouteRecordRaw
+import { createRouter, createWebHistory, RouteMeta, RouteRecordRaw } from 'vue-router'
 
 export const routes: RouteRecordRaw[] = [
   {
@@ -42,9 +41,18 @@ export const routes: RouteRecordRaw[] = [
 // 自动导入路由
 const files = import.meta.glob('../views/**/*.tsx')
 
+interface Module {
+  default: {
+    meta: RouteMeta,
+    name: string,
+  },
+  [key: string | number | symbol]: any
+}
+
 for (const path in files) {
-  const module = (await files[path]())
-  console.log(module);
+  const module = (await files[path]()) as Module
+  const component = module.default
+  console.log(component);
 
 }
 
