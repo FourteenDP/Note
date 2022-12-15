@@ -4,31 +4,34 @@ title: void和never区别
 
 ## void和never区别
 
-### void
+- void表示没有任何类型，一般用于函数没有返回值的情况
+  - viod 只能赋值为 undefined ~~和 null~~
+  - null 在严格模式下是不能赋值给 void 的
+  - null 转换成`0`
+- never表示永远不会有返回值的类型，一般用于函数抛出异常或者无限循环
+  - never 是真的永远不会有返回值，所以不能赋值给其他类型
 
-`void` 表示没有任何类型，一般用于函数没有返回值的情况。
+## CODE
 
 ```ts
-function warnUser(): void {
-  console.log("This is my warning message");
+let unusable: void = undefined;
+// let unusable: void = null; // Error
+// let unusable: void = 0; // Error
+
+let ner: never
+// ner = 0; // Error
+// ner = undefined; // Error
+// ner = null; // Error
+
+function add(a: number, b: number): void {
+  if(!a || !b) return undefined;
 }
-```
 
-### never
-
-`never` 表示永不存在的值的类型，一般用于函数抛出异常或无法执行到终止点（例如无限循环）的情况。
-
-```ts
 function error(message: string): never {
   throw new Error(message);
 }
-```
 
-### 区别
-
-`void` 可以赋值给任何类型，`never` 不能赋值给任何类型。
-
-```ts
-let v: void = undefined || null;
-let n: never = undefined; // Error
+function infiniteLoop(): never {
+  while (true) {}
+}
 ```
