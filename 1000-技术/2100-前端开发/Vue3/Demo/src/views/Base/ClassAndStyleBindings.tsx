@@ -13,7 +13,9 @@ export default defineComponent({
     const swapText = $computed(() => isActive ? "Active" : "Inactive")
     return () => (
       <div>
-        <div class={{ btn: true, "btn-secondary": isActive }} onClick={
+        <div class={[{ "btn-secondary": isActive }, 'btn']} style={{
+          color: isActive ? "red" : "blue",
+        }} onClick={
           () => {
             isActive = !isActive
           }
