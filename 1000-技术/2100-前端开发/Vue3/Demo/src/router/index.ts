@@ -22,31 +22,26 @@ Object.keys(files).forEach(async (key) => {
   const name = path.replace('/', '').split('/')
   const meta = ((await files[key]()) as any).default.meta as RouteMeta
   if (name.length === 1) {
-    // routes[0].children?.push({
-    //   path,
-    //   name: name[0],
-    //   meta,
-    //   component: files[key],
-    //   children: [],
-    // })
-    router.addRoute('/', {
+    routes[0].children?.push({
       path,
       name: name[0],
       meta,
       component: files[key],
       children: [],
     })
-    console.log(router.getRoutes());
-
+    router.addRoute(routes[0])
   } else {
     const parent = routes[0].children?.find((item) => item.name === name[0])
     if (parent) {
-      // parent.children?.push({
-      //   path,
-      //   name: name[1],
-      //   meta,
-      //   component: files[key],
-      // })
+      parent.children?.push({
+        path,
+        name: name[1],
+        meta,
+        component: files[key],
+      })
+      router.addRoute(parent)
+      console.log(router.getRoutes());
+
     }
   }
 })
