@@ -8,6 +8,7 @@ export default defineComponent({
   name: "Layout",
   setup() {
     const route = useRouter()
+    console.log(route.getRoutes());
 
     const getMneus = (routes: RouteRecordRaw[]) => {
       return routes.map(item => {
