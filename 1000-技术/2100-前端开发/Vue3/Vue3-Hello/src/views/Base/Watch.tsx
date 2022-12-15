@@ -58,7 +58,7 @@ export default defineComponent({
       console.log(`异步回调DOM更新之前执行: ${oldVal} -> ${newVal}`)
     }, { flush: 'pre' })
 
-    // watchEffect
+    // watchEffect 监听立即执行
     watchEffect(() => {
       console.log(`watchEffect: ${count.value} ${state.count}`)
     })
