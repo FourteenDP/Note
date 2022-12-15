@@ -7,7 +7,6 @@ export default defineComponent({
     title: "响应式",
   },
   setup() {
-    // reactive() 方法返回一个响应式的代理对象
     const state = reactive({ count: 0 })
     console.log(state);
 
@@ -15,7 +14,6 @@ export default defineComponent({
       state.count++
     }
 
-    // ref() 方法返回一个响应式的代理对象
     const count = ref(0)
     return () => (
       <div>
