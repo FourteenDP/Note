@@ -1,4 +1,5 @@
-import { computed, defineComponent, ref } from "vue";
+import { defineComponent, reactive } from "vue";
+
 
 export default defineComponent({
   name: "Reactivity",
@@ -6,17 +7,16 @@ export default defineComponent({
     title: "响应式",
   },
   setup() {
-    const count = ref(0);
-    const double = computed(() => count.value * 2);
-    const increment = () => {
-      count.value++;
+    const state = reactive({ count: 0 })
+    function increment() {
+      state.count++
     }
+
 
     return () => (
       <div>
-        <p>count is: {count}</p>
-        <p>double is: {double}</p>
-        <button onClick={increment}>increment</button>
+        <div class="text-xl">count: {state.count}</div>
+        <button class="btn btn-primary" onClick={increment}>+1</button>
       </div>
     );
   },
