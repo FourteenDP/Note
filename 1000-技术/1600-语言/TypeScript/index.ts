@@ -48,3 +48,30 @@ b.age; // error
 
 b.toString();
 b.valueOf();
+
+// any可以作为函数的参数
+function fn1(a: any) {
+  a();
+}
+
+// unknown只能作为any和unknown的参数
+function fn2(a: unknown) {
+  a(); // error
+}
+
+function fn3(a: any) {
+  a();
+}
+
+// 使用unknown需要先判断类型
+if (typeof b === 'string') {
+  b.trim();
+}
+
+if (typeof b === 'number') {
+  b.toFixed(2);
+}
+
+if (typeof b === 'boolean') {
+  b.valueOf();
+}
