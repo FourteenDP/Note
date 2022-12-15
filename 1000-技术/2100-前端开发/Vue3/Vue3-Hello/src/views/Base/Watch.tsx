@@ -1,4 +1,4 @@
-import { defineComponent, reactive, ref, watch } from "vue";
+import { defineComponent, reactive, ref, watch, watchEffect } from "vue";
 
 export default defineComponent({
   name: "Watch",
@@ -47,6 +47,21 @@ export default defineComponent({
     watch(count, (newVal, oldVal) => {
       console.log(`后置回调DOM更新之后执行: ${oldVal} -> ${newVal}`)
     }, { flush: 'post' })
+
+    // 同步回调DOM更新之前执行
+    watch(count, (newVal, oldVal) => {
+      console.log(`同步回调DOM更新之前执行: ${oldVal} -> ${newVal}`)
+    }, { flush: 'sync' })
+
+    // 异步回调DOM更新之前执行
+    watch(count, (newVal, oldVal) => {
+      console.log(`异步回调DOM更新之前执行: ${oldVal} -> ${newVal}`)
+    }, { flush: 'pre' })
+
+    // watchEffect
+    watchEffect(() => {
+      console.log(`watchEffect: ${count.value}`)
+    })
 
     return () => (
       <div>
