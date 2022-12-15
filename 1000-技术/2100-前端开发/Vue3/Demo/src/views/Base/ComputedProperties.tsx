@@ -21,6 +21,7 @@ export default defineComponent({
     const averageAge = $computed(() => {
       return state.reduce((sum, person) => sum + person.age, 0) / state.length
     })
+
     return () => (
       <div>
         <div class="text-xl">平均年龄: {averageAge}</div>
