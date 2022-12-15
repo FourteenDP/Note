@@ -12,31 +12,36 @@ export default defineComponent({
     }
     // 监听ref count的变化
     watch(count, (newVal, oldVal) => {
-      console.log(`count changed: ${oldVal} -> ${newVal}`)
+      console.log(`监听ref: ${oldVal} -> ${newVal}`)
     })
 
     // 监听reactive count的变化
     const state = reactive({ count: 0 })
     watch(() => state.count, (newVal, oldVal) => {
-      console.log(`state.count changed: ${oldVal} -> ${newVal}`)
+      console.log(`监听reactive: ${oldVal} -> ${newVal}`)
     })
     // 监听多个值
     watch([() => state.count, count], ([newVal1, newVal2], [oldVal1, oldVal2]) => {
-      console.log(`state.count changed: ${oldVal1} -> ${newVal1}`)
-      console.log(`count changed: ${oldVal2} -> ${newVal2}`)
+      console.log(`监听多个值1: ${oldVal1} -> ${newVal1}`)
+      console.log(`监听多个值2: ${oldVal2} -> ${newVal2}`)
     })
 
     // 深度监听
     const deepState = reactive({ count: 0, obj: { a: 1 } })
     watch(deepState, (newVal, oldVal) => {
-      console.log(`deepState changed: ${oldVal} -> ${newVal}`)
+      console.log(`深度监听: ${oldVal} -> ${newVal}`)
     }, { deep: true })
 
     // getter 监听
     const getterState = reactive({ count: 0 })
     watch(() => getterState.count + 10, (newVal, oldVal) => {
-      console.log(`getterState changed: ${oldVal} -> ${newVal}`)
+      console.log(`getter 监听: ${oldVal} -> ${newVal}`)
     })
+
+    // 立即执行
+    watch(count, (newVal, oldVal) => {
+      console.log(`立即执行: ${oldVal} -> ${newVal}`)
+    }, { immediate: true })
 
     return () => (
       <div>
