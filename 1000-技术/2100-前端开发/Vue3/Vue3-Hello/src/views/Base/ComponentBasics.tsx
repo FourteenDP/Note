@@ -45,7 +45,7 @@ const ChildComponent = defineComponent({
         <div class="display">
           <div class="artboard artboard-demo phone-1">
             我是子组件
-            <h2>{props.msg}</h2>
+            <h2>我是父组件的数值:{props.msg}</h2>
             <div class="text-center">
               <button class="btn btn-primary" onClick={() => count++}>点击我</button>
               <div class="mt-2">
