@@ -1,4 +1,5 @@
-import { defineComponent, onMounted, ref } from "vue";
+import { ComponentOptionsBase, ComponentPublicInstance, defineComponent, onMounted, ref } from "vue";
+type EL = ComponentPublicInstance<{}, {}, {}, {}, {}, {}, {}, {}, false, ComponentOptionsBase<any, any, any, any, any, any, any, any, any, {}, {}, string>, {}> | Element | null
 export default defineComponent({
   name: "TemplateRefs",
   meta: {
@@ -17,7 +18,8 @@ export default defineComponent({
 
     // 列表渲染时，可以通过 ref 获取到每个元素的引用
     const list = $ref([1, 2, 3])
-    const listRef = $ref<HTMLElement[]>([])
+    const listRef = $ref<EL[]>([])
+
     onMounted(() => {
       console.log(listRef);
     })
@@ -25,10 +27,9 @@ export default defineComponent({
       <div>
         <input ref={inputRef} placeholder="REF" />
         {
-          list.map((item, index) => (
-            // TODO: 为什么这样写不行？
+          list.map((item: number, index: number) => (
             <div ref={(el) => {
-              listRef.push(el)
+              listRef[index] = el
             }}>{item}</div>
           ))
         }
