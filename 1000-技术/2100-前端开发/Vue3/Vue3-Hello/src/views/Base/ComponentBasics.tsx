@@ -1,4 +1,4 @@
-import { defineComponent } from "vue";
+import { defineComponent, PropType } from "vue";
 
 export default defineComponent({
   name: 'ComponentBasics',
@@ -24,17 +24,16 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg="我是父组件传过去的消息" />
+        <ChildComponent msg={count} />
       </div>
     );
   },
 });
-
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
   props: {
     msg: {
-      type: String,
+      type: [String, Number] as PropType<string | number>,
       default: ''
     }
   },
