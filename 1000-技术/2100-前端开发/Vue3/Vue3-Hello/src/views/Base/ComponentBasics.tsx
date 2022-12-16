@@ -35,7 +35,6 @@ const ChildComponent = defineComponent({
   setup() {
     const props = defineProps<{ count: number }>();
 
-    let count = $ref(0);
     return () => <div>
       <div class="mockup-phone">
         <div class="camera"></div>
@@ -46,7 +45,7 @@ const ChildComponent = defineComponent({
               <button class="btn btn-primary" onClick={() => count++}>点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
-                <span>{count}</span>
+                <span>{props}</span>
               </div>
             </div>
           </div>
