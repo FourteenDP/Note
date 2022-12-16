@@ -6,7 +6,15 @@ export default defineComponent({
     title: '组件基础',
   },
   setup() {
-    return () => <div>
+    return () => <div class={['flex']}>
+      <div class="mockup-phone">
+        <div class="camera"></div>
+        <div class="display">
+          <div class="artboard artboard-demo phone-1">
+            我是父组件
+          </div>
+        </div>
+      </div>
       <A />
     </div>;
   },
@@ -15,6 +23,15 @@ export default defineComponent({
 const A = defineComponent({
   name: 'A',
   setup() {
-    return () => <div>B</div>;
+    return () => <div>
+      <div class="mockup-phone">
+        <div class="camera"></div>
+        <div class="display">
+          <div class="artboard artboard-demo phone-1">
+            我是子组件
+          </div>
+        </div>
+      </div>
+    </div>;
   },
 });
