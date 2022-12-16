@@ -24,7 +24,7 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg="我是父组件传过来的标题" />
+        <ChildComponent />
       </div>
     );
   },
@@ -36,11 +36,9 @@ interface Props {
 
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
-  setup(props: Props) {
+  setup() {
+    const props = defineProps<Props>();
     console.log(props.msg);
-
-    // const props = defineProps<Props>();
-    // console.log(props.msg);
 
 
     let count = $ref(0);
