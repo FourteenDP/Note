@@ -31,7 +31,7 @@ export default defineComponent({
 });
 
 interface Props {
-  msg: string;
+  msg?: string;
 }
 
 const ChildComponent = defineComponent({
