@@ -24,7 +24,7 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent />
+        <ChildComponent msg="我是父组件传过来的标题" />
       </div>
     );
   },
@@ -36,9 +36,11 @@ interface Props {
 
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
-  setup() {
-    const props = defineProps<Props>();
+  setup(props: Props) {
     console.log(props.msg);
+
+    // const props = defineProps<Props>();
+    // console.log(props.msg);
 
 
     let count = $ref(0);
@@ -48,6 +50,7 @@ const ChildComponent = defineComponent({
         <div class="display">
           <div class="artboard artboard-demo phone-1">
             我是子组件
+            <h2>{props.msg}</h2>
             <div class="text-center">
               <button class="btn btn-primary" onClick={() => count++}>点击我</button>
               <div class="mt-2">
