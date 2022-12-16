@@ -1,4 +1,4 @@
-import { defineComponent, defineProps } from "vue";
+import { defineComponent } from "vue";
 
 export default defineComponent({
   name: 'ComponentBasics',
@@ -30,10 +30,18 @@ export default defineComponent({
   },
 });
 
+interface Props {
+  msg: string;
+}
+
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
   setup() {
-    const props = defineProps<{ count: number }>();
+    const props = defineProps<Props>();
+    console.log(props.msg);
+
+
+    let count = $ref(0);
     return () => <div>
       <div class="mockup-phone">
         <div class="camera"></div>
@@ -41,10 +49,10 @@ const ChildComponent = defineComponent({
           <div class="artboard artboard-demo phone-1">
             我是子组件
             <div class="text-center">
-              <button class="btn btn-primary">点击我</button>
+              <button class="btn btn-primary" onClick={() => count++}>点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
-                <span>{props.count}</span>
+                <span>{count}</span>
               </div>
             </div>
           </div>
