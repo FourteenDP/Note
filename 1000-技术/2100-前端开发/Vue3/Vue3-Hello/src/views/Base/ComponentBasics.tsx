@@ -16,14 +16,14 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <A />
+        <ChildComponent />
       </div>
     );
   },
 });
 
-const A = defineComponent({
-  name: 'A',
+const ChildComponent = defineComponent({
+  name: 'ChildComponent',
   setup() {
     return () => <div>
       <div class="mockup-phone">
