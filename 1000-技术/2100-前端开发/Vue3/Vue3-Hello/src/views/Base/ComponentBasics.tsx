@@ -35,7 +35,7 @@ const ChildComponent = defineComponent({
     msg: {
       type: [String, Number] as PropType<string | number>,
       default: ''
-    }
+    },
   },
   emits: ['update:msg'],
   setup(props, { emit }) {
