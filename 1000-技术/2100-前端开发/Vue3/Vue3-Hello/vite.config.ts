@@ -6,7 +6,10 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 export default defineConfig({
   plugins: [vue({
     reactivityTransform: true
-  }), vueJsx()],
+  }), vueJsx({
+    enableObjectSlots: true,
+    transformOn: true
+  })],
   resolve: {
     alias: {
       '~': '/',
