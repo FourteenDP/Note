@@ -24,7 +24,7 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} />
+        <ChildComponent msg={count}/>
       </div>
     );
   },
@@ -38,8 +38,13 @@ const ChildComponent = defineComponent({
     }
   },
   emits: ['update:msg'],
-  setup(props) {
+  setup(props, { emit }) {
     let count = $ref(0);
+
+    const updateMsg = (val: string | number) => {
+      emit('update:msg', val);
+    };
+
     return () => <div>
       <div class="mockup-phone">
         <div class="camera"></div>
@@ -48,7 +53,12 @@ const ChildComponent = defineComponent({
             我是子组件
             <h2>我是父组件的数值:{props.msg}</h2>
             <div class="text-center">
-              <button class="btn btn-primary" onClick={() => count++}>点击我</button>
+              <button class="btn btn-primary" onClick={
+                () => {
+                  count++;
+                  updateMsg(count);
+                }
+              }>点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
                 <span>{count}</span>
