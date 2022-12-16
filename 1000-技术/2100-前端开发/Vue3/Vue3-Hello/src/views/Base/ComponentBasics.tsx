@@ -24,7 +24,7 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count}/>
+        <ChildComponent msg={count} />
       </div>
     );
   },
