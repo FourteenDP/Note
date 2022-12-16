@@ -24,7 +24,11 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} />
+        <ChildComponent msg={count} onUpdate={
+          (val: string | number) => {
+            console.log(val);
+          }
+        } />
       </div>
     );
   },
@@ -37,12 +41,12 @@ const ChildComponent = defineComponent({
       default: ''
     },
   },
-  emits: ['update:msg'],
+  emits: ['onUpdate'],
   setup(props, { emit }) {
     let count = $ref(0);
 
     const updateMsg = (val: string | number) => {
-      emit('update:msg', val);
+      emit('onUpdate', val);
     };
 
     return () => <div>
