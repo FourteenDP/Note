@@ -24,21 +24,27 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent />
+        <ChildComponent msg="我是父组件传过去的标题" />
       </div>
     );
   },
 });
 
-interface Props {
+type Props = {
   msg?: string;
 }
 
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
-  setup() {
-    const props = defineProps<Props>();
-    console.log(props.msg);
+  props: {
+    msg: {
+      type: String,
+      default: ''
+    }
+  },
+  setup(props) {
+    console.log(props);
+
 
 
     let count = $ref(0);
