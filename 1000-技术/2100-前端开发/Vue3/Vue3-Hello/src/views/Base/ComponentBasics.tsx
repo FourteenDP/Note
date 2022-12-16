@@ -33,6 +33,8 @@ export default defineComponent({
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
   setup() {
+    const props = defineProps<{ count: number }>();
+
     let count = $ref(0);
     return () => <div>
       <div class="mockup-phone">
