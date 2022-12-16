@@ -37,6 +37,7 @@ const ChildComponent = defineComponent({
       default: ''
     }
   },
+  emits: ['update:msg'],
   setup(props) {
     let count = $ref(0);
     return () => <div>
