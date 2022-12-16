@@ -24,15 +24,11 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg="我是父组件传过去的标题" />
+        <ChildComponent msg="我是父组件传过去的消息" />
       </div>
     );
   },
 });
-
-type Props = {
-  msg?: string;
-}
 
 const ChildComponent = defineComponent({
   name: 'ChildComponent',
@@ -43,10 +39,6 @@ const ChildComponent = defineComponent({
     }
   },
   setup(props) {
-    console.log(props);
-
-
-
     let count = $ref(0);
     return () => <div>
       <div class="mockup-phone">
