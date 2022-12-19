@@ -43,7 +43,13 @@ const ChildComponent = defineComponent({
     const updateMsg = (val: string | number) => {
       emit('onUpdate', val);
     };
+    const on = {
+      onClick: () => {
+        count++;
+        updateMsg(count);
+      }
 
+    }
     return () => <div>
       <div class="mockup-phone">
         <div class="camera"></div>
@@ -57,15 +63,16 @@ const ChildComponent = defineComponent({
                   count++;
                   updateMsg(count);
                 }
+
               }>点击我</button>
-              <div class="mt-2">
-                <span>点击次数：</span>
-                <span>{count}</span>
-              </div>
+            <div class="mt-2">
+              <span>点击次数：</span>
+              <span>{count}</span>
             </div>
           </div>
         </div>
       </div>
-    </div>;
+    </div>
+    </div >;
   },
 });
