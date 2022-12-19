@@ -167,4 +167,5 @@ import './index.css'
 - [pinia](https://pinia.esm.dev/)
 - [vue-router](https://next.router.vuejs.org/zh/)
 - [daisui](https://daisyui.com/)
-- 
+- [tailwindcss](https://tailwindcss.com/)
+- [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)
