@@ -12,9 +12,5 @@ declare module 'vue-router' {
 }
 
 declare module 'vue' {
-  interface HTMLAttributes {
-    on?: {
-      [key: string]: (e: Event) => void
-    }
-  }
+
 }

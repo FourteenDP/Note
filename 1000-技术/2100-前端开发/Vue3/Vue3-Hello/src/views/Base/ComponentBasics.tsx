@@ -24,13 +24,9 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} on={
-          {
-            update: (val: string | number) => {
-              count = val;
-            }
-          }
-        } />
+        <ChildComponent msg={count} onUpdate={(val) => {
+          count = val;
+        }} />
       </div>
     );
   },
@@ -71,12 +67,6 @@ const ChildComponent = defineComponent({
                 }
 
               }
-                on={{
-                  click: () => {
-                    count++;
-                    updateMsg(count);
-                  },
-                }}
               >点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
