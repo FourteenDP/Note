@@ -1,4 +1,5 @@
 import { defineComponent, PropType } from "vue";
+import { ReactiveVariable } from "vue/macros";
 
 export default defineComponent({
   name: 'ComponentBasics',
@@ -41,19 +42,13 @@ const ChildComponent = defineComponent({
       default: ''
     },
   },
-  emits: ['update:childCount'],
+  emits: ['update'],
   setup(props, { emit }) {
     let count = $ref(0);
 
     const updateMsg = (val: string | number) => {
-      emit('update:childCount', val);
+      emit('update', val);
     };
-    const on = {
-      click: () => {
-        count++;
-        updateMsg(count);
-      }
-    }
     return () => <div>
       <div class="mockup-phone">
         <div class="camera"></div>
