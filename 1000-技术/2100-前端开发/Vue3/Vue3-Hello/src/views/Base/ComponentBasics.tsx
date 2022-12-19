@@ -24,11 +24,13 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} onUpdate={
-          (val: string | number) => {
-            console.log(val);
-          }
-        } />
+        <ChildComponent msg={count} onUpdate:msg={(val) => {
+          console.log('我是父组件的回调函数', val);
+          count = val;
+        }} >
+          {/* 插槽 */}
+          <div v-slots="header">我是插槽</div>
+        </ChildComponent>
       </div>
     );
   },
@@ -41,12 +43,12 @@ const ChildComponent = defineComponent({
       default: ''
     },
   },
-  emits: ['onUpdate'],
-  setup(props, { emit }) {
+  emits: ['update:msg'],
+  setup(props, { emit, slots }) {
     let count = $ref(0);
 
     const updateMsg = (val: string | number) => {
-      emit('onUpdate', val);
+      emit('update:msg', val);
     };
 
     return () => <div>
@@ -62,7 +64,7 @@ const ChildComponent = defineComponent({
                   count++;
                   updateMsg(count);
                 }
-              }>点击我</button>
+              }>点击我传递给父组件</button>
               <div class="mt-2">
                 <span>点击次数：</span>
                 <span>{count}</span>
