@@ -34,16 +34,14 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} onUpdate={(val) => {
+        <ChildComponent  msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
-        <ChildComponentSlot on={{
-            'update': (val: string | number) => {}
-          }} v-slots={{
-          default: () => <div>我是插槽内容Default</div>,
-          header: () => <div>我是插槽内容Header</div>,
-          footer: () => <div>我是插槽内容Footer</div>,
-        }} >
+        <ChildComponentSlot v-slots={{
+            default: () => <div>我是插槽内容Default</div>,
+            header: () => <div>我是插槽内容Header</div>,
+            footer: () => <div>我是插槽内容Footer</div>,
+          }} >
         </ChildComponentSlot>
 
       </div>
