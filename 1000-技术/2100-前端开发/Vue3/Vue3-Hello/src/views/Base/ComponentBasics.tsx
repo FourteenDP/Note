@@ -19,14 +19,18 @@ export default defineComponent({
               我是父组件
               <h2>我是子组件的数值:{childCount}</h2>
               <div class="text-center">
-                <button class="btn btn-primary" onClick={() => count++}>点击我</button>
+                <button class="btn btn-primary" onClick={() => count++} on={{
+                  click: () => {
+                    console.log('click');
+                  },
+                }}>点击我</button>
                 <div class="mt-2">
                   <span>点击次数：</span>
                   <span>{count}</span>
                 </div>
               </div>
               <h2>动态组件</h2>
-              <component is={ChildComponent} ></component>
+              {/* <component is={ChildComponent} ></component> */}
             </div>
           </div>
         </div>
