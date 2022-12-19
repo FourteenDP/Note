@@ -57,13 +57,7 @@ const ChildComponent = defineComponent({
             我是子组件
             <h2>我是父组件的数值:{props.msg}</h2>
             <div class="text-center">
-              <button class="btn btn-primary" onClick={
-                () => {
-                  count++;
-                  updateMsg(count);
-                }
-
-              }
+              <button class="btn btn-primary" onClick={() => { count++; updateMsg(count)}}
               >点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
@@ -76,3 +70,5 @@ const ChildComponent = defineComponent({
     </div >;
   },
 });
+
+const ChildComponentSt
