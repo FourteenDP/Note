@@ -80,6 +80,7 @@ const ChildComponent = defineComponent({
 
 const ChildComponentSlot = defineComponent({
   name: 'ChildComponentSlot',
+  emits: ['update'],
   setup(_, { slots }) {
     return () => <div>
       <div class="mockup-phone">
