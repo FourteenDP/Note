@@ -30,6 +30,10 @@ export default defineComponent({
         <ChildComponent msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
+        <ChildComponentSlot>
+          <div>我是插槽内容</div>
+        </ChildComponentSlot>
+
       </div>
     );
   },
@@ -57,7 +61,7 @@ const ChildComponent = defineComponent({
             我是子组件
             <h2>我是父组件的数值:{props.msg}</h2>
             <div class="text-center">
-              <button class="btn btn-primary" onClick={() => { count++; updateMsg(count)}}
+              <button class="btn btn-primary" onClick={() => { count++; updateMsg(count) }}
               >点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
@@ -71,4 +75,21 @@ const ChildComponent = defineComponent({
   },
 });
 
-const ChildComponentSt
+const ChildComponentSlot = defineComponent({
+  name: 'ChildComponentSlot',
+  setup(_, { slots }) {
+    return () => <div>
+      <div class="mockup-phone">
+        <div class="camera"></div>
+        <div class="display">
+          <div class="artboard artboard-demo phone-1">
+            我是插槽子组件
+            <div>
+              {slots.default && slots.default()}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div >;
+  },
+});
