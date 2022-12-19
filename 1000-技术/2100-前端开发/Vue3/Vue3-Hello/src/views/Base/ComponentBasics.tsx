@@ -9,7 +9,11 @@ export default defineComponent({
   setup() {
     let count = $ref(0);
     let childCount = $ref(0);
-
+    const tabs = $ref([
+      { label: '基础用法', name: 'base' },
+      { label: '动态组件', name: 'dynamic' },
+      { label: '插槽', name: 'slot' },
+    ]);
     return () => (
       <div class='flex'>
         <div class="mockup-phone">
@@ -30,7 +34,7 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} onUpdate={(val) => {
+        {/* <ChildComponent msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
         <ChildComponentSlot v-slots={{
@@ -38,7 +42,9 @@ export default defineComponent({
           header: () => <div>我是插槽内容Header</div>,
           footer: () => <div>我是插槽内容Footer</div>,
         }} >
-        </ChildComponentSlot>
+        </ChildComponentSlot> */}
+
+
 
       </div>
     );
