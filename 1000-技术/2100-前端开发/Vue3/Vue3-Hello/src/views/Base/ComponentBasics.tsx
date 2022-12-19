@@ -24,7 +24,13 @@ export default defineComponent({
             </div>
           </div>
         </div>
-        <ChildComponent msg={count} />
+        <ChildComponent msg={count} on={
+          {
+            update: (val: string | number) => {
+              count = val;
+            }
+          }
+        } />
       </div>
     );
   },
@@ -37,11 +43,12 @@ const ChildComponent = defineComponent({
       default: ''
     },
   },
+  emits: ['update'],
   setup(props, { emit }) {
     let count = $ref(0);
 
     const updateMsg = (val: string | number) => {
-      emit('onUpdate', val);
+      emit('update', val);
     };
     const on = {
       click: () => {
@@ -64,12 +71,12 @@ const ChildComponent = defineComponent({
                 }
 
               }
-              on={{
-                click: () => {
-                  count++;
-                  updateMsg(count);
-                }
-              }}
+                on={{
+                  click: () => {
+                    count++;
+                    updateMsg(count);
+                  },
+                }}
               >点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
