@@ -12,10 +12,7 @@ declare module 'vue-router' {
 }
 
 declare module 'vue' {
-  interface AriaAttributes {
-    "v-slots"?: string,
-    "v-show"?: string,
-    "v-model"?: string,
-    "v-model:xxx"?: string,
+  interface Events {
+    on?: EventHandlers<Events>
   }
 }
