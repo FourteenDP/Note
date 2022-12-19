@@ -15,7 +15,11 @@ export default defineComponent({
             <div class="artboard artboard-demo phone-1">
               我是父组件
               <div class="text-center">
-                <button class="btn btn-primary" onClick={() => count++}>点击我</button>
+                <button class="btn btn-primary" on={{
+                  click: () => {
+                    count++;
+                  }
+                }}>点击我</button>
                 <div class="mt-2">
                   <span>点击次数：</span>
                   <span>{count}</span>
@@ -46,7 +50,7 @@ const ChildComponent = defineComponent({
   emits: ['update:msg'],
   setup(props, { emit, slots }) {
     let count = $ref(0);
-
+    slots.header && console.log(slots.header());
     const updateMsg = (val: string | number) => {
       emit('update:msg', val);
     };

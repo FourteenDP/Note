@@ -4,12 +4,14 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [vue({
-    reactivityTransform: true
-  }), vueJsx({
-    enableObjectSlots: true,
-    transformOn: true
-  })],
+  plugins:
+    [vueJsx({
+      enableObjectSlots: true,
+      transformOn: true
+    }),
+    vue({
+      reactivityTransform: true
+    }),],
   resolve: {
     alias: {
       '~': '/',
