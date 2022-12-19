@@ -63,7 +63,14 @@ const ChildComponent = defineComponent({
                   updateMsg(count);
                 }
 
-              }>点击我</button>
+              }
+              on={{
+                click: () => {
+                  count++;
+                  updateMsg(count);
+                }
+              }}
+              >点击我</button>
               <div class="mt-2">
                 <span>点击次数：</span>
                 <span>{count}</span>
