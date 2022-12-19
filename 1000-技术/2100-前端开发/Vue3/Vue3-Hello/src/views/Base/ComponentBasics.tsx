@@ -9,6 +9,7 @@ export default defineComponent({
   setup() {
     let count = $ref(0);
     let childCount = $ref(0);
+
     return () => (
       <div class='flex'>
         <div class="mockup-phone">
@@ -24,6 +25,8 @@ export default defineComponent({
                   <span>{count}</span>
                 </div>
               </div>
+              <h2>动态组件</h2>
+              <component is={ChildComponent} ></component>
             </div>
           </div>
         </div>
@@ -34,7 +37,7 @@ export default defineComponent({
           default: () => <div>我是插槽内容Default</div>,
           header: () => <div>我是插槽内容Header</div>,
           footer: () => <div>我是插槽内容Footer</div>,
-        }}>
+        }} >
         </ChildComponentSlot>
 
       </div>
