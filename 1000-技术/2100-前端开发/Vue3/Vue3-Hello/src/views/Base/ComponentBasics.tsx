@@ -10,9 +10,8 @@ export default defineComponent({
     let count = $ref(0);
     let childCount = $ref(0);
     const tabs = $ref([
-      { label: '基础用法', name: 'base' },
-      { label: '动态组件', name: 'dynamic' },
-      { label: '插槽', name: 'slot' },
+      { label: '动态组件', name: 'dynamic', component: ChildComponent },
+      { label: '插槽', name: 'slot', component: ChildComponentSlot },
     ]);
     return () => (
       <div class='flex'>
