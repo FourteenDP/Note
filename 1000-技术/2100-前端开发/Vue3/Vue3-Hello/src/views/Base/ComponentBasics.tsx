@@ -30,8 +30,11 @@ export default defineComponent({
         <ChildComponent msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
-        <ChildComponentSlot>
-          <div>我是插槽内容</div>
+        <ChildComponentSlot v-slots={{
+          default: () => <div>我是插槽内容Default</div>,
+          header: () => <div>我是插槽内容Header</div>,
+          footer: () => <div>我是插槽内容Footer</div>,
+        }}>
         </ChildComponentSlot>
 
       </div>
@@ -85,7 +88,9 @@ const ChildComponentSlot = defineComponent({
           <div class="artboard artboard-demo phone-1">
             我是插槽子组件
             <div>
+              {slots.header && slots.header()}
               {slots.default && slots.default()}
+              {slots.footer && slots.footer()}
             </div>
           </div>
         </div>
