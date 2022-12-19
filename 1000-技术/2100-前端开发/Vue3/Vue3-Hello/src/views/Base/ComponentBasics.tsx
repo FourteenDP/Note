@@ -28,12 +28,10 @@ export default defineComponent({
                   <span>{count}</span>
                 </div>
               </div>
-              <h2>动态组件</h2>
-              {/* <component is={ChildComponent} ></component> */}
             </div>
           </div>
         </div>
-        {/* <ChildComponent msg={count} onUpdate={(val) => {
+        <ChildComponent msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
         <ChildComponentSlot v-slots={{
@@ -41,10 +39,13 @@ export default defineComponent({
           header: () => <div>我是插槽内容Header</div>,
           footer: () => <div>我是插槽内容Footer</div>,
         }} >
-        </ChildComponentSlot> */}
-
-
-
+        </ChildComponentSlot>
+        {/* 导航 */}
+        <div class="nav nav-tabs">
+          {tabs.map((tab) => (
+            <a class="nav-link" href={`#${tab.name}`}>{tab.label}</a>
+          ))}
+        </div>
       </div>
     );
   },
