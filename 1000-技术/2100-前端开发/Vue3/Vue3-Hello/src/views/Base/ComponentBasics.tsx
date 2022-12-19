@@ -1,5 +1,4 @@
-import { defineComponent, PropType } from "vue";
-import { ReactiveVariable } from "vue/macros";
+import { defineComponent, h, PropType, resolveComponent } from "vue";
 
 export default defineComponent({
   name: 'ComponentBasics',
@@ -39,7 +38,10 @@ export default defineComponent({
                 }
               </div>
               <div class="tab-content">
-                <component is={tabs[currentTabIdx].component} />
+                {/* 动态组件JSX */}
+                {
+                  h(resolveComponent('A'))
+                }
               </div>
             </div>
           </div>
