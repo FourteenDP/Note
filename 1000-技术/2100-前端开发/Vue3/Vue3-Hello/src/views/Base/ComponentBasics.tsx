@@ -7,6 +7,7 @@ export default defineComponent({
   },
   setup() {
     let count = $ref(0);
+    let childCount = $ref(0);
     return () => (
       <div class='flex'>
         <div class="mockup-phone">
@@ -14,6 +15,7 @@ export default defineComponent({
           <div class="display">
             <div class="artboard artboard-demo phone-1">
               我是父组件
+              <h2>我是子组件的数值:{childCount}</h2>
               <div class="text-center">
                 <button class="btn btn-primary" onClick={() => count++}>点击我</button>
                 <div class="mt-2">
@@ -25,7 +27,7 @@ export default defineComponent({
           </div>
         </div>
         <ChildComponent msg={count} onUpdate={(val) => {
-          count = val;
+          childCount = val;
         }} />
       </div>
     );
@@ -39,12 +41,12 @@ const ChildComponent = defineComponent({
       default: ''
     },
   },
-  emits: ['update'],
+  emits: ['update:childCount'],
   setup(props, { emit }) {
     let count = $ref(0);
 
     const updateMsg = (val: string | number) => {
-      emit('update', val);
+      emit('update:childCount', val);
     };
     const on = {
       click: () => {
