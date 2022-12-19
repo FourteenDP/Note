@@ -9,3 +9,10 @@ declare module 'vue-router' {
     icon?: string,
   }
 }
+
+declare module 'vue' {
+  interface ComponentCustomProperties {
+    $router: VueRouter
+    $route: Route
+  }
+}
