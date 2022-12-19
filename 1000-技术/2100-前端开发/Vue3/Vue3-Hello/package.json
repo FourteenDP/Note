@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue/babel-helper-vue-transform-on": "^1.0.2",
     "daisyui": "^2.43.2",
     "pinia": "^2.0.28",
     "vue": "^3.2.45",
