@@ -12,5 +12,6 @@ declare module 'vue-router' {
 }
 
 declare module 'vue' {
-
+  interface HtmlHTMLAttributes {
+  }
 }
