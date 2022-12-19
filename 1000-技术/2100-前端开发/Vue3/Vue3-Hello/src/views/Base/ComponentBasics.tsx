@@ -1,16 +1,39 @@
 import { defineComponent, h, PropType, resolveComponent } from "vue";
 
+const A = defineComponent({
+  name: 'A',
+  setup() {
+
+    return () => <div>
+      A
+    </div >;
+  },
+});
+
+const B = defineComponent({
+  name: 'B',
+  setup() {
+    return () => <div>
+      B
+    </div >;
+  },
+});
+
 export default defineComponent({
   name: 'ComponentBasics',
   meta: {
     title: '组件基础',
   },
+  components: {
+    A: A,
+    B: B,
+  },
   setup() {
     let count = $ref(0);
     let childCount = $ref(0);
     const tabs = $ref([
-      { label: '动态组件A', component: A },
-      { label: '动态组件B', component: B },
+      { label: '动态组件A', name: "A", component: A },
+      { label: '动态组件B', name: "B", component: B },
     ]);
     let currentTabIdx = $ref(0);
     return () => (
@@ -40,7 +63,7 @@ export default defineComponent({
               <div class="tab-content">
                 {/* 动态组件JSX */}
                 {
-                  h(resolveComponent('A'))
+                  h(resolveComponent(tabs[currentTabIdx].name))
                 }
               </div>
             </div>
@@ -115,25 +138,6 @@ const ChildComponentSlot = defineComponent({
           </div>
         </div>
       </div>
-    </div >;
-  },
-});
-
-const A = defineComponent({
-  name: 'A',
-  setup() {
-
-    return () => <div>
-      A
-    </div >;
-  },
-});
-
-const B = defineComponent({
-  name: 'B',
-  setup() {
-    return () => <div>
-      B
     </div >;
   },
 });
