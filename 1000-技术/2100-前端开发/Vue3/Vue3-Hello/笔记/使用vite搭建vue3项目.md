@@ -167,3 +167,4 @@ import './index.css'
 - [pinia](https://pinia.esm.dev/)
 - [vue-router](https://next.router.vuejs.org/zh/)
 - [daisui](https://daisyui.com/)
+- 
