@@ -10,9 +10,10 @@ export default defineComponent({
     let count = $ref(0);
     let childCount = $ref(0);
     const tabs = $ref([
-      { label: '动态组件', name: 'dynamic', component: ChildComponent },
-      { label: '插槽', name: 'slot', component: ChildComponentSlot },
+      { label: '动态组件A', component: A },
+      { label: '动态组件B', component: B },
     ]);
+    let currentTabIdx = $ref(0);
     return () => (
       <div class='flex'>
         <div class="mockup-phone">
@@ -28,6 +29,18 @@ export default defineComponent({
                   <span>{count}</span>
                 </div>
               </div>
+              <div class="tabs">
+                {
+                  tabs.map((tab, index) => {
+                    return <a class={["tab", {
+                      "tab-active": index === currentTabIdx
+                    }]} onClick={() => { currentTabIdx = index }}>{tab.label}</a>
+                  })
+                }
+              </div>
+              <div class="tab-content">
+                <component is={tabs[currentTabIdx].component} />
+              </div>
             </div>
           </div>
         </div>
@@ -40,16 +53,7 @@ export default defineComponent({
           footer: () => <div>我是插槽内容Footer</div>,
         }} >
         </ChildComponentSlot>
-        {/* 导航 */}
-        <div class="tabs">
-          {
-            tabs.map((tab) => {
-              return <a class="tab">{tab.label}
-                <div class="tab-indicator"></div>
-              </a>
-            })
-          }
-        </div>
+
       </div>
     );
   },
@@ -109,6 +113,25 @@ const ChildComponentSlot = defineComponent({
           </div>
         </div>
       </div>
+    </div >;
+  },
+});
+
+const A = defineComponent({
+  name: 'A',
+  setup() {
+
+    return () => <div>
+      A
+    </div >;
+  },
+});
+
+const B = defineComponent({
+  name: 'B',
+  setup() {
+    return () => <div>
+      B
     </div >;
   },
 });
