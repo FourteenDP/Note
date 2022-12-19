@@ -41,10 +41,14 @@ export default defineComponent({
         }} >
         </ChildComponentSlot>
         {/* 导航 */}
-        <div class="nav nav-tabs">
-          {tabs.map((tab) => (
-            <a class="nav-link" href={`#${tab.name}`}>{tab.label}</a>
-          ))}
+        <div class="tabs">
+          {
+            tabs.map((tab) => {
+              return <a class="tab">{tab.label}
+                <div class="tab-indicator"></div>
+              </a>
+            })
+          }
         </div>
       </div>
     );
