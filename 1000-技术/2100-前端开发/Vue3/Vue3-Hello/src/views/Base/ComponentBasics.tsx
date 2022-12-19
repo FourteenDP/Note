@@ -37,7 +37,9 @@ export default defineComponent({
         <ChildComponent msg={count} onUpdate={(val) => {
           childCount = val;
         }} />
-        <ChildComponentSlot v-slots={{
+        <ChildComponentSlot on={{
+            'update': (val: string | number) => {}
+          }} v-slots={{
           default: () => <div>我是插槽内容Default</div>,
           header: () => <div>我是插槽内容Header</div>,
           footer: () => <div>我是插槽内容Footer</div>,
