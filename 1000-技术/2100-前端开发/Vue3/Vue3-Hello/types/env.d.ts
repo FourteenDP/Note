@@ -11,8 +11,13 @@ declare module 'vue-router' {
 }
 
 declare module 'vue' {
-  interface ComponentCustomProperties {
-    $router: VueRouter
-    $route: Route
+  interface HTMLAttributes {
+    'v-if'?: string
+    'v-else'?: string
+    'v-else-if'?: string
+    'v-show'?: string
+    'v-for'?: string
+    'v-html'?: string
+    'v-text'?: string
   }
 }
