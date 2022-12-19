@@ -32,12 +32,11 @@ export default defineComponent({
         <ChildComponent msg={count} onUpdate:msg={(val) => {
           console.log('我是父组件的回调函数', val);
           count = val;
-        }} >
-          <template v-slots={{
-            header: () => <div>我是插槽header</div>,
-            default: () => <div>我是插槽default</div>,
-            footer: () => <div>我是插槽footer</div>
-          }}>我是插槽</template>
+        }} v-slots={{
+          header: () => <h1>我是父组件的header</h1>,
+          default: () => <h1>我是父组件的default</h1>,
+          footer: () => <h1>我是父组件的footer</h1>,
+        }}>
         </ChildComponent>
       </div>
     );
