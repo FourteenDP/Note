@@ -12,7 +12,4 @@ declare module 'vue-router' {
 }
 
 declare module 'vue' {
-  interface Events {
-    on?: EventHandlers<Events>
-  }
 }
