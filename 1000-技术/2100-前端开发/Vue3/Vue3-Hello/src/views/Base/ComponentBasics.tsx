@@ -15,11 +15,12 @@ export default defineComponent({
             <div class="artboard artboard-demo phone-1">
               我是父组件
               <div class="text-center">
-                <button class="btn btn-primary" on={{
-                  click: () => {
-                    count++;
-                  }
-                }}>点击我</button>
+                <button class="btn btn-primary"
+                  on={{
+                    click: () => {
+                      count++;
+                    }
+                  }}>点击我</button>
                 <div class="mt-2">
                   <span>点击次数：</span>
                   <span>{count}</span>
@@ -32,12 +33,11 @@ export default defineComponent({
           console.log('我是父组件的回调函数', val);
           count = val;
         }} >
-          {/* 插槽 */}
-          <div v-slots={{
+          <template v-slots={{
             header: () => <div>我是插槽header</div>,
             default: () => <div>我是插槽default</div>,
             footer: () => <div>我是插槽footer</div>
-          }}>我是插槽</div>
+          }}>我是插槽</template>
         </ChildComponent>
       </div>
     );
@@ -53,6 +53,7 @@ const ChildComponent = defineComponent({
   },
   emits: ['update:msg'],
   setup(props, { emit, slots }) {
+    console.log('我是子组件');
     let count = $ref(0);
     const updateMsg = (val: string | number) => {
       emit('update:msg', val);
