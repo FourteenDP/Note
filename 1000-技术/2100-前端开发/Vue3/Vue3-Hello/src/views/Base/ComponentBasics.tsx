@@ -19,7 +19,8 @@ export default defineComponent({
                   on={{
                     click: () => {
                       count++;
-                    }
+                    },
+
                   }}>点击我</button>
                 <div class="mt-2">
                   <span>点击次数：</span>
