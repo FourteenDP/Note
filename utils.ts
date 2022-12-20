@@ -22,8 +22,6 @@ namespace Utils {
     public getTree(filterType?: FilterType) {
       this.tree = this.getDir(this.root);
       if (filterType) this.tree = this.filterTree(this.tree, filterType);
-      // 打印this.ree
-      fs.writeFileSync(path.join(this.root, 'tree.json'), JSON.stringify(this.tree, null, 2));
       this.treeArr = this.treeToArr(this.tree);
       this.sortTreeArr(this.treeArr);
       return {
@@ -227,12 +225,16 @@ namespace Utils {
         },
         exclude: (file: string) => {
           let boolean = false;
-          const startsWith = ['.', '-', '~', '0000', '📋目录', 'node'];
+          const startsWith = ['.', '-', '~', '0000', '📋目录', "README"];
           startsWith.forEach((item: string) => {
             if (file.startsWith(item)) {
               boolean = true;
             }
           });
+          // 判断是否有node_modules字段
+          if (file.indexOf('node_modules') !== -1) {
+            boolean = true;
+          }
           return boolean;
         }
       }).treeArr;
