@@ -22,6 +22,8 @@ namespace Utils {
     public getTree(filterType?: FilterType) {
       this.tree = this.getDir(this.root);
       if (filterType) this.tree = this.filterTree(this.tree, filterType);
+      // 打印this.ree
+      fs.writeFileSync(path.join(this.root, 'tree.json'), JSON.stringify(this.tree, null, 2));
       this.treeArr = this.treeToArr(this.tree);
       this.sortTreeArr(this.treeArr);
       return {
