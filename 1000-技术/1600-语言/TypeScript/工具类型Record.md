@@ -1,14 +1,14 @@
 ---
-title: 什么是Record类型
+title: 工具类型Record
 aliases: []
 tags: []
 date created: 2022-12-13 14:23:47
 date updated: 2022-12-13 14:24:23
 ---
 
-## 什么是Record类型
+## 工具类型Record
 
-Record类型是一个映射类型，它将所有属性的值设置为同一种类型。
+作用：将一个类型的所有属性转换为另一个类型
 
 ```ts
 type Record<K extends keyof any, T> = {
