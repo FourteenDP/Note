@@ -1,0 +1,3 @@
+[submodule "1000-仓库"]
+	path = 1000-仓库
+	url = git@github.com:FourteenD/Vue3-Hello.git
