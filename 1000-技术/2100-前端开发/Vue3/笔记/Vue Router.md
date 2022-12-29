@@ -1,8 +1,14 @@
 ---
-title: Vue Router
+aliases: [setup中使用router]
+tags: 
+title: setup中使用router
+date created: 2022-12-16 09:42:48
+date updated: 2022-12-29 16:12:46
 ---
 
-## setup中使用router
+# Vue Router
+
+## Setup中使用router
 
 ```js
 import { useRouter } from 'vue-router'

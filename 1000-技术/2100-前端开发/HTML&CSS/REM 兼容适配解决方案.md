@@ -1,10 +1,12 @@
 ---
-title: 什么是 REM
-aliases: []
+title: 使用rem做响应式布局
+aliases: [使用rem做响应式布局]
 tags: []
 date created: 2022-12-12 10:52:57
-date updated: 2022-12-12 11:46:45
+date updated: 2022-12-29 16:12:46
 ---
+
+# REM 兼容适配解决方案
 
 ## 使用rem做响应式布局
 

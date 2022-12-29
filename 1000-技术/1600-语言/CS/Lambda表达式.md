@@ -1,3 +1,12 @@
+---
+title: 什么是Lambda表达式
+aliases: [什么是Lambda表达式]
+tags: 
+date created: 2022-12-12 08:55:05
+date updated: 2022-12-29 16:12:47
+---
+
+# Lambda表达式
 
 ## 什么是Lambda表达式
 
@@ -14,6 +23,7 @@ Lambda表达式的语法格式如下：
 ```C#
 (parameters) => expression
 ```
+
 ## Lambda和匿名方法的区别
 
 Lambda表达式和匿名方法的区别如下：
@@ -24,6 +34,7 @@ Lambda表达式和匿名方法的区别如下：
 | 匿名方法可以有多个参数 | Lambda表达式只能有一个参数 |
 | 匿名方法可以有返回值 | Lambda表达式只能有一个返回值 |
 | 匿名方法可以有访问修饰符 | Lambda表达式只能有访问修饰符 |
+
 
 ## Lambda表达式的使用
 

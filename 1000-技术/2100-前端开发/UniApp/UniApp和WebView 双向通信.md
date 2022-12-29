@@ -1,10 +1,12 @@
 ---
 title: WebView 向 UniApp 通信
-aliases: []
+aliases: [WebView 向 UniApp 通信]
 tags: []
 date created: 2022-07-20 13:58:09
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:46
 ---
+
+# UniApp和WebView 双向通信
 
 ## WebView 向 UniApp 通信
 

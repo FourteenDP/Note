@@ -1,10 +1,12 @@
 ---
 title: 简介
-aliases: []
+aliases: [简介]
 tags: []
 date created: 2022-07-14 15:15:47
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:45
 ---
+
+# Git 操作规范
 
 ```toc
 ```

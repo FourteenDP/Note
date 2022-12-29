@@ -1,10 +1,12 @@
 ---
 title: 简介
-aliases: []
+aliases: [简介]
 tags: []
 date created: 2022-08-09 22:35:37
-date updated: 2022-12-12 01:46:04
+date updated: 2022-12-29 16:12:48
 ---
+
+# Linux安装命令行工具Oh My Zsh
 
 ## 简介
 

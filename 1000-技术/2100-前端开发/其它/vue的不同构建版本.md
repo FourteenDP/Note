@@ -1,10 +1,12 @@
 ---
-aliases: [vue不同的构建版本]
+aliases: [参考资料, vue不同的构建版本]
 tags: [vue不同的构建版本]
 date created: 2022-06-23 21:55:45
-date updated: 2022-12-12 02:29:10
+date updated: 2022-12-29 16:12:45
 title: 参考资料
 ---
+
+# vue的不同构建版本
 
 ## 参考资料
 

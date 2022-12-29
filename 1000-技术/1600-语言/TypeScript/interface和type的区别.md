@@ -1,10 +1,12 @@
 ---
-aliases: []
+aliases: [Interface和type的区别]
 tags: []
 title: Interface和type的区别
 date created: 2022-12-12 15:48:54
-date updated: 2022-12-13 14:23:06
+date updated: 2022-12-29 16:12:46
 ---
+
+# interface和type的区别
 
 ## Interface和type的区别
 
@@ -22,7 +24,7 @@ date updated: 2022-12-13 14:23:06
 
 总的来说，公共的用 interface 实现，不能用 interface 实现的再用 type 实现。主要是一个项目最好保持一致。
 
-### type 支持计算属性，生成映射类型,interface 不支持
+### Type 支持计算属性，生成映射类型,interface 不支持
 
 ```ts
 // type 支持计算属性，生成映射类型

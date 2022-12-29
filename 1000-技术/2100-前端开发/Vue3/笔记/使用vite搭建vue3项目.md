@@ -1,6 +1,13 @@
 ---
-title: 使用vite搭建vue3项目
+aliases: [使用Vite创建项目]
+tags: 
+title: 使用Vite创建项目
+date created: 2022-12-16 09:42:48
+date updated: 2022-12-29 16:12:46
 ---
+
+# 使用vite搭建vue3项目
+
 ## 使用Vite创建项目
 
 使用Vite创建项目，项目并不像Vue CLI创建的项目那样，可以选择Router、Vuex等，而是直接创建一个空项目，然后再根据需要安装依赖。

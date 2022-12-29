@@ -1,10 +1,12 @@
 ---
 title: 安装 Vue-cli
-aliases: []
+aliases: [安装 Vue-cli]
 tags: [前端, Vue2, UniApp, 项目构建]
 date created: 2022-07-08 13:32:41
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:46
 ---
+
+# 通过Vue-cli创建UniApp-Vue2项目
 
 ## 安装 Vue-cli
 

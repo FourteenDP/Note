@@ -1,10 +1,12 @@
 ---
-aliases: []
+aliases: [参考]
 tags: []
 date created: 2022-06-24 13:22:45
-date updated: 2022-12-13 11:08:22
+date updated: 2022-12-29 16:12:45
 title: 参考
 ---
+
+# node的process.nextTick
 
 ## 参考
 

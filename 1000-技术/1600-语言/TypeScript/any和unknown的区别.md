@@ -1,12 +1,14 @@
 ---
-aliases: []
+aliases: [any和unknown的区别]
 tags: []
-title: Any和unknown的区别
+title: any和unknown的区别
 date created: 2022-12-13 15:02:18
-date updated: 2022-12-15 09:45:18
+date updated: 2022-12-29 16:12:46
 ---
 
-## any和unknown的区别
+# any和unknown的区别
+
+## Any和unknown的区别
 
 - any可以赋值给任何类型，unknown只能赋值给any和unknown
 - unknown类型的值不能直接使用，需要先判断类型
