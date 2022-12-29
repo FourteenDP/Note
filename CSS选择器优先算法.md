@@ -1,10 +1,12 @@
 ---
-title: 参考
-aliases: []
+title: CSS选择器优先算法
+aliases: [CSS选择器优先算法]
 tags: []
 date created: 2022-12-29 15:43:49
-date updated: 2022-12-29 15:44:39
+date updated: 2022-12-29 16:10:03
 ---
+
+# CSS选择器优先算法
 
 ## 参考
 
