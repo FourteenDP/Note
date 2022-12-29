@@ -1,10 +1,12 @@
 ---
-aliases: []
+aliases: [优缺点]
 tags: []
 title: 优缺点
 date created: 2022-12-12 17:53:03
-date updated: 2022-12-12 18:00:11
+date updated: 2022-12-29 16:12:46
 ---
+
+# Pinia与Vuex
 
 ## 优缺点
 

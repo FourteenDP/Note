@@ -1,10 +1,12 @@
 ---
 title: Linux常用命令软件
-aliases: []
+aliases: [Linux常用命令软件]
 tags: []
 date created: 2022-08-09 22:01:59
-date updated: 2022-12-12 01:46:04
+date updated: 2022-12-29 16:12:48
 ---
+
+# Linux常用命令软件
 
 - Vim: `apt install vim`
 - Neovim: `apt install neovim`

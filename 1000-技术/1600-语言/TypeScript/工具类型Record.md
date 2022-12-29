@@ -1,10 +1,12 @@
 ---
 title: 工具类型Record
-aliases: []
+aliases: [工具类型Record]
 tags: []
 date created: 2022-12-13 14:23:47
-date updated: 2022-12-13 14:24:23
+date updated: 2022-12-29 16:12:46
 ---
+
+# 工具类型Record
 
 ## 工具类型Record
 

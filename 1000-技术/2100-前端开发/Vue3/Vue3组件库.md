@@ -1,10 +1,12 @@
 ---
 title: 移动
-aliases: []
+aliases: [移动]
 tags: [Vue3, 组件库]
 date created: 2022-06-28 10:00:31
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:45
 ---
+
+# Vue3组件库
 
 ## 移动
 

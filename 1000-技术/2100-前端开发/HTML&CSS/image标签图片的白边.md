@@ -1,10 +1,12 @@
 ---
 title: 为什么image标签会有白边
-aliases: []
+aliases: [为什么image标签会有白边]
 tags: []
 date created: 2022-06-28 10:54:26
-date updated: 2022-12-12 14:20:27
+date updated: 2022-12-29 16:12:46
 ---
+
+# image标签图片的白边
 
 ## 为什么image标签会有白边
 

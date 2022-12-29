@@ -1,10 +1,12 @@
 ---
-aliases:
-tags:
+aliases: [TypeScript 基础类型有哪些]
+tags: []
 title: TypeScript 基础类型有哪些
 date created: 2022-12-13 14:33:29
-date updated: 2022-12-13 14:49:30
+date updated: 2022-12-29 16:12:46
 ---
+
+# TypeScript基础类型
 
 ## TypeScript 基础类型有哪些
 

@@ -1,11 +1,12 @@
 ---
-title: package.json 中坑
-aliases: 
-tags: 
+title: 参考资料
+aliases: [参考资料]
+tags: []
 date created: 2022-08-17 00:21:22
-date updated: 2022-12-01 17:53:00
+date updated: 2022-12-29 16:12:45
 ---
 
+# package.json 中的坑
 
 ## 参考资料
 

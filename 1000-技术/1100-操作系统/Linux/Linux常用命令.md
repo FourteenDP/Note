@@ -1,10 +1,12 @@
 ---
 title: Linux常用命令
-aliases: []
+aliases: [Linux常用命令]
 tags: []
 date created: 2022-08-09 22:13:35
-date updated: 2022-12-12 01:46:04
+date updated: 2022-12-29 16:12:48
 ---
+
+# Linux常用命令
 
 - 查看已安装的软件包:`apt list --installed`
 - 查看当前使用的 `shell` : `echo $SHELL`

@@ -1,8 +1,8 @@
 ---
-aliases: [计算setTimeout和setInterval的误差]
+aliases: [参考资料, 计算setTimeout和setInterval的误差]
 tags: [前端, JavaScript, setTimeout, setInterval]
 date created: 2022-06-22 20:49:06
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:46
 title: 参考资料
 ---
 

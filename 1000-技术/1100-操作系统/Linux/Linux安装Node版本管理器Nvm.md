@@ -1,10 +1,12 @@
 ---
 title: 安装和更新脚本
-aliases: []
+aliases: [安装和更新脚本]
 tags: []
 date created: 2022-08-09 21:46:04
-date updated: 2022-12-12 01:46:04
+date updated: 2022-12-29 16:12:48
 ---
+
+# Linux安装Node版本管理器Nvm
 
 ## 安装和更新脚本
 

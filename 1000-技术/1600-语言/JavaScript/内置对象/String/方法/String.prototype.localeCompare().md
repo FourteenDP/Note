@@ -1,10 +1,12 @@
 ---
 title: 示例
-aliases: []
+aliases: [示例]
 tags: []
 date created: 2022-12-10 16:56:04
-date updated: 2022-12-12 01:46:03
+date updated: 2022-12-29 16:12:46
 ---
+
+# String.prototype.localeCompare()
 
 - 用于比较两个字符串，返回一个数字，表示比较结果。
   - 该方法的返回值如下：

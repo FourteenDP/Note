@@ -1,10 +1,12 @@
 ---
 title: SSH 服务安装
-aliases: []
+aliases: [SSH 服务安装]
 tags: [WSL]
 date created: 2022-08-08 22:00:28
-date updated: 2022-12-12 01:46:04
+date updated: 2022-12-29 16:12:48
 ---
+
+# WSL SSH远程连接
 
 ## SSH 服务安装
 

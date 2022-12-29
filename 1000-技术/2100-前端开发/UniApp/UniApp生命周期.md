@@ -1,10 +1,12 @@
 ---
 title: 生命周期执行顺序图示
-aliases: []
+aliases: [生命周期执行顺序图示]
 tags: []
 date created: 2022-07-13 14:57:30
-date updated: 2022-12-22 16:07:23
+date updated: 2022-12-29 16:12:46
 ---
+
+# UniApp生命周期
 
 ## 生命周期执行顺序图示
 

@@ -1,10 +1,12 @@
 ---
-aliases: []
+aliases: [简介]
 tags: []
 date created: 2022-06-11 14:39:00
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:46
 title: 简介
 ---
+
+# Vue2 中的页面数据缓存
 
 ## 简介
 

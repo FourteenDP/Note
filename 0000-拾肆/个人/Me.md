@@ -1,9 +1,9 @@
 ---
 title: Me
-aliases: 
-tags: 
+aliases: [Me]
+tags: []
 date created: 2022-11-29 13:22:12
-date updated: 2022-12-01 17:55:24
+date updated: 2022-12-29 16:12:48
 ---
 
 # Me

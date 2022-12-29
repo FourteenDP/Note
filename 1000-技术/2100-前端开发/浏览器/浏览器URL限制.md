@@ -1,10 +1,12 @@
 ---
-aliases: [浏览器URL限制]
+aliases: [简介, 浏览器URL限制]
 tags: [浏览器URL限制]
 date created: 2022-06-20 19:58:18
-date updated: 2022-12-12 01:46:02
+date updated: 2022-12-29 16:12:45
 title: 简介
 ---
+
+# 浏览器URL限制
 
 ## 简介
 
