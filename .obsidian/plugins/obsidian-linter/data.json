@@ -49,10 +49,10 @@
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename.": true
     },
     "YAML Title Alias": {
-      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
-      "Preserve existing aliases section style": true,
-      "Keep alias that matches the filename": false,
-      "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
+      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": true,
+      "Preserve existing aliases section style": false,
+      "Keep alias that matches the filename": true,
+      "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": false
     },
     "Capitalize Headings": {
       "Headings should be formatted with capitalization": true,
@@ -62,10 +62,10 @@
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "File Name Heading": {
-      "Inserts the file name as a H1 heading if no H1 heading exists.": false
+      "Inserts the file name as a H1 heading if no H1 heading exists.": true
     },
     "Header Increment": {
-      "Heading levels should only increment by one level at a time": false
+      "Heading levels should only increment by one level at a time": true
     },
     "Footnote after Punctuation": {
       "Ensures that footnote references are placed after punctuation, not before.": true
