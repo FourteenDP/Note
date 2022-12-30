@@ -14,9 +14,14 @@
     const array = [];
     // 打印金字塔
     for (let i = 0; i < 5; i++) {
-      array.push(i);
-      console.log(array.join(''));
+      array.push([]);
+      for (let j = 0; j < 5; j++) {
+        if (j <= i) {
+          array[i].push(1);
+        }
+      }
     }
+    console.log(array);
   </script>
 </body>
 
