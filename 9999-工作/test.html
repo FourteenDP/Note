@@ -12,12 +12,11 @@
 
   <script>
     const array = [];
-    // 打印金字塔
     for (let i = 0; i < 5; i++) {
       array.push([]);
       for (let j = 0; j < 5; j++) {
         if (j <= i) {
-          array[i].push(1);
+          array[i].push(`${i}-${j}`);
         }
       }
     }
