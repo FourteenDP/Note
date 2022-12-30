@@ -12,15 +12,26 @@
 
   <script>
     const array = [];
-    for (let i = 1; i < 10; i++) {
+    for (let i = 0; i < 5; i++) {
       array.push([]);
-      for (let j = 1; j < 20; j++) {
+      for (let j = 0; j < 5; j++) {
         if (j <= i) {
           array[i].push(`${i}-${j}`);
         }
       }
     }
-    console.log(array);
+
+    const flatArray = array.flat(Infinity);
+
+    const randomArray = [];
+
+    for (let i = 0; i < Math.floor(Math.random() * 10); i++) {
+      const randomIndex = Math.floor(Math.random() * flatArray.length);
+      randomArray.push(flatArray[randomIndex]);
+      flatArray.splice(randomIndex, 1);
+    }
+
+    console.log(randomArray);
   </script>
 </body>
 
