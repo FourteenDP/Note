@@ -1,38 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
-  <title>rem</title>
-  <style>
-    body {
-      margin: auto;
-    }
-    .box {
-      width: 7.5rem;
-      height: 7.5rem;
-      background-color: red;
-    }
-
-  </style>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
-
 <body>
-  <div class="box"></div>
-  <script>
-    (function (doc, win) {
-      var docEl = doc.documentElement,
-        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
-        recalc = function () {
-          var clientWidth = docEl.clientWidth;
-          if (!clientWidth) return;
-          docEl.style.fontSize = 100 * (clientWidth / 750) + 'px';
-        };
-      if (!doc.addEventListener) return;
-      win.addEventListener(resizeEvt, recalc, false);
-      doc.addEventListener('DOMContentLoaded', recalc, false);
-    })(document, window)
-  </script>
-</body>
 
+</body>
 </html>
