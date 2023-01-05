@@ -47,38 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "缺点：增加了系统的复杂性；增加了系统的实现难度": {
-      "缺点：增加了系统的复杂性；增加了系统的实现难度": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669730259761
-        }
-      }
-    },
-    "MVW模式": {
-      "MVW模式": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669730275607
-        }
-      }
-    },
-    "MVA模式": {
-      "MVA模式": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669730358436
-        }
-      }
-    },
-    "编辑活跃度": {
-      "编辑活跃度": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669881746363
-        }
-      }
-    },
     "一维数组转通讯录树": {
       "一维数组转通讯录树": {
         "internalLink": {
@@ -100,6 +68,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1671712925685
+        }
+      }
+    },
+    "根据系统浏览器服务器各有所异\\": {
+      "根据系统浏览器服务器各有所异\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672908097130
         }
       }
     }
