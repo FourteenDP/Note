@@ -1,7 +1,9 @@
 ---
+aliases: [CSS 选择器优先级权重 | w3c 笔记]
+tags: []
 title: CSS 选择器优先级权重 | w3c 笔记
 date created: 2023-01-05 17:45:55
-date updated: 2023-01-05 17:45:55
+date updated: 2023-01-05 17:57:10
 ---
 
 # CSS 选择器优先级权重 | w3c 笔记
