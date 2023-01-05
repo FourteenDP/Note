@@ -23,12 +23,12 @@
       "customCss": ""
     },
     {
-      "url": "",
-      "displayName": "New Frame",
-      "icon": "",
+      "url": "https://outlook.live.com/mail/0/",
+      "displayName": "Home",
+      "icon": "home",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
