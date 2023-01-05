@@ -1,12 +1,12 @@
 ---
-title: CSS选择器优先算法
-aliases: [CSS选择器优先算法]
+title: CSS 选择器优先算法
+aliases: [CSS 选择器优先算法]
 tags: []
 date created: 2022-12-29 15:43:49
-date updated: 2023-01-03 15:52:26
+date updated: 2023-01-05 17:04:46
 ---
 
-# CSS选择器优先算法
+# CSS 选择器优先算法
 
 ## 关联
 
