@@ -8,8 +8,6 @@ date updated: 2022-12-29 16:12:46
 
 # 工具类型Record
 
-## 工具类型Record
-
 作用：将一个类型的所有属性转换为另一个类型
 
 ```ts
@@ -34,6 +32,6 @@ const x: Record<Page, PageInfo> = {
 };
 ```
 
-## 参考
+## 关联
 
 [Record](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)

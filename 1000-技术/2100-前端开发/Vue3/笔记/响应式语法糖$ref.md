@@ -1,6 +1,6 @@
 ---
 aliases: [$ref]
-tags: 
+tags:
 title: $ref
 date created: 2022-12-16 09:42:48
 date updated: 2022-12-29 16:12:46
@@ -23,6 +23,6 @@ date updated: 2022-12-29 16:12:46
   }
   ```
 
-## 参考
+## 关联
 
 - [响应式语法糖$ref](https://cn.vuejs.org/guide/extras/reactivity-transform.html#refs-vs-reactive-variables)

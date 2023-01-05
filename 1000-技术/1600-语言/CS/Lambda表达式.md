@@ -1,9 +1,9 @@
 ---
-title: 什么是Lambda表达式
-aliases: [什么是Lambda表达式]
-tags: 
+title: Lambda表达式
+aliases: [Lambda表达式, 什么是Lambda表达式]
+tags: []
 date created: 2022-12-12 08:55:05
-date updated: 2022-12-29 16:12:47
+date updated: 2023-01-05 11:33:25
 ---
 
 # Lambda表达式
@@ -50,6 +50,6 @@ Func<int, int> func = delegate (int x) { return x * x; };
 Console.WriteLine(func(5)); // 25
 ```
 
-## 相关资料
+## 关联
 
 - [Lambda 表达式（C# 引用）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)
