@@ -11,5 +11,6 @@
   "obsidian-mind-map",
   "note-refactor-obsidian",
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-local-rest-api"
 ]
