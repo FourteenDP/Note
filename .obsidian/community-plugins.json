@@ -12,5 +12,7 @@
   "note-refactor-obsidian",
   "obsidian-git",
   "obsidian-admonition",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "highlightr-plugin",
+  "cmenu-plugin"
 ]
