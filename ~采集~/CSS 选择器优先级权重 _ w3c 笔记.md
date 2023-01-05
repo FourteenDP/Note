@@ -1,11 +1,12 @@
 ---
 title: CSS 选择器优先级权重 | w3c 笔记
-date created: 2023-01-05 17:41:38
-date updated: 2023-01-05 17:41:38
-url: https://www.w3cschool.cn/article/67325175.html
+date created: 2023-01-05 17:45:55
+date updated: 2023-01-05 17:45:55
 ---
 
 # CSS 选择器优先级权重 | w3c 笔记
+
+**原文：**[CSS 选择器优先级权重 | w3c 笔记](https://www.w3cschool.cn/article/67325175.html)
 
 猿友 2021-03-17 14:33:49 浏览数 (2338)
 
