@@ -32,6 +32,6 @@ const x: Record<Page, PageInfo> = {
 };
 ```
 
-## 参考
+## 关联
 
 [Record](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)
