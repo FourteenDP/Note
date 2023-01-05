@@ -1,6 +1,6 @@
 ---
 aliases: [使用Vite创建项目]
-tags: 
+tags:
 title: 使用Vite创建项目
 date created: 2022-12-16 09:42:48
 date updated: 2022-12-29 16:12:46
@@ -167,7 +167,7 @@ VSCode安装插件`PostCSS Language Support`。
 import './index.css'
 ```
 
-## 参考
+## 关联
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)
 - [pnpm](https://pnpm.io/)

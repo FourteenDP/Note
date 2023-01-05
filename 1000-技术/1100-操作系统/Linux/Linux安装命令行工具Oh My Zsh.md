@@ -1,6 +1,6 @@
 ---
-title: 简介
-aliases: [简介]
+title: Linux安装命令行工具Oh My Zsh
+aliases: [Linux安装命令行工具Oh My Zsh]
 tags: []
 date created: 2022-08-09 22:35:37
 date updated: 2022-12-29 16:12:48

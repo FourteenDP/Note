@@ -22,14 +22,11 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 # .zshrc
 export NVM_NODEJS_ORG_MIRROR="https://npmmirror.com/mirrors/node"
 # 刷新环境变量
-source ~/.zshrc 
+source ~/.zshrc
 
 ```
 
-## 关联资料
+## 关联
 
 - [[Nvm常用命令]]
-
-## 参考资料
-
 - [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
