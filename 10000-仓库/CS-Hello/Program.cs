@@ -1,8 +1,7 @@
-﻿namespace CS_Hello;
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
+﻿namespace CS_Hello {
+  internal class Program {
+    static void Main(string[] args) {
+      Console.WriteLine("Hello, World!");
     }
+  }
 }
