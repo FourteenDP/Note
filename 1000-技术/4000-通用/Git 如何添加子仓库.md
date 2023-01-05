@@ -1,5 +1,5 @@
 ---
-aliases: [git 如何添加子仓库, 1. 添加子仓库]
+aliases: [git 如何添加子仓库, 添加子仓库]
 tags: []
 title: git 如何添加子仓库
 date created: 2022-12-22 15:24:12

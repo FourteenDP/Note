@@ -4,3 +4,6 @@
 [submodule "10000-仓库/CS-Hello"]
 	path = 10000-仓库/CS-Hello
 	url = git@github.com:FourteenD/CS-Hello.git
+[submodule "10000-仓库/Code-Snippets"]
+	path = 10000-仓库/Code-Snippets
+	url = git@github.com:FourteenD/Code-Snippets.git
