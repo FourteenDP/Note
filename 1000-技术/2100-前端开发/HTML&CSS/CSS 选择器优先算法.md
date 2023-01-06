@@ -3,7 +3,7 @@ title: CSS 选择器优先算法
 aliases: [CSS 选择器优先算法]
 tags: []
 date created: 2022-12-29 15:43:49
-date updated: 2023-01-05 17:24:29
+date updated: 2023-01-06 09:11:12
 ---
 
 # CSS 选择器优先算法
