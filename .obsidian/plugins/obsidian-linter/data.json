@@ -204,6 +204,7 @@
     }
   },
   "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "foldersToIgnore": [
     "-模板-",
