@@ -1,1 +1,10 @@
-{}
+{
+  "note-composer:merge-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
