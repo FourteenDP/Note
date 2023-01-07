@@ -1,9 +1,9 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
-    "folder": "~日记~",
+    "folder": "0001-总结",
     "template": "",
     "enabled": true
   },
@@ -16,19 +16,19 @@
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "0001-总结",
     "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "0001-总结",
     "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "0001-总结",
     "enabled": true
   }
 }
