@@ -1,7 +1,7 @@
 {
   "strategy": "chinese",
-  "matchStrategy": "prefix",
-  "maxNumberOfSuggestions": 29,
+  "matchStrategy": "partial",
+  "maxNumberOfSuggestions": 10,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
   "minNumberOfWordsTriggeredPhrase": 1,
@@ -14,7 +14,7 @@
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Tab",
+  "selectSuggestionKeys": "Enter",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
@@ -22,7 +22,7 @@
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
-  "enableCurrentVaultComplement": true,
+  "enableCurrentVaultComplement": false,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
@@ -106,8 +106,12 @@
     "任务": {
       "任务": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673120126876
+          "count": 5,
+          "lastUpdated": 1673120392270
+        },
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1673120347811
         }
       }
     },
