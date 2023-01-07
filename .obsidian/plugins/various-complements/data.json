@@ -154,6 +154,22 @@
           "lastUpdated": 1673121050037
         }
       }
+    },
+    "索引": {
+      "索引": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673121585911
+        }
+      }
+    },
+    "全局索引": {
+      "README": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673121601347
+        }
+      }
     }
   }
 }
