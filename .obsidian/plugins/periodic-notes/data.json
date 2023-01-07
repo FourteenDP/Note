@@ -3,32 +3,32 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
-    "folder": "总结",
+    "folder": "日志",
     "template": "",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "总结",
+    "folder": "日志",
     "template": "",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "总结",
+    "folder": "日志",
     "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": "总结",
+    "folder": "日志",
     "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "总结",
+    "folder": "日志",
     "enabled": true
   }
 }
