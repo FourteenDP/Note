@@ -1,9 +1,9 @@
 ---
-title: 安装和更新脚本
-aliases: [安装和更新脚本]
+title: Linux安装Node版本管理器Nvm
+aliases: [Linux安装Node版本管理器Nvm, 安装和更新脚本]
 tags: []
 date created: 2022-08-09 21:46:04
-date updated: 2022-12-29 16:12:48
+date updated: 2023-01-08 05:23:48
 ---
 
 # Linux安装Node版本管理器Nvm
@@ -28,5 +28,4 @@ source ~/.zshrc
 
 ## 关联
 
-- [[Nvm常用命令]]
 - [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
