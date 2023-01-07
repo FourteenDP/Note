@@ -19,5 +19,9 @@
   "tag-wrangler",
   "oz-clear-unused-images",
   "obsidian-dangling-links",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-outliner",
+  "obsidian-checklist-plugin",
+  "file-tree-alternative",
+  "omnisearch"
 ]
