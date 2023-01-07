@@ -1,9 +1,9 @@
 ---
-title: 系统镜像源和更新
-aliases: [系统镜像源和更新]
+title: Linux 开发环境配置
+aliases: [Linux 开发环境配置]
 tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2022-12-29 16:12:48
+date updated: 2023-01-08 04:55:27
 ---
 
 # Linux 开发环境配置
