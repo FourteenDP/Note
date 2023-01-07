@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"e2ba45978086cdb2","x":-514,"y":-137,"width":250,"height":50,"type":"text","text":"核心能力"}
+	],
+	"edges":[]
+}
