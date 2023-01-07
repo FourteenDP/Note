@@ -7,3 +7,6 @@
 [submodule "10000-仓库/Code-Snippets"]
 	path = 10000-仓库/Code-Snippets
 	url = git@github.com:FourteenD/Code-Snippets.git
+[submodule "10000-仓库/Script"]
+	path = 10000-仓库/Script
+	url = git@github.com:FourteenD/Script.git
