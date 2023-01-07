@@ -227,7 +227,8 @@
   "foldersToIgnore": [
     "-模板-",
     "-附件-",
-    "日志"
+    "日志",
+    "仓库"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,
