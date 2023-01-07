@@ -4,30 +4,30 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "folder": "日志",
-    "template": "-模板-/日笔记.md",
+    "template": "-模板-/日总结.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "folder": "日志",
-    "template": "",
+    "template": "-模板-/周总结.md",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
+    "template": "-模板-/月总结.md",
     "folder": "日志",
     "enabled": true
   },
   "quarterly": {
     "format": "",
-    "template": "",
+    "template": "-模板-/季总结.md",
     "folder": "日志",
     "enabled": true
   },
   "yearly": {
     "format": "",
-    "template": "",
+    "template": "-模板-/年总结.md",
     "folder": "日志",
     "enabled": true
   }
