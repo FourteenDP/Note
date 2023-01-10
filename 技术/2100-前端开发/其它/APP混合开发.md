@@ -1,9 +1,9 @@
 ---
-aliases: [编程方式]
+aliases: [APP混合开发, 编程方式]
 tags: []
 date created: 2022-06-22 10:53:28
-date updated: 2022-12-29 16:12:45
-title: 编程方式
+date updated: 2023-01-10 22:44:52
+title: APP混合开发
 ---
 
 # APP混合开发
@@ -41,4 +41,6 @@ title: 编程方式
 
 > 后两个混合开发方式同时支持混合 flutter，可以使用原生程序作为 uniapp 和 flutter 的通信桥
 
+## 注意
 
+- 此插件已经不维护了，目前也没有开源，只留下了
