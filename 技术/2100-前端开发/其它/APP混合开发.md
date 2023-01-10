@@ -2,7 +2,7 @@
 aliases: [APP混合开发, 编程方式]
 tags: []
 date created: 2022-06-22 10:53:28
-date updated: 2023-01-10 22:44:52
+date updated: 2023-01-10 22:51:18
 title: APP混合开发
 ---
 
@@ -44,4 +44,4 @@ title: APP混合开发
 ## 注意
 
 - 此插件已经不维护了，目前也没有开源，只留下了一个空项目
-- 目前我觉的可以研究react 
+- 目前我觉的可以研究react native和flutter的通信方案，看是否能得出uniapp的通信方案
