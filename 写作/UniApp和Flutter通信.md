@@ -3,7 +3,7 @@ title: UniApp和Flutter通信
 aliases: [UniApp和Flutter通信]
 tags: []
 date created: 2023-01-12 13:18:11
-date updated: 2023-01-12 13:33:10
+date updated: 2023-01-12 16:19:04
 ---
 
 # UniApp和Flutter通信
