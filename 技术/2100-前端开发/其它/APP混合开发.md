@@ -2,7 +2,7 @@
 aliases: [APP混合开发, 编程方式]
 tags: []
 date created: 2022-06-22 10:53:28
-date updated: 2023-01-10 22:51:18
+date updated: 2023-01-12 13:12:36
 title: APP混合开发
 ---
 
@@ -27,7 +27,7 @@ title: APP混合开发
 
   [使用插件实现 flutter 的混合](https://ext.dcloud.net.cn/plugin?id=4302#detail),一套代码支持多端
 
-  混合 flutter 开发，主要解决 uniapp 无法实现的需求，同时原生开发能力有限的情况，使用 fluteer 以更低的学习成本，和开发成本开发插件，同时获得 fluterr 的生态环境，当然如果连 fluterr 也解决不了的问题，还是需要写原生
+ 混合 flutter 开发,将flutter打包成插件诺快,主要解决 uniapp 无法实现的需求，同时原生开发能力有限的情况，使用 fluteer 以更低的学习成本，和开发成本开发插件，同时获得 fluterr 的生态环境，当然如果连 fluterr 也解决不了的问题，还是需要写原生
 
 - uniapp + 原生插件实现混合
 
