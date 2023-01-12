@@ -46,4 +46,4 @@ date updated: 2023-01-12 13:33:10
 - [Flutter 集成uni-app - 知乎](https://zhuanlan.zhihu.com/p/367764687)
 - [uni-app Flutter插件使用文档 · 语雀](https://www.yuque.com/books/share/79a0282c-e800-408a-9d1f-226682cf77a1)
 
-大佬有什么思路欢迎评论
+大佬有什么思路欢迎评论,Flutter当UniApp插件得问题已经困扰我很久了,跪求
