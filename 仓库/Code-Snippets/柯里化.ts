@@ -1,7 +1,7 @@
 /*
  * @文件路径: \仓库\Code-Snippets\柯里化.ts
  * @创建时间: 2022-12-08 00:34:15
- * @更新时间: 2023-01-12 15:12:54
+ * @更新时间: 2023-01-12 15:16:23
  */
 namespace Curry {
   /**
@@ -25,5 +25,6 @@ namespace Curry {
 
   console.log(curry(add, 1, 2, 3, 4, 5));
   console.log(curry(add, 1, 2)(3, 4, 5));
+  console.log(curry(add, 1, 2, 3)(4, 5));
   console.log(curry(add, 1)(2)(3)(4)(5));
 }
