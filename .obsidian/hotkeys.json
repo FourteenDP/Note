@@ -1,12 +1,5 @@
 {
-  "note-composer:merge-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
+  "note-composer:merge-file": [],
   "omnisearch:show-modal": [
     {
       "modifiers": [
