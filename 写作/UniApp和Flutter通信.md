@@ -3,7 +3,7 @@ title: UniApp和Flutter通信
 aliases: [UniApp和Flutter通信]
 tags: []
 date created: 2023-01-12 13:18:11
-date updated: 2023-01-12 13:25:51
+date updated: 2023-01-12 13:31:02
 ---
 
 # UniApp和Flutter通信
@@ -30,4 +30,12 @@ date updated: 2023-01-12 13:25:51
 
 ### 使用UniApp Flutter插件
 
-社区大佬开发的一个已UniApp为基座,Flutter可直接作为UniApp插件使用
+```ad-warning
+可惜的是大佬已经不维护,也没有开源项目,只留下了一个空项目
+```
+
+社区大佬开发的一个已UniApp为基座,Flutter可直接作为UniApp插件使用,插件地址:[DCloud 插件市场-Flutter插件](https://ext.dcloud.net.cn/search?q=flutter)
+
+目前我觉得可以研究React Native和Flutter得开源通信方案,看是否能得出UniApp通信方案
+
+## 关联
