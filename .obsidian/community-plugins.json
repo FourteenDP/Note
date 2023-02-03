@@ -22,5 +22,8 @@
   "find-unlinked-files",
   "obsidian-outliner",
   "file-tree-alternative",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-tidy-footnotes",
+  "better-fn",
+  "obsidian-footnotes"
 ]
