@@ -7,5 +7,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "6"
+    }
   ]
 }
