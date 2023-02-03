@@ -3,7 +3,7 @@ aliases: [Git 如何添加子仓库, git 如何添加子仓库, 添加子仓库]
 tags: []
 title: Git 如何添加子仓库
 date created: 2022-12-22 15:24:12
-date updated: 2023-01-29 16:43:04
+date updated: 2023-02-03 17:02:12
 ---
 
 # Git 如何添加子仓库
@@ -53,3 +53,4 @@ git rm -r <path>
 ## 关联
 
 - [Git子库：submodule与subtree](https://juejin.cn/post/7077775905888124941)
+- [用 Git Subtree 在多个 Git 项目间双向同步子项目 - 掘金](https://juejin.cn/post/6844903762176262157)
