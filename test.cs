@@ -1,5 +1,16 @@
-class Helpers {
-    public static void Main() {
-        System.Console.WriteLine("Hello World!");
+class Singleton
+{
+    private static Singleton instance = null;
+    private Singleton() { }
+    public static Singleton Instance
+    {
+        get
+        {
+            if (instance == null)
+            {
+                instance = new Singleton();
+            }
+            return instance;
+        }
     }
 }
