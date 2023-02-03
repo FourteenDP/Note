@@ -68,7 +68,7 @@
       "Heading levels should only increment by one level at a time": true
     },
     "Footnote after Punctuation": {
-      "Ensures that footnote references are placed after punctuation, not before.": true
+      "Ensures that footnote references are placed after punctuation, not before.": false
     },
     "Move Footnotes to the bottom": {
       "Move all footnotes to the bottom of the document.": true
