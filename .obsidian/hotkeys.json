@@ -11,7 +11,7 @@
   "obsidian-footnotes:insert-footnote": [
     {
       "modifiers": [
-        "Alt",
+        "Mod",
         "Shift"
       ],
       "key": "6"
