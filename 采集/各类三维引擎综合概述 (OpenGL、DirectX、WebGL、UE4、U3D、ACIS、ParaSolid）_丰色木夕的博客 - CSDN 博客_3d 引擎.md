@@ -1,24 +1,26 @@
 ---
+aliases: [各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎]
+tags: []
 title: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
 date created: 2023-02-03 09:40:54
-date updated: 2023-02-03 09:40:54
+date updated: 2023-02-03 09:41:16
 ---
 
 # 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
 
 **原文：**[各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎](https://blog.csdn.net/youlinhuanyan/article/details/123952013)
 
-### 关于 OpenGL、DirectX、[OpenCV](https://so.csdn.net/so/search?q=OpenCV&spm=1001.2101.3001.7020)
+## 关于 OpenGL、DirectX、[OpenCV](https://so.csdn.net/so/search?q=OpenCV&spm=1001.2101.3001.7020)
 
-##### OpenCV
+### OpenCV
 
 OpenCV 是 Open Source Computer [Vision](https://so.csdn.net/so/search?q=Vision&spm=1001.2101.3001.7020) Library 主要是提供图像处理和视频处理的基础算法库，还涉及一些机器学习的算法。比如你想实现视频的降噪、运动物体的跟踪、目标（比如人脸）的识别这些都是 CV 的领域。它是可以运行在 Linux、Window、和 Mac OS 操作系统上，它是轻量级而且很高效的。
 
-##### OpenGL
+### OpenGL
 
 OpenGL 是 Open Graphics Library 是个定义了一个跨编程语言、跨平台的编程接口规格的专业的图形程序接口。它用于三维图象（二维的亦可），是一个功能强大，调用方便的底层图形库。
 
-##### DirectX
+### DirectX
 
 DirectX 是 Direct eXtension 由微软开发，是许多种 API 的集合体，包含 Direct3D，Direct2D，DirectCompute，XAudio，XIput 等内容。DirectX 主要是面向游戏而开发的一系列硬件资源调用的接口；它的接口范围比较 OpenGL 大
 
