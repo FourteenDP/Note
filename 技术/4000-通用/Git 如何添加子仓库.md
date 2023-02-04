@@ -3,7 +3,7 @@ aliases: [Git 如何添加子仓库, git 如何添加子仓库, 添加子仓库]
 tags: []
 title: Git 如何添加子仓库
 date created: 2022-12-22 15:24:12
-date updated: 2023-02-05 00:22:57
+date updated: 2023-02-05 00:29:34
 ---
 
 # Git 如何添加子仓库
@@ -46,7 +46,7 @@ git config -f .gitmodules --remove-section submodule.<path>
 **第一步**：添加子库远程连接到主库
 
 ```shell
-git 
+git remote add <name> <url>
 ```
 
 ## 关联
