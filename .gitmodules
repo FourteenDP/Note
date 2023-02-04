@@ -10,3 +10,6 @@
 [submodule "仓库/CS-Hello"]
 	path = 仓库/CS-Hello
 	url = git@github.com:FourteenD/CS-Hello.git
+[submodule "拾肆"]
+	path = 拾肆
+	url = git@github.com:FourteenD/-.git
