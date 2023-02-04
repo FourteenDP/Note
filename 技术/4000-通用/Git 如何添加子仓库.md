@@ -3,7 +3,7 @@ aliases: [Git 如何添加子仓库, git 如何添加子仓库, 添加子仓库]
 tags: []
 title: Git 如何添加子仓库
 date created: 2022-12-22 15:24:12
-date updated: 2023-02-04 21:08:28
+date updated: 2023-02-05 00:21:34
 ---
 
 # Git 如何添加子仓库
@@ -39,25 +39,8 @@ git rm <path>
 git config -f .gitmodules --remove-section submodule.<path>
 ```
 
-## 最新版本推荐使用Git Subtree
+## 新版本推荐使用Git Subtree
 
-## 1. 添加子仓库
-
-```bash
-git subtree add --prefix=<path> <url> <branch> --squash
-```
-
-## 2. 更新子仓库
-
-```bash
-git subtree pull --prefix=<path> <url> <branch> --squash
-```
-
-## 3. 删除子仓库
-
-```bash
-git rm -r <path>
-```
 
 ## 关联
 
