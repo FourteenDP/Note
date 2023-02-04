@@ -1,12 +1,6 @@
 #!/bin/bash
-git remote add subtree-- git@github.com:FourteenD/-.git
-git remote add subtree-Vue3-Hello git@github.com:FourteenD/Vue3-Hello.git
-git remote add subtree-Script git@github.com:FourteenD/Script.git
-git remote add subtree-Code-Snippets git@github.com:FourteenD/Code-Snippets.git
-git remote add subtree-CS-Hello git@github.com:FourteenD/CS-Hello.git
-
-git subtree add --prefix 拾肆  subtree-- main
-git subtree add --prefix 仓库/Vue3-Hello  subtree-Vue3-Hello main
-git subtree add --prefix 仓库/Script  subtree-Script main
-git subtree add --prefix 仓库/Code-Snippets  subtree-Code-Snippets main
-git subtree add --prefix 仓库/CS-Hello  subtree-CS-Hello main
+git submodule add git@github.com:FourteenD/-.git 拾肆
+git submodule add git@github.com:FourteenD/Vue3-Hello.git 仓库/Vue3-Hello
+git submodule add git@github.com:FourteenD/Script.git 仓库/Script
+git submodule add git@github.com:FourteenD/Code-Snippets.git 仓库/Code-Snippets
+git submodule add git@github.com:FourteenD/CS-Hello.git 仓库/CS-Hello

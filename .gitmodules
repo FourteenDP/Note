@@ -1,0 +1,12 @@
+[submodule "仓库/Vue3-Hello"]
+	path = 仓库/Vue3-Hello
+	url = git@github.com:FourteenD/Vue3-Hello.git
+[submodule "仓库/Script"]
+	path = 仓库/Script
+	url = git@github.com:FourteenD/Script.git
+[submodule "仓库/Code-Snippets"]
+	path = 仓库/Code-Snippets
+	url = git@github.com:FourteenD/Code-Snippets.git
+[submodule "仓库/CS-Hello"]
+	path = 仓库/CS-Hello
+	url = git@github.com:FourteenD/CS-Hello.git
