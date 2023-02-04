@@ -57,6 +57,8 @@ git config -f .gitmodules --remove-section submodule.<path>
   git subtree add --prefix <path> <name> <branch> --squash
   ```
 
+  `--squash`可选参数：表示将子库的所有提交合并为一个提交，这样可以避免子库的提交历史污染主库
+
 ## 关联
 
 - [Git子库：submodule与subtree](https://juejin.cn/post/7077775905888124941)
