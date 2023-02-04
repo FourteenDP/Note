@@ -43,11 +43,12 @@ git config -f .gitmodules --remove-section submodule.<path>
 
 ### 建立关联
 
-**第一步**：添加子库远程连接到主库
+**一**：添加子库远程连接到主库
 
 ```shell
 git remote add <name> <url>
 ```
+
 
 ## 关联
 
