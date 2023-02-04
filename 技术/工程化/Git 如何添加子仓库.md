@@ -54,7 +54,7 @@ git config -f .gitmodules --remove-section submodule.<path>
 - 建立依赖关系
 
   ```shell
-  git subtree add --prefix=<path> <name> <branch> --squash
+  git subtree add --prefix <path> <name> <branch> --squash
   ```
 
 ## 关联
