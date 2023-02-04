@@ -63,4 +63,4 @@ git rm -r <path>
 
 - [Git子库：submodule与subtree](https://juejin.cn/post/7077775905888124941)
 - [用 Git Subtree 在多个 Git 项目间双向同步子项目 - 掘金](https://juejin.cn/post/6844903762176262157)
-- [Fetching Title#w953](https://www.jianshu.com/p/d42d330bfead)
+- [git subtree教程 - 简书](https://www.jianshu.com/p/d42d330bfead)
