@@ -3,7 +3,7 @@ aliases: [Git 如何添加子仓库, git 如何添加子仓库, 添加子仓库]
 tags: []
 title: Git 如何添加子仓库
 date created: 2022-12-22 15:24:12
-date updated: 2023-02-04 21:05:09
+date updated: 2023-02-04 21:08:28
 ---
 
 # Git 如何添加子仓库
@@ -11,6 +11,11 @@ date updated: 2023-02-04 21:05:09
 ## 简介
 
 目前 Git 添加子仓库的方式有两种
+
+- [Git Submodule](https://link.juejin.cn?target=http%3A%2F%2Fgit-scm.com%2Fdocs%2Fgit-submodule "http://git-scm.com/docs/git-submodule")：这是Git官方以前的推荐方案
+- [Git Subtree](https://link.juejin.cn?target=https%3A%2F%2Fmedium.com%2F%40porteneuve%2Fmastering-git-Subtrees-943d29a798ec "https://medium.com/@porteneuve/mastering-git-Subtrees-943d29a798ec")：从 [Git 1.5.2](https://link.juejin.cn?target=http%3A%2F%2Flwn.net%2FArticles%2F235109%2F "http://lwn.net/Articles/235109/") 开始，Git 新增并推荐使用这个功能来管理子项目
+
+![[Pasted image 20230204210622.png]]
 
 ## 1. 添加子仓库
 
