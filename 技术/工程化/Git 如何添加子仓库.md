@@ -31,12 +31,6 @@ git submodule add <url> <path>
 git submodule update --init --recursive
 ```
 
-### 同步所有仓库
-
-```bash
-git submodule foreach git pull origin main
-```
-
 ### 删除子仓库
 
 ```bash
