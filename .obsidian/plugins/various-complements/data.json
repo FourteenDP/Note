@@ -290,6 +290,38 @@
           "lastUpdated": 1675575995420
         }
       }
+    },
+    "function": {
+      "function": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623338932
+        }
+      }
+    },
+    "error": {
+      "error": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623341509
+        }
+      }
+    },
+    "try": {
+      "try": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623361063
+        }
+      }
+    },
+    "{{url}}": {
+      "{{url}}": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675623365547
+        }
+      }
     }
   }
 }
