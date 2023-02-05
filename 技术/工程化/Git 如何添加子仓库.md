@@ -19,19 +19,25 @@ date updated: 2023-02-05 10:48:14
 
 ## 旧版本使用Git Submodule
 
-### 1. 添加子仓库
+### 添加子仓库
 
 ```bash
 git submodule add <url> <path>
 ```
 
-### 2. 更新子仓库
+### 更新子仓库
 
 ```bash
 git submodule update --init --recursive
 ```
 
-### 3. 删除子仓库
+### 同步所有仓库
+
+```bash
+git submodule foreach git pull origin main
+```
+
+### 删除子仓库
 
 ```bash
 git submodule deinit <path>
