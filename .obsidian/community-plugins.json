@@ -27,5 +27,7 @@
   "better-fn",
   "obsidian-footnotes",
   "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin"
 ]
