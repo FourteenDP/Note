@@ -55,14 +55,6 @@
         }
       }
     },
-    "为什么简化：BEM": {
-      "为什么简化：BEM": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670813242782
-        }
-      }
-    },
     "Vue3": {
       "Vue3": {
         "internalLink": {
@@ -376,6 +368,14 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1675780868840
+        }
+      }
+    },
+    "Flutter 速记": {
+      "Flutter 速记": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675838421441
         }
       }
     }
