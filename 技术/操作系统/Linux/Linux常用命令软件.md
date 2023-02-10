@@ -3,7 +3,7 @@ title: Linux常用命令软件
 aliases: [Linux常用命令软件]
 tags: []
 date created: 2022-08-09 22:01:59
-date updated: 2022-12-29 16:12:48
+date updated: 2023-02-10 09:29:32
 ---
 
 # Linux常用命令软件
@@ -16,7 +16,7 @@ date updated: 2022-12-29 16:12:48
 - Axel: `apt install axel`
 - Nvm: [[Linux安装Node版本管理器Nvm]]
 - Zsh: [[Linux安装命令行工具Oh My Zsh]]
-- Zerotier: [[Linux安装内网穿透工具zerotier]]
+- [ZeroTier – Global Area Networking](https://www.zerotier.com/)
 - Openssh-server: [[WSL SSH远程连接]]
 - [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#installation): 终端文件管理
 - [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): vim 模式的终端控制
