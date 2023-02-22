@@ -8,7 +8,7 @@ date updated: 2023-02-22 12:07:18
 
 # Null 和 Undefined
 
-## Null 和 Undefined的区别
+## Null 和 Undefined 的区别
 
 ### Null
 
