@@ -3,7 +3,7 @@ aliases: [Null 和 Undefined, Null和 Undefined, Null和Undefined, Null和Undefi
 tags: []
 title: Null 和 Undefined
 date created: 2022-12-13 14:54:20
-date updated: 2023-02-22 12:37:13
+date updated: 2023-02-22 14:18:45
 ---
 
 # Null 和 Undefined
@@ -26,7 +26,7 @@ let n: null = null;
 let u: undefined = undefined;
 ```
 
-## Null和Undefined的关系
+## Null 和 Undefined 的关系
 
 JavaScript诞生之初，最初像Java一样，只设置了null作为表示”无”的值。根据C语言的传统，null被设计成可以自动转为0
 
