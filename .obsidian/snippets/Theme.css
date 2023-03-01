@@ -52,6 +52,10 @@ h1 a {
   color: var(--text-title-h1) !important;
 }
 
+h1 a:hover {
+  color: var(--link-color-hover) !important;
+}
+
 .HyperMD-header-2,
 .HyperMD-header-2 .cm-header-2.cm-link,
 .HyperMD-header-2 .cm-header-2.cm-hmd-internal-link,
@@ -66,7 +70,7 @@ h2 a {
 }
 
 h2 a:hover {
-  color: var(--blue) !important;
+  color: var(--link-color-hover) !important;
 }
 
 
@@ -74,10 +78,17 @@ h2 a:hover {
 .HyperMD-header-3 .cm-header-3.cm-link,
 .HyperMD-header-3 .cm-header-3.cm-hmd-internal-link,
 .markdown-preview-section h3,
-.markdown-rendered h3,
-h3 a {
+.markdown-rendered h3 {
   color: var(--text-title-h3) !important;
   font-size: var(--h3) !important;
+}
+
+h3 a {
+  color: var(--text-title-h3) !important;
+}
+
+h3 a:hover {
+  color: var(--link-color-hover) !important;
 }
 
 .HyperMD-header-4,
@@ -122,4 +133,3 @@ h6 a {
 
 .markdown-embed-title {
   display: none;
-}
