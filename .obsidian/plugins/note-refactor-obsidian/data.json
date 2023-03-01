@@ -6,6 +6,6 @@
   "customFolder": "",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
-  "noteLinkTemplate": "!{{new_note_link}}",
+  "noteLinkTemplate": "- {{new_note_link}}",
   "refactoredNoteTemplate": ""
 }
