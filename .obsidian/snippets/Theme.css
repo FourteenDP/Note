@@ -65,6 +65,11 @@ h1 a:hover {
   font-size: var(--h2) !important;
 }
 
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link .cm-underline{
+  text-decoration: none;
+  font-size: large;
+}
+
 h2 a {
   color: var(--text-title-h2) !important;
 }
@@ -95,30 +100,51 @@ h3 a:hover {
 .HyperMD-header-4 .cm-header-4.cm-link,
 .HyperMD-header-4 .cm-header-4.cm-hmd-internal-link,
 .markdown-preview-section h4,
-.markdown-rendered h4,
-h4 a {
+.markdown-rendered h4 {
   color: var(--text-title-h4) !important;
   font-size: var(--h4) !important;
+}
+
+h4 a {
+  color: var(--text-title-h4) !important;
+}
+
+h4 a:hover {
+  color: var(--link-color-hover) !important;
 }
 
 .HyperMD-header-5,
 .HyperMD-header-5 .cm-header-5.cm-link,
 .HyperMD-header-5 .cm-header-5.cm-hmd-internal-link,
 .markdown-preview-section h5,
-.markdown-rendered h5,
-h5 a {
+.markdown-rendered h5 {
   color: var(--text-title-h5) !important;
   font-size: var(--h5) !important;
+}
+
+h5 a {
+  color: var(--text-title-h5) !important;
+}
+
+h5 a:hover {
+  color: var(--link-color-hover) !important;
 }
 
 .HyperMD-header-6,
 .HyperMD-header-6 .cm-header-6.cm-link,
 .HyperMD-header-6 .cm-header-6.cm-hmd-internal-link,
 .markdown-preview-section h6,
-.markdown-rendered h6,
-h6 a {
+.markdown-rendered h6 {
   color: var(--text-title-h6) !important;
   font-size: var(--h6) !important;
+}
+
+h6 a {
+  color: var(--text-title-h6) !important;
+}
+
+h6 a:hover {
+  color: var(--link-color-hover) !important;
 }
 
 /* 全屏iframe */
@@ -133,3 +159,4 @@ h6 a {
 
 .markdown-embed-title {
   display: none;
+}
