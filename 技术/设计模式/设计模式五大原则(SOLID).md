@@ -3,7 +3,7 @@ title: 设计模式五大原则(SOLID)
 aliases: [设计模式五大原则(SOLID)]
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-03-02 01:06:35
+date updated: 2023-03-02 01:15:05
 ---
 
 # 设计模式五大原则(SOLID)
