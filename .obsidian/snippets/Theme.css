@@ -41,52 +41,50 @@
 /* 颜色 */
 .HyperMD-header-1,
 .HyperMD-header-1 .cm-header-1.cm-link,
-.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
 .markdown-preview-section h1,
 .markdown-rendered h1 {
   color: var(--text-title-h1) !important;
   font-size: var(--h1) !important;
 }
 
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link,
 h1 a {
   color: var(--text-title-h1) !important;
 }
 
+.HyperMD-header-1 .cm-header-1.cm-hmd-internal-link:hover,
 h1 a:hover {
   color: var(--link-color-hover) !important;
 }
 
 .HyperMD-header-2,
 .HyperMD-header-2 .cm-header-2.cm-link,
-.HyperMD-header-2 .cm-header-2.cm-hmd-internal-link,
+
 .markdown-preview-section h2,
 .markdown-rendered h2 {
   color: var(--text-title-h2) !important;
   font-size: var(--h2) !important;
 }
 
+.HyperMD-header-2 .cm-header-2.cm-hmd-internal-link,
 h2 a {
   color: var(--text-title-h2) !important;
 }
 
+.HyperMD-header-2 .cm-header-2.cm-hmd-internal-link:hover,
 h2 a:hover {
   color: var(--link-color-hover) !important;
 }
 
-.markdown-source-view.mod-cm6 .cm-hmd-internal-link .cm-underline {
-  font-size: var(--h2-variant) !important;
-}
-
-
 .HyperMD-header-3,
 .HyperMD-header-3 .cm-header-3.cm-link,
-.HyperMD-header-3 .cm-header-3.cm-hmd-internal-link,
 .markdown-preview-section h3,
 .markdown-rendered h3 {
   color: var(--text-title-h3) !important;
   font-size: var(--h3) !important;
 }
 
+.HyperMD-header-3 .cm-header-3.cm-hmd-internal-link,
 h3 a {
   color: var(--text-title-h3) !important;
 }
