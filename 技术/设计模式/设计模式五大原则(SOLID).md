@@ -1,4 +1,12 @@
-## 设计模式五大原则(SOLID)
+---
+title: 设计模式五大原则(SOLID)
+aliases: [设计模式五大原则(SOLID)]
+tags: []
+date created: 2023-03-02 00:27:24
+date updated: 2023-03-02 01:06:35
+---
+
+# 设计模式五大原则(SOLID)
 
 - 单一职责原则(Single Responsibility Principle)
 - 开闭原则(Open Close Principle)
@@ -7,7 +15,7 @@
 - 接口隔离原则(Interface Segregation Principle)
 - 依赖倒转原则(Dependence Inversion Principle)
 
-### 单一职责原则 SRP(Single Responsibility Principle)
+## 单一职责原则 SRP(Single Responsibility Principle)
 
 - 定义：一个类只负责一项职责
 - 解释：一个类只负责一项职责，这项职责要单一，不能够包含多个方向的职责，否则这个类就不具备可读性、可维护性和可扩展性了
@@ -15,7 +23,7 @@
 - 缺点：增加类的个数、增加系统的复杂度
 - 适用场景：只有逻辑足够简单，才可以在代码级违反单一职责原则；只有类中方法数量足够少，可以在方法级别保持单一职责原则
 
-### 开闭原则 OCP(Open Close Principle)
+## 开闭原则 OCP(Open Close Principle)
 
 - 定义：一个软件实体如类、模块和函数应该对扩展开放，对修改关闭
 - 解释：一个软件实体应该通过扩展来实现变化，而不是通过修改已有的代码来实现变化
@@ -23,7 +31,7 @@
 - 缺点：增加了系统的复杂度和理解难度
 - 适用场景：在系统中尽量使用面向接口编程，而不是面向实现编程
 
-### 里氏替换原则 LSP(Liskov Substitution Principle)
+## 里氏替换原则 LSP(Liskov Substitution Principle)
 
 - 定义：所有引用基类的地方必须能透明地使用其子类的对象
 - 解释：子类必须完全实现父类的方法，而且子类可以有自己的个性化方法
@@ -31,7 +39,7 @@
 - 缺点：增加了代码的复杂度
 - 适用场景：只有当子类可以替换掉所有父类的出现的地方，父类才能真正被复用，而且子类还能增加父类的新功能
 
-### 接口隔离原则 ISP(Interface Segregation Principle)
+## 接口隔离原则 ISP(Interface Segregation Principle)
 
 - 定义：使用多个专门的接口，而不使用单一的总接口，客户端不应该依赖它不需要的接口
 - 解释：客户端不应该依赖它不需要的接口，即一个类对另一个类的依赖应该建立在最小的接口上
@@ -39,7 +47,7 @@
 - 缺点：增加了系统的复杂度和理解难度
 - 适用场景：在系统中尽量使用面向接口编程，而不是面向实现编程
 
-### 依赖倒转原则 DIP(Dependence Inversion Principle)
+## 依赖倒转原则 DIP(Dependence Inversion Principle)
 
 - 定义：高层模块不应该依赖底层模块，两者都应该依赖其抽象；抽象不应该依赖细节，细节应该依赖抽象
 - 解释：抽象指的是接口或抽象类，细节就是具体的实现类；依赖指的是类之间的耦合关系，耦合的度越弱，越容易复用，一个处在高层的模块不应该依赖于底层模块，两者都应该依赖于抽象；抽象不应该依赖于细节，细节应该依赖于抽象
