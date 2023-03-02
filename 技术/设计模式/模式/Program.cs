@@ -2,4 +2,5 @@
 
 using Singleton;
 
-Console.WriteLine("Hello, World!");
+
+Singleton.Test.Run();
