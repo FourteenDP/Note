@@ -1,12 +1,12 @@
 ---
-title: 设计模式五大原则(SOLID)
-aliases: [设计模式五大原则(SOLID)]
+title: 五大原则(SOLID)
+aliases: [五大原则(SOLID), 设计模式之五大原则(SOLID), 设计模式五大原则(SOLID)]
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-03-02 01:15:05
+date updated: 2023-03-02 14:43:22
 ---
 
-# 设计模式五大原则(SOLID)
+# 五大原则(SOLID)
 
 - 单一职责原则(Single Responsibility Principle)
 - 开闭原则(Open Close Principle)
