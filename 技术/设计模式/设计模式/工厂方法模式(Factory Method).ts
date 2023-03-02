@@ -1,5 +1,1 @@
-class Factory {
-    public createProduct(): Product {
-        return new Product();
-    }
-}
+// 创建者类声明工厂方法，该方法应该返回一个产品类的对象。创建者的子类通常提供实现工厂方法的代码。
