@@ -3,7 +3,7 @@ title: 补充原则(不属于SOLID原则)
 aliases: [补充原则(不属于SOLID原则), 其它设计模式原则, 其它原则]
 tags: []
 date created: 2023-03-02 01:01:25
-date updated: 2023-03-02 01:16:20
+date updated: 2023-03-02 14:45:37
 ---
 
 # 补充原则(不属于SOLID原则)
