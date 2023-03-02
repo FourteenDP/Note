@@ -13,3 +13,6 @@
 [submodule "拾肆"]
 	path = 拾肆
 	url = git@github.com:FourteenD/-.git
+[submodule "日志"]
+	path = 日志
+	url = git@github.com:FourteenD/--.git
