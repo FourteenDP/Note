@@ -1,5 +1,8 @@
 .trash
 .obsidian/workspace.json
 .vscode
+.vs
 node_modules
 package-lock.json
+bin
+obj
