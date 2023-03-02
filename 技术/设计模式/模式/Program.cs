@@ -2,5 +2,4 @@
 
 using Singleton;
 
-
 Singleton.Test.Run();
