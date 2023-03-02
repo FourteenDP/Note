@@ -61,7 +61,7 @@ namespace Singleton
   // 测试
   public class Test
   {
-    private static void Run()
+    public static void Run()
     {
       Singleton1 s1 = Singleton1.Instance;
       Singleton1 sl1 = Singleton1.Instance;
