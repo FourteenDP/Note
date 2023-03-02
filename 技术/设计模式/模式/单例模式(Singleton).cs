@@ -4,12 +4,12 @@ namespace Singleton
   public sealed class Singleton1
   {
     private Singleton1() { }
-    private static Singleton1 instance = new Singleton1();
+    private static Singleton1 _instance = new Singleton1();
     public static Singleton1 Instance
     {
       get
       {
-        return instance;
+        return _instance;
       }
     }
   }
