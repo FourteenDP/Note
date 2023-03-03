@@ -3,7 +3,7 @@ title: 单例模式(Singleton)
 aliases: [单例模式(Singleton)]
 tags: []
 date created: 2023-03-02 15:45:11
-date updated: 2023-03-02 21:26:23
+date updated: 2023-03-03 15:57:59
 ---
 
 # 单例模式(Singleton)
