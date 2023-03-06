@@ -1,4 +1,4 @@
-namespace Curry {
+namespace CurrytingAndPartialFunction {
   /**
    * 函数柯里化
    * @param        {Function} fn
