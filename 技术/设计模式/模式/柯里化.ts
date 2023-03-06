@@ -14,8 +14,8 @@ namespace Curry {
   }
 
   // 测试
-  function add(a, b, c, d, e) {
-    return a + b + c + d + e;
+  function add(a: number, b: number): number {
+    return a + b;
   }
 
   console.log(curry(add, 1, 2, 3, 4, 5));
