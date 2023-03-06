@@ -10,7 +10,7 @@ namespace Curry {
   function curry<T>(fn: Function, ...args: T[]): Function {
     return args.length >= fn.length
       ? fn(...args)
-F: (..._args: T[]) => curry(fn, ...args, ..._args);
+      : (..._args: T[]) => curry(fn, ...args, ..._args);
   }
 
   function add(a: number, b: number): number {
