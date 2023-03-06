@@ -2,12 +2,7 @@ namespace Test {
   // 事件总线类
   class EventBus {
     private static instance: EventBus;
-    private listeners: Map<string, Function[]>;
-
-    private constructor() {
-      this.listeners = new Map();
-    }
-
+    private constructor() {}
     public static getInstance(): EventBus {
       if (!EventBus.instance) {
         EventBus.instance = new EventBus();
@@ -15,34 +10,25 @@ namespace Test {
       return EventBus.instance;
     }
 
-    public on(eventName: string, listener: Function): void {
-      if (!this.listeners.has(eventName)) {
-        this.listeners.set(eventName, []);
-      }
-      this.listeners.get(eventName).push(listener);
+    private _subscribers: { [key: string]: Function[] } = {};
+
+    public on(event: string, callback: Function) {
+      if (!Array.isArray(this._subscribers[event])) this._subscribers[event] = [];
+      this._subscribers[event].push(callback);
     }
 
-    public off(eventName: string, listener: Function): void {
-      if (!this.listeners.has(eventName)) {
-        return;
-      }
-      const listeners = this.listeners.get(eventName);
-      const index = listeners.indexOf(listener);
-      if (index > -1) {
-        listeners.splice(index, 1);
-      }
-    }
-
-    public emit(eventName: string, ...args: any[]): void {
-      if (!this.listeners.has(eventName)) {
-        return;
-      }
-      const listeners = this.listeners.get(eventName);
-      listeners.forEach((listener) => {
-        listener(...args);
+    public emit(event: string, ...args: any[]) {
+      this._subscribers[event]?.forEach((callback) => {
+        callback(...args);
       });
     }
+
+    public off(event: string, callback: Function) {
+      this._subscribers[event] = this._subscribers[event]?.filter((item) => item !== callback);
+      if (this._subscribers[event]?.length === 0) delete this._subscribers[event];
+    }
   }
+
 
   // 事件类
   class Event {
