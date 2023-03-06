@@ -2,11 +2,9 @@ namespace Test {
   // 事件总线类
   class EventBus {
     private static instance: EventBus;
-    private listeners: Map<string, Function[]>;
+    private listeners: Map<string, Function[]> = new Map();
 
-    private constructor() {
-      this.listeners = new Map();
-    }
+    private constructor() {}
 
     public static getInstance(): EventBus {
       if (!EventBus.instance) {
