@@ -13,7 +13,6 @@ namespace Curry {
       : (..._args) => curry(fn, ...args, ..._args);
   }
 
-  // 测试
   function add(a: number, b: number): number {
     return a + b;
   }
