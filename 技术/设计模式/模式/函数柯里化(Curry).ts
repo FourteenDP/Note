@@ -9,8 +9,10 @@ namespace Curry {
   */
   function curry<T>(fn: Function, ...args: T[]): Function {
     if (fn.length <= args.length) {
+      // 参数个数满足要求，直接执行函数
       return fn(...args);
     } else {
+      // 返回一个函数，接收剩余参数
       return (..._args: T[]) => curry(fn, ...args, ..._args);
     }
   }
