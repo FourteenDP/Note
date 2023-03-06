@@ -2,9 +2,11 @@ namespace Test {
   // 事件总线类
   class EventBus {
     private static instance: EventBus;
-    private listeners: Map<string, Function[]> = new Map();
+    private listeners: Map<string, Function[]>;
 
-    private constructor() {}
+    private constructor() {
+      this.listeners = new Map();
+    }
 
     public static getInstance(): EventBus {
       if (!EventBus.instance) {
@@ -17,7 +19,7 @@ namespace Test {
       if (!this.listeners.has(eventName)) {
         this.listeners.set(eventName, []);
       }
-      this.listeners.get(eventName)!.push(listener)
+      this.listeners.get(eventName).push(listener);
     }
 
     public off(eventName: string, listener: Function): void {
