@@ -9,5 +9,3 @@ date updated: 2023-03-07 05:26:48
 # 函数柯里化
 
 **函数柯里化**是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数而且返回结果的新函数的技术。
-
-[Code-Snippets/函数柯里化(Curry).ts at main · FourteenD/Code-Snippets](https://github.com/FourteenD/Code-Snippets/blob/main/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96(Curry).ts)
