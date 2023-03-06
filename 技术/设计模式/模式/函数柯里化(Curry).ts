@@ -11,7 +11,7 @@ namespace Curry {
     if (fn.length <= args.length) {
       return fn(...args);
     } else {
-      return (...args2: T[]) => curry(fn, ...args, ...args2);
+      return (..._args: T[]) => curry(fn, ...args, ..._args);
     }
   }
 
