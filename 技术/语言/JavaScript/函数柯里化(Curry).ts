@@ -1,6 +1,6 @@
 namespace Curry {
   /**
-   * @description : 柯里化
+   * @description : 函数柯里化
    * @param        {Function} fn
    * @param        {Array} args
    * @return       {Function}
