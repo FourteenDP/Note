@@ -1,12 +1,12 @@
 ---
-title: 优雅的处理 aysnc&await 异常
-aliases: [优雅的处理 aysnc&await 异常, 优雅的处理 aysnc/await 异常]
+title: 优雅的处理 aysnc&await
+aliases: [优雅的处理 aysnc&await, 优雅的处理 aysnc&await 结果, 优雅的处理 aysnc/await 异常]
 tags: []
 date created: 2023-02-06 02:54:19
-date updated: 2023-02-06 02:58:19
+date updated: 2023-03-07 03:21:32
 ---
 
-# 优雅的处理 aysnc&await 异常
+# 优雅的处理 aysnc&await
 
 ```javascript
 async function errorCaptured(asyncFunc){
