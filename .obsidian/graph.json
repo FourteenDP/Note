@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "设计",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45266498521468773,
-  "close": false
+  "scale": 0.16426640565933054,
+  "close": true
 }
