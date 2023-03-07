@@ -55,38 +55,6 @@
         }
       }
     },
-    "根据系统浏览器服务器各有所异\\": {
-      "根据系统浏览器服务器各有所异\\": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672908097130
-        }
-      }
-    },
-    "CSS 选择器优先级权重 _ w3c 笔记": {
-      "CSS 选择器优先级权重 _ w3c 笔记": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1672910668991
-        }
-      }
-    },
-    "https://www.w3cschool.cn/article/67325175.html": {
-      "https://www.w3cschool.cn/article/67325175.html": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1672911381646
-        }
-      }
-    },
-    "背单词+英标": {
-      "背单词+英标": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673106772423
-        }
-      }
-    },
     "任务": {
       "任务": {
         "internalLink": {
@@ -416,6 +384,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1677695418642
+        }
+      }
+    },
+    "等待者模式(Waiter Pattern)": {
+      "等待者模式(Waiter Pattern)": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678171855790
         }
       }
     }
