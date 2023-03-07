@@ -1,0 +1,1 @@
+## [[事件总线(Event Bus)]] 别称发布/订阅模式(Publish/Subscribe)

@@ -1,0 +1,1 @@
+## [[柯里化(Currying)与偏函数(Partial Function)模式]]
