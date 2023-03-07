@@ -18,4 +18,4 @@ date updated: 2023-03-07 13:41:50
 - **[[惰性模式(Lazy Initialization)]]**
 - **[[等待者模式(Waiter Pattern)]]**
 - **[[防抖与节流模式(Debounce & Throttle)]]**
-- **[[技术/设计模式/非GoF设计模式/柯里化(Currying)与偏函数(Partial Function)模式]]**
+- **[[柯里化(Currying)与偏函数(Partial Function)模式]]**
