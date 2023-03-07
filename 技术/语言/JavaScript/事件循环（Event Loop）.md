@@ -15,7 +15,7 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 在事件循环中，有三个主要的部分：宏任务（macro-task）、微任务（micro-task）和回调队列（callback queue）。
 
 - 宏任务是事件循环的最外层，包括定时器（setTimeout、setInterval等）、事件（DOM事件、网络请求等）和I/O操作（文件读写等）等。
-- 微任务是宏任务执行完毕后立即执行的任务，包括Promise回调、MutationObserver回调等。
+- 微任务是宏任务执行完毕后立即执行的任务，包括Promise回调、MutationObserver回调、process.nextTick回调、Object.observe回调、queueMicrotask回调等
 - 回调队列存储在事件循环的微任务队列中，它们会在下一个事件循环迭代中被调用。
 事件循环的具体流程可以分为以下几个步骤：
 
