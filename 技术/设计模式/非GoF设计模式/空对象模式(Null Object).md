@@ -1,9 +1,9 @@
 ---
 title: 空对象模式(Null Object)
 aliases: [空对象模式(Null Object)]
-tags: 
+tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-03-07 13:45:23
+date updated: 2023-03-07 14:17:42
 ---
 
 # 空对象模式(Null Object)
