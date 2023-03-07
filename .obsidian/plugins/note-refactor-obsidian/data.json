@@ -1,6 +1,6 @@
 {
-  "includeFirstLineAsNoteHeading": false,
-  "excludeFirstLineInNote": false,
+  "includeFirstLineAsNoteHeading": true,
+  "excludeFirstLineInNote": true,
   "headingFormat": "#",
   "newFileLocation": 1,
   "customFolder": "",
