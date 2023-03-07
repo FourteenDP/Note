@@ -10,7 +10,7 @@ date updated: 2023-03-02 01:17:42
 
 - 对软件开发中一些特殊情况的解决方案,它们并不属于GoF23种设计模式,但是也是非常重要的,也是我们在软件开发中经常使用的
 
-## [[事件总线(Event Bus).ts]] 又名发布/订阅模式(Publish-Subscribe)
+## [[事件总线(Event Bus)]] 别称发布/订阅模式(Publish-Subscribe)
 
 ## 空对象模式(Null Object)
 
