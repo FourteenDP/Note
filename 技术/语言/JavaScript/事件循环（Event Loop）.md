@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 13:15:30
+date updated: 2023-03-08 13:23:41
 ---
 
 # 事件循环（Event Loop）
@@ -261,3 +261,4 @@ console.log("10")
 - [带你彻底弄懂Event Loop - 掘金](https://juejin.cn/post/6844903670291628046)
 - [彻底搞懂JavaScript事件循环 - 掘金](https://juejin.cn/post/6992167223523541023)
 - [浏览器与Node的事件循环(Event Loop)有何区别? - 掘金](https://juejin.cn/post/6844903761949753352)
+- [微任务、宏任务与Event-Loop - 掘金](https://juejin.cn/post/6844903657264136200#heading-8)
