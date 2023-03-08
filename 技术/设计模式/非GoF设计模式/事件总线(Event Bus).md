@@ -3,7 +3,7 @@ title: 事件总线(Event Bus)
 aliases: [事件总线(Event Bus), 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe), 发布订阅(PublishSubscribe)]
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-03-08 19:05:54
+date updated: 2023-03-08 19:08:18
 ---
 
 # 事件总线(Event Bus)
@@ -22,5 +22,7 @@ date updated: 2023-03-08 19:05:54
 ## 和观察者模式的区别
 
 ![[567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
+
+![[74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
 
 ![[19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
