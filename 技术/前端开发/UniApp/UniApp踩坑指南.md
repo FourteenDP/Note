@@ -3,7 +3,7 @@ title: UniApp踩坑指南
 aliases: [UniApp踩坑指南]
 tags: []
 date created: 2023-01-30 12:09:06
-date updated: 2023-01-30 12:16:01
+date updated: 2023-03-09 02:22:33
 ---
 
 # UniApp踩坑指南
@@ -11,3 +11,4 @@ date updated: 2023-01-30 12:16:01
 ## 关联
 
 - [Uniapp 多端开发经验整理 - 掘金](https://juejin.cn/post/7138221718518595621)
+- [uniapp使用微信小程序分包异步化能力临时方案 - DCloud问答](https://ask.dcloud.net.cn/article/39622)
