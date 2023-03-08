@@ -1,5 +1,4 @@
 namespace DesignPatterns.FactoryMethod {
-  // 产品
   interface Product {
     use(): void;
   }
