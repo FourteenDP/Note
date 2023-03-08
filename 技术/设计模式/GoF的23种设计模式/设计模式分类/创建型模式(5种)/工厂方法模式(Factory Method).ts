@@ -48,5 +48,4 @@ namespace DesignPatterns.FactoryMethod {
   card2.use();
   card3.use();
   console.log(factory.getOwners());
-
 }
