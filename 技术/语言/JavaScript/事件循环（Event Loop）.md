@@ -28,12 +28,9 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 
 ## 值得注意的地方
 
-
 ## 下面做做这几道题，看看自己对事件循环的理解
 
 难度从简到难
-
-### 第一题
 
 ```js
 console.log(1);
@@ -49,8 +46,6 @@ new Promise((resolve) => {
 
 console.log(5);
 ```
-
-### 第二题
 
 ```js
 
@@ -71,8 +66,6 @@ new Promise((resolve) => {
 
 console.log(6);
 ```
-
-### 第三题
 
 ```js
 console.log(1);
@@ -108,8 +101,6 @@ setTimeout(() => {
 console.log(10);
 ```
 
-### 第四题
-
 ```js
 async function async1() {
   console.log('async1 start');
@@ -133,7 +124,58 @@ new Promise(function(resolve) {
 console.log('script end');
 ```
 
-### 第五题
+```js
+const p1 = new Promise((resolve, reject) => {
+  console.log('promise1');
+  resolve();
+})
+  .then(() => {
+    console.log('then11');
+    new Promise((resolve, reject) => {
+      console.log('promise2');
+      resolve();
+    })
+      .then(() => {
+        console.log('then21');
+      })
+      .then(() => {
+        console.log('then23');
+      });
+  })
+  .then(() => {
+    console.log('then12');
+  });
+
+const p2 = new Promise((resolve, reject) => {
+  console.log('promise3');
+  resolve();
+}).then(() => {
+  console.log('then31');
+});
+```
+
+```js
+const p1 = new Promise((resolve, reject) => {
+  console.log('promise1'); // 1
+  resolve();
+})
+  .then(() => {
+    console.log('then11'); // 2
+    return new Promise((resolve, reject) => {
+      console.log('promise2'); // 3
+      resolve();
+    })
+      .then(() => {
+        console.log('then21'); // 4
+      })
+      .then(() => {
+        console.log('then23'); // 5
+      });
+  })
+  .then(() => {
+    console.log('then12'); //6
+  });
+```
 
 ```js
 console.log('1');
@@ -174,8 +216,6 @@ setTimeout(function() {
     })
 })
 ```
-
-### 第六题
 
 ```js
 console.log("1");
