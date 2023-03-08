@@ -1,30 +1,45 @@
-// 工厂模式 Factory Method
-
-// 简单工厂模式势力
+'use strict';
 
 class Product {
   constructor() {
-    this.name = 'product'
+    console.log('Product Class created');
   }
-  init() {
-    console.log('init')
-  }
-  fun1() {
-    console.log('fun1')
-  }
-  fun2() {
-    console.log('fun2')
+}
+
+class ConcreteProduct extends Product {
+  constructor() {
+    super();
+    console.log('ConcreteProduct Class created');
   }
 }
 
 class Creator {
-  create(name) {
-    return new Product(name)
+  constructor() {
+    console.log('Creator Class created');
+  }
+
+  factoryMethod() {
+    console.log('Creator.factoryMethod created');
+  }
+
+  anOperation() {
+    console.log('Creator.anOperation created');
+    this.product = this.factoryMethod();
+    console.log(this.product instanceof ConcreteProduct);
   }
 }
 
-// test
-let creator = new Creator()
-let p = creator.create('p1')
-p.init()
-p.fun1()
+class ConcreteCreator extends Creator {
+
+  constructor() {
+    super();
+    console.log('ConcreteCreator Class created');
+  }
+
+  factoryMethod() {
+    return new ConcreteProduct();
+  }
+}
+
+var factory = new ConcreteCreator();
+factory.anOperation();
