@@ -8,7 +8,7 @@ date updated: 2023-03-08 18:48:59
 
 # 事件总线(Event Bus)
 
-事件总线(Event Bus)是
+事件总线(Event Bus)是一种
 
 ## 模式结构
 
