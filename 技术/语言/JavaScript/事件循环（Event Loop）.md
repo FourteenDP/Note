@@ -105,7 +105,49 @@ setTimeout(() => {
 console.log(10);
 ```
 
-### 第三题
+### 第四题
+
+```js
+console.log('1');
+
+setTimeout(function() {
+    console.log('2');
+    process.nextTick(function() {
+        console.log('3');
+    })
+    new Promise(function(resolve) {
+        console.log('4');
+        resolve();
+    }).then(function() {
+        console.log('5')
+    })
+})
+
+new Promise(function(resolve) {
+    console.log('7');
+    resolve();
+}).then(function() {
+    console.log('8')
+})
+process.nextTick(function() {
+  console.log('6');
+})
+
+setTimeout(function() {
+    console.log('9');
+    process.nextTick(function() {
+        console.log('10');
+    })
+    new Promise(function(resolve) {
+        console.log('11');
+        resolve();
+    }).then(function() {
+        console.log('12')
+    })
+})
+```
+
+### 第五题
 
 ```js
 console.log("1");
@@ -146,4 +188,8 @@ console.log("10")
 - [图解搞懂JavaScript引擎Event Loop - 掘金](https://juejin.cn/post/6844903553031634952)
 - [会用 Performance 工具，就能深入理解 Event Loop - 掘金](https://juejin.cn/post/7155350299295612941)
 - [微任务、宏任务与Event-Loop - 掘金](https://juejin.cn/post/6844903657264136200)
-- [最后一次搞懂 Event Lo
+- [最后一次搞懂 Event Loop - 掘金](https://juejin.cn/post/6844903827611598862)
+- [浏览器与Node的事件循环(Event Loop)有何区别? - 掘金](https://juejin.cn/post/6844903761949753352)
+- [带你彻底弄懂Event Loop - 掘金](https://juejin.cn/post/6844903670291628046)
+- [彻底搞懂JavaScript事件循环 - 掘金](https://juejin.cn/post/6992167223523541023)
+- [浏览器与Node的事件循环(Event Loop)有何区别? - 掘金](https://juejin.cn/post/6844903761949753352)
