@@ -1,9 +1,11 @@
 namespace DesignPatterns.FactoryMethod {
+  // 产品接口
   interface Product {
     use(): void;
     getOwner(): string;
   }
 
+  // 产品的具体实现
   class IDCard implements Product {
     private owner: string;
     constructor(owner: string) {
@@ -18,6 +20,7 @@ namespace DesignPatterns.FactoryMethod {
     }
   }
 
+  // 工厂抽象类
   abstract class Factory {
     create(owner: string): Product {
       const p = this.createProduct(owner);
@@ -28,6 +31,7 @@ namespace DesignPatterns.FactoryMethod {
     protected abstract registerProduct(product: Product): void;
   }
 
+  // 工厂的具体实现
   class IDCardFactory extends Factory {
     private owners: string[] = [];
     protected createProduct(owner: string): Product {
@@ -41,6 +45,7 @@ namespace DesignPatterns.FactoryMethod {
     }
   }
 
+  // 客户端
   const factory = new IDCardFactory();
   const card1 = factory.create('张三');
   const card2 = factory.create('李四');
