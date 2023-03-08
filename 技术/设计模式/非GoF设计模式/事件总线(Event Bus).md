@@ -1,12 +1,12 @@
 ---
-title: 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe)
-aliases: [事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe)]
+title: 事件总线(Event Bus)
+aliases: [事件总线(Event Bus), 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe), 发布订阅(PublishSubscribe)]
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-03-07 13:45:06
+date updated: 2023-03-08 18:48:59
 ---
 
-# 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe)
+# 事件总线(Event Bus)
 
 - 定义：事件总线是一种设计模式，它允许我们将事件的发布和订阅解耦，从而使我们的代码更加灵活和可维护
 - 解释：事件总线是一种设计模式，它允许我们将事件的发布和订阅解耦，从而使我们的代码更加灵活和可维护
