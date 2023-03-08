@@ -26,6 +26,9 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 5. 如果存在回调队列，从回调队列中取出一个回调执行，回到第3步。
 6. 如果代码正在执行中，则继续执行代码。
 
+## 值得注意的地方
+
+
 ## 下面做做这几道题，看看自己对事件循环的理解
 
 难度从简到难
@@ -108,6 +111,31 @@ console.log(10);
 ### 第四题
 
 ```js
+async function async1() {
+  console.log('async1 start');
+  await async2();
+  console.log('async1 end');
+}
+async function async2() {
+  console.log('async2');
+}
+console.log('script start');
+setTimeout(function() {
+  console.log('setTimeout');
+}, 0);
+async1();
+new Promise(function(resolve) {
+  console.log('promise1');
+  resolve();
+}).then(function() {
+  console.log('promise2');
+});
+console.log('script end');
+```
+
+### 第五题
+
+```js
 console.log('1');
 
 setTimeout(function() {
@@ -147,7 +175,7 @@ setTimeout(function() {
 })
 ```
 
-### 第五题
+### 第六题
 
 ```js
 console.log("1");
