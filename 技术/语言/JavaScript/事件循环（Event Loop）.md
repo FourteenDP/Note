@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 13:06:02
+date updated: 2023-03-08 13:09:14
 ---
 
 # 事件循环（Event Loop）
@@ -28,7 +28,7 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 
 ## 下面做做这几道题，看看自己对事件循环的理解
 
-
+**难度简单**
 
 ```js
 console.log(1);
@@ -45,7 +45,10 @@ new Promise((resolve) => {
 console.log(5);
 ```
 
+**难度中等**
+
 ## 关联
 
 - [JavaScript 宏任务与微任务 - Web前端工程师面试题讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eQ4y1d7mE/?share_source=copy_web&vd_source=2d3491d8d73e0966a37eba2105c2d30c)
 - [JS事件循环机制（event loop）之宏任务/微任务 - 掘金](https://juejin.cn/post/6844903638238756878)
+- [10分钟了解JS堆、栈以及事件循环的概念 - 掘金](https://juejin.cn/post/6844903618999500808)
