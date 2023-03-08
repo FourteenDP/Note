@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 13:03:38
+date updated: 2023-03-08 13:06:02
 ---
 
 # 事件循环（Event Loop）
@@ -28,6 +28,8 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 
 ## 下面做做这几道题，看看自己对事件循环的理解
 
+
+
 ```js
 console.log(1);
 setTimeout(() => {
@@ -41,25 +43,6 @@ new Promise((resolve) => {
 });
 
 console.log(5);
-```
-
-```js
-console.log(1);
-setTimeout(() => {
-  console.log(2);
-  Promise.resolve().then(() => {
-    console.log(3);
-  });
-}, 0);
-
-new Promise((resolve) => {
-  console.log(4);
-  resolve();
-}).then(() => {
-  console.log(5);
-});
-
-console.log(6);
 ```
 
 ## 关联
