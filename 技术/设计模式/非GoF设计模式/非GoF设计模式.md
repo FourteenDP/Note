@@ -10,7 +10,7 @@ date updated: 2023-03-07 14:16:09
 
 对软件开发中一些特殊情况的解决方案,它们并不属于GoF23种设计模式,但是也是非常重要的,也是我们在软件开发中经常使用的
 
-- **[[事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe)]]**
+- **[[非GoF设计模式/事件总线(Event Bus)]]**
 - **[[空对象模式(Null Object)]]**
 - **[[链模式(Chain Of Responsibility)]]**
 - **[[委托模式(Delegate)]]**

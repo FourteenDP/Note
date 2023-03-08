@@ -1,57 +1,37 @@
-// 观察者模式(Observer)
 namespace Observer {
-  // 观察者接口
-  interface Observer {
-    update(temperature: number): void;
-  }
-  // 主题接口
-  interface Subject {
-    registerObserver(o: Observer): void;
-    removeObserver(o: Observer): void;
-    notifyObservers(): void;
-  }
-  // 主题实现类
-  class WeatherData implements Subject {
-    private observers: Observer[];
-    private temperature: number;
-    constructor() {
-      this.observers = [];
+  // 被观察者
+  class Subject {
+    private observers: Observer[] = [];
+    public attach(observer: Observer) {
+      this.observers.push(observer);
     }
-    registerObserver(o: Observer): void {
-      this.observers.push(o);
+    public detach(observer: Observer) {
+      this.observers = this.observers.filter((o) => o !== observer);
     }
-    removeObserver(o: Observer): void {
-      let index = this.observers.indexOf(o);
-      if (index > -1) {
-        this.observers.splice(index, 1);
-      }
-    }
-    notifyObservers(): void {
-      for (let observer of this.observers) {
-        observer.update(this.temperature);
-      }
-    }
-    setTemperature(temperature: number): void {
-      this.temperature = temperature;
-      this.notifyObservers();
+    public notify(...args: any[]) {
+      this.observers.forEach((observer) => {
+        observer.update(...args);
+      });
     }
   }
-  // 观察者实现类
-  class CurrentConditionsDisplay implements Observer {
-    private temperature: number;
-    update(temperature: number): void {
-      this.temperature = temperature;
-      this.display();
-    }
-    display(): void {
-      console.log(`Current conditions: ${this.temperature}F degrees`);
+
+  // 观察1
+  class Observer {
+    public update(...args: any[]) {
+      console.log(args);
     }
   }
-  // 测试
-  let weatherData = new WeatherData();
-  let currentDisplay = new CurrentConditionsDisplay();
-  weatherData.registerObserver(currentDisplay);
-  weatherData.setTemperature(80);
-  weatherData.setTemperature(82);
-  weatherData.setTemperature(78);
+
+  const subject = new Subject();
+  const observer1 = new Observer();
+  const observer2 = new Observer();
+
+  subject.attach(observer1);
+  subject.attach(observer2);
+
+  subject.notify(1, 2, 3);
+
+  subject.detach(observer1);
+
+  subject.notify(4, 5, 6);
 }
