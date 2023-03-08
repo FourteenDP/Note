@@ -1,32 +1,48 @@
-//User类
-class User {
-  name: string;
-  viewPage: string[];
-  //构造器
-  constructor(opt) {
-    this.name = opt.name;
-    this.viewPage = opt.viewPage;
+namespace DesignPatterns.FactoryMethod {
+  interface Product {
+    use(): void;
+  }
+  abstract class Factory {
+    public create(owner: string): Product {
+      const product = this.createProduct(owner);
+      this.registerProduct(product);
+      return product;
+    }
+    protected abstract createProduct(owner: string): Product;
+    protected abstract registerProduct(product: Product): void;
   }
 
-  //静态方法
-  static getInstance(role) {
-    switch (role) {
-      case 'superAdmin':
-        return new User({ name: '超级管理员', viewPage: ['首页', '通讯录', '发现页', '应用数据', '权限管理'] });
-        break;
-      case 'admin':
-        return new User({ name: '管理员', viewPage: ['首页', '通讯录', '发现页', '应用数据'] });
-        break;
-      case 'user':
-        return new User({ name: '普通用户', viewPage: ['首页', '通讯录', '发现页'] });
-        break;
-      default:
-        throw new Error('参数错误, 可选参数:superAdmin、admin、user')
+  // 具体产品
+  class IDCard implements Product {
+    constructor(private owner: string) { }
+    public use() {
+      console.log(`use ${this.owner}'s ID card`);
+    }
+    public getOwner() {
+      return this.owner;
     }
   }
-}
 
-//调用
-let superAdmin = User.getInstance('superAdmin');
-let admin = User.getInstance('admin');
-let normalUser = User.getInstance('user');
+  // 具体工厂
+  class IDCardFactory extends Factory {
+    private owners: string[] = [];
+    protected createProduct(owner: string): Product {
+      return new IDCard(owner);
+    }
+    protected registerProduct(product: Product) {
+      this.owners.push((product as IDCard).getOwner());
+    }
+    public getOwners() {
+      return this.owners;
+    }
+  }
+
+
+  const factory = new IDCardFactory();
+  const card1 = factory.create('Alice');
+  const card2 = factory.create('Bob');
+  const card3 = factory.create('Charlie');
+  card1.use();
+  card2.use();
+  card3.use();
+}
