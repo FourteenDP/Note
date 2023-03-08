@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 13:23:41
+date updated: 2023-03-08 13:26:26
 ---
 
 # 事件循环（Event Loop）
@@ -26,9 +26,7 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 5. 如果存在回调队列，从回调队列中取出一个回调执行，回到第3步。
 6. 如果代码正在执行中，则继续执行代码。
 
-## 值得注意的地方
-
-## 下面做做这几道题，看看自己对事件循环的理解
+## 事件循环（Event Loop）面试题
 
 难度从简到难
 
