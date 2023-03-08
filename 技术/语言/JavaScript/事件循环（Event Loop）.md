@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 13:09:47
+date updated: 2023-03-08 13:15:30
 ---
 
 # 事件循环（Event Loop）
@@ -28,7 +28,9 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 
 ## 下面做做这几道题，看看自己对事件循环的理解
 
-**难度简单**
+难度从简到难
+
+### 第一题
 
 ```js
 console.log(1);
@@ -45,7 +47,95 @@ new Promise((resolve) => {
 console.log(5);
 ```
 
-**难度中等**
+### 第二题
+
+```js
+
+console.log(1);
+setTimeout(() => {
+  console.log(2);
+  Promise.resolve().then(() => {
+    console.log(3);
+  });
+}, 0);
+
+new Promise((resolve) => {
+  console.log(4);
+  resolve();
+}).then(() => {
+  console.log(5);
+});
+
+console.log(6);
+```
+
+### 第三题
+
+```js
+console.log(1);
+
+setTimeout(() => {
+  console.log(2);
+  Promise.resolve().then(() => {
+    console.log(3)
+  });
+});
+
+new Promise((resolve, reject) => {
+  console.log(4)
+  resolve(5)
+}).then((data) => {
+  console.log(data);
+
+  Promise.resolve().then(() => {
+    console.log(6)
+  }).then(() => {
+    console.log(7)
+
+    setTimeout(() => {
+      console.log(8)
+    }, 0);
+  });
+})
+
+setTimeout(() => {
+  console.log(9);
+})
+
+console.log(10);
+```
+
+### 第三题
+
+```js
+console.log("1");
+setTimeout(()=>{
+    console.log(2)
+    Promise.resolve().then(()=>{
+        console.log(3);
+        process.nextTick(function foo() {
+            console.log(4);
+        });
+    })
+})
+Promise.resolve().then(()=>{
+    console.log(5);
+    setTimeout(()=>{
+        console.log(6)
+    })
+    Promise.resolve().then(()=>{
+        console.log(7);
+    })
+})
+
+process.nextTick(function foo() {
+    console.log(8);
+    process.nextTick(function foo() {
+        console.log(9);
+    });
+});
+console.log("10")
+```
 
 ## 关联
 
@@ -53,3 +143,7 @@ console.log(5);
 - [JS事件循环机制（event loop）之宏任务/微任务 - 掘金](https://juejin.cn/post/6844903638238756878)
 - [10分钟了解JS堆、栈以及事件循环的概念 - 掘金](https://juejin.cn/post/6844903618999500808)
 - [面试一定会问到的-js事件循环 - 掘金](https://juejin.cn/post/6844903968292749319)
+- [图解搞懂JavaScript引擎Event Loop - 掘金](https://juejin.cn/post/6844903553031634952)
+- [会用 Performance 工具，就能深入理解 Event Loop - 掘金](https://juejin.cn/post/7155350299295612941)
+- [微任务、宏任务与Event-Loop - 掘金](https://juejin.cn/post/6844903657264136200)
+- [最后一次搞懂 Event Lo
