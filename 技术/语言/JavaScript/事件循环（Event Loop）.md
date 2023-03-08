@@ -3,7 +3,7 @@ title: 事件循环（Event Loop）
 aliases: [事件循环（Event Loop）]
 tags: []
 date created: 2023-03-08 02:53:42
-date updated: 2023-03-08 03:02:53
+date updated: 2023-03-08 13:03:38
 ---
 
 # 事件循环（Event Loop）
@@ -26,6 +26,43 @@ JavaScript 中的事件循环（Event Loop）是实现异步编程的核心机�
 5. 如果存在回调队列，从回调队列中取出一个回调执行，回到第3步。
 6. 如果代码正在执行中，则继续执行代码。
 
+## 下面做做这几道题，看看自己对事件循环的理解
+
+```js
+console.log(1);
+setTimeout(() => {
+  console.log(2);
+}, 0);
+new Promise((resolve) => {
+  console.log(3);
+  resolve();
+}).then(() => {
+  console.log(4);
+});
+
+console.log(5);
+```
+
+```js
+console.log(1);
+setTimeout(() => {
+  console.log(2);
+  Promise.resolve().then(() => {
+    console.log(3);
+  });
+}, 0);
+
+new Promise((resolve) => {
+  console.log(4);
+  resolve();
+}).then(() => {
+  console.log(5);
+});
+
+console.log(6);
+```
+
 ## 关联
 
-[JavaScript 宏任务与微任务 - Web前端工程师面试题讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eQ4y1d7mE/?share_source=copy_web&vd_source=2d3491d8d73e0966a37eba2105c2d30c)
+- [JavaScript 宏任务与微任务 - Web前端工程师面试题讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eQ4y1d7mE/?share_source=copy_web&vd_source=2d3491d8d73e0966a37eba2105c2d30c)
+- [JS事件循环机制（event loop）之宏任务/微任务 - 掘金](https://juejin.cn/post/6844903638238756878)
