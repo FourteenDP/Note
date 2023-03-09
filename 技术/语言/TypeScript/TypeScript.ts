@@ -4,3 +4,8 @@
 let num: number
 num = 1
 num = ''
+num = Number("1")
+
+// 字符串类型
+
+let str: string
