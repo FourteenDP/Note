@@ -13,15 +13,22 @@ namespace DesignPatterns.DebounceAndThrottle {
   export function debounce(fn: Function, delay: number, immediate: boolean = false) {
     let timer: number | null = null
     return function (...args: any[]) {
+      const self = this
       if (timer) clearTimeout(timer)
       if (immediate) {
-        if (!timer) fn.apply(this, args)
+        if (!timer) fn.apply(self, args)
         timer = setTimeout(() => { timer = null }, delay)
       } else {
         timer = setTimeout(() => {
-          fn.apply(this, args)
+          fn.apply(self, args)
         }, delay)
       }
     }
   }
+
+  // 测试
+  const fn = () => console.log('fn')
+  const debounceFn = debounce(fn, 1000)
+  setInterval(debounceFn, 100)
+
 }
