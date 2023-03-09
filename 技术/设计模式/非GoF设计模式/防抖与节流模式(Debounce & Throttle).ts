@@ -42,6 +42,8 @@ namespace DesignPatterns.DebounceAndThrottle {
       // 如果定时器已存在，则不执行
       if (!timer) {
         timer = setTimeout(() => {
+          console.log('throttle',this);
+
           fn.apply(this, args)
           // 重置定时器
           timer = null
