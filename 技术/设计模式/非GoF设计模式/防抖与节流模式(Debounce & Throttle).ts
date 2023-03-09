@@ -13,7 +13,13 @@ namespace DesignPatterns.DebounceAndThrottle {
     // 定时器
     let timer: number | null = null
 
+    // 返回一个函数
+    // 这个函数会在一个时间区间结束后的 delay 毫秒时执行 fn 函数
+    // 如果这个时间区间内又被调用，则会重新计时
+    // 也就是说，如果持续触发，就不会执行 fn，只有停下来触发后，才会执行 fn
+    // 如果 immediate 为 true，则会在开始边界触发
     return function (...args: any[]) {
+      // 如果已经设定过定时器了就清空上一次的定时器-重新开始
       if (timer) clearTimeout(timer)
 
       if (immediate) {
