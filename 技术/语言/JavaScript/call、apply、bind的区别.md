@@ -1,23 +1,65 @@
 # call、apply、bind的区别
 
+- call和apply都是为了改变函数的this对象的指向而存在的，都可以利用后续参数传参。
+- bind是返回对应函数，便于稍后调用，且能传入部分参数，也可以改变this指向。
+
 ## call
 
+- call改变this指向，然后立即执行函数，且可以传入参数。
+
 ```js
-function.call(thisArg, arg1, arg2, ...)
+var name = 'window';
+
+function test() {
+  console.log(this.name);
+}
+
+var obj = {
+  name: 'obj'
+}
+
+test.call(obj); // obj
+
 ```
 
 ## apply
 
-```js
-function.apply(thisArg, [argsArray])
+- apply改变this指向，然后立即执行函数，但是传入的参数必须是数组。
 
-// 与call的区别在于，apply的第二个参数是一个数组
+```js
+var name = 'window';
+
+function test() {
+  console.log(this.name);
+}
+
+var obj = {
+  name: 'obj'
+}
+
+test.apply(obj); // obj
+
 ```
 
 ## bind
 
-```js
-function.bind(thisArg[, arg1[, arg2[, ...]]])
+- bind改变this指向，但是不会立即执行函数，而是返回一个新的函数，可以传入部分参数。
 
-// 返回一个新的函数，当这个函数被调用时，它的this值会被传递给bind的第一个参数，而其余参数将作为新函数的参数供调用时使用。
+```js
+
+var name = 'window';
+
+function test(a, b) {
+  console.log(this.name);
+  console.log(a, b);
+}
+
+var obj = {
+  name: 'obj'
+}
+
+var newTest = test.bind(obj, 1);
+
+newTest(2); // obj 1 2
+
 ```
