@@ -13,7 +13,8 @@ Function.prototype.myCall = function (context: any, ...args: any[]) {
   // 判断context是否为null或undefined (null和undefined都会被转换成globalThis)
   context = context || globalThis
   // 将调用call的函数设为context的一个属性
-  context.fn = this as keyof typeof Function.myCall
+  context.fn = this as any
+  // 调用该函数
   const result = context.fn(...args)
   delete context.fn
   return result
