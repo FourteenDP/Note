@@ -6,5 +6,18 @@
 function.call(thisArg, arg1, arg2, ...)
 ```
 
-- `thisArg`：在`function`运行时指定的`this`值。需要注意的是，指定的`this`值并不一定是该`function`执行时真正的`this`值，如果这个函数处于非严格模式下，则指定为`null`和`undefined`的`this`值会自动指向全局对象（浏览器中就是`window`对象），同时值为原始值（数字，字符串，布尔值）的`this`会指向该原始值的自动包装对象。
-- `arg1, arg2, ...`：指定的参数列表。
+## apply
+
+```js
+function.apply(thisArg, [argsArray])
+
+// 与call的区别在于，apply的第二个参数是一个数组
+```
+
+## bind
+
+```js
+function.bind(thisArg[, arg1[, arg2[, ...]]])
+
+// 返回一个新的函数，当这个函数被调用时，它的this值会被传递给bind的第一个参数，而其余参数将作为新函数的参数供调用时使用。
+```
