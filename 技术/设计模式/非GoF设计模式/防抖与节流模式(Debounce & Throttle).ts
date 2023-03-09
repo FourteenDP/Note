@@ -31,5 +31,6 @@ namespace DesignPatterns.DebounceAndThrottle {
   // 测试
   const fn = () => console.log('fn')
   const debounceFn = debounce(fn, 1000, true)
-  setInterval(debounceFn, 100)
+  const interval = setInterval(debounceFn, 100)
+  setTimeout(() => { clearInterval(interval) }, 5000)
 }
