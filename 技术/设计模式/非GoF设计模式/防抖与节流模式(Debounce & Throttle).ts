@@ -10,13 +10,19 @@ namespace DesignPatterns.DebounceAndThrottle {
    * const fn = debounce(() => console.log('debounce'), 1000)
    */
   export function debounce(fn: Function, delay: number = 1000, immediate: boolean = false) {
+    // 通过闭包保存定时器
     let timer: number | null = null
     return function (...args: any[]) {
+      // 重置定时器
       if (timer) clearTimeout(timer)
+      // 立即执行
       if (immediate) {
+        // 如果定时器已存在，则不执行
         if (!timer) fn.apply(this, args)
+        // 重置定时器
         timer = setTimeout(() => (timer = null), delay)
       } else {
+        // 重置定时器
         timer = setTimeout(() => fn.apply(this, args), delay)
       }
     }
@@ -30,11 +36,14 @@ namespace DesignPatterns.DebounceAndThrottle {
    * const fn = throttle(() => console.log('throttle'), 1000)
    */
   export function throttle(fn: Function, delay: number) {
+    // 通过闭包保存定时器
     let timer: number | null = null
     return function (...args: any[]) {
+      // 如果定时器已存在，则不执行
       if (!timer) {
         timer = setTimeout(() => {
           fn.apply(this, args)
+          // 重置定时器
           timer = null
         }, delay)
       }
