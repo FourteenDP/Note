@@ -11,7 +11,7 @@ namespace DesignPatterns.DebounceAndThrottle {
    * window.addEventListener('scroll', debounceFn)
    */
   export function debounce(fn: Function, delay: number, immediate: boolean = false) {
-    let timer: number | null = null
+    let timer: typeof setTimeout | null| null = null
     return function (...args: any[]) {
       const self = this
       if (timer) clearTimeout(timer)
