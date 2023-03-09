@@ -21,4 +21,23 @@ namespace DesignPatterns.DebounceAndThrottle {
       }
     }
   }
+
+  /**
+   * 节流 (throttle) 模式： 在一定时间内，只执行一次
+   * @param fn 要执行的函数
+   * @param delay 延迟时间
+   * @example
+   * const fn = throttle(() => console.log('throttle'), 1000)
+   */
+  export function throttle(fn: Function, delay: number) {
+    let timer: number | null = null
+    return function (...args: any[]) {
+      if (!timer) {
+        timer = setTimeout(() => {
+          fn.apply(this, args)
+          timer = null
+        }, delay)
+      }
+    }
+  }
 }
