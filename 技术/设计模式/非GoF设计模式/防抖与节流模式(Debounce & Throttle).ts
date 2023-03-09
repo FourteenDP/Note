@@ -16,10 +16,12 @@ namespace DesignPatterns.DebounceAndThrottle {
       const self = this
       if (timer) clearTimeout(timer)
       if (immediate) {
+        // 这里的this指向window, 所以要用self
         if (!timer) fn.apply(self, args)
         timer = setTimeout(() => { timer = null }, delay)
       } else {
         timer = setTimeout(() => {
+          // 这里的this指向window, 所以要用self
           fn.apply(self, args)
         }, delay)
       }
