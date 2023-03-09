@@ -10,6 +10,15 @@ namespace DesignPatterns.DebounceAndThrottle {
    * const fn = debounce(() => console.log('debounce'), 1000)
    */
   export function debounce(fn: Function, delay: number, immediate: boolean = false) {
-
+    let timer: number | null = null
+    return function (...args: any[]) {
+      if (timer) clearTimeout(timer)
+      if (immediate) {
+        if (!timer) fn.apply(this, args)
+        timer = setTimeout(() => (timer = null), delay)
+      } else {
+        timer = setTimeout(() => fn.apply(this, args), delay)
+      }
+    }
   }
 }
