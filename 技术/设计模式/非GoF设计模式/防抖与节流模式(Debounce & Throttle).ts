@@ -13,15 +13,14 @@ namespace DesignPatterns.DebounceAndThrottle {
   export function debounce(fn: Function, delay: number, immediate: boolean = false) {
     let timer: any = null
     return function (...args: any[]) {
+      // 给this绑定一个变量, 防止在setTimeout中this指向window
       const self = this
       if (timer) clearTimeout(timer)
       if (immediate) {
-        // 这里的this指向window, 所以要用self
         if (!timer) fn.apply(self, args)
         timer = setTimeout(() => { timer = null }, delay)
       } else {
         timer = setTimeout(() => {
-          // 这里的this指向window, 所以要用self
           fn.apply(self, args)
         }, delay)
       }
