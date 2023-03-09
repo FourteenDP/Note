@@ -10,4 +10,18 @@ namespace DesignPatterns.DebounceAndThrottle {
    * const debounceFn = debounce(fn, 1000) // 一秒内多次触发, 只执行最后一次
    * window.addEventListener('scroll', debounceFn)
    */
+  export function debounce(fn: Function, delay: number, immediate: boolean = false) {
+    let timer: number | null = null
+    return function (...args: any[]) {
+      if (timer) clearTimeout(timer)
+      if (immediate) {
+        if (!timer) fn.apply(this, args)
+        timer = setTimeout(() => { timer = null }, delay)
+      } else {
+        timer = setTimeout(() => {
+          fn.apply(this, args)
+        }, delay)
+      }
+    }
+  }
 }
