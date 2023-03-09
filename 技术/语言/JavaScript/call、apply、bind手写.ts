@@ -10,9 +10,10 @@ Function.prototype.myCall = function (context: any, ...args: any[]) {
   if (typeof this !== 'function') {
     throw new TypeError('Error')
   }
-  // 判断context是否为null或undefined (null和undefined都会被转换成window)
+  // 判断context是否为null或undefined (null和undefined都会被转换成globalThis)
   context = context || globalThis
-  context.fn = this as any
+  // 将调用call的函数设为context的一个属性
+  context.fn = this as keyof typeof Function.myCall
   const result = context.fn(...args)
   delete context.fn
   return result
