@@ -71,20 +71,20 @@ namespace DesignPatterns.This {
   obj3.getName.myApply(obj4, []) // obj4
 
   // 实现bind方法
-  // Function.prototype.myBind = function (context: any, ...args: any[]) {
-  //   // 判断是否为函数调用
-  //   if (typeof this !== 'function') {
-  //     throw new TypeError('Error')
-  //   }
-  //   // 保存this
-  //   const self = this as Function
-  //   // 返回一个函数
-  //   return function F(...args2: any[]) {
-  //     // 因为返回了一个函数，我们可以 new F()，所以需要判断
-  //     if (this instanceof F) {
-  //       return new self(...args, ...args2)
-  //     }
-  //     return self.apply(context, args.concat(args2))
-  //   }
-  // }
+  Function.prototype.myBind = function (context: any, ...args: any[]) {
+    // 判断是否为函数调用
+    if (typeof this !== 'function') {
+      throw new TypeError('Error')
+    }
+    // 保存this
+    const self = this as Function
+    // 返回一个函数
+    return function F(...args2: any[]) {
+      // 因为返回了一个函数，我们可以 new F()，所以需要判断
+      if (this instanceof F) {
+        return new self(...args, ...args2)
+      }
+      return self.apply(context, args.concat(args2))
+    }
+  }
 }
