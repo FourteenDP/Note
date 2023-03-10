@@ -16,7 +16,9 @@ namespace DesignPatterns.This {
     context.fn = this as any
     // 调用该函数
     const result = context.fn(...args)
+    // 删除该属性
     delete context.fn
+    // 返回结果
     return result
   }
 
