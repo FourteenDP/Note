@@ -36,6 +36,7 @@ namespace Algorithm {
     }
   }
 
+  // 实例化一个容量为2的缓存
   const lru = new LRU(2);
   lru.put('a', 1);
   lru.put('b', 2);
