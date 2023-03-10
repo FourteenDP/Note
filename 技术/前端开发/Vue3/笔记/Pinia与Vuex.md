@@ -1,9 +1,9 @@
 ---
-aliases: [优缺点]
+aliases: [Pinia与Vuex, 优缺点]
 tags: []
-title: 优缺点
+title: Pinia与Vuex
 date created: 2022-12-12 17:53:03
-date updated: 2022-12-29 16:12:46
+date updated: 2023-03-10 19:09:54
 ---
 
 # Pinia与Vuex
@@ -30,4 +30,5 @@ Pinia的优点
 
 Pinia的缺点
 
-- 不支持时间旅行和编辑等调试功能
+- ~~不支持时间旅行和编辑等调试功能~~（已支持）
+![[Pasted image 20230310191049.png]]![[Pasted image 20230310191054.png]]
