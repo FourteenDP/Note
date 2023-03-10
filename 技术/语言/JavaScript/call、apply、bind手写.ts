@@ -1,10 +1,9 @@
+interface Function {
+  myCall(context: any, ...args: any[]): any
+  apply(context: any, args: any[]): any
+  bind(context: any, ...args: any[]): any
+}
 namespace DesignPatterns.This {
-  interface Function {
-    myCall(context: any, ...args: any[]): any
-    apply(context: any, args: any[]): any
-    bind(context: any, ...args: any[]): any
-  }
-
   // 实现call方法
   Function.prototype.myCall = function (context: any, ...args: any[]) {
     // 判断是否为函数调用
@@ -34,5 +33,4 @@ namespace DesignPatterns.This {
   }
 
   obj.getName.myCall(obj2) // obj2
-
 }
