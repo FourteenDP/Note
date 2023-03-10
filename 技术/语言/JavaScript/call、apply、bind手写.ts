@@ -38,6 +38,8 @@ namespace DesignPatterns.This {
 
   obj.getName.myCall(obj2) // obj2
 
+
+
   // 实现apply方法
   Function.prototype.myApply = function (context: any, args: any[]) {
     // 判断是否为函数调用
@@ -67,4 +69,6 @@ namespace DesignPatterns.This {
   const obj4 = {
     name: 'obj4'
   }
+
+  obj3.getName.myApply(obj4, []) // obj4
 }
