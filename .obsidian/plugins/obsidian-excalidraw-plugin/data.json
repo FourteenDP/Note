@@ -10107,6 +10107,52 @@
         "value": 8,
         "description": "The value of the gap between the connection line and the element, which must be greater than 0. If you want the connector to be next to the element, set it to 1."
       }
+    },
+    "Downloaded/Convert selected text elements to sticky notes": {
+      "Border color": {
+        "value": "#000000",
+        "description": "Any legal HTML color (#000000, rgb, color-name, etc.). Set to 'transparent' for transparent color."
+      },
+      "Background color": {
+        "value": "transparent",
+        "description": "Background color of the sticky note. Set to 'transparent' for transparent color."
+      },
+      "Background fill style": {
+        "value": "solid",
+        "description": "Fill style of the sticky note",
+        "valueset": [
+          "hachure",
+          "cross-hatch",
+          "solid"
+        ]
+      },
+      "Max sticky note width": {
+        "value": "600",
+        "description": "Maximum width of new sticky note. If text is longer, it will be wrapped",
+        "valueset": [
+          "400",
+          "600",
+          "800",
+          "1000",
+          "1200",
+          "1400",
+          "2000"
+        ]
+      }
+    },
+    "Downloaded/Fixed horizontal distance between centers": {
+      "Prompt for distance?": true,
+      "Default distance": {
+        "value": 10,
+        "description": "Fixed horizontal distance between centers"
+      },
+      "Remember last distance?": false
+    },
+    "Downloaded/Lighten background color": {
+      "Step size": {
+        "value": 2,
+        "description": "Step size in percentage for making the color lighter"
+      }
     }
   },
   "defaultTrayMode": false,
@@ -10118,7 +10164,8 @@
   "taskboneAPIkey": "",
   "pinnedScripts": [
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md"
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md"
   ],
   "customPens": [
     {
