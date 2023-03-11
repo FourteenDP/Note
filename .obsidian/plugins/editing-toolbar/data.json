@@ -211,8 +211,18 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 2,
   "cMenuNumRows": 20,
-  "cMenuWidth": 590,
+  "cMenuWidth": 528,
   "cMenuFontColor": "#3f3f3f",
   "cMenuBackgroundColor": "#fff88f",
-  "autohide": true
+  "autohide": true,
+  "custom_bg1": "#FFB78B8C",
+  "custom_bg2": "#CDF4698C",
+  "custom_bg3": "#A0CCF68C",
+  "custom_bg4": "#F0A7D88C",
+  "custom_bg5": "#ADEFEF8C",
+  "custom_fc1": "#D83931",
+  "custom_fc2": "#DE7802",
+  "custom_fc3": "#245BDB",
+  "custom_fc4": "#6425D0",
+  "custom_fc5": "#646A73"
 }

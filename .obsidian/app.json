@@ -9,10 +9,11 @@
   "vimMode": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "9000-信箱",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
   "userIgnoreFilters": null,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative"
 }
