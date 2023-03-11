@@ -10002,6 +10002,12 @@
         "value": "10",
         "description": "Gap between rows and columns"
       }
+    },
+    "Downloaded/Add Link to Existing File and Open": {
+      "Open link in active pane": {
+        "value": false,
+        "description": "Open the link in the current active pane (on) or a new pane (off)."
+      }
     }
   },
   "defaultTrayMode": false,
@@ -10011,7 +10017,10 @@
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md"
+  ],
   "customPens": [
     {
       "type": "default",
