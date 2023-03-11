@@ -46,7 +46,7 @@ yarn add patch-package postinstall-postinstall -D
 # 安装 lodash
 npm i lodash
 ```
-**直接修改 `node_modules` 中的文件**
+**直接修改 `node_modules` 中的文件!!!**
 
 直接在 `node_modules/lodash/get.js` 中修改 `get` 方法
 
