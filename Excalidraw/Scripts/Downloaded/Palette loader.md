@@ -44,7 +44,7 @@ const darkGray = settings["Dark-gray"].value;
 
 let paletteFolder = settings["Palette folder"].value.toLowerCase();
 if(paletteFolder === "" || paletteFolder === "/") {
-  new Notice("The palette folder cannot be the root folder of your vault");
+  new Notice("调色板文件夹不能是 Vault 的根文件夹");
   return;
 }
 
@@ -57,7 +57,7 @@ if(!paletteFolder.endsWith("/")) paletteFolder += "/";
 const palettes = app.vault.getFiles()
   .filter(f=>f.extension === "md" && f.path.toLowerCase() === paletteFolder + f.name.toLowerCase())
   .sort((a,b)=>a.basename.toLowerCase()<b.basename.toLowerCase()?-1:1);
-const file = await utils.suggester(["Excalidraw Default"].concat(palettes.map(f=>f.name)),["Default"].concat(palettes), "Choose a palette, press ESC to abort");
+const file = await utils.suggester(["Excalidraw Default"].concat(palettes.map(f=>f.name)),["Default"].concat(palettes), "选择一个调色板，按 ESC 键中止");
 if(!file) return;
 
 if(file === "Default") {
@@ -151,7 +151,7 @@ for(i=0;canRepaint && i<paletteSize;i++) {
   }
 }
 
-const shouldRepaint = canRepaint && await utils.suggester(["Try repainting the drawing with the new palette","Just load the new palette"], [true, false],"ESC will load the palette without repainting");
+const shouldRepaint = canRepaint && await utils.suggester(["尝试使用新调色板重新绘制绘图","只需加载新的调色板"], [true, false],"ESC 将加载调色板而不重新绘制");
 
 
 //--------------------------
