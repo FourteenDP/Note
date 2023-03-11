@@ -10044,6 +10044,12 @@
         "value": true,
         "description": "The object around the text should have fix width to fit the wrapped text"
       }
+    },
+    "Downloaded/Alternative Pens": {
+      "Pen folder": {
+        "value": "Excalidraw/Pens",
+        "description": "The path to the folder where you store the perfect freehand options"
+      }
     }
   },
   "defaultTrayMode": false,
