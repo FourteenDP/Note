@@ -142,7 +142,82 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Auto Layout": {
+      "Layout Options JSON": {
+        "height": "450px",
+        "value": "{\n      \"org.eclipse.elk.layered.crossingMinimization.semiInteractive\": \"true\",\n      \"org.eclipse.elk.layered.considerModelOrder.components\": \"FORCE_MODEL_ORDER\"\n}",
+        "description": "You can use layout options to configure the layout algorithm. A list of all options and further details of their exact effects is available in <a href=\"http://www.eclipse.org/elk/reference.html\" rel=\"nofollow\">ELK's documentation</a>."
+      }
+    },
+    "Downloaded/Box Each Selected Groups": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the box the script creates"
+      },
+      "Remember last padding?": false
+    },
+    "Downloaded/Palette loader": {
+      "Palette folder": {
+        "value": "Excalidraw/Palettes",
+        "description": "The path to the folder where you store the Excalidraw Palettes"
+      },
+      "Light-gray": {
+        "value": "#505050",
+        "description": "Base light-gray used for mixing with the accent color to generate the palette light-gray"
+      },
+      "Dark-gray": {
+        "value": "#e0e0e0",
+        "description": "Base dark-gray used for mixing with the accent color to generate the palette dark-gray"
+      }
+    },
+    "Downloaded/Darken background color": {
+      "Step size": {
+        "value": 2,
+        "description": "Step size in percentage for making the color darker"
+      }
+    },
+    "Downloaded/Set background color of unclosed line object by adding a shadow clone": {
+      "Background Color": {
+        "value": "DimGray",
+        "description": "Default background color of the 'shadow' object. Any valid html css color value"
+      },
+      "Fill Style": {
+        "value": "hachure",
+        "valueset": [
+          "hachure",
+          "cross-hatch",
+          "solid"
+        ],
+        "description": "Default fill style of the 'shadow' object."
+      },
+      "Inherit fill stroke width": {
+        "value": true,
+        "description": "This will impact the densness of the hachure or cross-hatch fill. Use the stroke width of the line object for which the shadow is created. If set to false, the script will use a stroke width of 2."
+      },
+      "Group 'shadow' with original": {
+        "value": true,
+        "description": "If the toggle is on then the shadow object that is created will be grouped with the unclosed original object."
+      }
+    },
+    "Downloaded/Fixed vertical distance between centers": {
+      "Prompt for distance?": true,
+      "Default distance": {
+        "value": 10,
+        "description": "Fixed vertical distance between centers"
+      },
+      "Remember last distance?": false
+    },
+    "Downloaded/Fixed vertical distance": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
+    }
+  },
   "defaultTrayMode": false,
   "previousRelease": "1.8.19",
   "showReleaseNotes": true,
