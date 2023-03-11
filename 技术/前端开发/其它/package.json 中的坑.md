@@ -8,6 +8,6 @@ date updated: 2023-03-11 02:53:00
 
 # package.json 中的坑
 
-## 关联
+## 参考
 
 - [关于package.json中type属性的含义 - 掘金](https://juejin.cn/post/7032278473389539365)

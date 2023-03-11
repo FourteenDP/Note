@@ -8,6 +8,6 @@ date updated: 2023-01-05 16:52:00
 
 # 浏览器休眠对 setTimeout 和 setInterval 的影响
 
-## 关联
+## 参考
 
 - [setTimeout和setInterval的程序休眠问题 - 掘金](https://juejin.cn/post/6844903667456278541)

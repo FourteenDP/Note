@@ -8,6 +8,6 @@ date updated: 2022-12-29 16:12:45
 
 # web框架与cocos的结合
 
-## 关联
+## 参考
 
 - [【初探】web框架与cocos的结合使用 - 掘金](https://juejin.cn/post/6949044814008549389)

@@ -34,7 +34,7 @@ BEM 是 Block Element Modifier 的缩写,为什么要使用 BEM 命名规范呢?
 .block-modifier {}
 ```
 
-## 关联
+## 参考
 
 - [BEM 101](https://css-tricks.com/bem-101/)
 - [[[译] 这些 CSS 命名规范将省下你大把调试时间 - 掘金](https://juejin.cn/post/6844903556420632583)

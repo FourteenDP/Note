@@ -14,6 +14,6 @@ TypeScript 是由微软开发的开源编程语言。它是 JavaScript 的一个
 
 简单的来说，TypeScript 是在 JavaScript 的基础上增加了类型系统以及其它特性，使得 JavaScript 更加强大。
 
-## 关联
+## 参考
 
 - [[弱类型、强类型、动态类型、静态类型语言]]

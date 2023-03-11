@@ -8,6 +8,6 @@ date updated: 2022-12-29 16:12:45
 
 # Web 组件
 
-## 关联
+## 参考
 
 - [Web Components —— Web 组件 - 掘金](https://juejin.cn/post/7048909361062051876)
