@@ -76,6 +76,24 @@ npx patch-package lodash
 
 在代码库中会生成一个 `patches` 文件夹，里面有一个 `lodash+4.17.21.patch` 文件，这个就是补丁文件
 
+```shell
+diff --git a/node_modules/lodash/get.js b/node_modules/lodash/get.js
+index 8805ff9..79b973b 100644
+--- a/node_modules/lodash/get.js
++++ b/node_modules/lodash/get.js
+@@ -26,6 +26,10 @@ var baseGet = require('./_baseGet');
+  * // => 'default'
+  */
+ function get(object, path, defaultValue) {
++  console.log('path: ' + path);
++  if (path === 'a.b.c') {
++    return 'hello world'
++  }
+   var result = object == null ? undefined : baseGet(object, path);
+   return result === undefined ? defaultValue : result;
+ }
+```
+
 ## 关联
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)
