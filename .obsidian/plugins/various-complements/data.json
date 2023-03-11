@@ -1,6 +1,8 @@
 {
   "strategy": "chinese",
-  "matchStrategy": "partial",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
   "maxNumberOfSuggestions": 10,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -10,6 +12,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -38,6 +45,12 @@
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
@@ -52,14 +65,6 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1675408362378
-        }
-      }
-    },
-    "Vue3 父子组件通信方式": {
-      "Vue3 父子组件通信方式": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1673515138284
         }
       }
     },
