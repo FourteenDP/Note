@@ -228,7 +228,8 @@
     "-模板-",
     "-附件-",
     "日志",
-    "仓库"
+    "仓库",
+    "Excalidraw"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,
