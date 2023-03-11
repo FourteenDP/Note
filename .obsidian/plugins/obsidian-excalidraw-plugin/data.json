@@ -69,7 +69,71 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "glNIGpsQPirdp6JSVR5z-",
+            "type": "rectangle",
+            "x": -443.5,
+            "y": -126.7734375,
+            "width": 253,
+            "height": 419,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1065174429,
+            "version": 92,
+            "versionNonce": 1083128253,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1678558978901,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "rectangle",
+            "version": 227,
+            "versionNonce": 1860166941,
+            "isDeleted": false,
+            "id": "FFMA29tZTOJKPRpZ0d-Xe",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -105,
+            "y": -134.2734375,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 253,
+            "height": 419,
+            "seed": 1527378749,
+            "groupIds": [],
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": null,
+            "updated": 1678558996451,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "id": "d2tinXmYKRcRpa4A9tbDm",
+        "created": 1678559007297
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
