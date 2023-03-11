@@ -103,6 +103,6 @@ index 8805ff9..79b973b 100644
 
 ![[Pasted image 20230311222955.png]]
 
-## 关联
+## 参考
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)

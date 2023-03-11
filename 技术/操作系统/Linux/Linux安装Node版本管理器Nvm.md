@@ -26,6 +26,6 @@ source ~/.zshrc
 
 ```
 
-## 关联
+## 参考
 
 - [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)

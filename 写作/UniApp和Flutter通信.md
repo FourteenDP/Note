@@ -38,7 +38,7 @@ date updated: 2023-01-12 16:19:04
 
 目前我觉得可以研究React Native和Flutter得开源通信方案,看是否能得出UniApp通信方案
 
-## 关联
+## 参考
 
 - [Kraken - 基于 W3C 标准的高性能 Web 渲染引擎 - Kraken](https://openkraken.com/)
 - [原生插件开发](https://nativesupport.dcloud.net.cn/NativePlugin/README)

@@ -245,7 +245,7 @@ process.nextTick(function foo() {
 console.log("10")
 ```
 
-## 关联
+## 参考
 
 - [JavaScript 宏任务与微任务 - Web前端工程师面试题讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eQ4y1d7mE/?share_source=copy_web&vd_source=2d3491d8d73e0966a37eba2105c2d30c)
 - [JS事件循环机制（event loop）之宏任务/微任务 - 掘金](https://juejin.cn/post/6844903638238756878)

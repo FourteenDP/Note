@@ -50,6 +50,6 @@ Func<int, int> func = delegate (int x) { return x * x; };
 Console.WriteLine(func(5)); // 25
 ```
 
-## 关联
+## 参考
 
 - [Lambda 表达式（C# 引用）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)

@@ -46,6 +46,6 @@ console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 - 并不是所有的浏览器都执行相同的排序规则以及返回的结果，因此不要依赖于 localeCompare() 的返回值来排序数组
 - 该方法不支持比较 Unicode 扩展字符（非基本多文种平面字符）
 
-## 关联
+## 参考
 
 - [String.prototype.localeCompare()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)

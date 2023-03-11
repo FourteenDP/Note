@@ -167,7 +167,7 @@ VSCode安装插件`PostCSS Language Support`。
 import './index.css'
 ```
 
-## 关联
+## 参考
 
 - [Vite 中文文档](https://cn.vitejs.dev/guide/)
 - [pnpm](https://pnpm.io/)

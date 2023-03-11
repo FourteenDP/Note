@@ -8,7 +8,7 @@ date updated: 2023-01-05 09:45:43
 
 # C#和.NET关系
 
-## 关联
+## 参考
 
 - [.NET 官方支持策略](https://dotnet.microsoft.com/zh-cn/platform/support/policy)
 - [Unity各版本对C#版本的支持](https://blog.csdn.net/smile_Ho/article/details/119946986)

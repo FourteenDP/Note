@@ -23,6 +23,6 @@ date updated: 2022-12-29 16:12:46
   }
   ```
 
-## 关联
+## 参考
 
 - [响应式语法糖$ref](https://cn.vuejs.org/guide/extras/reactivity-transform.html#refs-vs-reactive-variables)
