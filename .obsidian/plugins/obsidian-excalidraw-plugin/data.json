@@ -56,10 +56,10 @@
   "embedType": "excalidraw",
   "embedWikiLink": true,
   "syncExcalidraw": false,
-  "experimentalFileType": false,
-  "experimentalFileTag": "✏️",
+  "experimentalFileType": true,
+  "experimentalFileTag": "✏",
   "experimentalLivePreview": true,
-  "experimentalEnableFourthFont": false,
+  "experimentalEnableFourthFont": true,
   "experimantalFourthFont": "Virgil",
   "fieldSuggester": true,
   "compatibilityMode": false,
@@ -10375,5 +10375,5 @@
       }
     }
   ],
-  "numberOfCustomPens": 0
+  "numberOfCustomPens": 10
 }

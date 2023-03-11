@@ -1,7 +1,7 @@
 {
   "strategy": "chinese",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "fuzzyMatch": true,
   "maxNumberOfSuggestions": 10,
   "maxNumberOfWordsAsPhrase": 3,
