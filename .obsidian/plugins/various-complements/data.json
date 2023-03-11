@@ -374,6 +374,38 @@
           "lastUpdated": 1678536730479
         }
       }
+    },
+    "文件夹": {
+      "文件夹": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678544594191
+        }
+      }
+    },
+    "文件": {
+      "文件": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678544649729
+        }
+      }
+    },
+    "path": {
+      "path": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678544691983
+        }
+      }
+    },
+    "warning": {
+      "warning": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678545110230
+        }
+      }
     }
   }
 }

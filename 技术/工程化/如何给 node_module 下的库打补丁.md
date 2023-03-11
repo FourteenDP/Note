@@ -1,12 +1,12 @@
 ---
-title: 如何给 node_module 的库打补丁
-aliases: [如何给 node_module 的库打补丁]
+title: 如何给 node_module 下的库打补丁
+aliases: [如何给 node_module 下的库打补丁, 如何给 node_module 的库打补丁]
 tags: []
-date created: 2023-03-11 20:04:09
-date updated: 2023-03-11 20:22:27
+date created: 2023-03-11 22:33:07
+date updated: 2023-03-11 22:35:00
 ---
 
-# 如何给 node_module 的库打补丁
+# 如何给 node_module 下的库打补丁
 
 ## 解决办法如下
 
@@ -29,6 +29,7 @@ yarn add patch-package postinstall-postinstall -D
 ```
 
 在 `yarn v2+` 请使用原生支持的 `yarn patch`,请参考 [yarn patch](https://yarnpkg.com/cli/patch)
+
 在 `pnpm v7.11.0<=` 请使用原生支持的 `pnpm patch`,请参考 [pnpm patch](https://pnpm.io/cli/patch)
 
 ```json
@@ -46,6 +47,7 @@ yarn add patch-package postinstall-postinstall -D
 # 安装 lodash
 npm i lodash
 ```
+
 **直接修改 `node_modules` 中的文件!!!**
 
 直接在 `node_modules/lodash/get.js` 中修改 `get` 方法
@@ -67,14 +69,17 @@ console.log(_.get({ a: { b: { c: 1 } } }, 'a.b.c')) // hello world
 
 ### 生成补丁
 
+> [!warning]
+> 应为要进行整个 `lodash` 库的文件 `diff` 这个过程极慢，我这大概用了十几分钟
+
 ```shell
 # npm
 npx patch-package lodash
 ```
 
-不知道为啥这个过程及其慢，这里我用了十几分钟
-
 在代码库中会生成一个 `patches` 文件夹，里面有一个 `lodash+4.17.21.patch` 文件，这个就是补丁文件
+
+如下：
 
 ```shell
 diff --git a/node_modules/lodash/get.js b/node_modules/lodash/get.js
@@ -93,6 +98,10 @@ index 8805ff9..79b973b 100644
    return result === undefined ? defaultValue : result;
  }
 ```
+
+同事只需要运行一下 `npx patch-package` 或者运行 `npm run postinstall` 就会自动把补丁打到 `node_modules` 中啦
+
+![[Pasted image 20230311222955.png]]
 
 ## 关联
 
