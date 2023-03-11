@@ -1096,8 +1096,8 @@ child_Vault ^eyzz5PSC
 		},
 		{
 			"type": "rectangle",
-			"version": 1249,
-			"versionNonce": 161996609,
+			"version": 1250,
+			"versionNonce": 1367424129,
 			"isDeleted": false,
 			"id": "IrzjsCgnafLss6bABQHVV",
 			"fillStyle": "solid",
@@ -1127,7 +1127,7 @@ child_Vault ^eyzz5PSC
 					"type": "arrow"
 				}
 			],
-			"updated": 1678566943509,
+			"updated": 1678567157119,
 			"link": null,
 			"locked": false
 		},
@@ -1357,8 +1357,8 @@ child_Vault ^eyzz5PSC
 		},
 		{
 			"type": "arrow",
-			"version": 1041,
-			"versionNonce": 942448559,
+			"version": 1043,
+			"versionNonce": 297475567,
 			"isDeleted": false,
 			"id": "WkebExB4VKUrzr2EsFyWZ",
 			"fillStyle": "solid",
@@ -1367,19 +1367,19 @@ child_Vault ^eyzz5PSC
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -100.9415231526283,
-			"y": 280.1319783451834,
+			"x": -100.94152315262832,
+			"y": 280.1319874550704,
 			"strokeColor": "#6a04e7",
 			"backgroundColor": "transparent",
-			"width": 71.82867701168023,
-			"height": 0.21174312444571797,
+			"width": 71.82867701168024,
+			"height": 0.21173793094141047,
 			"seed": 297548385,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678566944659,
+			"updated": 1678567155169,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1401,8 +1401,8 @@ child_Vault ^eyzz5PSC
 					0
 				],
 				[
-					-71.82867701168023,
-					0.21174312444571797
+					-71.82867701168024,
+					0.21173793094141047
 				]
 			]
 		},
