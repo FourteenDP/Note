@@ -3,7 +3,7 @@ title: Neovim 的安装
 aliases: [Neovim 的安装]
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-03-13 00:01:06
+date updated: 2023-03-13 00:03:37
 ---
 
 # Neovim 的安装
@@ -23,3 +23,7 @@ apt install neovim
 ```
 
 ```
+
+## 参考
+
+- [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
