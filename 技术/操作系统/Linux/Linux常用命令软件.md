@@ -3,13 +3,13 @@ title: Linux常用命令软件
 aliases: [Linux常用命令软件]
 tags: []
 date created: 2022-08-09 22:01:59
-date updated: 2023-02-10 09:29:32
+date updated: 2023-03-12 23:55:59
 ---
 
 # Linux常用命令软件
 
 - Vim: `apt install vim`
-- Neovim: `apt install neovim`
+- [[Neovim 的安装]]
 - Git: `apt install git`
 - Wget: `apt install wget`
 - Curl: `apt install curl`
