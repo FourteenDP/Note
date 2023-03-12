@@ -3,7 +3,7 @@ title: Neovim 的安装
 aliases: [Neovim 的安装]
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-03-13 00:03:37
+date updated: 2023-03-13 00:08:24
 ---
 
 # Neovim 的安装
@@ -20,8 +20,14 @@ apt install neovim
 
 - 在这 [Neovim Releases](https://github.com/neovim/neovim/releases) 找到对应版本下载到系统中
 
+```shell
+wget <url>
 ```
 
+- 使用 `apt` 安装 `neovim`
+
+```shell
+sudo apt install ./nvim-linux64.deb
 ```
 
 ## 参考
