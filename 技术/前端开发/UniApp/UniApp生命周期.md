@@ -14,7 +14,7 @@ date updated: 2022-12-29 16:12:46
 > 不同的环境运行可能有差异,下图为微信小程序执行图示
 >
 
-![[../../../-附件-/SVG/UniApp生命周期.drawio.svg]]
+![[../../../Drawio/UniApp生命周期.drawio.svg]]
 
 ![[Pasted image 20220713154807.png]]
 
