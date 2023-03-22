@@ -3,7 +3,7 @@ title: Debian 中文环境
 aliases: [Debian 中文环境]
 tags: []
 date created: 2023-03-22 13:38:09
-date updated: 2023-03-22 13:38:15
+date updated: 2023-03-22 14:43:15
 ---
 
 # Debian 中文环境
@@ -17,4 +17,5 @@ dpkg-reconfigure locales
 locale
 # 设置失败执行以下
 export LANG=zh_CN.UTF-8
+# 重启终端
 ```
