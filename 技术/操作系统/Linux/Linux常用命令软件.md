@@ -9,7 +9,7 @@ date updated: 2023-03-12 23:55:59
 # Linux常用命令软件
 
 - Vim: `apt install vim`
-- [[Neovim 的安装]]
+- [[Neovim 的安装和配置]]
 - Git: `apt install git`
 - Wget: `apt install wget`
 - Curl: `apt install curl`
