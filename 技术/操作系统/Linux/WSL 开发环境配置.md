@@ -3,7 +3,7 @@ title: Linux 开发环境配置
 aliases: [Linux 开发环境配置]
 tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2023-03-22 14:55:44
+date updated: 2023-03-22 15:16:41
 ---
 
 # Linux 开发环境配置
@@ -14,3 +14,4 @@ date updated: 2023-03-22 14:55:44
 - [[技术/操作系统/Linux/Debian 中文环境]]
 - [[技术/操作系统/Linux/Linux 常用下载器]]
 - [[Neovim 的安装和配置]]
+- [[Linux 常用工具]]
