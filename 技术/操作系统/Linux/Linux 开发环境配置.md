@@ -3,12 +3,18 @@ title: Linux 开发环境配置
 aliases: [Linux 开发环境配置]
 tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2023-03-22 13:25:21
+date updated: 2023-01-08 04:55:27
 ---
 
 # Linux 开发环境配置
 
-- **[[技术/操作系统/Linux/Linux 系统镜像源和更新]]**
+## 系统镜像源和更新
+
+### 教程
+
+一般情况下，源地址在 `/etc/apt/sources.list`
+
+```shell
 # 备份源文件
 sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
 # 复制镜像源到文件头部
@@ -67,9 +73,13 @@ deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-freedeb-src ht
 - [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
 - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
 
-- **[[技术/操作系统/Linux/Linux 设置代理]]**
+## 设置代理
 
-- **[[技术/操作系统/Linux/Linux 中文环境]]**
+![[WSL 系统代理]]
+
+## 中文环境
+
+```shell
 # 安装
 apt install locales
 # 配置
@@ -80,8 +90,19 @@ locale
 export LANG=zh_CN.UTF-8
 ```
 
-- **[[技术/操作系统/Linux/Linux 常用下载器]]**
+## 常用下载器
 
-- **[[技术/操作系统/Linux/zsh和Oh My Zsh]]**
+```sh
+sudo apt install curl wget axel git
+```
 
-- **[[技术/操作系统/Linux/Homebrew包管理器]]**
+## zsh和Oh My Zsh
+
+![[Linux安装命令行工具Oh My Zsh]]
+
+## Homebrew包管理器
+
+### 参考
+
+- [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+- [HomebrewCN: Homebrew 国内安装脚本](https://gitee.com/cunkai/HomebrewCN)
