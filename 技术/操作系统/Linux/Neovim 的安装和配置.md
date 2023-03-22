@@ -3,7 +3,7 @@ title: Neovim 的安装
 aliases: [Neovim 的安装]
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-03-22 14:57:15
+date updated: 2023-03-22 15:00:46
 ---
 
 # Neovim 的安装
@@ -32,7 +32,7 @@ sudo apt install ./nvim-linux64.deb
 
 ## 配置 NeoVim
 
-- [Site Unreachable](https://nvchad.com/docs/quickstart/install)
+- [nvchad](https://nvchad.com/docs/quickstart/install)
 
 ## 参考
 

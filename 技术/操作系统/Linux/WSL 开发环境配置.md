@@ -13,4 +13,4 @@ date updated: 2023-03-22 14:55:44
 - [[技术/操作系统/Linux/Linux 系统镜像源和更新]]
 - [[技术/操作系统/Linux/Debian 中文环境]]
 - [[技术/操作系统/Linux/Linux 常用下载器]]
-- [[Neovim 的安装]]
+- [[Neovim 的安装和配置]]
