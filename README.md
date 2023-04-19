@@ -25,3 +25,9 @@ date updated: 2023-03-11 20:03:26
 ---
 
 **[INDEX](./%F0%9F%93%8B%E7%9B%AE%E5%BD%95.md)**
+
+# TODO
+
+## 数据库为什么不使用外键约束
+- https://zhuanlan.zhihu.com/p/252840511
+- https://juejin.cn/post/7177534316396691512
