@@ -1,0 +1,440 @@
+{
+  "strategy": "chinese",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "partial",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 10,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 58,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "15": {
+      "15": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675408362378
+        }
+      }
+    },
+    "这是为什么？": {
+      "这是为什么？": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675171427581
+        }
+      }
+    },
+    "开发便捷工具": {
+      "开发便捷工具": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675228782437
+        }
+      }
+    },
+    "CSS-单位": {
+      "CSS-单位": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675388393660
+        }
+      }
+    },
+    "各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎": {
+      "各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677695241961
+        }
+      }
+    },
+    "解决方案": {
+      "截图": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675407882179
+        }
+      }
+    },
+    "社区": {
+      "社区": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675407889794
+        }
+      }
+    },
+    "简介": {
+      "3.3-变量": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675515880386
+        }
+      }
+    },
+    "Git": {
+      "Git": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675515897127
+        }
+      }
+    },
+    "八种基本数据类型": {
+      "数据类型": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675515911253
+        }
+      }
+    },
+    "关联": {
+      "关联": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675527721619
+        }
+      }
+    },
+    "管理": {
+      "管理": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1675575995420
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623338932
+        }
+      }
+    },
+    "error": {
+      "error": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623341509
+        }
+      }
+    },
+    "try": {
+      "try": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1675623361063
+        }
+      }
+    },
+    "{{url}}": {
+      "{{url}}": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675623365547
+        }
+      }
+    },
+    "Vue生命周期": {
+      "Vue生命周期": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675745510510
+        }
+      }
+    },
+    "JavaSciprt": {
+      "JavaSciprt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675747164480
+        }
+      }
+    },
+    "经验": {
+      "经验": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675748053762
+        }
+      }
+    },
+    "线程": {
+      "线程": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675748501563
+        }
+      }
+    },
+    "设计模式": {
+      "设计模式": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675748598741
+        }
+      }
+    },
+    "编译原理": {
+      "编译原理": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675748620513
+        }
+      }
+    },
+    "小程序容器技术": {
+      "小程序容器技术": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675748959373
+        }
+      }
+    },
+    "性能优化指南": {
+      "性能优化指南": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1675780868840
+        }
+      }
+    },
+    "其它": {
+      "Flutter 速记": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675872037087
+        }
+      }
+    },
+    "高效": {
+      "高效": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677656477293
+        }
+      }
+    },
+    "原强": {
+      "原强": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1677656513022
+        }
+      }
+    },
+    "你肯定用过这八种设计模式，面试官问起不要没话讲啦！": {
+      "你肯定用过这八种设计模式，面试官问起不要没话讲啦！": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677690595187
+        }
+      }
+    },
+    "计算机基础": {
+      "计算机基础": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677691055949
+        }
+      }
+    },
+    "Obsidian": {
+      "Obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677695405195
+        }
+      }
+    },
+    "跳转": {
+      "跳转": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677695418642
+        }
+      }
+    },
+    "等待者模式(Waiter Pattern)": {
+      "等待者模式(Waiter Pattern)": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1678171855790
+        }
+      }
+    },
+    "Web": {
+      "Web": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678218015386
+        }
+      }
+    },
+    "事件循环（Event Loop）": {
+      "事件循环（Event Loop）": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678253178374
+        }
+      }
+    },
+    "模型": {
+      "模型": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678256607416
+        }
+      }
+    },
+    "代码生成": {
+      "代码生成": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678536408915
+        }
+      }
+    },
+    "daily": {
+      "daily": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678536402341
+        }
+      }
+    },
+    "高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——在中国共产党第十五次全国代表大会上的报告": {
+      "高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——在中国共产党第十五次全国代表大会上的报告": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1678536549525
+        }
+      }
+    },
+    "如何给 node_module 的库打补丁": {
+      "如何给 node_module 的库打补丁": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678536683067
+        }
+      }
+    },
+    "安装": {
+      "Linux 安装卸载 Rust": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678536730479
+        }
+      }
+    },
+    "文件夹": {
+      "文件夹": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678544594191
+        }
+      }
+    },
+    "文件": {
+      "文件": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678544649729
+        }
+      }
+    },
+    "path": {
+      "path": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678544691983
+        }
+      }
+    },
+    "warning": {
+      "warning": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678545110230
+        }
+      }
+    },
+    "面试题": {
+      "面试题": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1678607167017
+        }
+      }
+    },
+    "CSS选择器参考手册": {
+      "CSS选择器参考手册": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678637008936
+        }
+      }
+    },
+    "Debian": {
+      "Debian": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1679463371260
+        }
+      }
+    }
+  }
+}

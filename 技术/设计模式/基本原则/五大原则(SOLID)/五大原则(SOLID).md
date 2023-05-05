@@ -1,0 +1,15 @@
+---
+title: 五大原则(SOLID)
+aliases: [五大原则(SOLID), 设计模式之五大原则(SOLID), 设计模式五大原则(SOLID)]
+tags: []
+date created: 2023-03-02 00:27:24
+date updated: 2023-03-07 13:32:15
+---
+
+# 五大原则(SOLID)
+
+- **[[单一职责原则 SRP(Single Responsibility Principle)]]**
+- **[[开闭原则 OCP(Open Close Principle)]]**
+- **[[里氏替换原则 LSP(Liskov Substitution Principle)]]**
+- **[[接口隔离原则 ISP(Interface Segregation Principle)]]**
+- **[[依赖倒转原则 DIP(Dependence Inversion Principle)]]**

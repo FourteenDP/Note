@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://outlook.live.com/calendar/0/view/month",
+      "displayName": "Home",
+      "icon": "home",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
