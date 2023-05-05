@@ -1,0 +1,9 @@
+.trash
+.obsidian/workspace.json
+.vscode
+.vs
+node_modules
+package.json
+package-lock.json
+bin
+obj

@@ -1,0 +1,13 @@
+---
+title: 柯里化(Currying)与偏函数(Partial Function)
+aliases: [柯里化(Currying)与偏函数(Partial Function), 函数柯里化, 柯里化]
+tags: []
+date created: 2023-03-07 03:33:29
+date updated: 2023-03-07 13:46:10
+---
+
+# 柯里化(Currying)与偏函数(Partial Function)
+
+**函数柯里化**是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数而且返回结果的新函数的技术。
+
+**偏函数**它接受一个函数和一个参数列表，返回一个新函数，这个新函数只需要接受剩余的参数就可以了。

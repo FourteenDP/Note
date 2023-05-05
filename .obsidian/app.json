@@ -1,0 +1,19 @@
+{
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-GB"
+  ],
+  "tabSize": 4,
+  "vimMode": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "9000-信箱",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "-附件-",
+  "userIgnoreFilters": null,
+  "promptDelete": false,
+  "newLinkFormat": "relative"
+}
