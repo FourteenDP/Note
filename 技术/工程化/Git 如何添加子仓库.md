@@ -23,8 +23,8 @@ date updated: 2023-05-05 10:07:03
 	- 会在父项目的`.gitmodules`文件中记录子项目的信息
 	- 会在`.git/config`文件中记录子项目的信息
 	- 会在父项目的`.git/modules`目录下创建子项目的仓库
-	- 使用`git clone submodule <url> <path>`可以克隆子项目
 	- 使用`git clone --recursive <父项目仓库 url>`可以递归克隆子项目
+	- 使用`git add <url> <path>`可以克隆添加子项目
 	- 使用`git submodule update --init`可以更新子项目
 	- 使用`git submodule update --init --recursive`可以递归更新子项目
 	- 使用`git submodule update --remote`可以更新子项目到最新版本
