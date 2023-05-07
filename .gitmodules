@@ -19,3 +19,6 @@
 [submodule "日志"]
 	path = 日志
 	url = git@github.com:FourteenDP/--.git
+[submodule "仓库/Me-Config"]
+	path = 仓库/Me-Config
+	url = git@github.com:FourteenDP/Me-Config.git
