@@ -1,0 +1,59 @@
+---
+title: 通过CLI构建UniApp项目
+aliases: [通过CLI构建UniApp项目, 通过CLI构建项目, 通过CLI构建UNI项目, 通过CLI构建uni-app应用, Uni 工程化, uni 工程化]
+tags: []
+date created: 2023-05-08 18:28:07
+date updated: 2023-05-08 18:37:27
+---
+
+# 通过CLI构建UniApp项目
+
+## Vue 2
+
+环境安装
+
+```
+npm install -g @vue/cli
+```
+
+创建应用
+
+```
+vue create -p dcloudio/uni-preset-vue my-project
+```
+
+![[../../-附件-/Pasted image 20230508183251.png]]
+
+## Vue 3
+
+创建以 javascript 开发的工程（如命令行创建失败，请直接访问 [gitee](https://gitee.com/dcloud/uni-preset-vue/repository/archive/vite.zip) 下载模板）
+
+```
+npx degit dcloudio/uni-preset-vue#vite my-vue3-project
+```
+
+创建以 typescript 开发的工程（如命令行创建失败，请直接访问 [gitee](https://gitee.com/dcloud/uni-preset-vue/repository/archive/vite-ts.zip) 下载模板）
+
+```
+npx degit dcloudio/uni-preset-vue#vite-ts my-vue3-project
+```
+
+**注意**: Vue3/Vite 版要求 node 版本 `^14.18.0 || >=16.0.0`
+
+## 更新
+
+更新到最新正式版
+
+```
+npx @dcloudio/uvm
+```
+
+更新到正式版指定版本
+
+```
+npx @dcloudio/uvm 3.2.0
+```
+
+## 参考
+
+- [uni-app官网](https://uniapp.dcloud.net.cn/quickstart-cli.html#install-vue-cli)
