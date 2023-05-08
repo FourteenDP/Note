@@ -3,7 +3,7 @@ title: 工程化之-EditorConfig
 aliases: [工程化之-EditorConfig, 工程化之-.editorconfig, editorconfig]
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-05-08 19:04:13
+date updated: 2023-05-08 19:11:09
 ---
 
 # 工程化之-EditorConfig
@@ -16,7 +16,7 @@ EditorConfig 文件通常命名为 `.editorconfig`，并存储在项目的根�
 
 在您正在使用的编辑器插件市场搜索 `EditorConfig` 一般第一个就是安装它，使编辑器支持 `EditorConfig` 设置
 
-## `.editorconfig` 列子
+下面是一个简单的 `.editorconfig`` 文件示例：
 
 ```ini
 # EditorConfig is awesome: https://EditorConfig.org
