@@ -3,7 +3,7 @@ title: 通过CLI构建UniApp项目
 aliases: [通过CLI构建UniApp项目, 通过CLI构建项目, 通过CLI构建UNI项目, 通过CLI构建uni-app应用, Uni 工程化, uni 工程化]
 tags: []
 date created: 2023-05-08 18:28:07
-date updated: 2023-05-08 18:37:27
+date updated: 2023-05-08 18:41:35
 ---
 
 # 通过CLI构建UniApp项目
@@ -41,6 +41,9 @@ npx degit dcloudio/uni-preset-vue#vite-ts my-vue3-project
 **注意**: Vue3/Vite 版要求 node 版本 `^14.18.0 || >=16.0.0`
 
 ## 更新
+
+> [!warning]
+> 不要自己手动更新 `uni-app` 相关依赖
 
 更新到最新正式版
 
