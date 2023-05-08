@@ -3,7 +3,7 @@ title: 工程化之-EditorConfig
 aliases: [工程化之-EditorConfig, 工程化之-.editorconfig, editorconfig]
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-05-08 18:55:20
+date updated: 2023-05-08 18:59:25
 ---
 
 # 工程化之-EditorConfig
@@ -16,21 +16,40 @@ EditorConfig 文件通常命名为 `.editorconfig`，并存储在项目的根�
 
 在您正在使用的编辑器插件市场搜索 `EditorConfig` 一般第一个就是安装它，使编辑器支持 `EditorConfig` 设置
 
-## 创建 `.editorconfig`
+## `.editorconfig` 列子
 
-```shell
+```ini
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
 root = true
 
+# Unix 风格的换行符，每个文件以换行符结尾
 [*]
-indent_style = space
-indent_size = 2
 end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
 insert_final_newline = true
 
+# 使用大括号扩展表示法匹配多个文件
+# 设置默认字符集
+[*.{js,py}]
+charset = utf-8
 
+# 4 个空格缩进
+[*.py]
+indent_style = space
+indent_size = 4
+
+# 制表符缩进（未指定大小）
+[Makefile]
+indent_style = tab
+
+# 覆盖 lib 目录下所有 JS 的缩进
+[lib/**.js]
+indent_style = space
+indent_size = 2
+
+# 精确匹配 package.json 或 .travis.yml 文件
+[{package.json,.travis.yml}]
+indent_style = space
+indent_size = 2
 ```
