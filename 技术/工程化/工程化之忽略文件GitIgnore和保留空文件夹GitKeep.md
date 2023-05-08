@@ -3,7 +3,7 @@ title: 工程化之忽略文件GitIgnore和保留空文件夹GitKeep
 aliases: [工程化之忽略文件GitIgnore和保留空文件夹GitKeep, 工程化之忽略文件和保留空文件夹 GitIgnore 和 GitKeep, 工程化之忽略文件和保留空文件夹GitIgnore和GitKeep, 工程化之GitIgnore和GitKeep]
 tags: []
 date created: 2023-05-08 19:19:39
-date updated: 2023-05-08 19:25:33
+date updated: 2023-05-08 19:28:42
 ---
 
 # 工程化之忽略文件GitIgnore和保留空文件夹GitKeep
@@ -14,46 +14,28 @@ date updated: 2023-05-08 19:25:33
 
 下面为常用忽略文件例子:
 
-```
+```ini
 # Logs
-
+# 日志
 logs
-
 *.log
-
 npm-debug.log*
-
 yarn-debug.log*
-
 yarn-error.log*
-
 pnpm-debug.log*
-
 lerna-debug.log*
 
-  
+# Editor directories and files
+# 编辑器目录和文件
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 node_modules
-
 .DS_Store
-
 dist
-
 *.local
-
-  
-
-# Editor directories and files
-
-.idea
-
-*.suo
-
-*.ntvs*
-
-*.njsproj
-
-*.sln
-
-*.sw?
 ```
