@@ -3,7 +3,7 @@ title: 工程化之-EditorConfig
 aliases: [工程化之-EditorConfig, 工程化之-.editorconfig, editorconfig]
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-05-08 18:59:25
+date updated: 2023-05-08 19:03:01
 ---
 
 # 工程化之-EditorConfig
@@ -12,7 +12,7 @@ EditorConfig 是一个用于定义代码格式的文件格式和一组文本编�
 
 EditorConfig 文件通常命名为 `.editorconfig`，并存储在项目的根目录中。它包含一组用于定义代码格式的规则，例如缩进风格、缩进大小、换行符类型等。当您在支持 EditorConfig 的编辑器中打开项目中的文件时，编辑器会自动应用这些规则，以确保您的代码风格与项目中其他文件保持一致。
 
-## EditorConfig
+## 开始
 
 在您正在使用的编辑器插件市场搜索 `EditorConfig` 一般第一个就是安装它，使编辑器支持 `EditorConfig` 设置
 
@@ -24,9 +24,12 @@ EditorConfig 文件通常命名为 `.editorconfig`，并存储在项目的根�
 # top-most EditorConfig file
 root = true
 
-# Unix 风格的换行符，每个文件以换行符结尾
 [*]
+indent_style = space
+indent_size = 2
 end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
 insert_final_newline = true
 
 # 使用大括号扩展表示法匹配多个文件
@@ -53,3 +56,14 @@ indent_size = 2
 indent_style = space
 indent_size = 2
 ```
+
+## 配置参考
+
+- **indent_style**：设置为 tab 或 space，分别使用硬制表符或软制表符。
+- **indent_size**：一个整数，定义每个缩进级别使用的列数和软制表符的宽度（如果支持）。当设置为 tab 时，将使用 tab_width（如果指定）的值。
+- **tab_width**：一个整数，定义用于表示制表符字符的列数。这默认为 indent_size 的值，通常不需要指定。
+- **end_of_line**：设置为 lf、cr 或 crlf，以控制如何表示换行符。
+- **charset**：设置为 latin1、utf-8、utf-8-bom、utf-16be 或 utf-16le，以控制字符集。
+- **trim_trailing_whitespace**：设置为 true 以删除换行符前面的任何空格字符，设置为 false 以确保不删除。
+- **insert_final_newline**：设置为 true 以确保保存文件时以换行符结尾，设置为 false 以确保不是这样。
+- **root**：应在文件顶部的任何部分之外指定的特殊属性。设置为 true 以停止在当前文件上搜索 `.editorconfig` 文件。
