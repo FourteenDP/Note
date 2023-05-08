@@ -3,7 +3,7 @@ title: 工程化之-EditorConfig
 aliases: [工程化之-EditorConfig, 工程化之-.editorconfig, editorconfig]
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-05-08 19:03:01
+date updated: 2023-05-08 19:04:13
 ---
 
 # 工程化之-EditorConfig
@@ -67,3 +67,7 @@ indent_size = 2
 - **trim_trailing_whitespace**：设置为 true 以删除换行符前面的任何空格字符，设置为 false 以确保不删除。
 - **insert_final_newline**：设置为 true 以确保保存文件时以换行符结尾，设置为 false 以确保不是这样。
 - **root**：应在文件顶部的任何部分之外指定的特殊属性。设置为 true 以停止在当前文件上搜索 `.editorconfig` 文件。
+
+## 参考
+
+- [EditorConfig](https://EditorConfig.org)
