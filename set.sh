@@ -1,5 +1,5 @@
 git filter-branch --commit-filter '
-if [ "$GIT_COMMITTER_EMAIL" = "2899385645@qq.com" ];
+if [ "$GIT_COMMITTER_EMAIL" = "14DDDDDD@qq.com" ];
 then
     GIT_COMMITTER_NAME="FourteenDP";
     GIT_AUTHOR_NAME="FourteenDP";
