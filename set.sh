@@ -1,4 +1,4 @@
-git filter-branch --commit-filter '
+git filter-branch --commit-filter --force '
 if [ "$GIT_COMMITTER_EMAIL" = "14DDDDDD@qq.com" ];
 then
     GIT_COMMITTER_NAME="FourteenDP";
