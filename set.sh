@@ -1,4 +1,4 @@
-git filter-branch --commit-filter --force '
+git filter-branch --commit-filter '
 if [ "$GIT_COMMITTER_EMAIL" = "14DDDDDD@qq.com" ];
 then
     GIT_COMMITTER_NAME="FourteenDP";
@@ -8,4 +8,4 @@ then
     git commit-tree "$@";
 else
     git commit-tree "$@";
-fi' HEAD
+fi' HEAD -f
