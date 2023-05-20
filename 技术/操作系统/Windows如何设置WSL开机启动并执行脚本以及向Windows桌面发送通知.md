@@ -1,12 +1,14 @@
 ---
-title: Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知
-aliases: [Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知]
+title: Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
+aliases: [Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知, Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知]
 tags: []
 date created: 2023-05-20 21:32:20
-date updated: 2023-05-20 22:13:58
+date updated: 2023-05-20 22:25:29
 ---
 
-# Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知
+# Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
+
+> 环境：WIndows 10 和 WSL1 其它版本也是类似的思路
 
 ## 首先设置 WSL 在 Windows 开机时启动
 
@@ -40,3 +42,5 @@ ws.Run "powershell.exe -Command ""wsl -d Debian -u admin""", vbhide
 ![[../../-附件-/Pasted image 20230520221203.png]]
 
 下面只需要在 WSL 里执行 `PowerShell` 命令就可以啦
+
+![[../../-附件-/Pasted image 20230520222414.png]]
