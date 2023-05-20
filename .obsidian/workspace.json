@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "12ff1e9dbc2f278e",
+        "id": "237c1fdb50705eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7502336f266b683",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e715909fc773ae5",
+            "id": "2af1c6320fece304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作/如何编写好的技术文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd568862600b586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cda78841369685c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "简历待办",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md"
+                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md"
               }
             }
           }
@@ -173,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,14 +188,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cda78841369685c3",
+  "active": "2af1c6320fece304",
   "lastOpenFiles": [
-    "技术/操作系统/Linux/Linux常用命令.md",
-    "仓库/Me-Config/将命令添加到右键.md",
-    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "拾肆/个人/简历待办.md",
+    "拾肆/公司/广东灯总管科技有限公司/项目.md",
+    "拾肆/公司/广东灯总管科技有限公司/工作资料.md",
+    "拾肆/公司/广东灯总管科技有限公司/驰雄项目.md",
     "写作/如何编写好的技术文档.md",
-    "写作/待完成.md",
-    "技术/工程化/Git 如何添加子仓库.md",
-    "写作/UniApp和Flutter通信.md"
+    "技术/操作系统/Linux/Linux常用命令.md",
+    "日志/2023/2023-Q1/2023-03/2023-W09/2023-03-04.md",
+    "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+    "仓库/Me-Config/将命令添加到右键.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md"
   ]
 }
