@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "仓库/Me-Config/将命令添加到右键.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "仓库/Me-Config/将命令添加到右键.md"
+                "file": "技术/操作系统/Linux/Linux常用命令.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "仓库/Me-Config/将命令添加到右键.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "仓库/Me-Config/将命令添加到右键.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,8 @@
   },
   "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
-    "采集/Win10-VSCode - 添加至右键菜单.md",
     "仓库/Me-Config/将命令添加到右键.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md",
     "写作/如何编写好的技术文档.md",
     "写作/待完成.md",
     "技术/工程化/Git 如何添加子仓库.md",
