@@ -3,7 +3,7 @@ title: Windows如何设置WSL开机启动并执行脚本以及向Windows桌面�
 aliases: [Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知]
 tags: []
 date created: 2023-05-20 21:32:20
-date updated: 2023-05-20 21:55:57
+date updated: 2023-05-20 22:01:04
 ---
 
 # Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知
@@ -33,4 +33,4 @@ ws.Run "powershell.exe -Command ""wsl -d Debian -u admin""", vbhide
 
 ## WSL 向 Windows 桌面发送通知
 
-- 效果示例
+![[../../-附件-/Pasted image 20230520220103.png]]
