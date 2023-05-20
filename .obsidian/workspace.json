@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cda78841369685c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md"
+                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md"
               }
             }
           }
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +223,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "cda78841369685c3",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/Linux常用命令.md",
     "仓库/Me-Config/将命令添加到右键.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
     "写作/如何编写好的技术文档.md",
