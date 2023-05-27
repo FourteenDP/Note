@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md"
+                "file": "技术/操作系统/Linux/Linux 常用工具.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,15 +204,15 @@
   },
   "active": "52db71e4899b8369",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md",
+    "技术/操作系统/Linux/Linux安装Node版本管理器Nvm.md",
+    "技术/操作系统/Linux/Linux查看硬件和系统信息.md",
+    "技术/操作系统/Linux/Linux常用命令.md",
     "技术/操作系统/Linux/Linux目录结构和作用.md",
     "技术/操作系统/Linux/Neovim 的安装和配置.md",
     "技术/操作系统/Linux/WSL 开发环境配置.md",
     "技术/操作系统/Linux/WSL 系统代理.md",
     "技术/操作系统/Linux/WSL 修改默认安装目录到其他盘.md",
-    "技术/操作系统/Linux/WSL SSH远程连接.md",
-    "拾肆/个人/稳定的工作.md",
-    "技术/操作系统/Linux/Linux常用命令.md",
-    "拾肆/公司/广东灯总管科技有限公司/项目.md",
-    "拾肆/个人/简历待办.md"
+    "技术/操作系统/Linux/WSL SSH远程连接.md"
   ]
 }
