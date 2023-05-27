@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52db71e4899b8369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 383.0110321044922
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md"
+                "file": "技术/操作系统/Linux/Linux常用命令.md"
               }
             }
           }
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/公司/广东灯总管科技有限公司/项目.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +202,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2af1c6320fece304",
+  "active": "52db71e4899b8369",
   "lastOpenFiles": [
-    "拾肆/个人/简历待办.md",
-    "拾肆/公司/广东灯总管科技有限公司/项目.md",
-    "拾肆/公司/广东灯总管科技有限公司/工作资料.md",
-    "拾肆/公司/广东灯总管科技有限公司/驰雄项目.md",
-    "写作/如何编写好的技术文档.md",
+    "技术/操作系统/Linux/Linux目录结构和作用.md",
+    "技术/操作系统/Linux/Neovim 的安装和配置.md",
+    "技术/操作系统/Linux/WSL 开发环境配置.md",
+    "技术/操作系统/Linux/WSL 系统代理.md",
+    "技术/操作系统/Linux/WSL 修改默认安装目录到其他盘.md",
+    "技术/操作系统/Linux/WSL SSH远程连接.md",
+    "拾肆/个人/稳定的工作.md",
     "技术/操作系统/Linux/Linux常用命令.md",
-    "日志/2023/2023-Q1/2023-03/2023-W09/2023-03-04.md",
-    "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
-    "仓库/Me-Config/将命令添加到右键.md",
-    "采集/Win10-VSCode - 添加至右键菜单.md"
+    "拾肆/公司/广东灯总管科技有限公司/项目.md",
+    "拾肆/个人/简历待办.md"
   ]
 }
