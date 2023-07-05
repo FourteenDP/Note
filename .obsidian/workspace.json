@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.0110321044922,
-    "collapsed": true
+    "width": 383.0110321044922
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -208,7 +207,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a380d842a7fd21b6",
+  "active": "2d778d2cb913c3a4",
   "lastOpenFiles": [
     "其它/📚知识博客.md",
     "技术/操作系统/Linux/Linux常用命令.md",
