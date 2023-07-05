@@ -11,8 +11,13 @@
             "id": "37460623485b6e54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "开源/开源项目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -182,7 +187,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "37460623485b6e54",
   "lastOpenFiles": [
     "其它/📚知识博客.md",
     "技术/操作系统/Linux/Linux常用命令.md",
