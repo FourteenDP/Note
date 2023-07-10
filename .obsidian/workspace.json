@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c1d6696498237981",
@@ -124,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +187,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5471550695c39ce",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
-    "Drawio/UniApp生命周期.drawio.svg",
     "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
+    "Drawio/UniApp生命周期.drawio.svg",
     "日志/2023/2023-Q3/2023-07/2023-W28",
     "日志/2023/2023-Q3/2023-07",
     "日志/2023/2023-Q3",
