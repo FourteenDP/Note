@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f26e93f38712363",
+        "id": "2edf3cce82b2ed5a",
         "type": "tabs",
         "children": [
           {
-            "id": "081e1ca66d65b270",
+            "id": "62f2f1efa17780da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "c1d6696498237981",
@@ -124,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md"
+              }
             }
           }
         ],
@@ -140,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +192,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "081e1ca66d65b270",
+  "active": "c5471550695c39ce",
   "lastOpenFiles": [
+    "Drawio/UniApp生命周期.drawio.svg",
+    "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
+    "日志/2023/2023-Q3/2023-07/2023-W28",
+    "日志/2023/2023-Q3/2023-07",
+    "日志/2023/2023-Q3",
+    "Excalidraw/Drawing 2023-07-10 16.28.49.excalidraw.md",
+    "Excalidraw/submodule和subtree区别.excalidraw.md",
+    "Excalidraw/submodule和subtree区别.excalidraw.svg",
+    "📋目录.md",
+    "Drawio/后端常见分层.drawio.svg",
+    "Drawio/构建知识库.svg",
     "未命名.md",
     "开源/开源项目.md",
     "其它/📚知识博客.md",
