@@ -11,8 +11,13 @@
             "id": "62f2f1efa17780da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -45,8 +50,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "简历待办",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md"
+              }
             }
           }
         ],
@@ -139,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
