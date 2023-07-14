@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
+                "file": "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md"
+                "file": "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
+                "file": "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
+                "file": "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,12 @@
   },
   "active": "62f2f1efa17780da",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/WSL 开发环境配置.md",
+    "技术/操作系统/Linux/WSL 基本命令.md",
+    "技术/操作系统/Linux/WSL  登录Root.md",
+    "技术/操作系统/Linux/WSL 系统代理.md",
+    "技术/操作系统/Linux/WSL 修改默认安装目录到其他盘.md",
+    "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
     "技术/操作系统/Linux/Debian 中文环境.md",
     "技术/操作系统/Linux/Linux常用命令.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
