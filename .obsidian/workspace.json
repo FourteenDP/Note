@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md"
+                "file": "技术/操作系统/Linux/Linux常用命令.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+                "file": "技术/操作系统/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
     "Drawio/UniApp生命周期.drawio.svg",
     "日志/2023/2023-Q3/2023-07/2023-W28",
