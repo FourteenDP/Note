@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md"
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux常用命令.md",
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +196,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "62f2f1efa17780da",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/Debian 中文环境.md",
+    "技术/操作系统/Linux/Linux常用命令.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
     "Drawio/UniApp生命周期.drawio.svg",
@@ -213,7 +215,6 @@
     "未命名.md",
     "开源/开源项目.md",
     "其它/📚知识博客.md",
-    "技术/操作系统/Linux/Linux常用命令.md",
     "技术/前端开发/UniApp/UniApp踩坑指南.md",
     "拾肆/个人/All in One 笔记工具.md",
     "技术/操作系统/Linux/Linux 常用工具.md",
