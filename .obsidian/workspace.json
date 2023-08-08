@@ -11,8 +11,13 @@
             "id": "5f2ecbcaf7899439",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -79,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c1d6696498237981",
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md"
+              }
             }
           }
         ],
@@ -140,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
