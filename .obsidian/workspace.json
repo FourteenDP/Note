@@ -57,14 +57,6 @@
             }
           },
           {
-            "id": "dfb0878fa4def42a",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "3699ca985f693a59",
             "type": "leaf",
             "state": {
@@ -79,9 +71,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "af7a203f042a7728",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "c1d6696498237981",
@@ -177,21 +177,21 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-custom-frames:Open Home": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "045f07e50dc53fea",
