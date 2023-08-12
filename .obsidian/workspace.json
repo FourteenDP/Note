@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "514425c83b57a3d2",
+        "id": "9aeda318159266b6",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2ecbcaf7899439",
+            "id": "854757b1575dde36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "拾肆/个人/简历个人意见.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -80,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c1d6696498237981",
@@ -127,12 +129,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/简历个人意见.pdf"
+                "file": "README.md"
               }
+            }
+          },
+          {
+            "id": "b32b63b73d92fe66",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -144,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/简历个人意见.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/简历个人意见.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,6 @@
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -191,11 +200,15 @@
       "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "854757b1575dde36",
   "lastOpenFiles": [
+    "📋目录.md",
+    "README.md",
+    "拾肆/个人/简历个人意见.pdf",
     "技术/操作系统/Linux/Linux 常用工具.md",
     "技术/操作系统/Linux/WSL 开发环境配置.md",
     "技术/操作系统/Linux/Debian 中文环境.md",
@@ -226,8 +239,6 @@
     "日志/2023/2023-Q3/2023-07/2023-W28",
     "日志/2023/2023-Q3/2023-07",
     "日志/2023/2023-Q3",
-    "📋目录.md",
-    "未命名.md",
-    "开源/开源项目.md"
+    "未命名.md"
   ]
 }
