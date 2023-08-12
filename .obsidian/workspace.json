@@ -11,8 +11,13 @@
             "id": "4465871c148b1bb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技术/操作系统/Linux/Linux 常用工具.md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术/操作系统/Linux/Linux 常用工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
