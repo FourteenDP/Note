@@ -11,12 +11,9 @@
             "id": "854757b1575dde36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DB.md"
               }
             }
           }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DB.md"
               }
             }
           },
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
       "canvas:新建白板": false,
       "obsidian-custom-frames:Open Home": false,
       "privacy-glasses:Hide all": false,
@@ -197,17 +195,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "854757b1575dde36",
   "lastOpenFiles": [
-    "📋目录.md",
+    "Excalidraw/Palettes/自定义颜色.md",
+    "DB.md",
     "README.md",
+    "📋目录.md",
     "拾肆/个人/简历个人意见.pdf",
     "技术/操作系统/Linux/Linux 常用工具.md",
     "技术/操作系统/Linux/WSL 开发环境配置.md",
@@ -235,10 +235,8 @@
     "Drawio/构建知识库.svg",
     "Excalidraw/submodule和subtree区别.excalidraw.svg",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
-    "日志/2023/2023-Q3/2023-07/2023-W28/2023-07-10.md",
     "日志/2023/2023-Q3/2023-07/2023-W28",
     "日志/2023/2023-Q3/2023-07",
-    "日志/2023/2023-Q3",
-    "未命名.md"
+    "日志/2023/2023-Q3"
   ]
 }
