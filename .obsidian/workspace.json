@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9aeda318159266b6",
+        "id": "94c2670fa9aa502d",
         "type": "tabs",
         "children": [
           {
-            "id": "854757b1575dde36",
+            "id": "4465871c148b1bb0",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "DB.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DB.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +196,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "854757b1575dde36",
+  "active": "4465871c148b1bb0",
   "lastOpenFiles": [
-    "Excalidraw/Palettes/自定义颜色.md",
     "DB.md",
+    "1.md",
+    "1 1.md",
+    "-模板-/日志/周总结.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Palettes/自定义颜色.md",
     "README.md",
     "📋目录.md",
     "拾肆/个人/简历个人意见.pdf",
@@ -227,14 +225,10 @@
     "技术/操作系统/权限管理模型.md",
     "技术/操作系统/Linux/WSL 修改默认安装目录到其他盘.md",
     "技术/操作系统/Linux/WSL SSH远程连接.md",
-    "Excalidraw/submodule和subtree区别.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-23 12.34.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-10 16.28.49.excalidraw.md",
     "Drawio/UniApp生命周期.drawio.svg",
     "Drawio/后端常见分层.drawio.svg",
     "Drawio/构建知识库.svg",
     "Excalidraw/submodule和subtree区别.excalidraw.svg",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "日志/2023/2023-Q3/2023-07/2023-W28",
     "日志/2023/2023-Q3/2023-07",
     "日志/2023/2023-Q3"
