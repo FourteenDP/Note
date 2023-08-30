@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2606a0d2e4266aa1",
+        "id": "3752168b92cd6a04",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b5449fa9523e63",
+            "id": "779e059f151d6090",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术/操作系统/Linux/WSL 开发环境配置.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5080982ddec7f68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c1d6696498237981",
@@ -143,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +196,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5080982ddec7f68b",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
+    "日志/2023/2023-Q3/2023-08/2023-W33/2023-08-20.md",
+    "日志/2023/2023-Q3/2023-08/2023-W33",
+    "日志/2023/2023-Q3/2023-08",
     "技术/操作系统/Linux/WSL 开发环境配置.md",
+    "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
     "DB.md",
     "技术/操作系统/Linux/Debian 中文环境.md",
     "技术/操作系统/Linux/Linux 常用工具.md",
@@ -238,7 +219,6 @@
     "拾肆/个人/简历个人意见.pdf",
     "技术/操作系统/Linux/Linux 安装卸载 Rust.md",
     "技术/操作系统/Linux/Linux 常用下载器.md",
-    "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
     "技术/操作系统/Linux/Linux安装命令行工具Oh My Zsh.md",
     "技术/操作系统/Linux/Linux常用命令.md",
     "技术/操作系统/Linux/Linux查看硬件和系统信息.md",
@@ -247,8 +227,6 @@
     "技术/操作系统/Linux/WSL  登录Root.md",
     "技术/操作系统/Linux/WSL 基本命令.md",
     "技术/操作系统/Linux/WSL 系统代理.md",
-    "技术/操作系统/权限管理模型.md",
-    "技术/操作系统/Linux/WSL 修改默认安装目录到其他盘.md",
     "Drawio/UniApp生命周期.drawio.svg",
     "Drawio/后端常见分层.drawio.svg",
     "Drawio/构建知识库.svg",
