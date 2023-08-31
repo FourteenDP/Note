@@ -11,8 +11,13 @@
             "id": "779e059f151d6090",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,15 +205,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "779e059f151d6090",
   "lastOpenFiles": [
+    "DB.md",
+    "README.md",
+    "采集/实施前端微服务化的六七种方式.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "日志/2023/2023-Q3/2023-08/2023-W33/2023-08-20.md",
     "日志/2023/2023-Q3/2023-08/2023-W33",
     "日志/2023/2023-Q3/2023-08",
     "技术/操作系统/Linux/WSL 开发环境配置.md",
     "技术/操作系统/Linux/Linux 系统镜像源和更新.md",
-    "DB.md",
     "技术/操作系统/Linux/Debian 中文环境.md",
     "技术/操作系统/Linux/Linux 常用工具.md",
     "采集/[WSL] WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
@@ -214,7 +225,6 @@
     "-模板-/日志/周总结.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Excalidraw/Palettes/自定义颜色.md",
-    "README.md",
     "📋目录.md",
     "拾肆/个人/简历个人意见.pdf",
     "技术/操作系统/Linux/Linux 安装卸载 Rust.md",
@@ -226,7 +236,6 @@
     "技术/操作系统/Linux/Linux目录结构和作用.md",
     "技术/操作系统/Linux/WSL  登录Root.md",
     "技术/操作系统/Linux/WSL 基本命令.md",
-    "技术/操作系统/Linux/WSL 系统代理.md",
     "Drawio/UniApp生命周期.drawio.svg",
     "Drawio/后端常见分层.drawio.svg",
     "Drawio/构建知识库.svg",
