@@ -11,6 +11,8 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
   "userIgnoreFilters": null,
-  "promptDelete": false,
-  "newLinkFormat": "relative"
+  "promptDelete": true,
+  "newLinkFormat": "relative",
+  "showLineNumber": false,
+  "rightToLeft": false
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c058f9410ea4899",
+        "id": "b087be737bf2f394",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a3ba9829a45392",
+            "id": "0a6c45f4946f95a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/编译原理/编译原理.md",
+                "file": "书籍/前端推荐书籍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/编译原理/编译原理.md"
+                "file": "书籍/前端推荐书籍.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/编译原理/编译原理.md",
+                "file": "书籍/前端推荐书籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/编译原理/编译原理.md",
+                "file": "书籍/前端推荐书籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,12 +203,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-weread-plugin:Weread": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e1a3ba9829a45392",
+  "active": "0a6c45f4946f95a0",
   "lastOpenFiles": [
     "未命名.canvas",
+    "技术/编译原理/编译原理.md",
     "技术/设计模式/设计模式.md",
     "技术/设计模式/📋目录.md",
     "技术/📋目录.md",
@@ -241,7 +243,6 @@
     "自考/押密/马克思主义基本原理概论.pdf",
     "README.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-    "DB.md",
     "日志/2023/2023-Q3/2023-08/2023-W33",
     "日志/2023/2023-Q3/2023-08",
     "拾肆/个人/简历个人意见.pdf",
