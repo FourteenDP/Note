@@ -1,10 +1,7 @@
 {
   "strictLineBreaks": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "tabSize": 4,
   "vimMode": false,
   "trashOption": "local",
