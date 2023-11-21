@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "设计模式",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,18 +59,18 @@
             }
           },
           {
-            "id": "3699ca985f693a59",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c5471550695c39ce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3699ca985f693a59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -88,6 +88,7 @@
       {
         "id": "8f3b831dde16bfc1",
         "type": "tabs",
+        "dimension": 54.36893203883495,
         "children": [
           {
             "id": "a380d842a7fd21b6",
@@ -133,6 +134,7 @@
       {
         "id": "02db7ed448796d0d",
         "type": "tabs",
+        "dimension": 45.63106796116505,
         "children": [
           {
             "id": "cfa9364162b6c8ae",
@@ -182,7 +184,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "43d05ed17a1e9dd9",
+  "active": "72279220b5f2f285",
   "lastOpenFiles": [
     "README.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
