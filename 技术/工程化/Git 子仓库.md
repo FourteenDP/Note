@@ -22,7 +22,7 @@ url: "https://juejin.cn/post/7230656452497965117"
 
 ![[Pasted image 20230204210622.png]]
 
-![[../../Excalidraw/submodule和subtree区别.excalidraw.svg]]
+![[SVG/submodule和subtree区别.excalidraw.svg]]
 
 ## `git submodule`
 

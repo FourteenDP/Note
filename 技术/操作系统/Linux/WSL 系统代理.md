@@ -1,7 +1,8 @@
 ---
-title: WSL1
-aliases: [WSL1]
-tags: []
+title: WSL 系统代理
+aliases:
+  - WSL 系统代理
+tags: 
 date created: 2022-10-29 17:41:51
 date updated: 2022-12-29 16:12:48
 ---

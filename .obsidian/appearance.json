@@ -1,11 +1,14 @@
 {
-  "accentColor": "#337ac7",
+  "accentColor": "#187ae2",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "Theme"
   ],
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "cssTheme": "",
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "Consolas,微软雅黑",
+  "textFontFamily": "Fira Code,楷体",
+  "monospaceFontFamily": "Fira Code Retina"
 }

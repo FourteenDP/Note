@@ -4,5 +4,7 @@
   "graph": false,
   "file-explorer": false,
   "starred": false,
-  "git-view": false
+  "git-view": false,
+  "bookmarks": false,
+  "kanban-plugin": false
 }

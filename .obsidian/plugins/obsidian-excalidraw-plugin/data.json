@@ -58,6 +58,7 @@
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
+  "embedMarkdownCommentLinks": true,
   "embedWikiLink": true,
   "syncExcalidraw": false,
   "experimentalFileType": false,
@@ -72,7 +73,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.16",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.1",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -5201,7 +5202,7 @@
             "containerId": null,
             "originalText": "0 .. 1",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "f6EWEuS_WjHDEShUEHju3",
@@ -5247,7 +5248,7 @@
             "containerId": null,
             "originalText": "1 .. n",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "OJRZzDxekUUv4LR0ELLCQ",
@@ -5293,7 +5294,7 @@
             "containerId": null,
             "originalText": "n .. m",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "Km3blvHg6UXe_hTsmr4R-",
@@ -6188,7 +6189,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -6265,7 +6266,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -6690,7 +6691,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -6872,7 +6873,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -7145,7 +7146,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -7226,7 +7227,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -7654,7 +7655,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -7733,7 +7734,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -8130,7 +8131,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -8423,7 +8424,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -8668,7 +8669,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -8961,7 +8962,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -9282,7 +9283,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -9416,7 +9417,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.2739395337669208,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -9697,7 +9698,7 @@
             "containerId": null,
             "originalText": "Yes",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -9778,7 +9779,7 @@
             "containerId": null,
             "originalText": "No",
             "lineHeight": 1.277777777777777,
-            "baseline": 11
+            "baseline": 12
           },
           {
             "type": "ellipse",
@@ -10362,10 +10363,9 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "1.9.16",
+  "previousRelease": "2.0.2",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
@@ -10690,7 +10690,28 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
+  "pdfGroupPages": false,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.3
+  "pdfNumRows": 1,
+  "pdfDirection": "right",
+  "pdfImportScale": 0.3,
+  "laserSettings": {
+    "DECAY_LENGTH": 50,
+    "DECAY_TIME": 1000,
+    "COLOR": "#ff0000"
+  },
+  "embeddableMarkdownDefaults": {
+    "useObsidianDefaults": false,
+    "backgroundMatchCanvas": false,
+    "backgroundMatchElement": true,
+    "backgroundColor": "#fff",
+    "backgroundOpacity": 60,
+    "borderMatchElement": true,
+    "borderColor": "#fff",
+    "borderOpacity": 0,
+    "filenameVisible": false
+  },
+  "canvasImmersiveEmbed": true,
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

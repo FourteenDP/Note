@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b087be737bf2f394",
+        "id": "0932de333a40e50a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6c45f4946f95a0",
+            "id": "43d05ed17a1e9dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/前端推荐书籍.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,6 @@
       {
         "id": "fc4ffa477dba5605",
         "type": "tabs",
-        "dimension": 70.9322033898305,
         "children": [
           {
             "id": "4435f7f1e63e5f07",
@@ -74,36 +73,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "af7a203f042a7728",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "c1d6696498237981",
-        "type": "tabs",
-        "dimension": 29.067796610169495,
-        "children": [
-          {
-            "id": "6a74e5e765f5bc78",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 363.5110321044922
+    "width": 382.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -130,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/前端推荐书籍.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,6 +116,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "f1b850cac2e96359",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/前端推荐书籍.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/前端推荐书籍.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,72 +168,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dbfolder:创建一个新数据库表": false,
       "canvas:新建白板": false,
-      "obsidian-custom-frames:Open Home": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false,
-      "obsidian-dangling-links:Show dangling links panel": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-weread-plugin:Weread": false,
-      "periodic-notes:Open today": false
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0a6c45f4946f95a0",
+  "active": "43d05ed17a1e9dd9",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "技术/编译原理/编译原理.md",
-    "技术/设计模式/设计模式.md",
-    "技术/设计模式/📋目录.md",
-    "技术/📋目录.md",
-    "书籍/📋目录.md",
-    "书籍/前端推荐书籍.md",
-    "书籍/书籍推荐.md",
-    "技术/技术杂项.md",
-    "Drawio/UniApp生命周期.drawio.svg",
-    "Drawio/后端常见分层.drawio.svg",
-    "Drawio/构建知识库.svg",
-    "拾肆/个人/简历Plus/邓智鹏-前端工程师.md",
-    "拾肆/个人/简历Plus/邓智鹏-前端工程师Plus.pdf",
-    "拾肆/个人/简历Plus/邓智鹏-前端工程师.pdf",
-    "拾肆/个人/简历HTML/前端开发-邓智鹏-1.2.pdf",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论相关视频索引.md",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
-    "自考/资料/KM02-马克思主义基本原理概论/Drawing 2023-09-14 11.57.21.excalidraw.md",
-    "自考/资料/KM02-马克思主义基本原理概论/Drawing 2023-09-14 11.56.47.excalidraw.md",
-    "自考/资料/KM02-马克思主义基本原理概论/📋目录.md",
-    "待办/管理.md",
-    "自考/押密/📋目录.md",
-    "Excalidraw/Scripts/📋目录.md",
-    "Excalidraw/Scripts/Downloaded/📋目录.md",
-    "Excalidraw/Palettes/📋目录.md",
-    "Excalidraw/📋目录.md",
-    "Excalidraw/fonts/📋目录.md",
-    "Drawio/📋目录.md",
-    "仓库/Script/📋目录.md",
-    "自考/押密/马克思主义基本原理概论.pdf",
     "README.md",
-    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-    "日志/2023/2023-Q3/2023-08/2023-W33",
-    "日志/2023/2023-Q3/2023-08",
-    "拾肆/个人/简历个人意见.pdf",
-    "Excalidraw/submodule和subtree区别.excalidraw.svg",
-    "日志/2023/2023-Q3/2023-07/2023-W28",
-    "日志/2023/2023-Q3/2023-07"
+    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "技术/操作系统/Linux/WSL 系统代理.md",
+    "lib/20k.txt",
+    "lib/20k.txt.crdownload",
+    "lib",
+    "Untitled.loom.md",
+    "Untitled.loom",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
+    "采集/[WSL] WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
+    "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
+    "采集/实施前端微服务化的六七种方式.md",
+    "日志/README.md",
+    "白板",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-11-19 07.57.52.excalidraw.md",
+    "Excalidraw",
+    "待办/任务.md",
+    "待办/管理.md",
+    "SVG/submodule和subtree区别.excalidraw.svg",
+    "时间笔记",
+    "SVG/后端常见分层.drawio.svg",
+    "SVG/构建知识库.svg",
+    "asd11.md",
+    "asd2.md",
+    "SVG",
+    "Excalidraw/未命名.md",
+    "高效/学习/记忆方法.md",
+    "lib/cedict_ts.u8",
+    "202311190742.md",
+    "高效/学习/笔记方法.md",
+    "工作/核心能力.md",
+    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
+    "202311190735.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "仓库/CS-Hello/doc/类型和变量.md",
+    "其它/✨知识社区.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "自考/资料/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
+    "日志/未命名.canvas",
+    "微信读书",
+    "SVG/UniApp生命周期.drawio.svg"
   ]
 }

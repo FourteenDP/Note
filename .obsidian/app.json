@@ -6,13 +6,14 @@
   "vimMode": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "newFileFolderPath": "9000-信箱",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "-附件-",
   "userIgnoreFilters": null,
   "promptDelete": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "showLineNumber": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "useMarkdownLinks": true
 }
