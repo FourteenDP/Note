@@ -1,0 +1,21 @@
+{
+  "watchAlias": true,
+  "watchCode": true,
+  "highLightColor": "#2d82cc20",
+  "include": [],
+  "exclude": [
+    "node_modules",
+    ".obsidian"
+  ],
+  "includeFile": [
+    "/\\.(j|t)s$/",
+    "/\\.(j|t)sx$/",
+    "/\\.css$/",
+    "/\\.vue$/",
+    "/\\.json$/",
+    "/\\.cjs$/"
+  ],
+  "excludeFile": [],
+  "linenumber": true,
+  "alias": {}
+}

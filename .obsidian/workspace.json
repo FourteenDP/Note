@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0932de333a40e50a",
+        "id": "2413084882f09d46",
         "type": "tabs",
         "children": [
           {
-            "id": "43d05ed17a1e9dd9",
+            "id": "ef3bf305dd32c89b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,6 +27,7 @@
       {
         "id": "fc4ffa477dba5605",
         "type": "tabs",
+        "dimension": 60.0250626566416,
         "children": [
           {
             "id": "4435f7f1e63e5f07",
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#思维导图",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +71,26 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "5920da60ebf99717",
+        "type": "tabs",
+        "dimension": 39.9749373433584,
+        "children": [
+          {
+            "id": "799dfd032ef5fed0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 312.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -91,32 +102,22 @@
         "dimension": 54.36893203883495,
         "children": [
           {
+            "id": "80c90690f4b570fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "a380d842a7fd21b6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "80c90690f4b570fc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "b32b63b73d92fe66",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "02db7ed448796d0d",
@@ -142,14 +144,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,9 +160,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,52 +181,52 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "72279220b5f2f285",
+  "active": "3699ca985f693a59",
   "lastOpenFiles": [
+    "日志/2023-11-22.md",
+    "未命名.canvas",
+    "测试文件.md",
+    "测试文件.md",
     "README.md",
+    "仓库/Code-Snippets/抽象工厂模式(Abstract Factory).ts",
+    "CodeFiel.vue",
+    "test.md",
+    "仓库/Vue3-Hello/tailwind.config.cjs",
+    "仓库/Vue3-Hello/pnpm-lock.yaml",
+    "仓库/Vue3-Hello/src/store/index.ts",
+    "仓库/Vue3-Hello/src/router/index.ts",
+    "仓库/Vue3-Hello/src/layout/index.tsx",
+    "仓库/Vue3-Hello/tsconfig.node.json",
+    "仓库/Vue3-Hello/index.html",
+    "仓库/Vue3-Hello/package.json",
+    "技术/工程化/Git 子仓库.md",
+    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
+    "技术/前端开发/JavaScript/命名规范.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
     "技术/操作系统/Linux/WSL 系统代理.md",
-    "lib/20k.txt",
-    "lib/20k.txt.crdownload",
-    "lib",
     "Untitled.loom.md",
-    "Untitled.loom",
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/[WSL] WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
     "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
     "采集/实施前端微服务化的六七种方式.md",
     "日志/README.md",
-    "白板",
-    "未命名.canvas",
     "Excalidraw/Drawing 2023-11-19 07.57.52.excalidraw.md",
-    "Excalidraw",
     "待办/任务.md",
     "待办/管理.md",
     "SVG/submodule和subtree区别.excalidraw.svg",
-    "时间笔记",
     "SVG/后端常见分层.drawio.svg",
     "SVG/构建知识库.svg",
     "asd11.md",
     "asd2.md",
-    "SVG",
     "Excalidraw/未命名.md",
     "高效/学习/记忆方法.md",
-    "lib/cedict_ts.u8",
     "202311190742.md",
     "高效/学习/笔记方法.md",
     "工作/核心能力.md",
-    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
-    "202311190735.md",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "仓库/CS-Hello/doc/类型和变量.md",
-    "其它/✨知识社区.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "自考/资料/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
     "日志/未命名.canvas",
-    "微信读书",
     "SVG/UniApp生命周期.drawio.svg"
   ]
 }

@@ -1,6 +1,10 @@
 [
-  "obsidian-kanban",
-  "obsidian-excalidraw-plugin",
-  "various-complements",
-  "obsidian-git"
+  "obsidian-git",
+  "code-emitter",
+  "obsidian-code-preview",
+  "obsidian-activity-history",
+  "vscode-editor",
+  "obsidian-outliner",
+  "calendar",
+  "obsidian-linter"
 ]

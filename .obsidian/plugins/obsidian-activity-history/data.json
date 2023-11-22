@@ -12,8 +12,8 @@
   "checkpointList": [
     {
       "path": "/",
-      "date": "2023-11-18",
-      "size": 3404233
+      "date": "2023-11-22",
+      "size": 3202750
     }
   ],
   "activityHistory": [
@@ -1019,6 +1019,14 @@
         {
           "date": "2023-11-18",
           "value": 0
+        },
+        {
+          "date": "2023-11-21",
+          "value": 201913
+        },
+        {
+          "date": "2023-11-22",
+          "value": 0
         }
       ]
     }
@@ -1029,6 +1037,6 @@
   "activityColor4": "#196127",
   "textColor": "#FFFFFF",
   "emptyColor": "#ecedf0",
-  "cellRadius": 14,
+  "cellRadius": 2,
   "type": "yearly"
 }
