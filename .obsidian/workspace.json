@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +165,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "56b71bc6c016d0e9",
+  "active": "f5eb5f0003b93c45",
   "lastOpenFiles": [
+    "未命名.md",
     "测试文件.md",
     "orphaned files output.md",
     "broken links output.md",
@@ -193,7 +193,6 @@
     "日志/2023/2023-11-23.md",
     "-模板-/日志/月总结.md",
     "-模板-/日志/周总结.md",
-    "-模板-/日志/季总结.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
