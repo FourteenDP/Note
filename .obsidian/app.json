@@ -12,8 +12,8 @@
   "attachmentFolderPath": "-附件-",
   "userIgnoreFilters": null,
   "promptDelete": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "showLineNumber": false,
   "rightToLeft": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }

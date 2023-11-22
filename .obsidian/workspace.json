@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a845c1f867993829",
+        "id": "c6ba688a18102fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "76fc6d7308c9496b",
+            "id": "1ceae5329ac19d06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "采集/实施前端微服务化的六七种方式.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -61,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +168,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "76fc6d7308c9496b",
+  "active": "1ceae5329ac19d06",
   "lastOpenFiles": [
     "测试文件.md",
     "orphaned files output.md",
