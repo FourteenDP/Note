@@ -6,5 +6,6 @@
   "starred": false,
   "git-view": false,
   "bookmarks": false,
-  "kanban-plugin": false
+  "kanban-plugin": false,
+  "tag-wrangler:tag-pane": false
 }
