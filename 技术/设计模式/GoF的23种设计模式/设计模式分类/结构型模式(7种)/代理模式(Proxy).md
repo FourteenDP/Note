@@ -1,9 +1,10 @@
 ---
 title: 代理模式(Proxy)
-aliases: [代理模式(Proxy)]
-tags: 
+aliases:
+  - 代理模式(Proxy)
+tags: []
 date created: 2023-03-07 14:11:09
-date updated: 2023-03-07 14:12:10
+date updated: 2023-11-22 10:40:48
 ---
 
 # 代理模式(Proxy)

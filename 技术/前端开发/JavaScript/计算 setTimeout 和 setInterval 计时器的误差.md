@@ -1,9 +1,10 @@
 ---
 title: 计算 setTimeout 和 setInterval 计时器的误差
-aliases: [计算 setTimeout 和 setInterval 计时器的误差]
+aliases:
+  - 计算 setTimeout 和 setInterval 计时器的误差
 tags: []
 date created: 2022-12-12 08:55:05
-date updated: 2023-01-11 11:00:38
+date updated: 2023-11-22 10:40:49
 ---
 
 # 计算 setTimeout 和 setInterval 计时器的误差

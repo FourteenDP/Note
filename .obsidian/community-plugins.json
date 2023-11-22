@@ -1,10 +1,4 @@
 [
-  "obsidian-git",
-  "code-emitter",
-  "obsidian-code-preview",
-  "obsidian-activity-history",
-  "vscode-editor",
-  "obsidian-outliner",
-  "calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-git"
 ]

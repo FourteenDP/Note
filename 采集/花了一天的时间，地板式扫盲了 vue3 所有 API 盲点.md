@@ -1,11 +1,15 @@
 ---
-title: 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
-tag: 
+aliases:
+  - 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
+  - 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
+tags: 
+title: 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
+tag: []
 date created: 2023-03-10 17:21:11
-date updated: 2023-03-10 17:21:11
+date updated: 2023-11-22 10:39:46
 ---
 
-# 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
+# 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
 
 **原文：**[花了一天的时间，地板式扫盲了 vue3 所有 API 盲点](https://juejin.cn/post/7164159759619194893)
 
@@ -29,12 +33,12 @@ date updated: 2023-03-10 17:21:11
 
 `vue3 API`主要包含以下六个部分：
 
-*   全局 API —— 全局会用到的 API
-*   组合式 API —— vue3 所拥有的组合式 API
-*   选项式 API —— vue2 所拥有的选项式 API
-*   内置内容 —— 指令、组件、特殊元素和特殊属性
-*   单文件组件 —— 语法定义、
-*   进阶 API —— 渲染函数、服务端渲染、TS 工具类型和自定义渲染
+* 全局 API —— 全局会用到的 API
+* 组合式 API —— vue3 所拥有的组合式 API
+* 选项式 API —— vue2 所拥有的选项式 API
+* 内置内容 —— 指令、组件、特殊元素和特殊属性
+* 单文件组件 —— 语法定义、
+* 进阶 API —— 渲染函数、服务端渲染、TS 工具类型和自定义渲染
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1a558d668bdb4098b5906856113fa41a~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
@@ -138,7 +142,7 @@ vue3 的全局 API 包含两个部分：应用实例和通用 API。那它们各
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8ba637efb1d0432b9bfaf9156f2a5d67~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 
-## 2、单文件组件 script setup
+## 2、单文件组件 Script Setup
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/24cd675bd15f462bbf1bdea7a2fa38df~tplv-k3u1fbpfcp-zoom-in-crop-mark:3024:0:0:0.awebp)
 

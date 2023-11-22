@@ -1,9 +1,11 @@
 ---
-aliases: [新特性]
+aliases:
+  - Vue3新增特性
+  - 新特性
 tags: []
-title: 新特性
+title: Vue3新增特性
 date created: 2022-12-12 14:41:36
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # Vue3新增特性

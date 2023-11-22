@@ -1,10 +1,12 @@
 ---
-aliases: [简介]
+aliases:
+  - Vue生命周期
+  - 简介
 tags: []
 date created: 2022-06-06 22:49:23
 date modified: 2022-06-06 22:52:19
-date updated: 2022-12-29 16:12:46
-title: 简介
+date updated: 2023-11-22 10:40:49
+title: Vue生命周期
 ---
 
 # Vue生命周期

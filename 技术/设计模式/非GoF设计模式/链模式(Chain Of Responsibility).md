@@ -1,9 +1,10 @@
 ---
 title: 链模式(Chain Of Responsibility)
-aliases: [链模式(Chain Of Responsibility)]
+aliases:
+  - 链模式(Chain Of Responsibility)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-03-07 14:17:29
+date updated: 2023-11-22 10:40:47
 ---
 
 # 链模式(Chain Of Responsibility)

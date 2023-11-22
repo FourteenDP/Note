@@ -1,9 +1,11 @@
 ---
-title: 什么是String对象
-aliases: [什么是String对象]
+title: String
+aliases:
+  - String
+  - 什么是String对象
 tags: []
 date created: 2022-12-11 15:14:14
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:47
 ---
 
 # String

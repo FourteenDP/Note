@@ -1,9 +1,10 @@
 ---
 title: KISS原则(Keep It Simple and Stupid)
-aliases: [KISS原则(Keep It Simple and Stupid)]
-tags: 
+aliases:
+  - KISS原则(Keep It Simple and Stupid)
+tags: []
 date created: 2023-03-02 14:48:42
-date updated: 2023-03-02 14:49:59
+date updated: 2023-11-22 10:40:47
 ---
 
 # KISS原则(Keep It Simple and Stupid)

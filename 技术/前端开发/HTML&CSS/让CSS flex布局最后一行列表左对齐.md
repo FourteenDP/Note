@@ -1,12 +1,14 @@
 ---
-title: 让CSS flex布局最后一行列表左对齐
-aliases: [让CSS flex布局最后一行列表左对齐]
+title: 让CSS Flex布局最后一行列表左对齐
+aliases:
+  - 让CSS Flex布局最后一行列表左对齐
+  - 让CSS flex布局最后一行列表左对齐
 tags: []
 date created: 2022-08-22 16:03:17
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
-# 让CSS flex布局最后一行列表左对齐
+# 让CSS Flex布局最后一行列表左对齐
 
 ## 参考
 

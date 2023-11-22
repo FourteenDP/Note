@@ -1,9 +1,12 @@
 ---
 title: 工程化之GIt提交自动转换行尾字符GitAttributes
-aliases: [工程化之GIt提交自动转换行尾字符GitAttributes, 工程化之-GitAttributes, 工程化之-gitattributes]
+aliases:
+  - 工程化之GIt提交自动转换行尾字符GitAttributes
+  - 工程化之-GitAttributes
+  - 工程化之-gitattributes
 tags: []
 date created: 2023-05-08 19:03:21
-date updated: 2023-05-08 19:22:38
+date updated: 2023-11-22 10:40:48
 ---
 
 # 工程化之GIt提交自动转换行尾字符GitAttributes

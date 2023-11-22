@@ -1,9 +1,10 @@
 ---
 title: 组合模式(Composite)
-aliases: [组合模式(Composite)]
-tags: 
+aliases:
+  - 组合模式(Composite)
+tags: []
 date created: 2023-03-07 14:11:08
-date updated: 2023-03-07 14:11:50
+date updated: 2023-11-22 10:40:48
 ---
 
 # 组合模式(Composite)

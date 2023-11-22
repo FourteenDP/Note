@@ -1,9 +1,10 @@
 ---
 title: 开源ERP系统
-aliases: [开源ERP系统]
+aliases:
+  - 开源ERP系统
 tags: []
 date created: 2022-08-03 19:58:55
-date updated: 2022-12-29 16:12:45
+date updated: 2023-11-22 10:40:48
 ---
 
 # 开源ERP系统

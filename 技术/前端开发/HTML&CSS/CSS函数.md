@@ -1,8 +1,10 @@
 ---
-aliases: [CSS函数]
-tags: [CSS函数]
+aliases:
+  - CSS函数
+tags:
+  - CSS函数
 date created: 2022-06-20 20:31:18
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 title: CSS函数
 ---
 

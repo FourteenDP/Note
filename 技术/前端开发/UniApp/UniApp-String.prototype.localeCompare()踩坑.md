@@ -1,9 +1,11 @@
 ---
-title: 问题
-aliases: [问题]
+title: UniApp-String.prototype.localeCompare()踩坑
+aliases:
+  - UniApp-String.prototype.localeCompare()踩坑
+  - 问题
 tags: []
 date created: 2022-12-10 16:09:21
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # UniApp-String.prototype.localeCompare()踩坑

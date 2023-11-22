@@ -1,3 +1,14 @@
+---
+title: 责任链模式(Chain Of Responsibility)
+aliases:
+  - 责任链模式(Chain Of Responsibility)
+tags: []
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-22 10:40:47
+---
+
+# 责任链模式(Chain Of Responsibility)
+
 ## 责任链模式(Chain Of Responsibility)
 
 - 定义：使多个对象都有机会处理请求，从而避免请求的发送者和接收者之间的耦合关系；将这些对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止

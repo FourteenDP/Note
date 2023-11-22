@@ -1,12 +1,14 @@
 ---
-title: web框架与cocos的结合
-aliases: [web框架与cocos的结合]
-tags:
+title: Web框架与cocos的结合
+aliases:
+  - Web框架与cocos的结合
+  - web框架与cocos的结合
+tags: []
 date created: 2022-12-29 11:59:31
-date updated: 2022-12-29 16:12:45
+date updated: 2023-11-22 10:40:49
 ---
 
-# web框架与cocos的结合
+# Web框架与cocos的结合
 
 ## 参考
 

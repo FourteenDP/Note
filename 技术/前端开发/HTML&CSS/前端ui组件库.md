@@ -1,9 +1,10 @@
 ---
 title: 前端ui组件库
-aliases: [前端ui组件库]
+aliases:
+  - 前端ui组件库
 tags: []
 date created: 2022-07-28 19:17:57
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # 前端ui组件库

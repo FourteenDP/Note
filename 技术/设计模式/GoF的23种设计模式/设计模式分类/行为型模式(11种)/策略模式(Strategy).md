@@ -1,3 +1,14 @@
+---
+title: 策略模式(Strategy)
+aliases:
+  - 策略模式(Strategy)
+tags: []
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-22 10:40:47
+---
+
+# 策略模式(Strategy)
+
 ## 策略模式(Strategy)
 
 - 定义：定义一系列的算法，把它们一个个封装起来，并且使它们可以相互替换

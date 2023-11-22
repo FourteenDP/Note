@@ -1,9 +1,10 @@
 ---
 title: 适配器模式(Adapter)
-aliases: [适配器模式(Adapter)]
-tags: 
+aliases:
+  - 适配器模式(Adapter)
+tags: []
 date created: 2023-03-07 14:11:07
-date updated: 2023-03-07 14:12:02
+date updated: 2023-11-22 10:40:48
 ---
 
 # 适配器模式(Adapter)

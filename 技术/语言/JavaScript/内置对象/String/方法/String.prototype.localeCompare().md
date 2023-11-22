@@ -1,9 +1,11 @@
 ---
-title: 示例
-aliases: [示例]
+title: String.prototype.localeCompare()
+aliases:
+  - String.prototype.localeCompare()
+  - 示例
 tags: []
 date created: 2022-12-10 16:56:04
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:47
 ---
 
 # String.prototype.localeCompare()

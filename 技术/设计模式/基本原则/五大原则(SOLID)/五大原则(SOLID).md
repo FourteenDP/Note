@@ -1,9 +1,12 @@
 ---
 title: 五大原则(SOLID)
-aliases: [五大原则(SOLID), 设计模式之五大原则(SOLID), 设计模式五大原则(SOLID)]
+aliases:
+  - 五大原则(SOLID)
+  - 设计模式之五大原则(SOLID)
+  - 设计模式五大原则(SOLID)
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-03-07 13:32:15
+date updated: 2023-11-22 10:40:47
 ---
 
 # 五大原则(SOLID)

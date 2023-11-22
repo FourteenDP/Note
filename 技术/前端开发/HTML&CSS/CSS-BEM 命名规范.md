@@ -1,9 +1,11 @@
 ---
-title: 什么是 BEM 命名规范
-aliases: [什么是 BEM 命名规范]
+title: CSS-BEM 命名规范
+aliases:
+  - CSS-BEM 命名规范
+  - 什么是 BEM 命名规范
 tags: []
 date created: 2022-12-12 02:30:12
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # CSS-BEM 命名规范

@@ -1,9 +1,13 @@
 ---
-aliases: [Null 和 Undefined, Null和 Undefined, Null和Undefined, Null和Undefined的区别]
+aliases:
+  - Null 和 Undefined
+  - Null和 Undefined
+  - Null和Undefined
+  - Null和Undefined的区别
 tags: []
 title: Null 和 Undefined
 date created: 2022-12-13 14:54:20
-date updated: 2023-02-22 14:18:45
+date updated: 2023-11-22 10:40:47
 ---
 
 # Null 和 Undefined

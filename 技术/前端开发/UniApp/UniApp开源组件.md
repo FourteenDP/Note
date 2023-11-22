@@ -1,9 +1,10 @@
 ---
 title: UniApp开源组件
-aliases: [UniApp开源组件]
+aliases:
+  - UniApp开源组件
 tags: []
 date created: 2022-07-08 17:26:19
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # UniApp开源组件

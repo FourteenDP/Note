@@ -1,9 +1,11 @@
 ---
-aliases: [Any和unknown的区别, any和unknown的区别]
+aliases:
+  - Any和unknown的区别
+  - any和unknown的区别
 tags: []
 title: Any和unknown的区别
 date created: 2022-12-13 15:02:18
-date updated: 2023-01-03 15:44:32
+date updated: 2023-11-22 10:40:47
 ---
 
 # Any和unknown的区别

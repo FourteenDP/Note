@@ -1,9 +1,10 @@
 ---
 title: 数据访问模式(Data Access Object)
-aliases: [数据访问模式(Data Access Object)]
-tags: 
+aliases:
+  - 数据访问模式(Data Access Object)
+tags: []
 date created: 2023-03-07 13:41:30
-date updated: 2023-03-07 13:44:35
+date updated: 2023-11-22 10:40:47
 ---
 
 # 数据访问模式(Data Access Object)

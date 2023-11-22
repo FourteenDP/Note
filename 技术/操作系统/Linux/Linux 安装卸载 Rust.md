@@ -1,9 +1,11 @@
 ---
-title: 安装
-aliases: [安装]
+title: Linux 安装卸载 Rust
+aliases:
+  - Linux 安装卸载 Rust
+  - 安装
 tags: []
 date created: 2022-08-14 11:53:49
-date updated: 2022-12-29 16:12:48
+date updated: 2023-11-22 10:40:48
 ---
 
 # Linux 安装卸载 Rust

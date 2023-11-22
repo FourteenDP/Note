@@ -1,9 +1,10 @@
 ---
 title: 享元模式(Flyweight)
-aliases: [享元模式(Flyweight)]
-tags: 
+aliases:
+  - 享元模式(Flyweight)
+tags: []
 date created: 2023-03-07 14:11:09
-date updated: 2023-03-07 14:11:57
+date updated: 2023-11-22 10:40:48
 ---
 
 # 享元模式(Flyweight)

@@ -1,9 +1,10 @@
 ---
 title: "DRY原则(Don't Repeat Yourself)"
-aliases: ["DRY原则(Don't Repeat Yourself)"]
-tags: 
+aliases:
+  - "DRY原则(Don't Repeat Yourself)"
+tags: []
 date created: 2023-03-02 14:48:43
-date updated: 2023-03-02 14:50:02
+date updated: 2023-11-22 10:40:47
 ---
 
 # DRY原则(Don't Repeat Yourself)

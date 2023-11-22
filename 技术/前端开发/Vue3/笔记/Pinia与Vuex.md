@@ -1,9 +1,11 @@
 ---
-aliases: [Pinia与Vuex, 优缺点]
+aliases:
+  - Pinia与Vuex
+  - 优缺点
 tags: []
 title: Pinia与Vuex
 date created: 2022-12-12 17:53:03
-date updated: 2023-03-10 19:12:11
+date updated: 2023-11-22 10:40:49
 ---
 
 # Pinia与Vuex

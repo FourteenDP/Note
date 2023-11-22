@@ -1,9 +1,10 @@
 ---
 title: 接口隔离原则 ISP(Interface Segregation Principle)
-aliases: [接口隔离原则 ISP(Interface Segregation Principle)]
+aliases:
+  - 接口隔离原则 ISP(Interface Segregation Principle)
 tags: []
 date created: 2023-03-02 14:46:23
-date updated: 2023-03-02 14:47:33
+date updated: 2023-11-22 10:40:47
 ---
 
 # 接口隔离原则 ISP(Interface Segregation Principle)

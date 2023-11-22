@@ -1,9 +1,11 @@
 ---
-aliases: [什么是生命周期]
+aliases:
+  - Vue3生命周期
+  - 什么是生命周期
 tags: []
-title: 什么是生命周期
+title: Vue3生命周期
 date created: 2022-12-15 20:05:25
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # Vue3生命周期
@@ -27,14 +29,12 @@ date updated: 2022-12-29 16:12:46
 | destroyed | unmounted | 销毁之后 |
 | errorCaptured | errorCaptured | 错误捕获 |
 
-
 ## 开发模式钩子
 
 | 钩子 | 说明 |
 | --- | --- |
 | renderTracked | 跟踪响应式数据的变化 |
 | renderTriggered | 触发响应式数据的变化 |
-
 
 ## 页面路由钩子
 
@@ -43,13 +43,11 @@ date updated: 2022-12-29 16:12:46
 | onActivated | 路由激活时 |
 | onDeactivated | 路由失活时 |
 
-
 ## 服务端渲染钩子
 
 | 钩子 | 说明 |
 | --- | --- |
 | onServerPrefetch | 服务端预取数据 |
-
 
 ## 生命周期图示
 

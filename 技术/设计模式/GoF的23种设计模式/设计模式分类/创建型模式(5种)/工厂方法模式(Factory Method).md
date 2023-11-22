@@ -1,9 +1,10 @@
 ---
 title: 工厂方法模式(Factory Method)
-aliases: [工厂方法模式(Factory Method)]
-tags: 
+aliases:
+  - 工厂方法模式(Factory Method)
+tags: []
 date created: 2023-03-07 14:08:22
-date updated: 2023-03-07 14:11:43
+date updated: 2023-11-22 10:40:47
 ---
 
 # 工厂方法模式(Factory Method)

@@ -1,9 +1,15 @@
 ---
 title: 通过CLI构建UniApp项目
-aliases: [通过CLI构建UniApp项目, 通过CLI构建项目, 通过CLI构建UNI项目, 通过CLI构建uni-app应用, Uni 工程化, uni 工程化]
+aliases:
+  - 通过CLI构建UniApp项目
+  - 通过CLI构建项目
+  - 通过CLI构建UNI项目
+  - 通过CLI构建uni-app应用
+  - Uni 工程化
+  - uni 工程化
 tags: []
 date created: 2023-05-08 18:28:07
-date updated: 2023-05-08 18:44:05
+date updated: 2023-11-22 10:40:48
 ---
 
 # 通过CLI构建UniApp项目

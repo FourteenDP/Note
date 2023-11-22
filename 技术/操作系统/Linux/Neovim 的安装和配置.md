@@ -1,9 +1,10 @@
 ---
 title: Neovim 的安装
-aliases: [Neovim 的安装]
+aliases:
+  - Neovim 的安装
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-03-22 15:00:46
+date updated: 2023-11-22 10:40:48
 ---
 
 # Neovim 的安装

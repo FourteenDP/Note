@@ -1,3 +1,14 @@
+---
+title: 防抖与节流模式(Debounce & Throttle)
+aliases:
+  - 防抖与节流模式(Debounce & Throttle)
+tags: []
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-22 10:40:47
+---
+
+# 防抖与节流模式(Debounce & Throttle)
+
 ## 防抖与节流模式(Debounce & Throttle)
 
 - 防抖：在事件被触发n秒后再执行回调，如果在这n秒内又被触发，则重新计时

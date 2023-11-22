@@ -6,16 +6,16 @@
     "folder": "日志",
     "template": "-模板-/日志/日总结.md",
     "enabled": true,
-    "format": "YYYY/YYYY-[Q]Q/YYYY-MM/GGGG-[W]WW/YYYY-MM-DD"
+    "format": "YYYY/YYYY-MM-DD"
   },
   "weekly": {
-    "format": "YYYY/YYYY-[Q]Q/YYYY-MM/GGGG-[W]WW",
+    "format": "YYYY/GGGG-[W]W",
     "folder": "日志",
     "template": "-模板-/日志/周总结.md",
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY/YYYY-[Q]Q/YYYY-MM",
+    "format": "YYYY/YYYY-MM",
     "template": "-模板-/日志/月总结.md",
     "folder": "日志",
     "enabled": true
@@ -27,7 +27,7 @@
     "enabled": true
   },
   "yearly": {
-    "format": "",
+    "format": "YYYY",
     "template": "-模板-/日志/年总结.md",
     "folder": "日志",
     "enabled": true

@@ -1,9 +1,10 @@
 ---
 title: Linux常用命令
-aliases: [Linux常用命令]
+aliases:
+  - Linux常用命令
 tags: []
 date created: 2022-08-09 22:13:35
-date updated: 2022-12-29 16:12:48
+date updated: 2023-11-22 10:40:48
 ---
 
 # Linux常用命令

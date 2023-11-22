@@ -1,9 +1,11 @@
 ---
-title: 生命周期执行顺序图示
-aliases: [生命周期执行顺序图示]
+title: UniApp生命周期
+aliases:
+  - UniApp生命周期
+  - 生命周期执行顺序图示
 tags: []
 date created: 2022-07-13 14:57:30
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # UniApp生命周期
@@ -33,7 +35,6 @@ date updated: 2022-12-29 16:12:46
 | onPageNotFound       | 页面不存在监听函数                                                  |
 | onThemeChange        | 监听系统主题变化                                                   |
 
-
 ## 页面生命周期
 
 - 详见 [页面生命周期 | uni-app官网](https://uniapp.dcloud.io/tutorial/page.html#lifecycle)
@@ -59,7 +60,6 @@ date updated: 2022-12-29 16:12:46
 | onNavigationBarSearchInputClicked   | 监听原生标题栏搜索输入框点击事件（pages\.json 中的 searchInput 配置 disabled 为 true 时才会触发）                                                                                                                                                                                                            | App、H5                                                                             | 1\.6\.0   |
 | onShareTimeline                     | 监听用户点击右上角转发到朋友圈                                                                                                                                                                                                                                                                               | 微信小程序                                                                          | 2\.8\.1\+ |
 | onAddToFavorites                    | 监听用户点击右上角收藏                                                                                                                                                                                                                                                                                       | 微信小程序                                                                          | 2\.8\.1\+ |
-
 
 ## 组件生命周期
 

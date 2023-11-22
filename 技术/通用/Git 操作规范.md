@@ -1,9 +1,11 @@
 ---
 title: Git 操作规范
-aliases: [Git 操作规范, 简介]
+aliases:
+  - Git 操作规范
+  - 简介
 tags: []
 date created: 2022-07-14 15:15:47
-date updated: 2023-05-05 10:17:08
+date updated: 2023-11-22 10:40:47
 ---
 
 # Git 操作规范

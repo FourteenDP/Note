@@ -1,9 +1,10 @@
 ---
-aliases: [DOM更新时机]
-tags: 
+aliases:
+  - DOM更新时机
+tags: []
 title: DOM更新时机
 date created: 2022-12-16 09:42:48
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # DOM更新时机

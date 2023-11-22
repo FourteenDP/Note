@@ -1,9 +1,13 @@
 ---
 title: Vite全局样式注入
-aliases: [Vite全局样式注入]
-tags: ['Vite', 'Vue', 'CSS']
+aliases:
+  - Vite全局样式注入
+tags:
+  - Vite
+  - Vue
+  - CSS
 date created: 2022-12-12 02:18:30
-date updated: 2022-12-29 16:12:45
+date updated: 2023-11-22 10:40:48
 ---
 
 # Vite全局样式注入

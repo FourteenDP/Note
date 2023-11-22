@@ -1,9 +1,10 @@
 ---
 title: UniApp踩坑指南
-aliases: [UniApp踩坑指南]
+aliases:
+  - UniApp踩坑指南
 tags: []
 date created: 2023-01-30 12:09:06
-date updated: 2023-03-09 02:22:33
+date updated: 2023-11-22 10:40:49
 ---
 
 # UniApp踩坑指南

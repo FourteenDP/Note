@@ -1,8 +1,11 @@
 ---
+aliases:
+  - Win10-VSCode - 添加至右键菜单
+tags: 
 title: Win10-VSCode - 添加至右键菜单
-tag: 
+tag: []
 date created: 2023-05-19 23:14:34
-date updated: 2023-05-19 23:14:34
+date updated: 2023-11-22 10:40:06
 ---
 
 # Win10-VSCode - 添加至右键菜单
@@ -15,16 +18,15 @@ date updated: 2023-05-19 23:14:34
 
 ## 教程
 
-1.  新建一个后缀是 `.reg` 的文件，例如: `vs.reg`
+1. 新建一个后缀是 `.reg` 的文件，例如: `vs.reg`
     
-2.  用记事本或 `Notepad++` 打开上述 `.reg` 文件，按照自己的需要将下面的代码复制粘贴到 `.reg` 文件中，然后根据自己 `VSCode` 的安装目录修改路径，保存后双击运行即可
-    
+2. 用记事本或 `Notepad++` 打开上述 `.reg` 文件，按照自己的需要将下面的代码复制粘贴到 `.reg` 文件中，然后根据自己 `VSCode` 的安装目录修改路径，保存后双击运行即可
 
 ## 配置
 
 下面为 3 种配置，可根据需要选择
 
-### （一）空白处右键菜单里显示 “Open with Code”
+### （一）空白处右键菜单里显示 “Open With Code”
 
 ```
 Windows Registry Editor Version 5.00
@@ -39,7 +41,7 @@ Windows Registry Editor Version 5.00
 
 ```
 
-### （二）选中文件右键菜单里显示 “Open with Code”
+### （二）选中文件右键菜单里显示 “Open With Code”
 
 ```
 Windows Registry Editor Version 5.00
@@ -54,7 +56,7 @@ Windows Registry Editor Version 5.00
 
 ```
 
-### （三）选中文件夹右键菜单里显示 “Open with Code”
+### （三）选中文件夹右键菜单里显示 “Open With Code”
 
 ```
 Windows Registry Editor Version 5.00

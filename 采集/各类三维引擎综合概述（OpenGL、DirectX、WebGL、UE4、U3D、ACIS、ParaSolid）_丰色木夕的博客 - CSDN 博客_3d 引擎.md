@@ -1,9 +1,10 @@
 ---
-aliases: [各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎]
+aliases:
+  - 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
 tags: []
 title: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
 date created: 2023-02-03 09:40:54
-date updated: 2023-02-03 09:41:16
+date updated: 2023-11-22 10:40:56
 ---
 
 # 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎

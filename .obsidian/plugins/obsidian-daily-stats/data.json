@@ -1,0 +1,23 @@
+{
+  "dayCounts": {
+    "2023/10/22": 24
+  },
+  "todaysWordCount": {
+    "采集/[WSL] WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md": {
+      "initial": 169,
+      "current": 169
+    },
+    "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md": {
+      "initial": 169,
+      "current": 193
+    },
+    "采集/实施前端微服务化的六七种方式.md": {
+      "initial": 4470,
+      "current": 4469
+    },
+    "测试文件.md": {
+      "initial": 35,
+      "current": 28
+    }
+  }
+}

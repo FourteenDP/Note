@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2413084882f09d46",
+        "id": "a845c1f867993829",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3bf305dd32c89b",
+            "id": "76fc6d7308c9496b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,7 +27,6 @@
       {
         "id": "fc4ffa477dba5605",
         "type": "tabs",
-        "dimension": 60.0250626566416,
         "children": [
           {
             "id": "4435f7f1e63e5f07",
@@ -45,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#思维导图",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,32 +60,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "3699ca985f693a59",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "5920da60ebf99717",
-        "type": "tabs",
-        "dimension": 39.9749373433584,
-        "children": [
-          {
-            "id": "799dfd032ef5fed0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,9 +105,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "04031b7044a8402c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "02db7ed448796d0d",
@@ -165,12 +149,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,52 +163,51 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "vscode-editor:新建代码文件": false
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "3699ca985f693a59",
+  "active": "76fc6d7308c9496b",
   "lastOpenFiles": [
-    "日志/2023-11-22.md",
+    "测试文件.md",
+    "orphaned files output.md",
+    "broken links output.md",
+    "采集/实施前端微服务化的六七种方式.md",
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+    "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
+    "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
+    "采集/写给前端的编译原理科普.md",
+    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
+    "采集/CSS 选择器优先级权重 _ w3c 笔记.md",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "日志/2023/2023-03-01.md",
+    "日志/2023/2023-03-04.md",
+    "日志/2023/2023-02-28.md",
+    "日志/2023/2023-11-22.md",
+    "日志/2023/2023-W47.md",
+    "日志/2023/2023-11-26.md",
+    "日志/2023/2023-11-25.md",
+    "日志/2023/2023-11-24.md",
+    "日志/2023/2023-11-23.md",
+    "-模板-/日志/月总结.md",
+    "-模板-/日志/周总结.md",
+    "-模板-/日志/季总结.md",
+    "日志/2023/2023-Q4/2023-11/2023-W47",
+    "日志/2023/2023-Q4/2023-11",
+    "日志/2023/2023-Q4",
+    "My code file.ts",
     "未命名.canvas",
-    "测试文件.md",
-    "测试文件.md",
-    "README.md",
     "仓库/Code-Snippets/抽象工厂模式(Abstract Factory).ts",
     "CodeFiel.vue",
-    "test.md",
     "仓库/Vue3-Hello/tailwind.config.cjs",
     "仓库/Vue3-Hello/pnpm-lock.yaml",
     "仓库/Vue3-Hello/src/store/index.ts",
     "仓库/Vue3-Hello/src/router/index.ts",
-    "仓库/Vue3-Hello/src/layout/index.tsx",
-    "仓库/Vue3-Hello/tsconfig.node.json",
-    "仓库/Vue3-Hello/index.html",
-    "仓库/Vue3-Hello/package.json",
-    "技术/工程化/Git 子仓库.md",
-    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
-    "技术/前端开发/JavaScript/命名规范.md",
-    "采集/Win10-VSCode - 添加至右键菜单.md",
-    "技术/操作系统/Linux/WSL 系统代理.md",
-    "Untitled.loom.md",
-    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
-    "采集/[WSL] WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
-    "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
-    "采集/实施前端微服务化的六七种方式.md",
-    "日志/README.md",
-    "Excalidraw/Drawing 2023-11-19 07.57.52.excalidraw.md",
-    "待办/任务.md",
-    "待办/管理.md",
     "SVG/submodule和subtree区别.excalidraw.svg",
     "SVG/后端常见分层.drawio.svg",
     "SVG/构建知识库.svg",
-    "asd11.md",
-    "asd2.md",
-    "Excalidraw/未命名.md",
-    "高效/学习/记忆方法.md",
-    "202311190742.md",
-    "高效/学习/笔记方法.md",
-    "工作/核心能力.md",
     "日志/未命名.canvas",
     "SVG/UniApp生命周期.drawio.svg"
   ]

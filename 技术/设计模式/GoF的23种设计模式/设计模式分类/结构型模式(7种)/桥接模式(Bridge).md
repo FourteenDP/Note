@@ -1,9 +1,10 @@
 ---
 title: 桥接模式(Bridge)
-aliases: [桥接模式(Bridge)]
-tags: 
+aliases:
+  - 桥接模式(Bridge)
+tags: []
 date created: 2023-03-07 14:11:07
-date updated: 2023-03-07 14:12:06
+date updated: 2023-11-22 10:40:48
 ---
 
 # 桥接模式(Bridge)

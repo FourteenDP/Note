@@ -1,9 +1,10 @@
 ---
 title: CSS-单位
-aliases: [CSS-单位]
+aliases:
+  - CSS-单位
 tags: []
 date created: 2022-12-12 10:56:38
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # CSS-单位
@@ -63,6 +64,7 @@ date updated: 2022-12-29 16:12:46
   - 是相对于显示器屏幕分辨率的，也就是 1dppx = 1px。
 
 ## 参考
+
 - [[如何画 0.5px 的线]]
 - [一文读懂 CSS 单位 - 知乎](https://zhuanlan.zhihu.com/p/440269115)
 - [CSS Units for Responsive Design](https://www.sitepoint.com/css-units-responsive-design-why-its-still-a-big-deal/)

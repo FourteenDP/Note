@@ -1,9 +1,10 @@
 ---
 title: 迪米特法则 LOD(Law of Demeter)
-aliases: [迪米特法则 LOD(Law of Demeter)]
-tags: 
+aliases:
+  - 迪米特法则 LOD(Law of Demeter)
+tags: []
 date created: 2023-03-02 14:48:42
-date updated: 2023-03-02 14:50:06
+date updated: 2023-11-22 10:40:47
 ---
 
 # 迪米特法则 LOD(Law of Demeter)

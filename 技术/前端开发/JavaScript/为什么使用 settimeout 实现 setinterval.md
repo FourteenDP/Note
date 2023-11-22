@@ -1,12 +1,18 @@
 ---
-aliases: [为什么使用 settimeout 实现 setinterval]
-tags: [JavaScript, setTimeout, setInterval, 前端]
+aliases:
+  - 为什么使用 Settimeout 实现 Setinterval
+  - 为什么使用 settimeout 实现 setinterval
+tags:
+  - JavaScript
+  - setTimeout
+  - setInterval
+  - 前端
 date created: 2022-06-20 19:58:19
-date updated: 2022-12-29 16:12:46
-title: 为什么使用 settimeout 实现 setinterval
+date updated: 2023-11-22 10:40:49
+title: 为什么使用 Settimeout 实现 Setinterval
 ---
 
-# 为什么使用 settimeout 实现 setinterval
+# 为什么使用 Settimeout 实现 Setinterval
 
 ## 参考
 

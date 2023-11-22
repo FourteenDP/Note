@@ -1,3 +1,14 @@
+---
+title: 惰性模式(Lazy Initialization)
+aliases:
+  - 惰性模式(Lazy Initialization)
+tags: []
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-22 10:40:47
+---
+
+# 惰性模式(Lazy Initialization)
+
 ## 惰性模式(Lazy Initialization)
 
 - 定义：惰性模式（Lazy Initialization Pattern）是一种常用的优化模式，它的定义是：当一个对象被创建时，不创建它的所有依赖对象，而是在需要的时候再创建它的依赖对象。以下是惰性模式的参与者。

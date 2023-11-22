@@ -1,9 +1,11 @@
 ---
-title: 使用rem做响应式布局
-aliases: [使用rem做响应式布局]
+title: REM 兼容适配解决方案
+aliases:
+  - REM 兼容适配解决方案
+  - 使用rem做响应式布局
 tags: []
 date created: 2022-12-12 10:52:57
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # REM 兼容适配解决方案

@@ -1,9 +1,12 @@
 ---
 title: 事件总线(Event Bus)
-aliases: [事件总线(Event Bus), 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe), 发布订阅(PublishSubscribe)]
+aliases:
+  - 事件总线(Event Bus)
+  - 事件总线(Event Bus) 别称发布订阅模式(PublishSubscribe)
+  - 发布订阅(PublishSubscribe)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-03-08 19:08:18
+date updated: 2023-11-22 10:40:47
 ---
 
 # 事件总线(Event Bus)

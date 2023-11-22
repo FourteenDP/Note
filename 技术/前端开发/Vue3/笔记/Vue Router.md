@@ -1,9 +1,11 @@
 ---
-aliases: [setup中使用router]
-tags: 
-title: setup中使用router
+aliases:
+  - Vue Router
+  - setup中使用router
+tags: []
+title: Vue Router
 date created: 2022-12-16 09:42:48
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:49
 ---
 
 # Vue Router

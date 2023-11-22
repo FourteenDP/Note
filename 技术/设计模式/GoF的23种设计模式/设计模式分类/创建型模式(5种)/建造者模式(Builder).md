@@ -1,9 +1,10 @@
 ---
 title: 建造者模式(Builder)
-aliases: [建造者模式(Builder)]
-tags: 
+aliases:
+  - 建造者模式(Builder)
+tags: []
 date created: 2023-03-07 14:08:23
-date updated: 2023-03-07 14:12:38
+date updated: 2023-11-22 10:40:47
 ---
 
 # 建造者模式(Builder)

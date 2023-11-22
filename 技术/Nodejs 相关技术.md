@@ -1,9 +1,11 @@
 ---
 title: Nodejs 相关技术
-aliases: [Nodejs 相关技术, Nodejs]
+aliases:
+  - Nodejs 相关技术
+  - Nodejs
 tags: []
 date created: 2023-02-06 03:27:17
-date updated: 2023-02-06 04:03:05
+date updated: 2023-11-22 10:40:49
 ---
 
 # Nodejs 相关技术

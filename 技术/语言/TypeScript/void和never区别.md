@@ -1,12 +1,14 @@
 ---
-aliases: [void和never区别]
-tags: 
-title: void和never区别
+aliases:
+  - Void和never区别
+  - void和never区别
+tags: []
+title: Void和never区别
 date created: 2022-12-13 14:45:27
-date updated: 2022-12-29 16:12:46
+date updated: 2023-11-22 10:40:47
 ---
 
-# void和never区别
+# Void和never区别
 
 ## Void和never区别
 

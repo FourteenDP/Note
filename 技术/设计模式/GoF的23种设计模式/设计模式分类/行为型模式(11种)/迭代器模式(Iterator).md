@@ -1,3 +1,14 @@
+---
+title: 迭代器模式(Iterator)
+aliases:
+  - 迭代器模式(Iterator)
+tags: []
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-22 10:40:47
+---
+
+# 迭代器模式(Iterator)
+
 ## 迭代器模式(Iterator)
 
 - 定义：提供一种方法顺序访问一个聚合对象中各个元素，而又不暴露该对象的内部表示

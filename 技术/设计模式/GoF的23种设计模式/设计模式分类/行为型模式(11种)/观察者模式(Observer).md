@@ -1,9 +1,10 @@
 ---
 title: 观察者模式(Observer)
-aliases: [观察者模式(Observer)]
+aliases:
+  - 观察者模式(Observer)
 tags: []
 date created: 2023-03-07 14:13:36
-date updated: 2023-03-08 16:16:25
+date updated: 2023-11-22 10:40:47
 ---
 
 # 观察者模式(Observer)

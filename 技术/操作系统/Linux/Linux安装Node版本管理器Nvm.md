@@ -1,9 +1,11 @@
 ---
 title: Linux安装Node版本管理器Nvm
-aliases: [Linux安装Node版本管理器Nvm, 安装和更新脚本]
+aliases:
+  - Linux安装Node版本管理器Nvm
+  - 安装和更新脚本
 tags: []
 date created: 2022-08-09 21:46:04
-date updated: 2023-01-08 05:23:48
+date updated: 2023-11-22 10:40:48
 ---
 
 # Linux安装Node版本管理器Nvm

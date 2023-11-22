@@ -1,9 +1,12 @@
 ---
 title: 柯里化(Currying)与偏函数(Partial Function)
-aliases: [柯里化(Currying)与偏函数(Partial Function), 函数柯里化, 柯里化]
+aliases:
+  - 柯里化(Currying)与偏函数(Partial Function)
+  - 函数柯里化
+  - 柯里化
 tags: []
 date created: 2023-03-07 03:33:29
-date updated: 2023-03-07 13:46:10
+date updated: 2023-11-22 10:40:47
 ---
 
 # 柯里化(Currying)与偏函数(Partial Function)

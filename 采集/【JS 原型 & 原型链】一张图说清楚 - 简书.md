@@ -1,9 +1,12 @@
 ---
-tags: [JavaScript, 原型链]
-aliases: [【JS 原型 & 原型链】一张图说清楚 - 简书]
+tags:
+  - JavaScript
+  - 原型链
+aliases:
+  - 【JS 原型 & 原型链】一张图说清楚 - 简书
 title: 【JS 原型 & 原型链】一张图说清楚 - 简书
 date created: 2023-03-07 17:22:59
-date updated: 2023-03-12 15:43:16
+date updated: 2023-11-22 10:39:32
 ---
 
 # 【JS 原型 & 原型链】一张图说清楚 - 简书

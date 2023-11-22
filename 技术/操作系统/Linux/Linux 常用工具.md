@@ -1,9 +1,12 @@
 ---
 title: Linux 常用工具
-aliases: [Linux 常用工具, Linux 常用命令软件, Linux常用命令软件]
+aliases:
+  - Linux 常用工具
+  - Linux 常用命令软件
+  - Linux常用命令软件
 tags: []
 date created: 2022-08-09 22:01:59
-date updated: 2023-03-22 15:17:24
+date updated: 2023-11-22 10:40:48
 ---
 
 # Linux 常用工具

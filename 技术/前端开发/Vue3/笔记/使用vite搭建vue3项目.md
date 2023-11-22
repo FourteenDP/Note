@@ -1,9 +1,11 @@
 ---
-aliases: [使用vite搭建vue3项目, 使用Vite创建项目]
+aliases:
+  - 使用vite搭建vue3项目
+  - 使用Vite创建项目
 tags: []
 title: 使用vite搭建vue3项目
 date created: 2022-12-16 09:42:48
-date updated: 2023-05-09 11:55:06
+date updated: 2023-11-22 10:40:49
 url: "https://juejin.cn/post/7231016319863521337"
 ---
 
