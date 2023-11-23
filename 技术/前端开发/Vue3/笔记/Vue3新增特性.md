@@ -227,10 +227,10 @@ p {
 ```html
 <template>
   <Suspense>
-    <template #default>
+    <template [[default]]>
       <AsyncComponent />
     </template>
-    <template #fallback>
+    <template [[fallback]]>
       <div>loading...</div>
     </template>
   </Suspense>

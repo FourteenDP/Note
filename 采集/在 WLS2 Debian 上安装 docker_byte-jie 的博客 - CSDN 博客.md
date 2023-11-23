@@ -47,23 +47,23 @@ curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 ![](https://img-blog.csdnimg.cn/67a3ea8e40b246b5bd308f591a9f8d03.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5pWW5LiZMTk2,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ```
-#启动docker
+[[启动docker]]
 sudo service docker start
 
-#查看docker的状态
+[[查看docker的状态]]
 sudo service docker status
 
-#解决bug
+[[解决bug]]
 sudo touch /etc/fstab
 
 sudo update-alternatives --set iptables /usr/sbin/iptables-legacy
 
 sudo update-alternatives --set ip6tables /usr/sbin/ip6tables-legacy
 
-#再次启动
+[[再次启动]]
 sudo service docker start
 
-#hello-world测试
+[[hello-world测试]]
 sudo docker run hello-world
 
 
@@ -78,13 +78,13 @@ sudo docker run hello-world
 无需翻墙，可以直接加快你的下速度
 
 ```
-#进入/etc/docker目录
+[[进入/etc/docker目录]]
 cd /etc/docker
 
-#如果没有daemon.json，创建一个
+[[如果没有daemon]].json，创建一个
 vim daemon.json
 
-#然后添加如下内容
+[[然后添加如下内容]]
 {
 "registry-mirrors" : [
 	"https://lregistry.docker-cn.com" ,
