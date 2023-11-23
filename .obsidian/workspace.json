@@ -11,10 +11,12 @@
             "id": "b0050e1d71e16b4a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-                "staged": false
+                "file": "测试文件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "测试文件.md"
+              }
             }
           },
           {
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
