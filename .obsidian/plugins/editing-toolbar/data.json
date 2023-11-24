@@ -194,6 +194,12 @@
       "id": "editing-toolbar:header1-text",
       "name": "Editing Toolbar: Header 1",
       "icon": "header-1"
+    },
+    {
+      "id": "SubmenuCommands-lpcckpfrl",
+      "name": "submenu",
+      "icon": "remix-Filter3Line",
+      "SubmenuCommands": []
     }
   ],
   "appendMethod": "workspace",
