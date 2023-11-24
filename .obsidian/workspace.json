@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-模板-/日志/季总结.md",
+                "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-模板-/日志/季总结.md"
+                "file": "测试文件.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-模板-/日志/季总结.md",
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-模板-/日志/季总结.md",
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,10 +177,11 @@
   },
   "active": "8ff16ea6fbb31df5",
   "lastOpenFiles": [
+    "README.md",
+    "-模板-/日志/季总结.md",
     "测试文件.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "日志/README.md",
-    "README.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
@@ -202,7 +203,6 @@
     "broken links output.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "采集/写给前端的编译原理科普.md",
-    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
