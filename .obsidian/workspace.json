@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "README.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,9 +177,9 @@
   },
   "active": "8ff16ea6fbb31df5",
   "lastOpenFiles": [
+    "测试文件.md",
     "README.md",
     "-模板-/日志/季总结.md",
-    "测试文件.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "日志/README.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
