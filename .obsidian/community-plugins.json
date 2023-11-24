@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-linter",
   "editing-toolbar",
-  "better-fn"
+  "better-fn",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes"
 ]
