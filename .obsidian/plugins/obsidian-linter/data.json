@@ -255,8 +255,8 @@
   "logLevel": "ERROR",
   "lintCommands": [
     {
-      "id": "",
-      "name": ""
+      "id": "obsidian-tidy-footnotes:tidy-footnotes",
+      "name": "Tidy Footnotes: Tidy Footnotes"
     }
   ],
   "customRegexes": [],
