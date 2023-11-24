@@ -25,5 +25,13 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "6"
+    }
   ]
 }
