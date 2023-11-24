@@ -1,6 +1,6 @@
 {
   "aestheticStyle": "default",
-  "positionStyle": "following",
+  "positionStyle": "fixed",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
