@@ -93,7 +93,7 @@
       "enabled": true
     },
     "auto-correct-common-misspellings": {
-      "enabled": false,
+      "enabled": true,
       "ignore-words": ""
     },
     "convert-bullet-list-markers": {
@@ -222,7 +222,7 @@
       "enabled": false
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "quote-style": {
