@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1d916e20fd063d",
+        "id": "b159e2491ced4a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0858f1fb458f3c",
+            "id": "6efff2cf26b35f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -176,8 +175,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "5c0858f1fb458f3c",
+  "active": "6efff2cf26b35f22",
   "lastOpenFiles": [
+    "未命名.canvas",
     "测试文件.md",
     "测试文件速度.md",
     "仓库/Script/简阅Metadata.md",
@@ -203,12 +203,10 @@
     "时间笔记/202311222001.md",
     "时间笔记/202311222000.md",
     "时间笔记/202311221959.md",
-    "时间笔记/202311221958.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
     "My code file.ts",
-    "未命名.canvas",
     "仓库/Code-Snippets/抽象工厂模式(Abstract Factory).ts",
     "CodeFiel.vue",
     "仓库/Vue3-Hello/tailwind.config.cjs",
