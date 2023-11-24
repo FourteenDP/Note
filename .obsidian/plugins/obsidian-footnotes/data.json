@@ -1,5 +1,5 @@
 {
   "enableAutoSuggest": true,
-  "enableFootnoteSectionHeading": true,
+  "enableFootnoteSectionHeading": false,
   "FootnoteSectionHeading": "Footnotes"
 }

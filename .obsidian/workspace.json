@@ -119,6 +119,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5e92cd887cc77faa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -175,7 +183,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "2516742dadc1ed34",
   "lastOpenFiles": [
     "测试文件.md",
     "未命名.canvas",
