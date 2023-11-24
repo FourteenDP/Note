@@ -5,7 +5,7 @@
   "closeDelay": 600,
   "autoFocus": true,
   "rollDown": false,
-  "snapToEdges": false,
+  "snapToEdges": true,
   "initialHeight": "340px",
   "initialWidth": "400px",
   "showViewHeader": false,
