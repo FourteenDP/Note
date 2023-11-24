@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#【JS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "021ee5bda39625c1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 306.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -87,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md"
               }
             }
           },
@@ -142,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,10 +194,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a547515d7c6a3c21",
+  "active": "045f07e50dc53fea",
   "lastOpenFiles": [
-    "写作/如何编写好的技术文档.md",
     "测试文件.md",
+    "Spaces/Home",
+    "Spaces",
+    "写作/如何编写好的技术文档.md",
+    "日志/2023/2023-11-25.md",
     "书籍/前端推荐书籍.md",
     "写作/待完成.md",
     "未命名.md",
@@ -212,8 +224,6 @@
     "时间笔记/202311222007.md",
     "时间笔记/202311222005.md",
     "时间笔记/202311222004.md",
-    "时间笔记/202311222003.md",
-    "时间笔记/202311222002.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
@@ -222,8 +232,6 @@
     "CodeFiel.vue",
     "仓库/Vue3-Hello/tailwind.config.cjs",
     "仓库/Vue3-Hello/pnpm-lock.yaml",
-    "仓库/Vue3-Hello/src/store/index.ts",
-    "仓库/Vue3-Hello/src/router/index.ts",
     "SVG/submodule和subtree区别.excalidraw.svg",
     "SVG/后端常见分层.drawio.svg",
     "SVG/构建知识库.svg",
