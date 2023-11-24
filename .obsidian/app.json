@@ -2,7 +2,7 @@
   "strictLineBreaks": true,
   "spellcheck": true,
   "spellcheckLanguages": null,
-  "tabSize": 4,
+  "tabSize": 2,
   "vimMode": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,

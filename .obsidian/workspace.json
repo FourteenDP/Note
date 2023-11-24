@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作/如何编写好的技术文档.md",
-                "mode": "preview",
+                "file": "测试文件.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作/如何编写好的技术文档.md"
+                "file": "测试文件.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作/如何编写好的技术文档.md",
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作/如何编写好的技术文档.md",
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +187,7 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "写作/如何编写好的技术文档.md",
     "测试文件.md",
     "书籍/前端推荐书籍.md",
     "写作/待完成.md",
@@ -213,7 +214,6 @@
     "时间笔记/202311222004.md",
     "时间笔记/202311222003.md",
     "时间笔记/202311222002.md",
-    "时间笔记/202311222001.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
