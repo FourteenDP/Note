@@ -39,7 +39,7 @@ curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 
 ​ **1.4 启动 docker**
 
-然后发现启动失败，原因是没有该目录，下面我们创建该目录，并解决 bug  
+然后发现启动失败，原因是没有该目录，下面我们创建该目录，并解决 bug
 
 ![](https://img-blog.csdnimg.cn/67a3ea8e40b246b5bd308f591a9f8d03.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5pWW5LiZMTk2,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
@@ -84,11 +84,11 @@ vim daemon.json
 [[然后添加如下内容]]
 {
 "registry-mirrors" : [
-	"https://lregistry.docker-cn.com" ,
+  "https://lregistry.docker-cn.com" ,
 
-	"http:// hub-mirror.c.163.com",
+  "http:// hub-mirror.c.163.com",
 
-	"https:// docker.mirrors.ustc.edu.cn"
+  "https:// docker.mirrors.ustc.edu.cn"
 ]
 }
 
