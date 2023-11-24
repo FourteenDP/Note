@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "Theme"
   ],
-  "baseFontSize": 25,
+  "baseFontSize": 24,
   "cssTheme": "",
   "theme": "moonstone",
   "translucency": false,
