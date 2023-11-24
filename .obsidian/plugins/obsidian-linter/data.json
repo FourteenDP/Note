@@ -101,7 +101,7 @@
     },
     "emphasis-style": {
       "enabled": true,
-      "style": "asterisk"
+      "style": "underscore"
     },
     "no-bare-urls": {
       "enabled": false
