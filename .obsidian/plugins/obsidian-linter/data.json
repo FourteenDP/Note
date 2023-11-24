@@ -38,7 +38,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title,aliases",
+      "yaml-key-priority-sort-order": "title,aliases,tags,date created,date updated",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -259,4 +259,6 @@
     "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": tru
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
+  }
+}
