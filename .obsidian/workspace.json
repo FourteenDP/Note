@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
-                "mode": "preview",
-                "backlinks": true,
+                "file": "拾肆/个人/2022面试题总结/9、web前端面试宝典.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "拾肆/个人/2022面试题总结/9、web前端面试宝典.md"
               }
             }
           },
@@ -150,30 +150,31 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "拾肆/个人/2022面试题总结/9、web前端面试宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "72279220b5f2f285",
+            "id": "dddc5de1bc6f68e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "拾肆/个人/2022面试题总结/9、web前端面试宝典.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,17 +190,24 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "periodic-notes:Open today": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b7a9d1c64888129d",
+  "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
-    "测试文件.md",
-    "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "README.md",
-    "-附件-/原型链.png",
+    "日志/2023/2023-03-04.md",
+    "拾肆/个人/2022面试题总结/9、web前端面试宝典.md",
+    "日志/2023/2023-03-01.md",
+    "-附件-/Pasted image 20230204210622.png",
+    "-附件-/Linux目录结构.png",
+    "-附件-/Pasted image 20220713154807.png",
+    "书籍/前端推荐书籍.md",
     "写作/如何编写好的技术文档.md",
+    "测试文件.md",
+    "README.md",
+    "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "-附件-/原型链.png",
     "音乐/摇滚.md",
     "采集/实施前端微服务化的六七种方式.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
@@ -208,7 +216,6 @@
     "Spaces/Home",
     "Spaces",
     "日志/2023/2023-11-25.md",
-    "书籍/前端推荐书籍.md",
     "写作/待完成.md",
     "未命名.md",
     "未命名.canvas",
@@ -223,8 +230,6 @@
     "-模板-/日志/季总结.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "日志/README.md",
-    "采集/各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎.md",
-    "时间笔记/202311222006.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
