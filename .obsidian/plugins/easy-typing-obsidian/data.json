@@ -52,5 +52,5 @@
   "userCvtRuleSettingsOpen": true,
   "EnterTwice": true,
   "TryFixChineseIM": true,
-  "PuncRectify": true
+  "PuncRectify": false
 }
