@@ -128,14 +128,14 @@
     },
     "strong-style": {
       "enabled": true,
-      "style": "consistent"
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false
+      "enabled": true
     },
     "unordered-list-style": {
-      "enabled": false,
-      "list-style": "consistent"
+      "enabled": true,
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": true,
