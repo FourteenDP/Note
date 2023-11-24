@@ -233,7 +233,7 @@
       "double-quote-style": "\"\""
     },
     "remove-space-before-or-after-characters": {
-      "enabled": false,
+      "enabled": true,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
     }
