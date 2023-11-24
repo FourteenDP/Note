@@ -1,6 +1,6 @@
 {
   "defaultMode": "preview",
-  "autoPin": "onMove",
+  "autoPin": "always",
   "triggerDelay": 300,
   "closeDelay": 600,
   "autoFocus": true,

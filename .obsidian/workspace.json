@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "测试文件.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,10 +193,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a547515d7c6a3c21",
+  "active": "0306691afaaf8a22",
   "lastOpenFiles": [
-    "-附件-/原型链.png",
+    "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "README.md",
+    "-附件-/原型链.png",
     "测试文件.md",
     "写作/如何编写好的技术文档.md",
     "音乐/摇滚.md",
