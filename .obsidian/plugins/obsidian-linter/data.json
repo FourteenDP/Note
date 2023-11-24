@@ -33,12 +33,12 @@
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
-      "enabled": false,
-      "yaml-keys-to-remove": ""
+      "enabled": true,
+      "yaml-keys-to-remove": "aliases"
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title,aliases,tags,date created,date updated",
+      "yaml-key-priority-sort-order": "title\naliases\ntags\ndate created\ndate updated",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
