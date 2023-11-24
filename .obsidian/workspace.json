@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,12 +196,12 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "测试文件.md",
     "音乐/摇滚.md",
     "采集/实施前端微服务化的六七种方式.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "Spaces/Untitled.md",
-    "测试文件.md",
     "Spaces/Home",
     "Spaces",
     "写作/如何编写好的技术文档.md",
