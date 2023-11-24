@@ -257,10 +257,6 @@
     {
       "id": "obsidian-tidy-footnotes:tidy-footnotes",
       "name": "Tidy Footnotes: Tidy Footnotes"
-    },
-    {
-      "id": null,
-      "name": ""
     }
   ],
   "customRegexes": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6c6744acba2df3",
+        "id": "3b473f301bb2c7a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2516742dadc1ed34",
+            "id": "c91536b7b96ed303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -119,14 +119,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "5e92cd887cc77faa",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -136,6 +128,14 @@
         "type": "tabs",
         "dimension": 45.63106796116505,
         "children": [
+          {
+            "id": "5e92cd887cc77faa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "cfa9364162b6c8ae",
             "type": "leaf",
@@ -180,12 +180,14 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2516742dadc1ed34",
+  "active": "c91536b7b96ed303",
   "lastOpenFiles": [
     "测试文件.md",
+    "README.md",
     "未命名.canvas",
     "测试文件速度.md",
     "仓库/Script/简阅Metadata.md",
@@ -195,7 +197,6 @@
     "采集/写给前端的编译原理科普.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
-    "README.md",
     "日志/2023-11-24.md",
     "-模板-/日志/季总结.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
