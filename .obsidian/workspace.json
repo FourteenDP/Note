@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,6 +195,8 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "写作/如何编写好的技术文档.md",
+    "README.md",
     "测试文件.md",
     "音乐/摇滚.md",
     "采集/实施前端微服务化的六七种方式.md",
@@ -204,12 +205,10 @@
     "Spaces/Untitled.md",
     "Spaces/Home",
     "Spaces",
-    "写作/如何编写好的技术文档.md",
     "日志/2023/2023-11-25.md",
     "书籍/前端推荐书籍.md",
     "写作/待完成.md",
     "未命名.md",
-    "README.md",
     "未命名.canvas",
     "测试文件速度.md",
     "仓库/Script/简阅Metadata.md",
