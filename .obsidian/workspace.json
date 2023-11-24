@@ -11,8 +11,13 @@
             "id": "3ab1fbd4e1c9ba62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "测试文件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "测试文件.md"
+              }
             }
           },
           {
@@ -127,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +175,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "3ab1fbd4e1c9ba62",
   "lastOpenFiles": [
     "测试文件.md",
     "日志/README.md",
