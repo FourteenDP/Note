@@ -1,10 +1,8 @@
 ---
-aliases:
-  - setTimeout 和 setInterval，你们两位同学注意点时间~
-tags: []
 title: setTimeout 和 setInterval，你们两位同学注意点时间~
+tags: []
 date created: 2023-01-11 11:00:10
-date updated: 2023-11-22 10:40:06
+date updated: 2023-11-25 03:00:18
 ---
 
 # setTimeout 和 setInterval，你们两位同学注意点时间~
@@ -15,12 +13,12 @@ date updated: 2023-11-22 10:40:06
 
 ### 1、定义
 
-* `setTimeout()`方法用于在指定的时间（单位毫秒）后执行回调函数或指定的一段代码
-* `setInterval()`方法可按照指定的时间间隔（单位毫秒）来调用回调函数或指定的一段代码
+- `setTimeout()` 方法用于在指定的时间（单位毫秒）后执行回调函数或指定的一段代码
+- `setInterval()` 方法可按照指定的时间间隔（单位毫秒）来调用回调函数或指定的一段代码
 
 ### 2、参数
 
-* 第一个参数 function，必填，回调函数。或者是一段字符串代码，但是这种方式不建议使用，就和使用`eval()`一样，有安全风险；而且还有作用域问题（字符串会在全局作用域内被解释执行）
+- 第一个参数 function，必填，回调函数。或者是一段字符串代码，但是这种方式不建议使用，就和使用 `eval()` 一样，有安全风险；而且还有作用域问题（字符串会在全局作用域内被解释执行）
 
     ```
       setTimeout('console.log(123);fn()', 2000)
@@ -28,8 +26,8 @@ date updated: 2023-11-22 10:40:06
     
     ```
 
-* 第二个参数 delay，可选，单位是 ms，对于`setTimeout`是延迟时间，对于`setInterval`是间隔时间，默认都是 0
-* 第三个参数 param1,param2,param3…，可选，是传递给回调函数的参数，不大常用
+- 第二个参数 delay，可选，单位是 ms，对于 `setTimeout` 是延迟时间，对于 `setInterval` 是间隔时间，默认都是 0
+- 第三个参数 param1,param2,param3…，可选，是传递给回调函数的参数，不大常用
 
     ```
       setTimeout(function (a, b) {
@@ -41,8 +39,8 @@ date updated: 2023-11-22 10:40:06
 
 ### 3、返回值
 
-* 返回一个 ID（数字），可以将这个 ID 传递给`clearTimeout()`或`clearInterval()`来取消执行
-* PS: `setTimeout()`和`setInterval()`共用一个编号池，技术上，`clearTimeout()`和`clearInterval()`可以互换使用，但是为了避免混淆，一般不这么做
+- 返回一个 ID（数字），可以将这个 ID 传递给 `clearTimeout()` 或 `clearInterval()` 来取消执行
+- PS: `setTimeout()` 和 `setInterval()` 共用一个编号池，技术上，`clearTimeout()` 和 `clearInterval()` 可以互换使用，但是为了避免混淆，一般不这么做
 
 ## 二、setTimeout 和 setInterval 的实际表现
 
@@ -62,7 +60,7 @@ date updated: 2023-11-22 10:40:06
 
 ```
 
-`new Date().getTime() - (startTime + count * 1000)`理想情况下应该是 0ms，然而事实并不是这样，而是存在着误差：
+`new Date().getTime() - (startTime + count * 1000)` 理想情况下应该是 0ms，然而事实并不是这样，而是存在着误差：
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/413fa6cbed5c46bd8a761f920028fc20~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
 
@@ -91,7 +89,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 ### 1、setTimeout 的最短延迟时间
 
-`setTimeout`遵循的规范由 whatwg 来维护，在 [HTML Standard - 8.6 Timers](https://link.juejin.cn?target=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2Ftimers-and-user-prompts.html%23dom-settimeout "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-settimeout") 中写到了定义定时器的详细步骤，其中有两条：
+`setTimeout` 遵循的规范由 whatwg 来维护，在 [HTML Standard - 8.6 Timers](https://link.juejin.cn?target=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2Ftimers-and-user-prompts.html%23dom-settimeout "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-settimeout") 中写到了定义定时器的详细步骤，其中有两条：
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/48672062a7bd44c1aea12510cf135aa5~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
 
@@ -134,7 +132,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 ### 4、JS 的事件循环机制
 
-`setTimeout`和`setInterval`中的时间并不是到点就立即执行，而是到点将其回调函数加入异步事件队列中，按照队列先进先出的性质，该回调函数到点之后是否能执行还得取决于是否属于队列首位，如果前头还有其他事件在等待，则不能按点执行，如果没有，则将其放入同步队列执行。具体事件循环机制，可以参考这篇文章：[动图学习 - EventLoop](https://juejin.cn/post/6969028296893792286 "https://juejin.cn/post/6969028296893792286")
+`setTimeout` 和 `setInterval` 中的时间并不是到点就立即执行，而是到点将其回调函数加入异步事件队列中，按照队列先进先出的性质，该回调函数到点之后是否能执行还得取决于是否属于队列首位，如果前头还有其他事件在等待，则不能按点执行，如果没有，则将其放入同步队列执行。具体事件循环机制，可以参考这篇文章：[动图学习 - EventLoop](https://juejin.cn/post/6969028296893792286 "https://juejin.cn/post/6969028296893792286")
 
 ## 四、解决方案
 
@@ -245,8 +243,8 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 综上所述，serInterval 有两个问题：
 
-* 可能多个定时器会连续执行（会导致后续的间隔误差）
-* 某些间隔会被跳过（这么设计也可能是为了尽量避免第一个问题）
+- 可能多个定时器会连续执行（会导致后续的间隔误差）
+- 某些间隔会被跳过（这么设计也可能是为了尽量避免第一个问题）
 
 因而一般会使用 setTimeout 模拟 setInterval，来规避掉上面的缺点
 
@@ -288,17 +286,17 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 **这边顺便一提，涉及到做动画的场景可能会使用定时器**
 
-* 由于定时器的种种误差问题，以及固定时间间隔不一定与屏幕刷新时间相同，可能会引起丢帧；而且定时器在后台仍会继续执行，也会造成资源的浪费
-* 一般情况下，还是推荐使用 requestAnimationFrame，RAF 重绘或回流（重排）的时间间隔是紧紧跟随浏览器的刷新频率的；并且在页面未激活时，该页面的屏幕刷新任务也会被暂停，当页面被激活时，任务会从上次停留的地方继续执行，这也就意味着将耗费更少的资源，提升了性能
+- 由于定时器的种种误差问题，以及固定时间间隔不一定与屏幕刷新时间相同，可能会引起丢帧；而且定时器在后台仍会继续执行，也会造成资源的浪费
+- 一般情况下，还是推荐使用 requestAnimationFrame，RAF 重绘或回流（重排）的时间间隔是紧紧跟随浏览器的刷新频率的；并且在页面未激活时，该页面的屏幕刷新任务也会被暂停，当页面被激活时，任务会从上次停留的地方继续执行，这也就意味着将耗费更少的资源，提升了性能
 
 ### 总结
 
-* setTimeout 和 setInterval 都存在计时误差，不会严格按照既定时间执行
-* 一般情况下，这些误差不会造成太大影响，只对于某些特殊场景，对时间要求比较严格的情况下，需要特殊处理
-* 对于 setInterval，个人建议能不用尽量不用，使用 setTimeout 的嵌套实现，可以规避掉一些潜在问题的发生
+- setTimeout 和 setInterval 都存在计时误差，不会严格按照既定时间执行
+- 一般情况下，这些误差不会造成太大影响，只对于某些特殊场景，对时间要求比较严格的情况下，需要特殊处理
+- 对于 setInterval，个人建议能不用尽量不用，使用 setTimeout 的嵌套实现，可以规避掉一些潜在问题的发生
 
 ### 参考文章
 
-* [blog.csdn.net/b954960630/…](https://link.juejin.cn?target=https%3A%2F%2Fblog.csdn.net%2Fb954960630%2Farticle%2Fdetails%2F82286486 "https://blog.csdn.net/b954960630/article/details/82286486")
-* [juejin.cn/post/684490…](https://juejin.cn/post/6844903773622501383 "https://juejin.cn/post/6844903773622501383")
-* [dbaron.org/log/2010030…](https://link.juejin.cn?target=https%3A%2F%2Fdbaron.org%2Flog%2F20100309-faster-timeouts "https://dbaron.org/log/20100309-faster-timeouts")
+- [blog.csdn.net/b954960630/…](https://link.juejin.cn?target=https%3A%2F%2Fblog.csdn.net%2Fb954960630%2Farticle%2Fdetails%2F82286486 "https://blog.csdn.net/b954960630/article/details/82286486")
+- [juejin.cn/post/684490…](https://juejin.cn/post/6844903773622501383 "https://juejin.cn/post/6844903773622501383")
+- [dbaron.org/log/2010030…](https://link.juejin.cn?target=https%3A%2F%2Fdbaron.org%2Flog%2F20100309-faster-timeouts "https://dbaron.org/log/20100309-faster-timeouts")

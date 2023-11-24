@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/如何编写好的技术文档.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "写作/如何编写好的技术文档.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/如何编写好的技术文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/如何编写好的技术文档.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,9 +187,9 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "测试文件.md",
     "书籍/前端推荐书籍.md",
     "写作/待完成.md",
-    "测试文件.md",
     "未命名.md",
     "README.md",
     "未命名.canvas",
