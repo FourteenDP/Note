@@ -4,9 +4,9 @@
   "enabledCssSnippets": [
     "Theme"
   ],
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "cssTheme": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "interfaceFontFamily": "Consolas,微软雅黑",
   "textFontFamily": "Fira Code,楷体",

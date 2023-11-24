@@ -1,6 +1,6 @@
 {
-  "aestheticStyle": "glass",
-  "positionStyle": "top",
+  "aestheticStyle": "tiny",
+  "positionStyle": "fixed",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
