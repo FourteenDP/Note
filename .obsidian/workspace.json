@@ -11,8 +11,13 @@
             "id": "5c0858f1fb458f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "测试文件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tag\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "测试文件.md"
+              }
             }
           },
           {
@@ -127,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "测试文件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +174,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "80c90690f4b570fc",
+  "active": "5c0858f1fb458f3c",
   "lastOpenFiles": [
     "仓库/Script/简阅Metadata.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
