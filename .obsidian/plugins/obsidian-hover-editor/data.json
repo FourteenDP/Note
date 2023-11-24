@@ -1,6 +1,6 @@
 {
   "defaultMode": "preview",
-  "autoPin": "always",
+  "autoPin": "onMove",
   "triggerDelay": 300,
   "closeDelay": 600,
   "autoFocus": true,
@@ -10,5 +10,5 @@
   "initialWidth": "400px",
   "showViewHeader": false,
   "imageZoom": true,
-  "hoverEmbeds": false
+  "hoverEmbeds": true
 }
