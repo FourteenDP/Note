@@ -51,6 +51,6 @@
   "userDelRuleSettingsOpen": true,
   "userCvtRuleSettingsOpen": true,
   "EnterTwice": true,
-  "TryFixChineseIM": true,
+  "TryFixChineseIM": false,
   "PuncRectify": false
 }
