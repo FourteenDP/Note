@@ -18,7 +18,6 @@
           {
             "id": "9885b35628c6882c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -26,8 +25,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ],
