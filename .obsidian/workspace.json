@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e9028f7bd9ca5f",
+        "id": "f89cf64bf29a3bac",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab1fbd4e1c9ba62",
+            "id": "8ff16ea6fbb31df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#任务管理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "02db7ed448796d0d",
@@ -175,8 +175,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3ab1fbd4e1c9ba62",
+  "active": "8ff16ea6fbb31df5",
   "lastOpenFiles": [
+    "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "测试文件.md",
     "日志/README.md",
     "README.md",
@@ -202,7 +203,6 @@
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "采集/写给前端的编译原理科普.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-    "采集/CSS 选择器优先级权重 _ w3c 笔记.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
