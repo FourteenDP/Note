@@ -1,5 +1,5 @@
 {
-  "aestheticStyle": "default",
+  "aestheticStyle": "tiny",
   "positionStyle": "fixed",
   "menuCommands": [
     {
@@ -206,14 +206,14 @@
       "icon": "remix-SplitCellsHorizontal"
     }
   ],
-  "appendMethod": "body",
+  "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 2,
   "cMenuNumRows": 20,
   "cMenuWidth": 528,
   "cMenuFontColor": "#3f3f3f",
-  "cMenuBackgroundColor": "#fff88f",
+  "cMenuBackgroundColor": "#d3f8b6",
   "autohide": true,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
