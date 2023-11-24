@@ -1,15 +1,12 @@
 ---
-aliases:
-  - 简介
-  - Windows创建软连接
+title: Windows创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-22 10:40:48
-title: Windows创建软连接
+date updated: 2023-11-25 03:01:24
 ---
 
-# Windows创建软连接
+# Windows 创建软连接
 
 ## 简介
 

@@ -1,13 +1,11 @@
 ---
-aliases:
-  - node的process.nextTick
+title: node的process.nextTick
 tags: []
 date created: 2022-06-24 13:22:45
-date updated: 2023-11-22 10:40:48
-title: node的process.nextTick
+date updated: 2023-11-25 03:01:26
 ---
 
-# node的process.nextTick
+# node 的 process.nextTick
 
 ## 参考
 

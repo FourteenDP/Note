@@ -1,21 +1,18 @@
 ---
-aliases:
-  - Vue3生命周期
-  - 什么是生命周期
-tags: []
 title: Vue3生命周期
+tags: []
 date created: 2022-12-15 20:05:25
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:27
 ---
 
-# Vue3生命周期
+# Vue3 生命周期
 
 ## 什么是生命周期
 
 - Vue 实例从创建到销毁的过程, 就是生命周期
-- Vue3中没有了beforeCreate和created生命周期钩子
+- Vue3 中没有了 beforeCreate 和 created 生命周期钩子
 
-## Vue2和Vue3生命周期的对比
+## Vue2 和 Vue3 生命周期的对比
 
 | Vue2 | Vue3 | 说明 |
 | --- | --- | --- |

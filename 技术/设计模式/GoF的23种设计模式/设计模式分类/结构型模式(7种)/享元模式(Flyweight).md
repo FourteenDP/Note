@@ -1,13 +1,11 @@
 ---
 title: 享元模式(Flyweight)
-aliases:
-  - 享元模式(Flyweight)
 tags: []
 date created: 2023-03-07 14:11:09
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:23
 ---
 
-# 享元模式(Flyweight)
+# 享元模式 (Flyweight)
 
 - 定义：运用共享技术有效地支持大量细粒度的对象
 - 解释：享元模式是一种结构型设计模式，运用共享技术有效地支持大量细粒度的对象

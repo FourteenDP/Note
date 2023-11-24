@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 作用
-  - BFC
+title: BFC
 tags:
   - BFC
 date created: 2022-06-20 21:19:30
-date updated: 2023-11-22 10:40:49
-title: BFC
+date updated: 2023-11-25 03:01:29
 ---
 
 # BFC

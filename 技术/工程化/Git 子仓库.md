@@ -1,14 +1,8 @@
 ---
-aliases:
-  - Git 子仓库
-  - Git 子模块
-  - Git 如何添加子仓库
-  - git 如何添加子仓库
-  - 添加子仓库
-tags: []
 title: Git 子仓库
+tags: []
 date created: 2022-12-22 15:24:12
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:25
 url: "https://juejin.cn/post/7230656452497965117"
 ---
 
@@ -16,7 +10,7 @@ url: "https://juejin.cn/post/7230656452497965117"
 
 在进行项目开发和管理的过程中，您可能会遇到这种情况：您自己的 A 项目需要引用另一个 B 项目中的内容，直接将 B 项目中的文件克隆合并到 A 项目中显得臃肿，不能保证两者的独立性；此外，直接克隆合并的方法也无法记录对于 B 项目的改动信息。
 
-> Tips:其他项目管理方式
+> Tips: 其他项目管理方式
 > - 将子项目上传至 npm 库或者上传至私有 npm 库
 > - Monorepo 模式
 
@@ -32,18 +26,18 @@ url: "https://juejin.cn/post/7230656452497965117"
 ## `git submodule`
 
 - 子项目作为一个独立的仓库，可以单独提交，但是不会被包含在父项目的仓库中，只是作为一个引用
-	- 会在父项目的`.gitmodules`文件中记录子项目的信息
-	- 会在`.git/config`文件中记录子项目的信息
-	- 会在父项目的`.git/modules`目录下创建子项目的仓库
-	- 使用`git clone --recursive <父项目仓库 url>`可以递归克隆子项目
-	- 使用`git add <url> <path>`可以克隆添加子项目
-	- 使用`git submodule update --init`可以更新子项目
-	- 使用`git submodule update --init --recursive`可以递归更新子项目
-	- 使用`git submodule update --remote`可以更新子项目到最新版本
-	- 如何删除子`git submodule`：
-		- 删除`.gitmodules`文件中的子项目信息
-		- 删除`.git/config`文件中的子项目信息
-		- 删除`.git/modules`目录下的子项目仓库
+	- 会在父项目的 `.gitmodules` 文件中记录子项目的信息
+	- 会在 `.git/config` 文件中记录子项目的信息
+	- 会在父项目的 `.git/modules` 目录下创建子项目的仓库
+	- 使用 `git clone --recursive <父项目仓库 url>` 可以递归克隆子项目
+	- 使用 `git add <url> <path>` 可以克隆添加子项目
+	- 使用 `git submodule update --init` 可以更新子项目
+	- 使用 `git submodule update --init --recursive` 可以递归更新子项目
+	- 使用 `git submodule update --remote` 可以更新子项目到最新版本
+	- 如何删除子 `git submodule`：
+		- 删除 `.gitmodules` 文件中的子项目信息
+		- 删除 `.git/config` 文件中的子项目信息
+		- 删除 `.git/modules` 目录下的子项目仓库
 		- 删除父项目中的子项目目录
 
 ```shell
@@ -67,13 +61,13 @@ git config -f .gitmodules --remove-section submodule.<path>
 - 完全像拉取一个分支一样，合并子项目到父项目中
 - 没有 `.gitmodules` 文件，记录子项目信息，完全不知道子项目的存在
 - 使用
-	- 使用`git subtree add --prefix <path> <url> <branch> --squash`可以添加子项目
-	- `--squash`可选参数：表示将子库的所有提交合并为一个提交，这样可以避免子库的提交历史污染主库
-	- 使用`git subtree pull --prefix <path> <url> <branch> --squash`可以从子项目更新父项目
-	- 使用`git subtree push --prefix <path> <url> <branch>`可以从父项目更新子项目
-	- 使用`git subtree split --prefix <path> -b <branch>`可以将子项目分离出来作为一个独立的仓库
-	- 使用`git subtree merge --prefix <path> <branch>`可以将分离出来的子项目合并到父项目中
-- 如何删除`git subtree`：
+	- 使用 `git subtree add --prefix <path> <url> <branch> --squash` 可以添加子项目
+	- `--squash` 可选参数：表示将子库的所有提交合并为一个提交，这样可以避免子库的提交历史污染主库
+	- 使用 `git subtree pull --prefix <path> <url> <branch> --squash` 可以从子项目更新父项目
+	- 使用 `git subtree push --prefix <path> <url> <branch>` 可以从父项目更新子项目
+	- 使用 `git subtree split --prefix <path> -b <branch>` 可以将子项目分离出来作为一个独立的仓库
+	- 使用 `git subtree merge --prefix <path> <branch>` 可以将分离出来的子项目合并到父项目中
+- 如何删除 `git subtree`：
 	- 删除父项目中的子项目目录
 	- 删除父项目中的子项目分支
 

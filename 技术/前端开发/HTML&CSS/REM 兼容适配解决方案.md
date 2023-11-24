@@ -1,22 +1,19 @@
 ---
 title: REM 兼容适配解决方案
-aliases:
-  - REM 兼容适配解决方案
-  - 使用rem做响应式布局
 tags: []
 date created: 2022-12-12 10:52:57
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:29
 ---
 
 # REM 兼容适配解决方案
 
-## 使用rem做响应式布局
+## 使用 rem 做响应式布局
 
-原理：rem是相对于根元素html的font-size来计算的，所以只要根元素的font-size发生变化，rem的值也会发生变化，从而达到响应式布局的目的。
+原理：rem 是相对于根元素 html 的 font-size 来计算的，所以只要根元素的 font-size 发生变化，rem 的值也会发生变化，从而达到响应式布局的目的。
 
-## 实现750px设计稿的响应式布局
+## 实现 750px 设计稿的响应式布局
 
-动态root字体大小公式 : 1rem = clientWidth / 750 * 100
+动态 root 字体大小公式: 1rem = clientWidth / 750 * 100
 
 ```html
 <!DOCTYPE html>

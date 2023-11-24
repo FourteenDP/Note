@@ -1,15 +1,12 @@
 ---
-aliases:
-  - Vue生命周期
-  - 简介
+title: Vue生命周期
 tags: []
 date created: 2022-06-06 22:49:23
+date updated: 2023-11-25 03:01:28
 date modified: 2022-06-06 22:52:19
-date updated: 2023-11-22 10:40:49
-title: Vue生命周期
 ---
 
-# Vue生命周期
+# Vue 生命周期
 
 ## 简介
 
@@ -21,7 +18,7 @@ title: Vue生命周期
 
 - 在实例初始化之后，进行数据侦听和时间/侦听器的配置之前同步调用
 - 这个时候，数据还没有挂载呢，只是一个空壳
-- 此时组件的选项对象还未创建，el 和 data 并未初始化，因此无法访问 methods， data， computed 等上的方法和数据。
+- 此时组件的选项对象还未创建，el 和 data 并未初始化，因此无法访问 methods，data，computed 等上的方法和数据。
 
 ## CREATED（创建后）
 

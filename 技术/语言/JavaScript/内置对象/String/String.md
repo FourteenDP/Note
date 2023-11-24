@@ -1,18 +1,15 @@
 ---
 title: String
-aliases:
-  - String
-  - 什么是String对象
 tags: []
 date created: 2022-12-11 15:14:14
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:21
 ---
 
 # String
 
-## 什么是String对象
+## 什么是 String 对象
 
-- `String`全局对象是一个用于字符串或一个字符序列的构造函数。
+- `String` 全局对象是一个用于字符串或一个字符序列的构造函数。
 
 ### 语法
 
@@ -23,13 +20,13 @@ String([value])
 `value`
 ```
 
-## String对象的属性
+## String 对象的属性
 
 - `String.length`：返回字符串的长度。
 
-## String对象的方法
+## String 对象的方法
 
-### String.prototype.localeCompare()方法
+### String.prototype.localeCompare() 方法
 
 - 用于比较两个字符串，返回一个数字，表示比较结果。
 - 该方法的返回值如下：

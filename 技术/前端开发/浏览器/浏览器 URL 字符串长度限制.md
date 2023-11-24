@@ -1,12 +1,9 @@
 ---
-aliases:
-  - 浏览器 URL 字符串长度限制
-  - 浏览器 URL 限制
+title: 浏览器 URL 字符串长度限制
 tags:
   - 浏览器
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-22 10:40:48
-title: 浏览器 URL 字符串长度限制
+date updated: 2023-11-25 03:01:26
 ---
 
 # 浏览器 URL 字符串长度限制

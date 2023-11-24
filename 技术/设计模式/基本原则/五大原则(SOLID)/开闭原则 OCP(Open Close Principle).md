@@ -1,10 +1,8 @@
 ---
 title: 开闭原则 OCP(Open Close Principle)
-aliases:
-  - 开闭原则 OCP(Open Close Principle)
 tags: []
 date created: 2023-03-02 14:46:22
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
 # 开闭原则 OCP(Open Close Principle)

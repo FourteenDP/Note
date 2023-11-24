@@ -1,21 +1,18 @@
 ---
-aliases:
-  - 使用vite搭建vue3项目
-  - 使用Vite创建项目
-tags: []
 title: 使用vite搭建vue3项目
+tags: []
 date created: 2022-12-16 09:42:48
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:27
 url: "https://juejin.cn/post/7231016319863521337"
 ---
 
-# 使用vite搭建vue3项目
+# 使用 vite 搭建 vue3 项目
 
-## 使用Vite创建项目
+## 使用 Vite 创建项目
 
-使用Vite创建项目，项目并不像Vue CLI创建的项目那样，可以选择Router、Vuex等，而是直接创建一个空项目，然后再根据需要安装依赖。
+使用 Vite 创建项目，项目并不像 Vue CLI 创建的项目那样，可以选择 Router、Vuex 等，而是直接创建一个空项目，然后再根据需要安装依赖。
 
-## 安装pnpm (可选) 创建vite项目
+## 安装 pnpm (可选) 创建 vite 项目
 
 > pnpm 是一个快速、高效的包管理器，它可以在一个项目中安装多个版本的相同包。它还可以在一个项目中安装多个不同版本的相同包。
 
@@ -24,7 +21,7 @@ npm install -g pnpm
 pnpm create vite
 ```
 
-## 选择Vue和TypeScript
+## 选择 Vue 和 TypeScript
 
 ```bash
 ? Project name: Demo
@@ -40,21 +37,21 @@ pnpm install
 pnpm dev
 ```
 
-## 添加tsx支持
+## 添加 tsx 支持
 
 ```bash
 pnpm add -D @vitejs/plugin-vue-jsx
 ```
 
-- 在`vite.config.ts`中`plugins.plugins`添加`vueJsx()`。
+- 在 `vite.config.ts` 中 `plugins.plugins` 添加 `vueJsx()`。
 
-## 添加router
+## 添加 router
 
 ```bash
 pnpm add vue-router
 ```
 
-- 在`src`目录下创建`router`目录，创建`index.ts`文件。
+- 在 `src` 目录下创建 `router` 目录，创建 `index.ts` 文件。
 
 ```ts
 import { createRouter, createWebHistory } from 'vue-router'
@@ -69,7 +66,7 @@ const router = createRouter({
 export default router
 ```
 
-- 在`main.ts`中引入`router`并使用。
+- 在 `main.ts` 中引入 `router` 并使用。
 
 ```ts
 import { createApp } from 'vue'
@@ -79,8 +76,8 @@ import router from './router'
 createApp(App).use(router).mount('#app')
 ```
 
-- 在`App.vue`中使用`<router-view />`。
-- 添加别名`@`指向`src`目录。
+- 在 `App.vue` 中使用 `<router-view />`。
+- 添加别名 `@` 指向 `src` 目录。
 
 ```ts
 // vite.config.ts
@@ -94,15 +91,15 @@ export default defineConfig({
 })
 ```
 
-- tsconfig.json中添加`"baseUrl": "."`和`"paths": { "@/*": ["src/*"] }
+- tsconfig.json 中添加 `"baseUrl": "."` 和`"paths": { "@/_": ["src/_"] }
 
-## 添加pinia
+## 添加 pinia
 
 ```bash
 pnpm add pinia
 ```
 
-- 在`src`目录下创建`store`目录，创建`index.ts`文件。
+- 在 `src` 目录下创建 `store` 目录，创建 `index.ts` 文件。
 
 ```ts
 import { createPinia } from 'pinia'
@@ -110,7 +107,7 @@ import { createPinia } from 'pinia'
 export const pinia = createPinia()
 ```
 
-- 在`main.ts`中引入`pinia`并使用。
+- 在 `main.ts` 中引入 `pinia` 并使用。
 
 ```ts
 import { createApp } from 'vue'
@@ -121,21 +118,21 @@ import { pinia } from './store'
 createApp(App).use(router).use(pinia).mount('#app')
 ```
 
-## 添加tailwindcss
+## 添加 tailwindcss
 
 ```bash
   pnpm add -D tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
-- 初始化tailwindcss配置文件。
+- 初始化 tailwindcss 配置文件。
 
 ```bash
 pnpm tailwindcss init -p
 ```
 
-VSCode安装插件`Tailwind CSS IntelliSense`。
+VSCode 安装插件 `Tailwind CSS IntelliSense`。
 
-- 在`tailwind.config.js`中添加`purge`。
+- 在 `tailwind.config.js` 中添加 `purge`。
 
 ```js
  // tailwind.config.js
@@ -151,7 +148,7 @@ VSCode安装插件`Tailwind CSS IntelliSense`。
   }
 ```
 
-- 在`index.css`中引入tailwindcss。
+- 在 `index.css` 中引入 tailwindcss。
 
 ```css
 @tailwind base;
@@ -161,9 +158,9 @@ VSCode安装插件`Tailwind CSS IntelliSense`。
 
 - `Unknown at rule @tailwind` 解決方式
 
-VSCode安装插件`PostCSS Language Support`。
+VSCode 安装插件 `PostCSS Language Support`。
 
-- 全局引入tailwindcss
+- 全局引入 tailwindcss
 
 ```ts
 // main.ts

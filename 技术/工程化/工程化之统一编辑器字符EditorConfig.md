@@ -1,16 +1,11 @@
 ---
 title: 工程化之统一编辑器字符EditorConfig
-aliases:
-  - 工程化之统一编辑器字符EditorConfig
-  - 工程化之-EditorConfig
-  - 工程化之-.editorconfig
-  - editorconfig
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:25
 ---
 
-# 工程化之统一编辑器字符EditorConfig
+# 工程化之统一编辑器字符 EditorConfig
 
 EditorConfig 是一个用于定义代码格式的文件格式和一组文本编辑器插件。它可以帮助开发人员在不同的编辑器和 IDE 中保持一致的代码风格。
 

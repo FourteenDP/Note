@@ -1,15 +1,13 @@
 ---
 title: 模板方法模式(Template Method)
-aliases:
-  - 模板方法模式(Template Method)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
-# 模板方法模式(Template Method)
+# 模板方法模式 (Template Method)
 
-## 模板方法模式(Template Method)
+## 模板方法模式 (Template Method)
 
 - 定义：定义一个操作中的算法的骨架，而将一些步骤延迟到子类中，使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤
 - 解释：模板方法模式是一种只需使用继承就可以实现的非常简单的模式，它通过把不变的行为搬移到超类，去除了子类中的重复代码，从而提高了子类的可读性和可维护性

@@ -1,13 +1,11 @@
 ---
 title: 数据访问模式(Data Access Object)
-aliases:
-  - 数据访问模式(Data Access Object)
 tags: []
 date created: 2023-03-07 13:41:30
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:22
 ---
 
-# 数据访问模式(Data Access Object)
+# 数据访问模式 (Data Access Object)
 
 - 定义：数据访问对象模式（Data Access Object Pattern）或 DAO 模式用于把低级的数据访问 API 或操作从高级的业务服务中分离出来。以下是数据访问对象模式的参与者。
 - 解释：数据访问对象模式（Data Access Object Pattern）或 DAO 模式用于把低级的数据访问 API 或操作从高级的业务服务中分离出来。以下是数据访问对象模式的参与者。

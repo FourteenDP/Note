@@ -1,11 +1,10 @@
 ---
-title: Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
+title: Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知
 aliases:
   - Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
-  - Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知
 tags: []
 date created: 2023-05-20 21:32:20
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:23
 ---
 
 # Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
@@ -21,6 +20,7 @@ date updated: 2023-11-22 10:40:48
 ## 编写 WSL 启动脚本
 
 - 下面是脚本代码
+
 ```vbs
 ' 获取执行对象
 Set ws = CreateObject("Wscript.Shell")
@@ -39,7 +39,7 @@ ws.Run "powershell.exe -Command ""wsl -d Debian -u admin""", vbhide
 
 ![[../../-附件-/Pasted image 20230520220103.png]]
 
-- 用管理员的方式打开 `PowerShell` 安装 [BurntToast](https://github.com/Windos/BurntToast) ,执行 `Install-Module -Name BurntToast` 现在你可以尝试，在 `PowerShell` 里向桌面发送通知啦
+- 用管理员的方式打开 `PowerShell` 安装 [BurntToast](https://github.com/Windos/BurntToast),执行 `Install-Module -Name BurntToast` 现在你可以尝试，在 `PowerShell` 里向桌面发送通知啦
 - `New-BurntToastNotification`,更多示例请看文档 [BurntToast](https://github.com/Windos/BurntToast)
 ![[../../-附件-/Pasted image 20230520221203.png]]
 

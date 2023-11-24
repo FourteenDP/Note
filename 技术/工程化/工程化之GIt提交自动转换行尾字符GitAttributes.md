@@ -1,15 +1,11 @@
 ---
 title: 工程化之GIt提交自动转换行尾字符GitAttributes
-aliases:
-  - 工程化之GIt提交自动转换行尾字符GitAttributes
-  - 工程化之-GitAttributes
-  - 工程化之-gitattributes
 tags: []
 date created: 2023-05-08 19:03:21
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:25
 ---
 
-# 工程化之GIt提交自动转换行尾字符GitAttributes
+# 工程化之 GIt 提交自动转换行尾字符 GitAttributes
 
 `.gitattributes` 文件允许您指定文件和路径属性，这些属性应由 git 在执行 git 操作（如 git commit 等）时使用。简而言之，它配置了如何处理匹配某些模式（通常是文件扩展名）的文件。常见的情况包括配置如何处理行尾、文档是否被视为二进制（不可比较）以及在提交或检出后提供特殊处
 

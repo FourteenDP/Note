@@ -1,11 +1,10 @@
 ---
-title: JavaScript This 指向
+title: this指向
 aliases:
   - JavaScript This 指向
-  - JavaScript this 指向
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:22
 ---
 
 # JavaScript This 指向

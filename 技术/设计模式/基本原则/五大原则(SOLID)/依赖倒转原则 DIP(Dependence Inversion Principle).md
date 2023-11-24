@@ -1,10 +1,8 @@
 ---
 title: 依赖倒转原则 DIP(Dependence Inversion Principle)
-aliases:
-  - 依赖倒转原则 DIP(Dependence Inversion Principle)
 tags: []
 date created: 2023-03-02 14:46:23
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
 # 依赖倒转原则 DIP(Dependence Inversion Principle)

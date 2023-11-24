@@ -1,10 +1,10 @@
 ---
-title: Linux 开发环境配置
+title: WSL 开发环境配置
 aliases:
   - Linux 开发环境配置
 tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:24
 ---
 
 # Linux 开发环境配置

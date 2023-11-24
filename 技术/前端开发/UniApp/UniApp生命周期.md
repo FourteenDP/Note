@@ -1,14 +1,11 @@
 ---
 title: UniApp生命周期
-aliases:
-  - UniApp生命周期
-  - 生命周期执行顺序图示
 tags: []
 date created: 2022-07-13 14:57:30
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:28
 ---
 
-# UniApp生命周期
+# UniApp 生命周期
 
 ## 生命周期执行顺序图示
 
@@ -26,12 +23,12 @@ date updated: 2023-11-22 10:40:49
 
 | 函数名                  | 说明                                                         |
 |----------------------|------------------------------------------------------------|
-| onLaunch             | 当 uni\-app 初始化完成时触发（全局只触发一次）                                |
+| onLaunch             | 当 uni\-app 初始化完成时触发（全局只触发一次）|
 | onShow               | 当 uni\-app 启动，或从后台进入前台显示                                   |
 | onHide               | 当 uni\-app 从前台进入后台                                         |
 | onError              | 当 uni\-app 报错时触发                                           |
 | onUniNViewMessage    | 对 nvue 页面发送的数据进行监听，可参考 nvue 向 vue 通讯  \(opens new window\) |
-| onUnhandledRejection | 对未处理的 Promise 拒绝事件监听函数（2\.8\.1\+）                          |
+| onUnhandledRejection | 对未处理的 Promise 拒绝事件监听函数（2\.8\.1\+）|
 | onPageNotFound       | 页面不存在监听函数                                                  |
 | onThemeChange        | 监听系统主题变化                                                   |
 
@@ -54,10 +51,10 @@ date updated: 2023-11-22 10:40:49
 | onShareAppMessage                   | 用户点击右上角分享                                                                                                                                                                                                                                                                                           | 微信小程序、QQ 小程序、支付宝小程序、字节小程序、飞书小程序、快手小程序、京东小程序 |           |
 | onPageScroll                        | 监听页面滚动，参数为 Object                                                                                                                                                                                                                                                                                  | nvue 暂不支持                                                                       |           |
 | onNavigationBarButtonTap            | 监听原生标题栏按钮点击事件，参数为 Object                                                                                                                                                                                                                                                                    | App、H5                                                                             |           |
-| onBackPress                         | 监听页面返回，返回 event = \{from:backbutton、 navigateBack\} ，backbutton 表示来源是左上角返回按钮或 android 返回键；navigateBack 表示来源是 uni\.navigateBack ；详细说明及使用：onBackPress 详解  \(opens new window\)。支付宝小程序只有真机能触发，只能监听非 navigateBack 引起的返回，不可阻止默认行为。 | app、H5、支付宝小程序                                                               |           |
+| onBackPress                         | 监听页面返回，返回 event = \{from:backbutton、navigateBack\}，backbutton 表示来源是左上角返回按钮或 android 返回键；navigateBack 表示来源是 uni\.navigateBack；详细说明及使用：onBackPress 详解  \(opens new window\)。支付宝小程序只有真机能触发，只能监听非 navigateBack 引起的返回，不可阻止默认行为。| app、H5、支付宝小程序                                                               |           |
 | onNavigationBarSearchInputChanged   | 监听原生标题栏搜索输入框输入内容变化事件                                                                                                                                                                                                                                                                     | App、H5                                                                             | 1\.6\.0   |
-| onNavigationBarSearchInputConfirmed | 监听原生标题栏搜索输入框搜索事件，用户点击软键盘上的“搜索”按钮时触发。                                                                                                                                                                                                                                       | App、H5                                                                             | 1\.6\.0   |
-| onNavigationBarSearchInputClicked   | 监听原生标题栏搜索输入框点击事件（pages\.json 中的 searchInput 配置 disabled 为 true 时才会触发）                                                                                                                                                                                                            | App、H5                                                                             | 1\.6\.0   |
+| onNavigationBarSearchInputConfirmed | 监听原生标题栏搜索输入框搜索事件，用户点击软键盘上的 " 搜索 " 按钮时触发。| App、H5                                                                             | 1\.6\.0   |
+| onNavigationBarSearchInputClicked   | 监听原生标题栏搜索输入框点击事件（pages\.json 中的 searchInput 配置 disabled 为 true 时才会触发）| App、H5                                                                             | 1\.6\.0   |
 | onShareTimeline                     | 监听用户点击右上角转发到朋友圈                                                                                                                                                                                                                                                                               | 微信小程序                                                                          | 2\.8\.1\+ |
 | onAddToFavorites                    | 监听用户点击右上角收藏                                                                                                                                                                                                                                                                                       | 微信小程序                                                                          | 2\.8\.1\+ |
 
@@ -67,11 +64,11 @@ date updated: 2023-11-22 10:40:49
 
 | 函数名        | 说明                                                                                                                     | 平台差异说明   | 最低版本 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------- | -------- |
-| beforeCreate  | 在实例初始化之前被调用。                                                                                                 |                |          |
-| created       | 在实例创建完成后被立即调用。                                                                                             |                |          |
-| beforeMount   | 在挂载开始之前被调用。                                                                                                   |                |          |
-| mounted       | 挂载到实例上去之后调用。 注意：此处并不能确定子组件被全部挂载，如果需要子组件完全挂载之后在执行操作可以使用 $nextTickVue |                |          |
-| beforeUpdate  | 数据更新时调用，发生在虚拟 DOM 打补丁之前。                                                                              | 仅 H5 平台支持 |          |
+| beforeCreate  | 在实例初始化之前被调用。|                |          |
+| created       | 在实例创建完成后被立即调用。|                |          |
+| beforeMount   | 在挂载开始之前被调用。|                |          |
+| mounted       | 挂载到实例上去之后调用。注意：此处并不能确定子组件被全部挂载，如果需要子组件完全挂载之后在执行操作可以使用 $nextTickVue |                |          |
+| beforeUpdate  | 数据更新时调用，发生在虚拟 DOM 打补丁之前。| 仅 H5 平台支持 |          |
 | updated       | 由于数据更改导致的虚拟 DOM 重新渲染和打补丁，在这之后会调用该钩子。详见                                                  | 仅 H5 平台支持 |          |
 | beforeDestroy | 实例销毁之前调用。在这一步，实例仍然完全可用。详见                                                                       |                |          |
-| destroyed     | Vue 实例销毁后调用。调用后，Vue 实例指示的所有东西都会解绑定，所有的事件监听器会被移除，所有的子实例也会被销毁。         |                |          |
+| destroyed     | Vue 实例销毁后调用。调用后，Vue 实例指示的所有东西都会解绑定，所有的事件监听器会被移除，所有的子实例也会被销毁。|                |          |

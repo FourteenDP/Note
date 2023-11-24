@@ -1,10 +1,10 @@
 ---
-title: Promise
+title: Promise问题
 aliases:
   - Promise
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:22
 ---
 
 # Promise

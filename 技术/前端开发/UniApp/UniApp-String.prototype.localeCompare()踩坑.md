@@ -1,14 +1,11 @@
 ---
 title: UniApp-String.prototype.localeCompare()踩坑
-aliases:
-  - UniApp-String.prototype.localeCompare()踩坑
-  - 问题
 tags: []
 date created: 2022-12-10 16:09:21
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:28
 ---
 
-# UniApp-String.prototype.localeCompare()踩坑
+# UniApp-String.prototype.localeCompare() 踩坑
 
 [[String.prototype.localeCompare()]]
 
@@ -24,8 +21,8 @@ date updated: 2023-11-22 10:40:49
 
 ## 问题
 
-- 问题一：在uniapp中使用String.localeCompare方法进行字符串比较时，发现在APP端和小程序的结果不一致。
-- 问题二：~~在uniapp中数组元素String.localeCompare方法是Undefined(未复现)~~
+- 问题一：在 uniapp 中使用 String.localeCompare 方法进行字符串比较时，发现在 APP 端和小程序的结果不一致。
+- 问题二：~~在 uniapp 中数组元素 String.localeCompare 方法是 Undefined(未复现)~~
 
 ### CODE
 
@@ -36,7 +33,7 @@ date updated: 2023-11-22 10:40:49
 
 ## 解决
 
-- APP端使用pinyin.js进行拼音转换，再进行比较
+- APP 端使用 pinyin.js 进行拼音转换，再进行比较
 
 完整代码 [[一维数组转通讯录树]]
 

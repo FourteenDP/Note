@@ -1,14 +1,11 @@
 ---
-aliases:
-  - APP混合开发
-  - 编程方式
+title: APP混合开发
 tags: []
 date created: 2022-06-22 10:53:28
-date updated: 2023-11-22 10:40:48
-title: APP混合开发
+date updated: 2023-11-25 03:01:26
 ---
 
-# APP混合开发
+# APP 混合开发
 
 ## 编程方式
 
@@ -29,7 +26,7 @@ title: APP混合开发
 
   [使用插件实现 flutter 的混合](https://ext.dcloud.net.cn/plugin?id=4302#detail),一套代码支持多端
 
- 混合 flutter 开发,将flutter打包成插件诺快,主要解决 uniapp 无法实现的需求，同时原生开发能力有限的情况，使用 fluteer 以更低的学习成本，和开发成本开发插件，同时获得 fluterr 的生态环境，当然如果连 fluterr 也解决不了的问题，还是需要写原生
+ 混合 flutter 开发,将 flutter 打包成插件诺快,主要解决 uniapp 无法实现的需求，同时原生开发能力有限的情况，使用 fluteer 以更低的学习成本，和开发成本开发插件，同时获得 fluterr 的生态环境，当然如果连 fluterr 也解决不了的问题，还是需要写原生
 
 - uniapp + 原生插件实现混合
 
@@ -46,4 +43,4 @@ title: APP混合开发
 ## 注意
 
 - 此插件已经不维护了，目前也没有开源，只留下了一个空项目
-- 目前我觉的可以研究react native和flutter的通信方案，看是否能得出uniapp的通信方案
+- 目前我觉的可以研究 react native 和 flutter 的通信方案，看是否能得出 uniapp 的通信方案

@@ -1,15 +1,11 @@
 ---
 title: 五大原则(SOLID)
-aliases:
-  - 五大原则(SOLID)
-  - 设计模式之五大原则(SOLID)
-  - 设计模式五大原则(SOLID)
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
-# 五大原则(SOLID)
+# 五大原则 (SOLID)
 
 - **[[单一职责原则 SRP(Single Responsibility Principle)]]**
 - **[[开闭原则 OCP(Open Close Principle)]]**

@@ -1,11 +1,8 @@
 ---
 title: Linux 安装卸载 Rust
-aliases:
-  - Linux 安装卸载 Rust
-  - 安装
 tags: []
 date created: 2022-08-14 11:53:49
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:25
 ---
 
 # Linux 安装卸载 Rust

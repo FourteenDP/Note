@@ -1,15 +1,13 @@
 ---
 title: 等待者模式(Waiter Pattern)
-aliases:
-  - 等待者模式(Waiter Pattern)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:22
 ---
 
-# 等待者模式(Waiter Pattern)
+# 等待者模式 (Waiter Pattern)
 
-## 等待者模式(Waiter Pattern)
+## 等待者模式 (Waiter Pattern)
 
 - 定义：等待者模式（Waiter Pattern）是一种常用的优化模式，它的定义是：当一个对象的创建需要很多资源时，可以使用等待者模式
 - 解释：等待者模式（Waiter Pattern）是一种常用的优化模式，它的定义是：当一个对象的创建需要很多资源时，可以使用等待者模式

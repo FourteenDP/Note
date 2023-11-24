@@ -1,10 +1,8 @@
 ---
 title: 里氏替换原则 LSP(Liskov Substitution Principle)
-aliases:
-  - 里氏替换原则 LSP(Liskov Substitution Principle)
 tags: []
 date created: 2023-03-02 14:46:23
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
 # 里氏替换原则 LSP(Liskov Substitution Principle)

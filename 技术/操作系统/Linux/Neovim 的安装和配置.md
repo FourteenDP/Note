@@ -1,10 +1,10 @@
 ---
-title: Neovim 的安装
+title: Neovim 的安装和配置
 aliases:
   - Neovim 的安装
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:24
 ---
 
 # Neovim 的安装

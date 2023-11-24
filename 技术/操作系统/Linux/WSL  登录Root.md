@@ -1,14 +1,13 @@
 ---
-title: WSL 登录Root
+title: WSL  登录Root
 aliases:
   - WSL 登录Root
-  - 设置 Root 登录密码和登录
 tags: []
 date created: 2022-08-08 21:35:17
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:24
 ---
 
-# WSL 登录Root
+# WSL 登录 Root
 
 ## 设置 Root 登录密码和登录
 

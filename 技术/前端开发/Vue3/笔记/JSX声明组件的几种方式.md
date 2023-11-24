@@ -1,15 +1,13 @@
 ---
-aliases:
-  - JSX声明组件的几种方式
-tags: []
 title: JSX声明组件的几种方式
+tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:28
 ---
 
-# JSX声明组件的几种方式
+# JSX 声明组件的几种方式
 
-## `defineComponent`声明组件
+## `defineComponent` 声明组件
 
 ```tsx
 import { defineComponent } from 'vue'

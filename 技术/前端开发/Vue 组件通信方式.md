@@ -1,11 +1,8 @@
 ---
 title: Vue 组件通信方式
-aliases:
-  - Vue 组件通信方式
-  - Vue3 组件通信方式
 tags: []
 date created: 2023-01-12 16:55:36
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:28
 ---
 
 # Vue 组件通信方式

@@ -1,14 +1,11 @@
 ---
 title: UniApp和WebView 双向通信
-aliases:
-  - UniApp和WebView 双向通信
-  - WebView 向 UniApp 通信
 tags: []
 date created: 2022-07-20 13:58:09
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:28
 ---
 
-# UniApp和WebView 双向通信
+# UniApp 和 WebView 双向通信
 
 ## WebView 向 UniApp 通信
 

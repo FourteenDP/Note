@@ -1,11 +1,8 @@
 ---
 title: Flutter 速记
-aliases:
-  - Flutter 速记
-  - 其它
 tags: []
 date created: 2022-09-21 14:11:58
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:21
 ---
 
 # Flutter 速记

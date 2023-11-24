@@ -1,10 +1,8 @@
 ---
 title: TypeScript
-aliases:
-  - TypeScript
 tags: []
 date created: 2023-03-10 00:56:46
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:21
 ---
 
 # TypeScript

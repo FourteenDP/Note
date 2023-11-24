@@ -1,13 +1,11 @@
 ---
 title: 链模式(Chain Of Responsibility)
-aliases:
-  - 链模式(Chain Of Responsibility)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:22
 ---
 
-# 链模式(Chain Of Responsibility)
+# 链模式 (Chain Of Responsibility)
 
 - 定义：在职责链模式（Chain of Responsibility Pattern）中，很多对象由每一个对象对其下家的引用而接起来形成一条链。请求在这个链上传递，直到链上的某一个对象决定处理此请求。职责链模式是一种对象行为型模式
 - 解释：在职责链模式中，我们创建一个抽象类，它的子类可以形成一条链，请求在这个链上传递，直到链上的某一个对象决定处理此请求

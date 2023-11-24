@@ -1,13 +1,11 @@
 ---
 title: 抽象工厂模式(Abstract Factory)
-aliases:
-  - 抽象工厂模式(Abstract Factory)
 tags: []
 date created: 2023-03-07 14:08:22
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:23
 ---
 
-# 抽象工厂模式(Abstract Factory)
+# 抽象工厂模式 (Abstract Factory)
 
 - 定义：提供一个创建一系列相关或相互依赖对象的接口，而无需指定它们具体的类
 - 解释：抽象工厂模式是一种类创建型模式，它提供了一个创建产品族的接口，其每个子类可以生产一系列相关的产品

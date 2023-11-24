@@ -1,11 +1,8 @@
 ---
 title: 如何给 node_module 下的库打补丁
-aliases:
-  - 如何给 node_module 下的库打补丁
-  - 如何给 node_module 的库打补丁
 tags: []
 date created: 2023-03-11 22:33:07
-date updated: 2023-11-22 10:40:48
+date updated: 2023-11-25 03:01:25
 ---
 
 # 如何给 node_module 下的库打补丁

@@ -1,20 +1,19 @@
 ---
+title: interface和type的区别
 aliases:
-  - interface和type的区别
   - Interface和type的区别
 tags: []
-title: Interface和type的区别
 date created: 2022-12-12 15:48:54
-date updated: 2023-11-22 10:40:47
+date updated: 2023-11-25 03:01:21
 ---
 
-# Interface和type的区别
+# Interface 和 type 的区别
 
-## Interface和type的区别
+## Interface 和 type 的区别
 
 ### 不同点
 
-- 扩展语法： interface使用extends，type使用‘&’
+- 扩展语法：interface 使用 extends，type 使用 '&'
 - 同名合并：interface 支持，type 不支持。
 - 描述类型：对象、函数两者都适用，但是 type 可以用于基础类型、联合类型、元祖。
 - 计算属性：type 支持计算属性，生成映射类型,interface 不支持。

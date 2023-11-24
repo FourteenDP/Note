@@ -1,10 +1,8 @@
 ---
 title: Web 组件
-aliases:
-  - Web 组件
 tags: []
 date created: 2022-12-19 17:59:00
-date updated: 2023-11-22 10:40:49
+date updated: 2023-11-25 03:01:26
 ---
 
 # Web 组件
