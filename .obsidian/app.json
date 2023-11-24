@@ -15,5 +15,6 @@
   "newLinkFormat": "shortest",
   "showLineNumber": false,
   "rightToLeft": false,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "useTab": false
 }
