@@ -8,7 +8,7 @@
   "cssTheme": "",
   "theme": "moonstone",
   "translucency": false,
-  "interfaceFontFamily": "Consolas,微软雅黑",
-  "textFontFamily": "Fira Code,楷体",
-  "monospaceFontFamily": "Fira Code Retina"
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }
