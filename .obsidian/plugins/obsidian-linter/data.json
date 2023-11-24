@@ -226,7 +226,7 @@
       "style": "space"
     },
     "quote-style": {
-      "enabled": false,
+      "enabled": true,
       "single-quote-enabled": true,
       "single-quote-style": "''",
       "double-quote-enabled": true,
