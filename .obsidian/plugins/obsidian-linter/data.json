@@ -216,7 +216,7 @@
       "enabled": false
     },
     "remove-leftover-footnotes-from-quote-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
