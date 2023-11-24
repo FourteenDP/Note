@@ -5,7 +5,7 @@
   "BaseObEditEnhance": true,
   "FW2HWEnhance": true,
   "AutoFormat": true,
-  "ExcludeFiles": "",
+  "ExcludeFiles": "-模板-,",
   "ChineseEnglishSpace": true,
   "ChineseNumberSpace": true,
   "EnglishNumberSpace": true,
