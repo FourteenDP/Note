@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -36,7 +36,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "spaces://$tags/spaces://#【JS"
+    "spaces://$tags/spaces://#【JS",
+    "//待办",
+    "//拾肆",
+    "//采集",
+    "//音乐",
+    "//Spaces",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
