@@ -1,15 +1,13 @@
 ---
-title: 【JS 原型 & 原型链】一张图说清楚 - 简书
-aliases:
-  - JavaScript 原型 & 原型链
+title: JS 原型 & 原型链 一张图说清楚 - 简书
 tags:
   - JavaScript
   - 原型链
-date created: 2023-03-07 17:22:59
-date updated: 2023-11-25 03:32:10
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-25 03:35:18
 ---
 
-# JS 原型 & 原型链】一张图说清楚 - 简书
+# JS 原型 & 原型链 一张图说清楚 - 简书
 
 **原文：**[【JS 原型 & 原型链】一张图说清楚 - 简书](https://www.jianshu.com/p/423f72d502c2)
 
@@ -165,9 +163,5 @@ console.log(Function.constructor); // ƒ Function() { [native code] }
 可以看到 Function 函数的构造函数就是本身了，那我们也就可以说 Function 是所有函数的根构造函数。
 
 到这里我们已经对 constructor 属性有了一个初步的认识，它的作用是从一个对象指向一个函数，这个函数就是该对象的构造函数。通过栗子我们可以看到，`p1` 的 `constructor` 属性指向了 `Parent`，那么 `Parent` 就是 `p1` 的构造函数。同样 `Parent` 的 `constructor` 属性指向了 `Function`，那么 `Function` 就是 `Parent` 的构造函数，然后又验证了 `Function` 就是根构造函数。
-
-## 总结
-
-- 看到这我相信大家已经对原型和原型链有了一定的理解了，还没有特别理解的同学也不要担心，原型原型链以及闭包都是 js 中最难的几部分，需要一定的技术积累和时间沉淀。每天打开文章看一遍，自己画一遍这个原型链的图，因为其中有些原理是说不出来的，得靠自己去体会理解。不积跬步无以至千里不积小流无以成江海。
 
 
