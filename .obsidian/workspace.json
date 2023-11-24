@@ -11,16 +11,27 @@
             "id": "5c0858f1fb458f3c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9885b35628c6882c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
+                "source": true
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +185,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "5c0858f1fb458f3c",
+  "active": "9885b35628c6882c",
   "lastOpenFiles": [
+    "测试文件速度.md",
+    "测试文件.md",
     "仓库/Script/简阅Metadata.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
@@ -185,7 +198,6 @@
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "README.md",
     "日志/2023-11-24.md",
-    "测试文件.md",
     "-模板-/日志/季总结.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "日志/README.md",
@@ -201,7 +213,6 @@
     "时间笔记/202311222000.md",
     "时间笔记/202311221959.md",
     "时间笔记/202311221958.md",
-    "写作/UniApp和Flutter通信.md",
     "日志/2023/2023-Q4/2023-11/2023-W47",
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
