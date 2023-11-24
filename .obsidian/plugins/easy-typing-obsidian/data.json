@@ -5,7 +5,7 @@
   "BaseObEditEnhance": true,
   "FW2HWEnhance": true,
   "AutoFormat": true,
-  "ExcludeFiles": "-模板-/,-附件-/,日志/,仓库/,Excalidraw/",
+  "ExcludeFiles": "-模板-/,-附件-/,日志/,仓库/,Excalidraw/,采集",
   "ChineseEnglishSpace": true,
   "ChineseNumberSpace": true,
   "EnglishNumberSpace": true,

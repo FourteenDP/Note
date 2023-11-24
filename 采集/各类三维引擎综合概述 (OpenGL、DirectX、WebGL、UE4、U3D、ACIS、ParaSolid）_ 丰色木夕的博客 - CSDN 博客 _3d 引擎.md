@@ -1,10 +1,8 @@
 ---
-title: 各类三维引擎综合概述（OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
-aliases:
-  - 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎
+title: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎
 tags: []
-date created: 2023-02-03 09:40:54
-date updated: 2023-11-25 03:00:17
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-25 04:00:32
 ---
 
 # 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎
@@ -42,3 +40,5 @@ DirectX 是 Direct eXtension 由微软开发，是许多种 API 的集合体，�
 最后为大家献上一张图，把上面介绍的关系说清楚
 
 ![](https://img-blog.csdnimg.cn/71b1f0d7426e4c21b41a3c17aa9bb89b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Liw6Imy5pyo5aSV,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+

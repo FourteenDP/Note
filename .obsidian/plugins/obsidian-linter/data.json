@@ -249,7 +249,8 @@
     "-附件-",
     "日志",
     "仓库",
-    "Excalidraw"
+    "Excalidraw",
+    "采集"
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
