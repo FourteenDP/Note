@@ -1,8 +1,7 @@
 ---
 title: 策略模式 (Strategy)
-tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:58:29
+date updated: 2023-11-25 14:37:20
 ---
 
 # 策略模式 (Strategy)
@@ -19,5 +18,3 @@ date updated: 2023-11-25 13:58:29
   - 具体策略类（Concrete Strategy）：包装了相关的算法和行为
   - 环境类（Context）：持有一个策略类的引用，最终给客户端调用
   - 客户端（Client）：创建具体策略类的对象，并将其传递给环境类
-
-

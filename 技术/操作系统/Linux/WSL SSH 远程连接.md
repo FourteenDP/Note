@@ -1,9 +1,7 @@
 ---
 title: WSL SSH 远程连接
-tags:
-  - WSL
 date created: 2022-08-08 22:00:28
-date updated: 2023-11-25 14:30:01
+date updated: 2023-11-25 14:37:21
 ---
 
 # WSL SSH 远程连接
@@ -31,5 +29,3 @@ PermitRootLogin yes
 `service ssh start`
 - 查看状态
 `service ssh status`
-
-

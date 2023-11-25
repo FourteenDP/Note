@@ -1,8 +1,7 @@
 ---
 title: interface 和 type 的区别
-tags: []
 date created: 2022-12-12 15:48:54
-date updated: 2023-11-25 13:50:49
+date updated: 2023-11-25 14:37:19
 ---
 
 # interface 和 type 的区别

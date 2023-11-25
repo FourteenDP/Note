@@ -1,8 +1,7 @@
 ---
 title: 桥接模式 (Bridge)
-tags: []
 date created: 2023-03-07 14:11:07
-date updated: 2023-11-25 14:10:33
+date updated: 2023-11-25 14:37:20
 ---
 
 # 桥接模式 (Bridge)
@@ -18,5 +17,3 @@ date updated: 2023-11-25 14:10:33
   - 实现化（Implementor）角色：定义实现化角色的接口，供扩展抽象化角色调用
   - 具体实现化（Concrete Implementor）角色：给出实现化角色接口的具体实现
   - 客户（Client）类：通过抽象化角色与实现化角色之间的组合关系，使用抽象化角色定义的接口
-
-

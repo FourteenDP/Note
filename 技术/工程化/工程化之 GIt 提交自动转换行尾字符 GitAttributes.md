@@ -1,8 +1,7 @@
 ---
 title: 工程化之 GIt 提交自动转换行尾字符 GitAttributes
-tags: []
 date created: 2023-05-08 19:03:21
-date updated: 2023-11-25 14:05:29
+date updated: 2023-11-25 14:37:22
 ---
 
 # 工程化之 GIt 提交自动转换行尾字符 GitAttributes
@@ -27,5 +26,3 @@ date updated: 2023-11-25 14:05:29
 # 指示所有真正的二进制文件，不应被修改。
 *.{ico,png,jpg,jpeg,gif,webp,svg,woff,woff2} binary
 ```
-
-

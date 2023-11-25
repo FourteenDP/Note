@@ -1,8 +1,7 @@
 ---
 title: Linux 开发环境配置
-tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:37:21
 ---
 
 # Linux 开发环境配置

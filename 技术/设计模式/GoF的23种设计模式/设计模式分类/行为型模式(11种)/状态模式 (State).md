@@ -1,8 +1,7 @@
 ---
 title: 状态模式 (State)
-tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:18:22
+date updated: 2023-11-25 14:37:20
 ---
 
 # 状态模式 (State)
@@ -19,5 +18,3 @@ date updated: 2023-11-25 14:18:22
   - 具体状态（Concrete State）：每一个具体状态类都实现了抽象状态定义的接口
   - 环境类（Context）：定义客户感兴趣的接口，维护一个 ConcreteState 子类的实例，这个实例定义当前状态
   - 客户类（Client）：创建一个 ConcreteState 对象，以便让它记录当前状态
-
-

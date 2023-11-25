@@ -1,8 +1,7 @@
 ---
 title: Vue3 新增特性
-tags: []
 date created: 2022-12-12 14:41:36
-date updated: 2023-11-25 14:29:43
+date updated: 2023-11-25 14:37:23
 ---
 
 # Vue3 新增特性
@@ -233,5 +232,3 @@ p {
   </Suspense>
 </template>
 ```
-
-

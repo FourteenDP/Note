@@ -1,8 +1,7 @@
 ---
 title: WSL 基本命令
-tags: []
 date created: 2022-07-01 21:28:30
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:37:21
 ---
 
 以下 WSL 命令以 PowerShell 或 Windows 命令提示符支持的格式列出。若要通过 Bash/Linux 发行版命令行运行这些命令，必须将 `wsl` 替换为 `wsl.exe`。

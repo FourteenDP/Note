@@ -1,8 +1,7 @@
 ---
 title: Vue 生命周期
-tags: []
 date created: 2022-06-06 22:49:23
-date updated: 2023-11-25 14:29:53
+date updated: 2023-11-25 14:37:23
 ---
 
 # Vue 生命周期
@@ -70,5 +69,3 @@ date updated: 2023-11-25 14:29:53
 ## ACTIVATED（被 [[Vue 路由 Keep-alive 实现原理|KEEP-ALIVE]] 缓存的组件激活时调用）
 
 ## DEACTIVATED（被 [[Vue 路由 Keep-alive 实现原理|KEEP-ALIVE]] 缓存的组件失活时调用
-
-

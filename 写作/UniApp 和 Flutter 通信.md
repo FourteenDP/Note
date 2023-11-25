@@ -1,8 +1,7 @@
 ---
 title: UniApp 和 Flutter 通信
-tags: []
 date created: 2023-01-12 13:18:11
-date updated: 2023-11-25 14:29:14
+date updated: 2023-11-25 14:37:25
 ---
 
 # UniApp 和 Flutter 通信
@@ -46,5 +45,3 @@ date updated: 2023-11-25 14:29:14
 - [uni-app Flutter插件使用文档 · 语雀](https://www.yuque.com/books/share/79a0282c-e800-408a-9d1f-226682cf77a1)
 
 大佬有什么思路欢迎评论,Flutter 当 UniApp 插件得问题已经困扰我很久了,跪求
-
-

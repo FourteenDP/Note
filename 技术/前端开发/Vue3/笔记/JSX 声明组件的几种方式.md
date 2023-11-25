@@ -1,8 +1,7 @@
 ---
 title: JSX 声明组件的几种方式
-tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:21:32
+date updated: 2023-11-25 14:37:23
 ---
 
 # JSX 声明组件的几种方式
@@ -25,5 +24,3 @@ export default defineComponent({
 ```tsx
 export default () => <div>Home</div>
 ```
-
-

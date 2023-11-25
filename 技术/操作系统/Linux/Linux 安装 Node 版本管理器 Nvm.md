@@ -1,8 +1,7 @@
 ---
 title: Linux 安装 Node 版本管理器 Nvm
-tags: []
 date created: 2022-08-09 21:46:04
-date updated: 2023-11-25 14:22:30
+date updated: 2023-11-25 14:37:21
 ---
 
 # Linux 安装 Node 版本管理器 Nvm
@@ -28,5 +27,3 @@ source ~/.zshrc
 ## 参考
 
 - [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
-
-

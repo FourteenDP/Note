@@ -1,8 +1,7 @@
 ---
 title: TypeScript
-tags: []
 date created: 2023-03-10 00:56:46
-date updated: 2023-11-25 13:50:49
+date updated: 2023-11-25 14:37:19
 ---
 
 # TypeScript

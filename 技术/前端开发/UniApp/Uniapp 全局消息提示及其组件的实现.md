@@ -1,8 +1,7 @@
 ---
 title: Uniapp 全局消息提示及其组件的实现
-tags: []
 date created: 2022-07-06 09:59:50
-date updated: 2023-11-25 14:29:29
+date updated: 2023-11-25 14:37:23
 ---
 
 # Uniapp 全局消息提示及其组件的实现
@@ -10,5 +9,3 @@ date updated: 2023-11-25 14:29:29
 ## 参考
 
 - [Uniapp全局消息提示及其组件的实现 - 掘金](https://juejin.cn/post/7107442847422349326)
-
-

@@ -1,10 +1,7 @@
 ---
 title: 非 GoF 设计模式
-tags:
-  - 计算机基础
-  - 设计模式
 date created: 2023-03-02 01:01:25
-date updated: 2023-11-25 14:01:01
+date updated: 2023-11-25 14:37:20
 ---
 
 # 非 GoF 设计模式
@@ -20,5 +17,3 @@ date updated: 2023-11-25 14:01:01
 - **[[等待者模式 (Waiter Pattern)]]**
 - **[[防抖与节流模式 (Debounce & Throttle)]]**
 - **[[柯里化 (Currying) 与偏函数 (Partial Function)]]**
-
-

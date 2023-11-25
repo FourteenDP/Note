@@ -1,8 +1,7 @@
 ---
 title: 委托模式 (Delegate)
-tags: []
 date created: 2023-03-07 13:41:29
-date updated: 2023-11-25 14:11:43
+date updated: 2023-11-25 14:37:19
 ---
 
 # 委托模式 (Delegate)
@@ -16,5 +15,3 @@ date updated: 2023-11-25 14:11:43
   - 抽象委托者（Delegate）：定义一个委托方法，用于调用具体委托者的方法
   - 具体委托者（ConcreteDelegate）：实现抽象委托者的委托方法，负责具体的业务逻辑
   - 委托者（Client）：通过抽象委托者调用具体委托者的委托方法
-
-

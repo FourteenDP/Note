@@ -1,8 +1,7 @@
 ---
 title: 解释器模式 (Interpreter)
-tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:06:27
+date updated: 2023-11-25 14:37:20
 ---
 
 # 解释器模式 (Interpreter)
@@ -23,5 +22,3 @@ date updated: 2023-11-25 14:06:27
   - 非终结符表达式（NonterminalExpression）：文法中的非终结符对应的解释器，为文法中的非终结符实现解释操作，文法中的每一条规则都需要一个非终结符表达式
   - 环境类（Context）：包含解释器之外的一些全局信息，一般是 HashMap
   - 客户类（Client）：构建抽象语法树，解释表达式
-
-

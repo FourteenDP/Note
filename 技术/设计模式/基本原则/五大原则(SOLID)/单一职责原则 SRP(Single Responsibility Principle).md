@@ -1,8 +1,7 @@
 ---
 title: 单一职责原则 SRP(Single Responsibility Principle)
-tags: []
 date created: 2023-03-02 14:46:22
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:37:20
 ---
 
 # 单一职责原则 SRP(Single Responsibility Principle)

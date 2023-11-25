@@ -1,9 +1,7 @@
 ---
 title: Windows 终端设置代理
-tags:
-  - Windows终端设置代理
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 13:55:08
+date updated: 2023-11-25 14:37:21
 ---
 
 # Windows 终端设置代理
@@ -32,5 +30,3 @@ set https_proxy = "http://127.0.0.1:10808"
 ```sehll
 curl www.google.com
 ```
-
-

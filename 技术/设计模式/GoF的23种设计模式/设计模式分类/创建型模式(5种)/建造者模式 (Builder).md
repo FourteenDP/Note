@@ -1,8 +1,7 @@
 ---
 title: 建造者模式 (Builder)
-tags: []
 date created: 2023-03-07 14:08:23
-date updated: 2023-11-25 14:05:50
+date updated: 2023-11-25 14:37:20
 ---
 
 # 建造者模式 (Builder)
@@ -18,5 +17,3 @@ date updated: 2023-11-25 14:05:50
   - 具体建造者（Concrete Builder）：实现接口，构建和装配各个部件
   - 指挥者（Director）：构建一个使用 Builder 接口的对象
   - 客户（Client）：使用 Director 类来构建和使用产品对象
-
-

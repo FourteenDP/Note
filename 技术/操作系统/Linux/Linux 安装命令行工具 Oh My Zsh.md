@@ -1,8 +1,7 @@
 ---
 title: Linux 安装命令行工具 Oh My Zsh
-tags: []
 date created: 2022-08-09 22:35:37
-date updated: 2023-11-25 14:22:20
+date updated: 2023-11-25 14:37:21
 ---
 
 # Linux 安装命令行工具 Oh My Zsh
@@ -35,5 +34,3 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
-

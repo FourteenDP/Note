@@ -1,8 +1,7 @@
 ---
 title: UniApp-String.prototype.localeCompare() 踩坑
-tags: []
 date created: 2022-12-10 16:09:21
-date updated: 2023-11-25 14:25:36
+date updated: 2023-11-25 14:37:24
 ---
 
 # UniApp-String.prototype.localeCompare() 踩坑
@@ -63,5 +62,3 @@ pinyin(a[key], {
 a[key].localeCompare(b[key])
 // [[endif]]
 ```
-
-

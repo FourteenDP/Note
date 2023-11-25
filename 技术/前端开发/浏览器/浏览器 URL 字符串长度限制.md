@@ -1,9 +1,7 @@
 ---
 title: 浏览器 URL 字符串长度限制
-tags:
-  - 浏览器
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 13:50:53
+date updated: 2023-11-25 14:37:22
 ---
 
 # 浏览器 URL 字符串长度限制

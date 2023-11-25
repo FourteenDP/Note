@@ -1,8 +1,7 @@
 ---
 title: 事件总线 (Event Bus)
-tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-11-25 14:11:00
+date updated: 2023-11-25 14:37:19
 ---
 
 # 事件总线 (Event Bus)
@@ -25,5 +24,3 @@ date updated: 2023-11-25 14:11:00
 ![[74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
 
 ![[19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
-
-

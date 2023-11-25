@@ -1,8 +1,7 @@
 ---
 title: Neovim 的安装和配置
-tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:37:21
 ---
 
 # Neovim 的安装和配置

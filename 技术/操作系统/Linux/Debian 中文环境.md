@@ -1,8 +1,7 @@
 ---
 title: Debian 中文环境
-tags: []
 date created: 2023-03-22 13:38:09
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:37:21
 ---
 
 # Debian 中文环境

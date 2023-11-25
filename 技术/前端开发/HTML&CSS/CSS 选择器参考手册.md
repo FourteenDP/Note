@@ -1,8 +1,7 @@
 ---
 title: CSS 选择器参考手册
-tags: []
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 14:20:36
+date updated: 2023-11-25 14:37:24
 ---
 
 # CSS 选择器参考手册
@@ -61,5 +60,3 @@ date updated: 2023-11-25 14:20:36
 |:required                 |:required                  | 用于匹配设置了 "required" 属性的元素                         | 3       |
 |:valid                    |:valid                     | 用于匹配输入值为合法的元素                                   | 3       |
 |:invalid                  |:invalid                   | 用于匹配输入值为非法的元素                                   | 3       |
-
-
