@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"url\"]",
+                "query": "[\"date modified\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/工程化/如何给 node_module 下的库打补丁.md"
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +189,19 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "技术/前端开发/其它/前端微服务.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
+    "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图 PDF.md",
+    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
+    "技术/前端开发/JavaScript/命名规范.md",
+    "拾肆/个人/项目经历.md",
+    "技术/前端开发/Vue3/笔记/使用 vite 搭建 vue3 项目.md",
+    "技术/操作系统/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+    "技术/工程化/如何给 node_module 下的库打补丁.md",
     "技术/工程化/Git 子仓库.md",
-    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
     "技术/操作系统/Linux/Linux 开发环境配置.md",
     "技术/操作系统/Linux/WSL 基本命令.md",
     "技术/操作系统/Linux/WSL 登录 Root.md",
-    "技术/操作系统/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
     "技术/前端开发/web 框架与 cocos 的结合.md",
     "技术/前端开发/其它/Vue 的不同构建版本.md",
     "技术/语言/TypeScript/void 和 never 区别.md",
@@ -208,13 +215,6 @@
     "拾肆/个人/JavaScript 面试精讲.md",
     "技术/语言/TypeScript/interface 和 type 的区别.md",
     "技术/前端开发/HTML&CSS/image 标签图片的白边.md",
-    "技术/设计模式/GoF的23种设计模式/GoF 的 23 种设计模式.md",
-    "采集/CSS 选择器优先级权重 w3c 笔记.md",
-    "技术/语言/CS/C#和.NET 关系.md",
-    "采集/CSS 选择器优先级权重 _ w3c 笔记.md",
-    "技术/语言/TypeScript/any 和 unknown 的区别.md",
-    "技术/语言/CS/C#和.NET关系.md",
-    "技术/语言/CS/C#0023和.NET关系.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20220713154807.png",

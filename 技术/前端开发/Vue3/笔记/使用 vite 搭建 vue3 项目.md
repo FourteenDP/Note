@@ -1,8 +1,8 @@
 ---
-title: 使用vite搭建vue3项目
+title: 使用 vite 搭建 vue3 项目
 tags: []
 date created: 2022-12-16 09:42:48
-date updated: 2023-11-25 03:01:27
+date updated: 2023-11-25 13:42:09
 url: "https://juejin.cn/post/7231016319863521337"
 ---
 
@@ -176,3 +176,5 @@ import './index.css'
 - [daisui](https://daisyui.com/)
 - [tailwindcss](https://tailwindcss.com/)
 - [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)
+
+

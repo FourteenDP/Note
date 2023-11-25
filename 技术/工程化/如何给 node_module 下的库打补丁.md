@@ -1,16 +1,14 @@
 ---
-Title: 如何给 node_module 下的库打补丁
-Aliases:
-  - 如何给 node_module 下的库打补丁
-  - 如何给 node_module 的库打补丁
-Tags: []
-date created: 2023-03-11 T22:33:07.000 Z
-date updated: 2023-03-11 T22:35:00.000 Z
-Theme: channing-cyan
-Highlight: atom-one-dark
+title: 如何给 node_module 下的库打补丁
+tags: 
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-25 13:38:15
+url: https://juejin.cn/post/7209245221887885372
 ---
 
-# 解决办法如下
+# 如何给 node_module 下的库打补丁
+
+## 解决办法如下
 
 - 直接修改 node_module 中的代码
   - 及其**不优雅**，协作时别人不会安装你修改的代码
@@ -19,9 +17,9 @@ Highlight: atom-one-dark
 - 像库的仓库提 PR 等待作者合并
   - 得看作者的活跃度，还得保证新版本向下兼容
 
-## 使用 Patch-package 优雅的给 node_module 库打补丁
+### 使用 Patch-package 优雅的给 node_module 库打补丁
 
-### 安装
+#### 安装
 
 ```shell
 # npm
@@ -43,7 +41,7 @@ yarn add patch-package postinstall-postinstall -D
 }
 ```
 
-### 下面以给 `Lodash` 修改 `_.get` 方法为例
+#### 下面以给 `Lodash` 修改 `_.get` 方法为例
 
 > 需要注意的是部分库导出的是压缩后的代码，所以需要压缩的库文件才会将修改生效，可以在 `package.json` 查看导出情况以及更改默认导出入口
 
@@ -71,7 +69,7 @@ const _ = require('lodash')
 console.log(_.get({ a: { b: { c: 1 } } }, 'a.b.c')) // hello world
 ```
 
-### 生成补丁
+#### 生成补丁
 
 > [!warning]
 > 应为要进行整个 `lodash` 库的文件 `diff` 这个过程极慢，我这大概用了十几分钟
@@ -105,9 +103,10 @@ index 8805ff9..79b973b 100644
 
 同事只需要运行一下 `npx patch-package` 或者运行 `npm run postinstall` 就会自动把补丁打到 `node_modules` 中啦
 
-
 ![Pasted image 20230311222955.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cb5251a69d6c451db5ced3edc1b29e86~tplv-k3u1fbpfcp-watermark.image?)
 
-## 关联
+### 关联
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)
+
+
