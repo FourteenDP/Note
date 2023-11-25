@@ -182,7 +182,7 @@
     },
     "remove-space-around-characters": {
       "enabled": true,
-      "include-fullwidth-forms": true,
+      "include-fullwidth-forms": false,
       "include-cjk-symbols-and-punctuation": true,
       "include-dashes": true,
       "other-symbols": ""
@@ -267,4 +267,3 @@
     "escapeCharacter": "\"",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
-}
