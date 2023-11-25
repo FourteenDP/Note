@@ -1,7 +1,5 @@
 ---
 title: 为什么使用 settimeout 实现 setinterval
-aliases:
-  - 为什么使用 Settimeout 实现 Setinterval
 tags:
   - JavaScript
   - setTimeout

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/前端面试手册.md",
-                "mode": "source",
+                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/前端面试手册.md"
+                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/前端面试手册.md",
+                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/前端面试手册.md",
+                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,11 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
-    "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
+    "技术/前端开发/JavaScript/为什么使用 Settimeout 实现 Setinterval.md",
+    "拾肆/个人/项目经历.md",
+    "技术/前端开发/HTML&CSS/让 CSS Flex 布局最后一行列表左对齐.md",
     "拾肆/个人/前端面试手册.md",
+    "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
     "技术/设计模式/非GoF设计模式/柯里化 (Currying) 与偏函数 (Partial Function).md",
     "技术/设计模式/基本原则/基本原则.md",
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
@@ -217,9 +220,6 @@
     "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "-附件-/原型链.png",
     "音乐/摇滚.md",
-    "采集/实施前端微服务化的六七种方式.md",
-    "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客.md",
-    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "Spaces/Home",
     "Spaces",
     "未命名.canvas",
