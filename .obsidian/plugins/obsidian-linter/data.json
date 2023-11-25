@@ -245,11 +245,11 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "-模板-",
     "-附件-",
     "日志",
     "仓库",
-    "Excalidraw"
+    "Excalidraw",
+    "lib"
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

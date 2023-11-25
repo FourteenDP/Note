@@ -1,10 +1,8 @@
 {
   "types": {
     "aliases": "aliases",
-    "cssclasses": "multitext",
     "tags": "tags",
     "date created": "datetime",
-    "date updated": "datetime",
-    "uid": "number"
+    "date updated": "datetime"
   }
 }

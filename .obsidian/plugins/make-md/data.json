@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -35,10 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "spaces://$tags/spaces://#【JS",
-    "//Spaces",
-    "//Spaces"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -61,9 +58,9 @@
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
+    "Spaces/Home",
     "/",
-    "spaces://$tags",
-    "Spaces"
+    "spaces://$tags"
   ],
   "rootSpaces": [],
   "spacesUseAlias": false,

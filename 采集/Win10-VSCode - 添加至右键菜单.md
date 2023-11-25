@@ -2,8 +2,8 @@
 title: Win10-VSCode - 添加至右键菜单
 tags:
   - 采集
-date created: 2023-05-19 23:14:34
-date updated: 2023-11-26 00:26:56
+date created: 2023-05-20 23:30:58
+date updated: 2023-11-26 00:43204:59
 ---
 
 # Win10-VSCode - 添加至右键菜单
@@ -64,9 +64,5 @@ Windows Registry Editor Version 5.00
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
  
 [HKEY_CLASSES_ROOT\Directory\shell\VSCode\command]
-@="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%V\""
-
-
-```
 
 
