@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#「民报」-",
+                "query": "tag:#采集",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md"
               }
             }
           },
@@ -121,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "02db7ed448796d0d",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,20 +186,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a547515d7c6a3c21",
+  "active": "045f07e50dc53fea",
   "lastOpenFiles": [
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/- 民报 - 发刊词.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
+    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
+    "采集/CSS 选择器优先级权重 w3c 笔记.md",
+    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
+    "采集/写给前端的编译原理科普.md",
+    "采集/实施前端微服务化的六七种方式.md",
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "测试文件.md",
+    "lib/script",
+    "lib/新建文件夹",
+    "lib/EnglishCommon.txt",
+    "lib/English.txt",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/- 民报 - 发刊词.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
     "日志/2023/2023-11-25.md",
     "README.md",
     "-附件-/Pasted image 20221013000116.png",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
     "日志/2023/2023-02-28.md",
     "日志/2023/2023-03-01.md",
     "日志/2023/2023-03-04.md",
-    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/- 中共中央关于全面推进依法治国若干重大问题的决定 - 的说明.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/- 四洲志 -.md",
     "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
@@ -206,14 +219,6 @@
     "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md",
     "技术/操作系统/Linux/WSL SSH 远程连接.md",
     "技术/操作系统/Windows/Windows 创建软连接.md",
-    "技术/前端开发/Vue/Vue 生命周期.md",
-    "技术/前端开发/Vue/Vue 路由 Keep-alive 实现原理.md",
-    "技术/前端开发/Vue3/笔记/Vue3 新增特性.md",
-    "技术/前端开发/Vue3/Vue3 组件库.md",
-    "技术/前端开发/其它/Vite 全局样式注入.md",
-    "技术/前端开发/UniApp/UniApp 生命周期.md",
-    "技术/前端开发/UniApp/Uniapp 全局消息提示及其组件的实现.md",
-    "技术/前端开发/UniApp/UniApp 开源组件.md",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Pasted image 20220713154807.png",
@@ -226,10 +231,6 @@
     "日志/2023/2023-Q4/2023-11",
     "日志/2023/2023-Q4",
     "My code file.ts",
-    "仓库/Code-Snippets/抽象工厂模式(Abstract Factory).ts",
-    "CodeFiel.vue",
-    "仓库/Vue3-Hello/tailwind.config.cjs",
-    "仓库/Vue3-Hello/pnpm-lock.yaml",
     "SVG/submodule和subtree区别.excalidraw.svg",
     "SVG/后端常见分层.drawio.svg",
     "SVG/构建知识库.svg",
