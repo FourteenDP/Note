@@ -1,10 +1,8 @@
 ---
-title: 单例模式(Singleton)
-aliases:
-  - 单例模式 (Singleton)
+title: 单例模式 (Singleton)
 tags: []
 date created: 2023-03-02 15:45:11
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 13:59:30
 ---
 
 # 单例模式 (Singleton)
@@ -23,3 +21,5 @@ date updated: 2023-11-25 13:50:51
     - 双重检查锁定：在第一次调用时实例化，在多线程环境下能保持高性能
 
 ![[Pasted image 20230302212615.png]]
+
+

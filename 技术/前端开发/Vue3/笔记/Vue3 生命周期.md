@@ -1,10 +1,8 @@
 ---
-title: Vue3生命周期
-aliases:
-  - Vue3 生命周期
+title: Vue3 生命周期
 tags: []
 date created: 2022-12-15 20:05:25
-date updated: 2023-11-25 13:50:54
+date updated: 2023-11-25 13:55:36
 ---
 
 # Vue3 生命周期
@@ -51,3 +49,5 @@ date updated: 2023-11-25 13:50:54
 ## 生命周期图示
 
 ![[Pasted image 20221215201422.png]]
+
+

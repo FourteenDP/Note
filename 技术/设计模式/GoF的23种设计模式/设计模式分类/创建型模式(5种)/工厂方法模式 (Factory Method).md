@@ -1,10 +1,8 @@
 ---
-title: 工厂方法模式(Factory Method)
-aliases:
-  - 工厂方法模式 (Factory Method)
+title: 工厂方法模式 (Factory Method)
 tags: []
 date created: 2023-03-07 14:08:22
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:01:52
 ---
 
 # 工厂方法模式 (Factory Method)
@@ -19,3 +17,5 @@ date updated: 2023-11-25 13:50:51
   - 具体产品角色：具体产品类，实现抽象产品角色所定义的接口，某具体产品有专门的具体工厂创建，它们之间往往一一对应
   - 创建者角色：抽象工厂类，定义了工厂方法，用于创建产品，声明了工厂方法 (Factory Method)，该方法返回一个产品，Creator 也可以定义一个工厂方法的缺省实现，它返回一个缺省的 ConcreteProduct 对象，它也可以调用工厂方法以创建一个 Product 对象
   - 具体创建者角色：具体工厂类，实现了抽象工厂中定义的工厂方法，并可由客户端调用，返回一个 ConcreteProduct 类型的实例
+
+

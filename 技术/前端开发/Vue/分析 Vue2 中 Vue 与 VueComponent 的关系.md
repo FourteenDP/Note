@@ -1,12 +1,12 @@
 ---
-title: 分析Vue2中Vue与VueComponent的关系
-aliases:
-  - 分析 Vue2 中 Vue 与 VueComponent 的关系
+title: 分析 Vue2 中 Vue 与 VueComponent 的关系
 tags: []
 date created: 2022-06-06 22:32:56
-date updated: 2023-11-25 13:50:54
+date updated: 2023-11-25 14:01:13
 ---
 
 # 分析 Vue2 中 Vue 与 VueComponent 的关系
 
 ![[分析Vue2中的Vue与VueComponent的关系.png]]
+
+

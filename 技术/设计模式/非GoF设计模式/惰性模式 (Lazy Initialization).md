@@ -1,10 +1,8 @@
 ---
-title: 惰性模式(Lazy Initialization)
-aliases:
-  - 惰性模式 (Lazy Initialization)
+title: 惰性模式 (Lazy Initialization)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:00:16
 ---
 
 # 惰性模式 (Lazy Initialization)
@@ -20,3 +18,5 @@ date updated: 2023-11-25 13:50:50
   - 惰性加载类（Lazy Load Class）：该类包含了一个实例化对象的引用，当需要使用该对象时，可以通过调用该类的方法来获取该对象
   - 实例化对象（Instantiated Object）：该对象是惰性加载类的依赖对象，当惰性加载类需要使用该对象时，才对该对象进行实例化
   - 客户端（Client）：客户端是惰性模式的调用者，它通过调用惰性加载类的方法来使用实例化对象
+
+

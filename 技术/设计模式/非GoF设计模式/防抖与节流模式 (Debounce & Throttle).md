@@ -1,10 +1,8 @@
 ---
-title: 防抖与节流模式(Debounce & Throttle)
-aliases:
-  - 防抖与节流模式 (Debounce & Throttle)
+title: 防抖与节流模式 (Debounce & Throttle)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:00:32
 ---
 
 # 防抖与节流模式 (Debounce & Throttle)
@@ -14,3 +12,5 @@ date updated: 2023-11-25 13:50:50
 - 防抖：在事件被触发 n 秒后再执行回调，如果在这 n 秒内又被触发，则重新计时
 - 节流：规定一个单位时间，在这个单位时间内，只能有一次触发事件的回调函数执行，如果在同一个单位时间内某事件被触发多次，只有一次能生效
 - 适用场景：搜索框搜索联想、窗口大小 resize、按钮提交表单、滚动加载更多等
+
+

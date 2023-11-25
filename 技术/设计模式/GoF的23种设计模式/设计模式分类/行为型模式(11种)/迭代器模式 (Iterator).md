@@ -1,10 +1,8 @@
 ---
-title: 迭代器模式(Iterator)
-aliases:
-  - 迭代器模式 (Iterator)
+title: 迭代器模式 (Iterator)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:00:06
 ---
 
 # 迭代器模式 (Iterator)
@@ -27,3 +25,5 @@ date updated: 2023-11-25 13:50:50
   - 抽象迭代器（Iterator）：定义访问和遍历元素的接口，声明了用于遍历数据元素的方法，例如：取得下一个元素、判断是否遍历结束、当前元素等
   - 具体迭代器（ConcreteIterator）：实现抽象迭代器，完成集合的迭代
   - 客户端（Client）：通过具体迭代器来遍历具体聚合
+
+

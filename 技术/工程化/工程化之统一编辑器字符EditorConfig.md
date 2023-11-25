@@ -4,7 +4,7 @@ aliases:
   - 工程化之统一编辑器字符 EditorConfig
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:02:59
 ---
 
 # 工程化之统一编辑器字符 EditorConfig
@@ -72,3 +72,5 @@ indent_size = 2
 ## 参考
 
 - [EditorConfig](https://EditorConfig.org)
+
+

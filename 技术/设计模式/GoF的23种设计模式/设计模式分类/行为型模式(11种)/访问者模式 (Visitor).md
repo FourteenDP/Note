@@ -1,10 +1,8 @@
 ---
-title: 访问者模式(Visitor)
-aliases:
-  - 访问者模式 (Visitor)
+title: 访问者模式 (Visitor)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:00:49
 ---
 
 # 访问者模式 (Visitor)
@@ -26,3 +24,5 @@ date updated: 2023-11-25 13:50:50
   - 具体元素（ConcreteElement）：实现抽象元素所规定的接受访问操作
   - 对象结构（ObjectStructure）：能枚举它的元素，可以提供一个高层的接口以允许该访问者访问它的元素
   - 客户端（Client）：通过对象结构中的元素提供的高层接口来使用访问者模式
+
+

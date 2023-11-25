@@ -16,7 +16,7 @@ date updated: 2023-11-25 13:50:52
 - Nvm: [[Linux安装Node版本管理器Nvm]]
 - Zsh: [[Linux安装命令行工具Oh My Zsh]]
 - [ZeroTier – Global Area Networking](https://www.zerotier.com/)
-- Openssh-server: [[WSL SSH远程连接]]
+- Openssh-server: [[WSL SSH 远程连接]]
 - [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#installation): 终端文件管理
 - [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): vim 模式的终端控制
 - [starship](https://github.com/starship/starship)

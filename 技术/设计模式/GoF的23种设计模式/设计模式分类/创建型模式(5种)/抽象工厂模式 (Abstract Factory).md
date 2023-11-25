@@ -1,10 +1,8 @@
 ---
-title: 抽象工厂模式(Abstract Factory)
-aliases:
-  - 抽象工厂模式 (Abstract Factory)
+title: 抽象工厂模式 (Abstract Factory)
 tags: []
 date created: 2023-03-07 14:08:22
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 13:58:49
 ---
 
 # 抽象工厂模式 (Abstract Factory)
@@ -20,3 +18,5 @@ date updated: 2023-11-25 13:50:51
   - 抽象产品（Product）：工厂方法模式所创建的对象的超类型，也就是产品对象的共同父类或共同拥有的接口
   - 具体产品（Concrete Product）：这个角色实现了抽象产品角色所定义的接口
   - 客户端（Client）：客户端无须知道产品的具体类，只需要知道具体工厂的类名即可
+
+
