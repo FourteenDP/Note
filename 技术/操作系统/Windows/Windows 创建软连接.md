@@ -1,11 +1,9 @@
 ---
-title: Windows创建软连接
-aliases:
-  - Windows 创建软连接
+title: Windows 创建软连接
 tags:
   - Windows创建软连接
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:29:57
 ---
 
 # Windows 创建软连接
@@ -45,3 +43,5 @@ mklink /J "C:\Users\用户名\AppData\Local\Google\Chrome\User Data\Default\Cach
 
 - 只有 cmd 窗口下才可用，在 powershell 下不行
 - `Link` 必须不存在才可创建
+
+

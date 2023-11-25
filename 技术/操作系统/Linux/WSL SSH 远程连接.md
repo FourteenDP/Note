@@ -1,11 +1,9 @@
 ---
-title: WSL SSH远程连接
-aliases:
-  - WSL SSH 远程连接
+title: WSL SSH 远程连接
 tags:
   - WSL
 date created: 2022-08-08 22:00:28
-date updated: 2023-11-25 13:55:00
+date updated: 2023-11-25 14:30:01
 ---
 
 # WSL SSH 远程连接

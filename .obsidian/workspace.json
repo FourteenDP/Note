@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
-                "mode": "source",
+                "file": "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md"
+                "file": "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
+                "file": "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
+                "file": "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,20 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/WSL SSH 远程连接.md",
+    "技术/操作系统/Windows/Windows 创建软连接.md",
+    "技术/前端开发/Vue/Vue 生命周期.md",
+    "技术/前端开发/Vue/Vue 路由 Keep-alive 实现原理.md",
+    "技术/前端开发/Vue3/笔记/Vue3 新增特性.md",
+    "技术/前端开发/Vue3/Vue3 组件库.md",
+    "技术/前端开发/其它/Vite 全局样式注入.md",
+    "技术/前端开发/UniApp/UniApp 生命周期.md",
+    "技术/前端开发/UniApp/Uniapp 全局消息提示及其组件的实现.md",
+    "技术/前端开发/UniApp/UniApp 开源组件.md",
+    "技术/前端开发/UniApp/UniApp 和 WebView 双向通信.md",
+    "写作/UniApp 和 Flutter 通信.md",
+    "技术/前端开发/UniApp/UniApp 踩坑指南.md",
+    "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
     "技术/前端开发/Vue3/笔记/Pinia 与 Vuex.md",
     "技术/前端开发/其它/node 的 process.nextTick.md",
     "技术/操作系统/Linux/Linux 目录结构和作用.md",
@@ -202,20 +216,6 @@
     "技术/前端开发/Vue3/笔记/JSX 声明组件的几种方式.md",
     "技术/跨平台/Flutter/Flutter 开源项目.md",
     "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/DRY 原则 (Don't Repeat Yourself).md",
-    "技术/前端开发/Vue3/笔记/DOM 更新时机.md",
-    "技术/前端开发/HTML&CSS/CSS 选择器参考手册.md",
-    "技术/前端开发/HTML&CSS/CSS 函数.md",
-    "技术/前端开发/HTML&CSS/CSS- 单位.md",
-    "技术/语言/JavaScript/call、apply、bind 的区别.md",
-    "技术/前端开发/其它/APP 混合开发.md",
-    "技术/设计模式/GoF的23种设计模式/设计模式分类/结构型模式(7种)/组合模式 (Composite).md",
-    "技术/设计模式/GoF的23种设计模式/设计模式分类/行为型模式(11种)/状态模式 (State).md",
-    "技术/设计模式/GoF的23种设计模式/设计模式分类/结构型模式(7种)/装饰模式 (Decorator).md",
-    "技术/设计模式/GoF的23种设计模式/设计模式分类/行为型模式(11种)/中介者模式 (Mediator).md",
-    "技术/设计模式/GoF的23种设计模式/设计模式分类/行为型模式(11种)/责任链模式 (Chain Of Responsibility).md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2012/在首都各界纪念现行宪法施行 30 周年大会上的讲话.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/在庆祝全国人民代表大会成立 60 周年大会上的讲话.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2002-2012/在庆祝清华大学建校 100 周年大会上的讲话.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Pasted image 20220713154807.png",
     "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",

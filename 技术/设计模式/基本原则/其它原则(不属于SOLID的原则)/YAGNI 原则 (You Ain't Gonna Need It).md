@@ -1,10 +1,8 @@
 ---
-title: "YAGNI原则(You Ain't Gonna Need It)"
-aliases:
-  - "YAGNI 原则 (You Ain't Gonna Need It)"
+title: "YAGNI 原则 (You Ain't Gonna Need It)"
 tags: []
 date created: 2023-03-02 14:48:43
-date updated: 2023-11-25 13:54:55
+date updated: 2023-11-25 14:30:04
 ---
 
 # YAGNI 原则 (You Ain't Gonna Need It)
