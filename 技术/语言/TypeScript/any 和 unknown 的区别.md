@@ -1,13 +1,11 @@
 ---
-title: any和unknown的区别
-aliases:
-  - Any和unknown的区别
+title: any 和 unknown 的区别
 tags: []
 date created: 2022-12-13 15:02:18
-date updated: 2023-11-25 03:01:21
+date updated: 2023-11-25 13:09:04
 ---
 
-# Any 和 unknown 的区别
+# any 和 unknown 的区别
 
 - any 可以赋值给任何类型，unknown 只能赋值给 any 和 unknown
 - unknown 类型的值不能直接使用，需要先判断类型
@@ -52,3 +50,5 @@ if (typeof b === 'boolean') {
 }
 
 ```
+
+

@@ -1,13 +1,11 @@
 ---
-title: image标签图片的白边
-aliases:
-  - Image标签图片的白边
+title: image 标签图片的白边
 tags: []
 date created: 2022-06-28 10:54:26
-date updated: 2023-11-25 03:01:29
+date updated: 2023-11-25 13:15:45
 ---
 
-# Image 标签图片的白边
+# image 标签图片的白边
 
 ## 为什么 image 标签会有白边
 
@@ -46,3 +44,5 @@ img {
   font-size: 0;
 }
 ```
+
+

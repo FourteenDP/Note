@@ -1,13 +1,11 @@
 ---
-title: CSS 选择器优先级权重 _ w3c 笔记
-aliases:
-  - CSS 选择器优先级权重 | w3c 笔记
+title: CSS 选择器优先级权重 w3c 笔记
 tags: []
-date created: 2023-01-05 17:45:55
-date updated: 2023-11-25 03:00:18
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-25 13:15:12
 ---
 
-# CSS 选择器优先级权重 | w3c 笔记
+# CSS 选择器优先级权重 w3c 笔记
 
 **原文：**[CSS 选择器优先级权重 | w3c 笔记](https://www.w3cschool.cn/article/67325175.html)
 
@@ -52,3 +50,5 @@ CSS 会依据选择器其特殊性质来规定它定义的样式权重次序，�
 第四级：元素选择器，例：div,p,h1，它的权重为 1
 
 以上就是为大家整理的关于 CSS 选择器权重优先规则。
+
+

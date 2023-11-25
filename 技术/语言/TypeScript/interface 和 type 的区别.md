@@ -1,13 +1,11 @@
 ---
-title: interface和type的区别
-aliases:
-  - Interface和type的区别
+title: interface 和 type 的区别
 tags: []
 date created: 2022-12-12 15:48:54
-date updated: 2023-11-25 03:01:21
+date updated: 2023-11-25 13:16:08
 ---
 
-# Interface 和 type 的区别
+# interface 和 type 的区别
 
 ## Interface 和 type 的区别
 
@@ -50,3 +48,5 @@ const obj2: Obj2 = {
   b: 2,
 };
 ```
+
+

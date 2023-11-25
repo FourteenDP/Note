@@ -1,10 +1,8 @@
 ---
-title: GoF的23种设计模式
-aliases:
-  - GoF 的23种设计模式
+title: GoF 的 23 种设计模式
 tags: []
 date created: 2023-03-02 01:01:25
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:15:24
 ---
 
 # GoF 的 23 种设计模式
@@ -15,3 +13,5 @@ date updated: 2023-11-25 03:01:23
 ---
 
 - **[[设计模式分类]]**
+
+

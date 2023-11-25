@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
-                "mode": "preview",
+                "file": "拾肆/个人/JavaScript 面试精讲.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md"
+                "file": "拾肆/个人/JavaScript 面试精讲.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
+                "file": "拾肆/个人/JavaScript 面试精讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/语言/JavaScript/优雅的错误捕获处理.md",
+                "file": "拾肆/个人/JavaScript 面试精讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,16 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "技术/语言/TypeScript/interface 和 type 的区别.md",
+    "技术/前端开发/HTML&CSS/image 标签图片的白边.md",
+    "技术/设计模式/GoF的23种设计模式/GoF 的 23 种设计模式.md",
+    "采集/CSS 选择器优先级权重 w3c 笔记.md",
+    "技术/语言/CS/C#和.NET 关系.md",
+    "采集/CSS 选择器优先级权重 _ w3c 笔记.md",
+    "技术/语言/TypeScript/any 和 unknown 的区别.md",
+    "技术/语言/CS/C#和.NET关系.md",
+    "技术/语言/CS/C#0023和.NET关系.md",
+    "技术/语言/JavaScript/优雅的错误捕获处理.md",
     "技术/前端开发/JavaScript/为什么使用 Settimeout 实现 Setinterval.md",
     "拾肆/个人/项目经历.md",
     "技术/前端开发/HTML&CSS/让 CSS Flex 布局最后一行列表左对齐.md",
@@ -205,21 +215,11 @@
     "拾肆/个人/简历Plus/邓智鹏 - 前端工程师.md",
     "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
     "写作/UniApp和Flutter通信.md",
-    "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
-    "拾肆/个人/2022面试题总结/8、人资问题.md",
-    "拾肆/个人/2022面试题总结/1、HTML+CSS面试题.md",
-    "日志/2023/2023-03-04.md",
-    "日志/2023/2023-03-01.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20220713154807.png",
-    "书籍/前端推荐书籍.md",
-    "写作/如何编写好的技术文档.md",
-    "测试文件.md",
-    "README.md",
     "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "-附件-/原型链.png",
-    "音乐/摇滚.md",
     "Spaces/Home",
     "Spaces",
     "未命名.canvas",
