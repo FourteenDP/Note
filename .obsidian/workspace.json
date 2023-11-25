@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
+                "file": "测试文件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md"
+                "file": "测试文件.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "02db7ed448796d0d",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
+                "file": "测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
+                "file": "测试文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +185,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1b850cac2e96359",
+  "active": "f5eb5f0003b93c45",
   "lastOpenFiles": [
+    "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
     "测试文件.md",
     "日志/2023/2023-02-28.md",
@@ -213,7 +213,6 @@
     "技术/前端开发/UniApp/UniApp 和 WebView 双向通信.md",
     "写作/UniApp 和 Flutter 通信.md",
     "技术/前端开发/UniApp/UniApp 踩坑指南.md",
-    "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Pasted image 20220713154807.png",
