@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequencyReverse"
               }
             }
           },
@@ -121,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -169,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +186,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a547515d7c6a3c21",
+  "active": "f1b850cac2e96359",
   "lastOpenFiles": [
     "README.md",
     "测试文件.md",
