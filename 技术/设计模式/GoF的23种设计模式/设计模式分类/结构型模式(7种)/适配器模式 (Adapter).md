@@ -1,10 +1,8 @@
 ---
-title: 适配器模式(Adapter)
-aliases:
-  - 适配器模式 (Adapter)
+title: 适配器模式 (Adapter)
 tags: []
 date created: 2023-03-07 14:11:07
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:11:06
 ---
 
 # 适配器模式 (Adapter)
@@ -19,3 +17,5 @@ date updated: 2023-11-25 13:50:51
   - 适配者（Adapted）类：需要适配的类
   - 适配器（Adapter）类：通过包装一个适配者对象，把原接口转换成目标接口
   - 客户（Client）类：客户端通过适配器发起请求
+
+

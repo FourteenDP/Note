@@ -1,15 +1,13 @@
 ---
-title: 事件总线(Event Bus)
-aliases:
-  - 事件总线 (Event Bus)
+title: 事件总线 (Event Bus)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:11:00
 ---
 
 # 事件总线 (Event Bus)
 
-事件总线 (Event Bus) 是基于 [[观察者模式(Observer)]] 的一种设计模式，它是一种消息机制，用于在不同的模块之间传递消息。
+事件总线 (Event Bus) 是基于 [[观察者模式 (Observer)]] 的一种设计模式，它是一种消息机制，用于在不同的模块之间传递消息。
 
 - 优点：解耦，使得发布者和订阅者之间不需要直接交互，只需要通过事件总线进行通信。
 - 缺点：事件总线是一个全局的单例，如果事件过多，会造成内存泄漏。
@@ -27,3 +25,5 @@ date updated: 2023-11-25 13:50:50
 ![[74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
 
 ![[19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
+
+

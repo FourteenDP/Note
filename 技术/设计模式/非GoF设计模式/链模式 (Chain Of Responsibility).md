@@ -1,10 +1,8 @@
 ---
-title: 链模式(Chain Of Responsibility)
-aliases:
-  - 链模式 (Chain Of Responsibility)
+title: 链模式 (Chain Of Responsibility)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:08:25
 ---
 
 # 链模式 (Chain Of Responsibility)
@@ -18,3 +16,5 @@ date updated: 2023-11-25 13:50:50
   - 抽象处理者（Handler）：定义一个处理请求的接口，包含抽象处理方法和一个后继连接。
   - 具体处理者（ConcreteHandler）：具体处理者接到请求后，可以选择将请求处理掉，或者将请求传给下家。一个具体处理者对象只能在两个行为中选择一种：自己处理（承担责任）或者把责任推给下家。
   - 客户类（Client）：客户类将请求发送给具体处理者对象
+
+

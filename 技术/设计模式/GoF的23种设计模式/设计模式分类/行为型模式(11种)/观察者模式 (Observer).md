@@ -1,10 +1,8 @@
 ---
-title: 观察者模式(Observer)
-aliases:
-  - 观察者模式 (Observer)
+title: 观察者模式 (Observer)
 tags: []
 date created: 2023-03-07 14:13:36
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:05:38
 ---
 
 # 观察者模式 (Observer)
@@ -51,3 +49,5 @@ date updated: 2023-11-25 13:50:50
 ## 参考
 
 - [理解【观察者模式】和【发布订阅】的区别](https://juejin.cn/post/6978728619782701087)
+
+

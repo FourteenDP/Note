@@ -1,10 +1,8 @@
 ---
-title: 享元模式(Flyweight)
-aliases:
-  - 享元模式 (Flyweight)
+title: 享元模式 (Flyweight)
 tags: []
 date created: 2023-03-07 14:11:09
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:11:51
 ---
 
 # 享元模式 (Flyweight)
@@ -21,3 +19,5 @@ date updated: 2023-11-25 13:50:51
   - 外部状态（Unshared Concrete Flyweight）角色：指那些不需要共享的外部状态。由于享元对象可以被共享，而外部状态不能被共享，所以必须将其存储外部。当调用一个享元对象的操作时，传入一个外部状态
   - 内部状态（Shared Concrete Flyweight）角色：指那些可以共享的内部状态。内部状态可以被一些对象共享。内部状态存储于享元对象内部并且不会随环境的改变而改变
   - 客户（Client）角色：本角色需要维护一个对所有享元对象的引用。当一个客户端对象调用一个享元对象的时候，必须传入一个外部状态
+
+

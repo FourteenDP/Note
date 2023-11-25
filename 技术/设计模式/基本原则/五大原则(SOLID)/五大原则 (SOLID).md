@@ -1,10 +1,8 @@
 ---
-title: 五大原则(SOLID)
-aliases:
-  - 五大原则 (SOLID)
+title: 五大原则 (SOLID)
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:11:34
 ---
 
 # 五大原则 (SOLID)
@@ -14,3 +12,5 @@ date updated: 2023-11-25 13:50:50
 - **[[里氏替换原则 LSP(Liskov Substitution Principle)]]**
 - **[[接口隔离原则 ISP(Interface Segregation Principle)]]**
 - **[[依赖倒转原则 DIP(Dependence Inversion Principle)]]**
+
+

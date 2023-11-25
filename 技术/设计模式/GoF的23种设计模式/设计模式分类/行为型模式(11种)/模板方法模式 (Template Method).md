@@ -1,10 +1,8 @@
 ---
-title: 模板方法模式(Template Method)
-aliases:
-  - 模板方法模式 (Template Method)
+title: 模板方法模式 (Template Method)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:09:15
 ---
 
 # 模板方法模式 (Template Method)
@@ -19,3 +17,5 @@ date updated: 2023-11-25 13:50:50
 - 模式结构：
   - 抽象类（Abstract Class）：实现了模板方法，定义了算法的骨架，具体子类将重写其方法
   - 具体子类（Concrete Class）：实现抽象类中的抽象方法，已完成完整的算法
+
+

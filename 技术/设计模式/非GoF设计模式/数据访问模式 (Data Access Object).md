@@ -1,10 +1,8 @@
 ---
-title: 数据访问模式(Data Access Object)
-aliases:
-  - 数据访问模式 (Data Access Object)
+title: 数据访问模式 (Data Access Object)
 tags: []
 date created: 2023-03-07 13:41:30
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:11:16
 ---
 
 # 数据访问模式 (Data Access Object)
@@ -18,3 +16,5 @@ date updated: 2023-11-25 13:50:50
   - 数据访问对象接口（Data Access Object Interface）：定义了在一个模型对象上要执行的标准操作
   - 数据访问对象实体类（Data Access Object concrete class）：实现了上述的接口。该类负责从数据源获取数据，数据源可以是数据库，也可以是 xml，或者是其他的存储机制
   - 模型对象/数值对象（Model Object/Value Object）：该对象是简单的 POJO，包含了 get/set 方法来存储通过使用 DAO 类检索到的数据
+
+

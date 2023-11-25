@@ -1,10 +1,8 @@
 ---
-title: 命令模式(Command)
-aliases:
-  - 命令模式 (Command)
+title: 命令模式 (Command)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:08:30
 ---
 
 # 命令模式 (Command)
@@ -22,3 +20,5 @@ date updated: 2023-11-25 13:50:51
   - 请求者（Invoker）：要求该命令执行这个请求
   - 请求接收者（Receiver）：知道如何实施与执行一个与请求相关的操作，任何类都可能作为一个接收者
   - 客户端（Client）：创建一个具体命令对象并确定其接收者
+
+

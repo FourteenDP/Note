@@ -1,10 +1,8 @@
 ---
-title: 响应式语法糖$ref
-aliases:
-  - 响应式语法糖 $ref
+title: 响应式语法糖 $ref
 tags: []
 date created: 2022-12-16 09:42:48
-date updated: 2023-11-25 13:50:53
+date updated: 2023-11-25 14:11:56
 ---
 
 # 响应式语法糖 $ref
@@ -27,3 +25,5 @@ date updated: 2023-11-25 13:50:53
 ## 参考
 
 - [响应式语法糖$ref](https://cn.vuejs.org/guide/extras/reactivity-transform.html#refs-vs-reactive-variables)
+
+
