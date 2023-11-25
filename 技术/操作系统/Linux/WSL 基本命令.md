@@ -4,10 +4,12 @@ aliases:
   - 安装
 tags: []
 date created: 2022-07-01 21:28:30
-date updated: 2023-11-25 03:01:24
+date updated: 2023-11-25 13:31:04
 ---
 
 以下 WSL 命令以 PowerShell 或 Windows 命令提示符支持的格式列出。若要通过 Bash/Linux 发行版命令行运行这些命令，必须将 `wsl` 替换为 `wsl.exe`。
+
+# WSL 基本命令
 
 # 安装
 
@@ -260,3 +262,5 @@ lxrun /[Argument]
 ## 参考
 
 - [WSL 的基本命令 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install-a-specific-linux-distribution)
+
+

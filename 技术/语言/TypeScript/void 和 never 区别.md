@@ -1,13 +1,11 @@
 ---
-title: void和never区别
-aliases:
-  - Void和never区别
+title: void 和 never 区别
 tags: []
 date created: 2022-12-13 14:45:27
-date updated: 2023-11-25 03:01:21
+date updated: 2023-11-25 13:29:16
 ---
 
-# Void 和 never 区别
+# void 和 never 区别
 
 ## Void 和 never 区别
 
@@ -42,3 +40,5 @@ function infiniteLoop(): never {
   while (true) {}
 }
 ```
+
+

@@ -1,10 +1,8 @@
 ---
-title: Promise问题
-aliases:
-  - Promise
+title: Promise
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:26:39
 ---
 
 # Promise
@@ -30,3 +28,5 @@ Promise 的状态只能从 `pending` 变为 `fulfilled` 或 `rejected`，且状�
 
 - `Promise.race`：可以用来中断 Promise，只要有一个 Promise 被解决或拒绝，就会中断其他 Promise。
 - 当 Promise 链中的某个 Promise 被拒绝时，后续的 Promise 都会被拒绝，这时可以使用 `catch` 方法捕获错误。
+
+

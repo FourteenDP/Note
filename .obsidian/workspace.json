@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/JavaScript 面试精讲.md",
+                "file": "技术/操作系统/Linux/WSL 基本命令.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/JavaScript 面试精讲.md"
+                "file": "技术/操作系统/Linux/WSL 基本命令.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/JavaScript 面试精讲.md",
+                "file": "技术/操作系统/Linux/WSL 基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/JavaScript 面试精讲.md",
+                "file": "技术/操作系统/Linux/WSL 基本命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,19 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/WSL 登录 Root.md",
+    "技术/操作系统/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+    "技术/前端开发/web 框架与 cocos 的结合.md",
+    "技术/前端开发/其它/Vue 的不同构建版本.md",
+    "技术/语言/TypeScript/void 和 never 区别.md",
+    "技术/前端开发/UniApp/uniapp 和 flutter 通信.md",
+    "技术/前端开发/UniApp/uni-app $refs 初始化失败.md",
+    "技术/语言/JavaScript/JavaScript This 指向.md",
+    "仓库/Vue3-Hello/Vue 3 + TypeScript + Vite.md",
+    "技术/语言/JavaScript/Promise.md",
+    "技术/语言/JavaScript/Null 和 Undefined.md",
+    "技术/操作系统/Linux/Neovim 的安装和配置.md",
+    "拾肆/个人/JavaScript 面试精讲.md",
     "技术/语言/TypeScript/interface 和 type 的区别.md",
     "技术/前端开发/HTML&CSS/image 标签图片的白边.md",
     "技术/设计模式/GoF的23种设计模式/GoF 的 23 种设计模式.md",
@@ -202,19 +215,6 @@
     "技术/前端开发/JavaScript/为什么使用 Settimeout 实现 Setinterval.md",
     "拾肆/个人/项目经历.md",
     "技术/前端开发/HTML&CSS/让 CSS Flex 布局最后一行列表左对齐.md",
-    "拾肆/个人/前端面试手册.md",
-    "技术/操作系统/Windows如何设置WSL开机启动并执行脚本以及向Windows桌面发送通知.md",
-    "技术/设计模式/非GoF设计模式/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "技术/设计模式/基本原则/基本原则.md",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
-    "拾肆/个人/小孩子涨高.md",
-    "待办/📅任务管理.md",
-    "技术/工程化/工程化之忽略文件 GitIgnore 和提交空目录 GitKeep.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
-    "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
-    "拾肆/个人/简历Plus/邓智鹏 - 前端工程师.md",
-    "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
-    "写作/UniApp和Flutter通信.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20220713154807.png",

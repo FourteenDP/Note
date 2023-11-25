@@ -9,7 +9,7 @@ date updated: 2023-11-25 03:01:24
 
 # Linux 开发环境配置
 
-- [[WSL  登录Root]]
+- [[WSL 登录 Root]]
 - [[WSL 系统代理]]
 - [[技术/操作系统/Linux/Linux 系统镜像源和更新]]
 - [[技术/操作系统/Linux/Debian 中文环境]]
