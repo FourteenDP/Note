@@ -1,8 +1,10 @@
 ---
 title: Pinia与Vuex
+aliases:
+  - Pinia 与 Vuex
 tags: []
 date created: 2022-12-12 17:53:03
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # Pinia 与 Vuex

@@ -2,7 +2,7 @@
 title: Linux 安装卸载 Rust
 tags: []
 date created: 2022-08-14 11:53:49
-date updated: 2023-11-25 03:01:25
+date updated: 2023-11-25 13:50:52
 ---
 
 # Linux 安装卸载 Rust

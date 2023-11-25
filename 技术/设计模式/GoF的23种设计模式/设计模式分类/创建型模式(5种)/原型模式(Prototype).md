@@ -1,8 +1,10 @@
 ---
 title: 原型模式(Prototype)
+aliases:
+  - 原型模式 (Prototype)
 tags: []
 date created: 2023-03-07 14:08:23
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:51
 ---
 
 # 原型模式 (Prototype)

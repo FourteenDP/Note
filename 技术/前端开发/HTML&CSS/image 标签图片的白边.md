@@ -2,7 +2,7 @@
 title: image 标签图片的白边
 tags: []
 date created: 2022-06-28 10:54:26
-date updated: 2023-11-25 13:15:45
+date updated: 2023-11-25 13:50:55
 ---
 
 # image 标签图片的白边
@@ -44,5 +44,3 @@ img {
   font-size: 0;
 }
 ```
-
-

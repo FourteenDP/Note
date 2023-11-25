@@ -2,7 +2,7 @@
 title: WSL 修改默认安装目录到其他盘
 tags: []
 date created: 2022-08-12 10:37:10
-date updated: 2023-11-25 03:01:24
+date updated: 2023-11-25 13:50:52
 ---
 
 # WSL 修改默认安装目录到其他盘

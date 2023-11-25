@@ -1,8 +1,8 @@
 ---
 title: 如何给 node_module 下的库打补丁
-tags: 
+tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 13:38:15
+date updated: 2023-11-25 13:50:52
 url: https://juejin.cn/post/7209245221887885372
 ---
 
@@ -108,5 +108,3 @@ index 8805ff9..79b973b 100644
 ### 关联
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)
-
-

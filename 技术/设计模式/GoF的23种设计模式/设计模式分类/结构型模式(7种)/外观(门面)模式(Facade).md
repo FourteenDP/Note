@@ -1,8 +1,10 @@
 ---
 title: 外观(门面)模式(Facade)
+aliases:
+  - 外观 (门面) 模式 (Facade)
 tags: []
 date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:51
 ---
 
 # 外观 (门面) 模式 (Facade)

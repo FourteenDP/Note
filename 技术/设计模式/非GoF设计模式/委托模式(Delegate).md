@@ -1,8 +1,10 @@
 ---
 title: 委托模式(Delegate)
+aliases:
+  - 委托模式 (Delegate)
 tags: []
 date created: 2023-03-07 13:41:29
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 委托模式 (Delegate)

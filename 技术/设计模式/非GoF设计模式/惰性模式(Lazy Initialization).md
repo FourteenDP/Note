@@ -1,8 +1,10 @@
 ---
 title: 惰性模式(Lazy Initialization)
+aliases:
+  - 惰性模式 (Lazy Initialization)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 惰性模式 (Lazy Initialization)

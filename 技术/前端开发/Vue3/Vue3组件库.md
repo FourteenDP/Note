@@ -1,10 +1,12 @@
 ---
 title: Vue3组件库
+aliases:
+  - Vue3 组件库
 tags:
   - Vue3
   - 组件库
 date created: 2022-06-28 10:00:31
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # Vue3 组件库

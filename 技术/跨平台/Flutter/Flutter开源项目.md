@@ -1,8 +1,10 @@
 ---
 title: Flutter开源项目
+aliases:
+  - Flutter 开源项目
 tags: []
 date created: 2022-07-27 15:34:26
-date updated: 2023-11-25 03:01:21
+date updated: 2023-11-25 13:50:49
 ---
 
 # Flutter 开源项目

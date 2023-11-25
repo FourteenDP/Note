@@ -1,8 +1,10 @@
 ---
 title: Lambda表达式
+aliases:
+  - Lambda 表达式
 tags: []
 date created: 2022-12-12 08:55:05
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # Lambda 表达式

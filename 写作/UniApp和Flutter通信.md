@@ -1,8 +1,10 @@
 ---
 title: UniApp和Flutter通信
+aliases:
+  - UniApp 和 Flutter 通信
 tags: []
 date created: 2023-01-12 13:18:11
-date updated: 2023-11-25 03:01:30
+date updated: 2023-11-25 13:50:55
 ---
 
 # UniApp 和 Flutter 通信

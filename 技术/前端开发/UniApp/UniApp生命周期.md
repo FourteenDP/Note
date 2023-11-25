@@ -1,8 +1,10 @@
 ---
 title: UniApp生命周期
+aliases:
+  - UniApp 生命周期
 tags: []
 date created: 2022-07-13 14:57:30
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # UniApp 生命周期

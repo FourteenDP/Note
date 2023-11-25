@@ -1,9 +1,10 @@
 ---
 title: Vue生命周期
+aliases:
+  - Vue 生命周期
 tags: []
 date created: 2022-06-06 22:49:23
-date updated: 2023-11-25 03:01:28
-date modified: 2022-06-06 22:52:19
+date updated: 2023-11-25 13:50:54
 ---
 
 # Vue 生命周期

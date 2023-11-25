@@ -2,7 +2,7 @@
 title: void 和 never 区别
 tags: []
 date created: 2022-12-13 14:45:27
-date updated: 2023-11-25 13:29:16
+date updated: 2023-11-25 13:50:49
 ---
 
 # void 和 never 区别
@@ -40,5 +40,3 @@ function infiniteLoop(): never {
   while (true) {}
 }
 ```
-
-

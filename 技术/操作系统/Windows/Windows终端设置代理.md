@@ -1,9 +1,11 @@
 ---
 title: Windows终端设置代理
+aliases:
+  - Windows 终端设置代理
 tags:
   - Windows终端设置代理
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 03:01:24
+date updated: 2023-11-25 13:50:51
 ---
 
 # Windows 终端设置代理

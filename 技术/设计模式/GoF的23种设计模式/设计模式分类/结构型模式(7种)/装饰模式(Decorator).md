@@ -1,8 +1,10 @@
 ---
 title: 装饰模式(Decorator)
+aliases:
+  - 装饰模式 (Decorator)
 tags: []
 date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:51
 ---
 
 # 装饰模式 (Decorator)

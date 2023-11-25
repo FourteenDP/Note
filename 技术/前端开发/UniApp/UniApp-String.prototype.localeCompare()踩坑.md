@@ -1,8 +1,10 @@
 ---
 title: UniApp-String.prototype.localeCompare()踩坑
+aliases:
+  - UniApp-String.prototype.localeCompare() 踩坑
 tags: []
 date created: 2022-12-10 16:09:21
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # UniApp-String.prototype.localeCompare() 踩坑

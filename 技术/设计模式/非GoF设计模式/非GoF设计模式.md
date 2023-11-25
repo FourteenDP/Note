@@ -1,10 +1,12 @@
 ---
 title: 非GoF设计模式
+aliases:
+  - 非 GoF 设计模式
 tags:
   - 计算机基础
   - 设计模式
 date created: 2023-03-02 01:01:25
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 非 GoF 设计模式

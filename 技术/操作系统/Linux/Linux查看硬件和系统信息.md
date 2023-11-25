@@ -1,8 +1,10 @@
 ---
 title: Linux查看硬件和系统信息
+aliases:
+  - Linux 查看硬件和系统信息
 tags: []
 date created: 2022-07-18 21:00:05
-date updated: 2023-11-25 03:01:24
+date updated: 2023-11-25 13:50:52
 ---
 
 # Linux 查看硬件和系统信息

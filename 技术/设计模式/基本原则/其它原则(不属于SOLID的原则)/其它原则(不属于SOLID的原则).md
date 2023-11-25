@@ -1,8 +1,10 @@
 ---
 title: 其它原则(不属于SOLID的原则)
+aliases:
+  - 其它原则 (不属于 SOLID 的原则)
 tags: []
 date created: 2023-03-02 01:01:25
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:50
 ---
 
 # 其它原则 (不属于 SOLID 的原则)

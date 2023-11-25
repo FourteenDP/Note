@@ -1,8 +1,10 @@
 ---
 title: 中介者模式(Mediator)
+aliases:
+  - 中介者模式 (Mediator)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:51
 ---
 
 # 中介者模式 (Mediator)

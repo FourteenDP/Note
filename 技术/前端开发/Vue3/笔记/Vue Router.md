@@ -2,7 +2,7 @@
 title: Vue Router
 tags: []
 date created: 2022-12-16 09:42:48
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # Vue Router

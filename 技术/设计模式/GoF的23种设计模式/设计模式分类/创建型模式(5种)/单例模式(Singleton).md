@@ -1,8 +1,10 @@
 ---
 title: 单例模式(Singleton)
+aliases:
+  - 单例模式 (Singleton)
 tags: []
 date created: 2023-03-02 15:45:11
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:51
 ---
 
 # 单例模式 (Singleton)

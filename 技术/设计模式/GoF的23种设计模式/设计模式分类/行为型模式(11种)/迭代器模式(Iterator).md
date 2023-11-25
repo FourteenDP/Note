@@ -1,8 +1,10 @@
 ---
 title: 迭代器模式(Iterator)
+aliases:
+  - 迭代器模式 (Iterator)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 迭代器模式 (Iterator)

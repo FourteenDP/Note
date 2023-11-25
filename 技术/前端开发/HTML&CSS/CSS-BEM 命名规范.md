@@ -2,7 +2,7 @@
 title: CSS-BEM 命名规范
 tags: []
 date created: 2022-12-12 02:30:12
-date updated: 2023-11-25 03:01:29
+date updated: 2023-11-25 13:50:55
 ---
 
 # CSS-BEM 命名规范

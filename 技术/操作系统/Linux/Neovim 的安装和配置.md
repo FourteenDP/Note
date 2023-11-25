@@ -2,7 +2,7 @@
 title: Neovim 的安装和配置
 tags: []
 date created: 2023-03-12 23:56:01
-date updated: 2023-11-25 13:26:04
+date updated: 2023-11-25 13:50:52
 ---
 
 # Neovim 的安装和配置
@@ -38,5 +38,3 @@ sudo apt install ./nvim-linux64.deb
 ### 参考
 
 - [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
-
-

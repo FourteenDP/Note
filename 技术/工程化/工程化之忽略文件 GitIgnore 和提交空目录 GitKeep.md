@@ -2,7 +2,7 @@
 title: 工程化之忽略文件 GitIgnore 和提交空目录 GitKeep
 tags: []
 date created: 2023-05-08 19:19:39
-date updated: 2023-11-25 04:01:08
+date updated: 2023-11-25 13:50:52
 ---
 
 # 工程化之忽略文件 GitIgnore 和提交空目录 GitKeep
@@ -44,5 +44,3 @@ dist
 在使用 Git 时，添加一个空目录，通过 git status 和 git diff 都无法查看到修改记录。问题原因是 Git 不跟踪目录仅跟踪文件变动，这个时候只需要在空目录下创建 `.gitkeep` 文件
 
 **`.gitkeep` 是一个约定俗成的文件名并不会带有特殊规则**
-
-

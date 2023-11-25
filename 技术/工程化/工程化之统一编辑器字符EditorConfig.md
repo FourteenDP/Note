@@ -1,8 +1,10 @@
 ---
 title: 工程化之统一编辑器字符EditorConfig
+aliases:
+  - 工程化之统一编辑器字符 EditorConfig
 tags: []
 date created: 2023-05-08 18:46:15
-date updated: 2023-11-25 03:01:25
+date updated: 2023-11-25 13:50:52
 ---
 
 # 工程化之统一编辑器字符 EditorConfig

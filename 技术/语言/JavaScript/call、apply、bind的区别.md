@@ -1,8 +1,10 @@
 ---
 title: call、apply、bind的区别
+aliases:
+  - call、apply、bind 的区别
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # call、apply、bind 的区别

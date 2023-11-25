@@ -1,12 +1,12 @@
 ---
-title: 为什么使用 settimeout 实现 setinterval
+title: 为什么使用 Settimeout 实现 Setinterval
 tags:
   - JavaScript
   - setTimeout
   - setInterval
   - 前端
 date created: 2022-06-20 19:58:19
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # 为什么使用 Settimeout 实现 Setinterval

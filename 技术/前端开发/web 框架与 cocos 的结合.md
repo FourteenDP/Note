@@ -2,7 +2,7 @@
 title: web 框架与 cocos 的结合
 tags: []
 date created: 2022-12-29 11:59:31
-date updated: 2023-11-25 13:30:19
+date updated: 2023-11-25 13:50:53
 ---
 
 # web 框架与 cocos 的结合
@@ -10,5 +10,3 @@ date updated: 2023-11-25 13:30:19
 ## 参考
 
 - [【初探】web框架与cocos的结合使用 - 掘金](https://juejin.cn/post/6949044814008549389)
-
-

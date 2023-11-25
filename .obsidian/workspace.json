@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md",
+                "file": "技术/语言/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date modified\"]",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md"
+                "file": "技术/语言/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md",
+                "file": "技术/语言/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md",
+                "file": "技术/语言/JavaScript/JavaScript红宝书/1.1-简单的历史回顾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,11 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/关于叛徒，内奸，工贼刘少奇罪行的审查报告.md",
+    "拾肆/个人/2022面试题总结/1、HTML+CSS面试题.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/新文化运动/法俄革命之比较观.md",
+    "拾肆/个人/感兴趣的事物.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/关于叛徒，内奸，工贼刘少奇罪行的审查报告.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/东方风来满眼春.md",
     "技术/前端开发/HTML&CSS/单行、多行溢出省略号.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/新文化运动/布尔什维主义的胜利.md",
@@ -212,9 +215,6 @@
     "技术/前端开发/其它/前端微服务.md",
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图 PDF.md",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
-    "技术/前端开发/JavaScript/命名规范.md",
-    "拾肆/个人/项目经历.md",
-    "技术/前端开发/Vue3/笔记/使用 vite 搭建 vue3 项目.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20220713154807.png",

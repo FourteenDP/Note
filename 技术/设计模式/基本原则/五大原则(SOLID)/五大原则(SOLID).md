@@ -1,8 +1,10 @@
 ---
 title: 五大原则(SOLID)
+aliases:
+  - 五大原则 (SOLID)
 tags: []
 date created: 2023-03-02 00:27:24
-date updated: 2023-11-25 03:01:23
+date updated: 2023-11-25 13:50:50
 ---
 
 # 五大原则 (SOLID)

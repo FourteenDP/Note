@@ -1,9 +1,11 @@
 ---
 title: CSS选择器参考手册
+aliases:
+  - CSS 选择器参考手册
 tags:
   - CSS选择器参考手册
 date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 03:01:29
+date updated: 2023-11-25 13:50:55
 ---
 
 # CSS 选择器参考手册

@@ -2,7 +2,7 @@
 title: Vue2 中的页面数据缓存
 tags: []
 date created: 2022-06-11 14:39:00
-date updated: 2023-11-25 03:01:28
+date updated: 2023-11-25 13:50:54
 ---
 
 # Vue2 中的页面数据缓存

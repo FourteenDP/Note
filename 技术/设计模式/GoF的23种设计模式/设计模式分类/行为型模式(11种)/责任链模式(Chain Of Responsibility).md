@@ -1,8 +1,10 @@
 ---
 title: 责任链模式(Chain Of Responsibility)
+aliases:
+  - 责任链模式 (Chain Of Responsibility)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 责任链模式 (Chain Of Responsibility)

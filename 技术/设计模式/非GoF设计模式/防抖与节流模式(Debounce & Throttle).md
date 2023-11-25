@@ -1,8 +1,10 @@
 ---
 title: 防抖与节流模式(Debounce & Throttle)
+aliases:
+  - 防抖与节流模式 (Debounce & Throttle)
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 防抖与节流模式 (Debounce & Throttle)

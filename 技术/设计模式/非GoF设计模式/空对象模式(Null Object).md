@@ -1,8 +1,10 @@
 ---
 title: 空对象模式(Null Object)
+aliases:
+  - 空对象模式 (Null Object)
 tags: []
 date created: 2023-03-07 13:41:28
-date updated: 2023-11-25 03:01:22
+date updated: 2023-11-25 13:50:50
 ---
 
 # 空对象模式 (Null Object)
