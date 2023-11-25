@@ -1,10 +1,8 @@
 ---
-title: Pinia与Vuex
-aliases:
-  - Pinia 与 Vuex
+title: Pinia 与 Vuex
 tags: []
 date created: 2022-12-12 17:53:03
-date updated: 2023-11-25 13:50:54
+date updated: 2023-11-25 14:25:20
 ---
 
 # Pinia 与 Vuex
@@ -34,3 +32,5 @@ Pinia 的缺点
 
 - ~~不支持时间旅行和编辑等调试功能~~（已支持）
 ![[Pasted image 20230310191049.png]] ![[Pasted image 20230310191054.png]]
+
+
