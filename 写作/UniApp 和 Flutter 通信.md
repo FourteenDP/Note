@@ -1,7 +1,8 @@
 ---
 title: UniApp 和 Flutter 通信
+tags: 
 date created: 2023-01-12 13:18:11
-date updated: 2023-11-25 14:37:25
+date updated: 2023-11-25 14:42:39
 ---
 
 # UniApp 和 Flutter 通信

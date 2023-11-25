@@ -1,7 +1,8 @@
 ---
 title: "YAGNI 原则 (You Ain't Gonna Need It)"
+tags: 
 date created: 2023-03-02 14:48:43
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # YAGNI 原则 (You Ain't Gonna Need It)

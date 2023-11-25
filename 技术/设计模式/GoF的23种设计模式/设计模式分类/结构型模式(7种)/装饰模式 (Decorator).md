@@ -1,7 +1,8 @@
 ---
 title: 装饰模式 (Decorator)
+tags: 
 date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # 装饰模式 (Decorator)

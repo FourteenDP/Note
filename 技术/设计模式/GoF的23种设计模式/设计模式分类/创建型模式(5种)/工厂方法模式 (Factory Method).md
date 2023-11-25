@@ -1,7 +1,8 @@
 ---
 title: 工厂方法模式 (Factory Method)
+tags: 
 date created: 2023-03-07 14:08:22
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # 工厂方法模式 (Factory Method)

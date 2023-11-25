@@ -1,7 +1,8 @@
 ---
 title: 适配器模式 (Adapter)
+tags: 
 date created: 2023-03-07 14:11:07
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # 适配器模式 (Adapter)

@@ -1,7 +1,8 @@
 ---
 title: WSL 登录 Root
+tags: 
 date created: 2022-08-08 21:35:17
-date updated: 2023-11-25 14:37:21
+date updated: 2023-11-25 14:42:36
 ---
 
 # WSL 登录 Root

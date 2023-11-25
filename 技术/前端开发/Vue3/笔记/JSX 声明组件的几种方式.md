@@ -1,7 +1,8 @@
 ---
 title: JSX 声明组件的几种方式
+tags: 
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:37:23
+date updated: 2023-11-25 14:42:37
 ---
 
 # JSX 声明组件的几种方式

@@ -1,7 +1,8 @@
 ---
 title: Linux 查看硬件和系统信息
+tags: 
 date created: 2022-07-18 21:00:05
-date updated: 2023-11-25 14:37:21
+date updated: 2023-11-25 14:42:36
 ---
 
 # Linux 查看硬件和系统信息

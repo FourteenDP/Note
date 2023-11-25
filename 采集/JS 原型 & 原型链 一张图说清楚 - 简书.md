@@ -1,10 +1,8 @@
 ---
 title: JS 原型 & 原型链 一张图说清楚 - 简书
-tags:
-  - JavaScript
-  - 原型链
+tags: []
 date created: 2023-05-07 14:01:33
-date updated: 2023-11-25 03:35:18
+date updated: 2023-11-25 14:41:56
 ---
 
 # JS 原型 & 原型链 一张图说清楚 - 简书
@@ -163,5 +161,3 @@ console.log(Function.constructor); // ƒ Function() { [native code] }
 可以看到 Function 函数的构造函数就是本身了，那我们也就可以说 Function 是所有函数的根构造函数。
 
 到这里我们已经对 constructor 属性有了一个初步的认识，它的作用是从一个对象指向一个函数，这个函数就是该对象的构造函数。通过栗子我们可以看到，`p1` 的 `constructor` 属性指向了 `Parent`，那么 `Parent` 就是 `p1` 的构造函数。同样 `Parent` 的 `constructor` 属性指向了 `Function`，那么 `Function` 就是 `Parent` 的构造函数，然后又验证了 `Function` 就是根构造函数。
-
-

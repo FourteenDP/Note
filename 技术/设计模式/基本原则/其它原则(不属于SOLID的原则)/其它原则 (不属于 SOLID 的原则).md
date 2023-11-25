@@ -1,7 +1,8 @@
 ---
 title: 其它原则 (不属于 SOLID 的原则)
+tags: 
 date created: 2023-03-02 01:01:25
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # 其它原则 (不属于 SOLID 的原则)

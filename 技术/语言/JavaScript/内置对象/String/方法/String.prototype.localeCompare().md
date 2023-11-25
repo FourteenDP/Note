@@ -1,7 +1,8 @@
 ---
 title: String.prototype.localeCompare()
+tags: 
 date created: 2022-12-10 16:56:04
-date updated: 2023-11-25 14:37:19
+date updated: 2023-11-25 14:42:34
 ---
 
 # String.prototype.localeCompare()

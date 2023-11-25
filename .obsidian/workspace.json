@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#中国近现代史",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md"
+                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
+                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +187,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a547515d7c6a3c21",
+  "active": "045f07e50dc53fea",
   "lastOpenFiles": [
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/- 中共中央关于全面推进依法治国若干重大问题的决定 - 的说明.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/- 四洲志 -.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/- 民报 - 发刊词.md",
+    "自考/资料/KM01-中国近现代史纲要/04-XMIND-中国近代史纲要思维导图/中国近代史纲要思维导图.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/民报与新民丛报辩驳之纲领.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
     "技术/设计模式/基本原则/其它原则(不属于SOLID的原则)/YAGNI 原则 (You Ain't Gonna Need It).md",
     "技术/操作系统/Linux/WSL SSH 远程连接.md",
     "技术/操作系统/Windows/Windows 创建软连接.md",
@@ -215,7 +216,6 @@
     "技术/操作系统/Linux/Linux 常用命令.md",
     "技术/操作系统/Linux/Linux 查看硬件和系统信息.md",
     "技术/操作系统/Linux/Linux 安装 Node 版本管理器 Nvm.md",
-    "技术/操作系统/Linux/Linux 安装命令行工具 Oh My Zsh.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Pasted image 20220713154807.png",
     "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",

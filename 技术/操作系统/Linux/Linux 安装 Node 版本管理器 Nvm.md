@@ -1,7 +1,8 @@
 ---
 title: Linux 安装 Node 版本管理器 Nvm
+tags: 
 date created: 2022-08-09 21:46:04
-date updated: 2023-11-25 14:37:21
+date updated: 2023-11-25 14:42:36
 ---
 
 # Linux 安装 Node 版本管理器 Nvm

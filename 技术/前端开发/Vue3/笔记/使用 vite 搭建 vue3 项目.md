@@ -1,7 +1,8 @@
 ---
 title: 使用 vite 搭建 vue3 项目
+tags: 
 date created: 2022-12-16 09:42:48
-date updated: 2023-11-25 14:37:23
+date updated: 2023-11-25 14:42:38
 url: "https://juejin.cn/post/7231016319863521337"
 ---
 

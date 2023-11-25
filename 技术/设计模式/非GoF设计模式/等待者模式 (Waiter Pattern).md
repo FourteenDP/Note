@@ -1,7 +1,8 @@
 ---
 title: 等待者模式 (Waiter Pattern)
+tags: 
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:37:20
+date updated: 2023-11-25 14:42:35
 ---
 
 # 等待者模式 (Waiter Pattern)

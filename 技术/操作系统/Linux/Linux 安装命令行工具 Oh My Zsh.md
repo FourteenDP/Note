@@ -1,7 +1,8 @@
 ---
 title: Linux 安装命令行工具 Oh My Zsh
+tags: 
 date created: 2022-08-09 22:35:37
-date updated: 2023-11-25 14:37:21
+date updated: 2023-11-25 14:42:36
 ---
 
 # Linux 安装命令行工具 Oh My Zsh

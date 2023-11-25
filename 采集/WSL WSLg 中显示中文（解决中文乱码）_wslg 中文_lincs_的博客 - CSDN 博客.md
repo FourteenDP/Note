@@ -1,8 +1,10 @@
 ---
 title: WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客
+aliases:
+  - WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客
 tags: []
 date created: 2023-03-22 19:47:53
-date updated: 2023-11-25 03:00:18
+date updated: 2023-11-25 14:41:56
 ---
 
 # WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客

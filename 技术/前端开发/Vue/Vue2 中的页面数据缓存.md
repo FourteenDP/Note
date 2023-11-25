@@ -1,7 +1,8 @@
 ---
 title: Vue2 中的页面数据缓存
+tags: 
 date created: 2022-06-11 14:39:00
-date updated: 2023-11-25 14:37:23
+date updated: 2023-11-25 14:42:38
 ---
 
 # Vue2 中的页面数据缓存

@@ -2,7 +2,7 @@
 title: setTimeout 和 setInterval，你们两位同学注意点时间~
 tags: []
 date created: 2023-01-11 11:00:10
-date updated: 2023-11-25 03:00:18
+date updated: 2023-11-25 14:41:56
 ---
 
 # setTimeout 和 setInterval，你们两位同学注意点时间~
