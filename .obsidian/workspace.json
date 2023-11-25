@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -80,7 +80,7 @@
       {
         "id": "8f3b831dde16bfc1",
         "type": "tabs",
-        "dimension": 54.36893203883495,
+        "dimension": 65.58441558441558,
         "children": [
           {
             "id": "80c90690f4b570fc",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md"
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md"
               }
             }
           },
@@ -127,7 +127,7 @@
       {
         "id": "02db7ed448796d0d",
         "type": "tabs",
-        "dimension": 45.63106796116505,
+        "dimension": 34.41558441558441,
         "children": [
           {
             "id": "5e92cd887cc77faa",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,14 +160,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
+                "file": "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +186,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "f1b850cac2e96359",
   "lastOpenFiles": [
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
+    "测试文件.md",
+    "日志/2023/2023-02-28.md",
+    "日志/2023/2023-03-01.md",
+    "日志/2023/2023-03-04.md",
+    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/- 中共中央关于全面推进依法治国若干重大问题的决定 - 的说明.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/- 四洲志 -.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/- 民报 - 发刊词.md",
@@ -209,13 +214,7 @@
     "写作/UniApp 和 Flutter 通信.md",
     "技术/前端开发/UniApp/UniApp 踩坑指南.md",
     "技术/前端开发/UniApp/UniApp-String.prototype.localeCompare() 踩坑.md",
-    "技术/前端开发/Vue3/笔记/Pinia 与 Vuex.md",
-    "技术/前端开发/其它/node 的 process.nextTick.md",
-    "技术/操作系统/Linux/Linux 目录结构和作用.md",
     "-附件-/Linux目录结构.png",
-    "技术/操作系统/Linux/Linux 常用命令.md",
-    "技术/操作系统/Linux/Linux 查看硬件和系统信息.md",
-    "技术/操作系统/Linux/Linux 安装 Node 版本管理器 Nvm.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Pasted image 20220713154807.png",
     "-附件-/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",

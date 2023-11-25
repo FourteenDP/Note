@@ -1,10 +1,8 @@
 ---
-title: WSL WSLg 中显示中文（解决中文乱码）_wslg 中文_lincs_的博客 - CSDN 博客
-aliases:
-  - WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客
+title: WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客
 tags: []
-date created: 2023-03-22 19:47:53
-date updated: 2023-11-25 14:41:56
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-25 19:53:097
 ---
 
 # WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客
@@ -41,8 +39,5 @@ sudo vim /etc/fonts/local.conf
 - 开启 WSL 下的图形界面编辑器 gedit，还有效果图：
 
 ```
-gedit cn.txt
 
-```
 
-![](https://img-blog.csdnimg.cn/655f24dada204c2e90f4ed5164adc2a6.png)
