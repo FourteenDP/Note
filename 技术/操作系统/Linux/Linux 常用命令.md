@@ -1,10 +1,8 @@
 ---
-title: Linux常用命令
-aliases:
-  - Linux 常用命令
+title: Linux 常用命令
 tags: []
 date created: 2022-08-09 22:13:35
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:22:46
 ---
 
 # Linux 常用命令
@@ -20,3 +18,5 @@ date updated: 2023-11-25 13:50:52
 - 删除包并且删除包的配置文件: `apt remove --purge packageName`
 - 删除未使用的依赖项 `apt --purge autoremove`
 - 刷新 shell 环境:`source ~/.zshrc
+
+

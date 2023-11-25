@@ -1,10 +1,8 @@
 ---
-title: APP混合开发
-aliases:
-  - APP 混合开发
+title: APP 混合开发
 tags: []
 date created: 2022-06-22 10:53:28
-date updated: 2023-11-25 13:50:53
+date updated: 2023-11-25 14:18:49
 ---
 
 # APP 混合开发
@@ -46,3 +44,5 @@ date updated: 2023-11-25 13:50:53
 
 - 此插件已经不维护了，目前也没有开源，只留下了一个空项目
 - 目前我觉的可以研究 react native 和 flutter 的通信方案，看是否能得出 uniapp 的通信方案
+
+

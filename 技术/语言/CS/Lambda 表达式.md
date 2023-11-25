@@ -1,10 +1,8 @@
 ---
-title: Lambda表达式
-aliases:
-  - Lambda 表达式
+title: Lambda 表达式
 tags: []
 date created: 2022-12-12 08:55:05
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:21:54
 ---
 
 # Lambda 表达式
@@ -53,3 +51,5 @@ Console.WriteLine(func(5)); // 25
 ## 参考
 
 - [Lambda 表达式（C# 引用）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)
+
+

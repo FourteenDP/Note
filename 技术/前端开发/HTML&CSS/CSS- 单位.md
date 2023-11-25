@@ -1,17 +1,13 @@
 ---
-title: CSS-单位
-aliases:
-  - CSS- 单位
+title: CSS- 单位
 tags: []
 date created: 2022-12-12 10:56:38
-date updated: 2023-11-25 13:50:55
+date updated: 2023-11-25 14:19:35
 ---
 
 # CSS- 单位
 
-## CSS- 单位
-
-### 相对单位
+## 相对单位
 
 - 字体
   - em
@@ -32,7 +28,7 @@ date updated: 2023-11-25 13:50:55
   - vmax
     - 是相对于视口宽度和高度中较大的那个的百分比。
 
-### 绝对单位
+## 绝对单位
 
 - px
   - 是相对于显示器屏幕分辨率的，也就是 1px = 1/96th of 1in。
@@ -49,12 +45,12 @@ date updated: 2023-11-25 13:50:55
 - pc
   - 是相对于显示器屏幕分辨率的，也就是 1pc = 12pt。
 
-### 百分比
+## 百分比
 
 - %
   - 是相对于父元素的百分比。
 
-### 分辨率
+## 分辨率
 
 - dpi
   - 是相对于显示器屏幕分辨率的，也就是 1dpi = 1dpcm = 1dppx。
@@ -70,3 +66,5 @@ date updated: 2023-11-25 13:50:55
 - [CSS Units for Responsive Design](https://www.sitepoint.com/css-units-responsive-design-why-its-still-a-big-deal/)
 - [浏览器渲染小数像素 - 简书](https://www.jianshu.com/p/e2a801e0347f)
 - [浏览器的最小渲染单位不是 1px？ - V2EX](https://v2ex.com/t/760925)
+
+

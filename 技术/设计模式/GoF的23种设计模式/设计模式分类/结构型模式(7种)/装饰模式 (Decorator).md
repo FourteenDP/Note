@@ -1,10 +1,8 @@
 ---
-title: 装饰模式(Decorator)
-aliases:
-  - 装饰模式 (Decorator)
+title: 装饰模式 (Decorator)
 tags: []
 date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:18:18
 ---
 
 # 装饰模式 (Decorator)
@@ -20,3 +18,5 @@ date updated: 2023-11-25 13:50:51
   - 装饰（Decorator）角色：持有一个构件（Component）对象的实例，并定义一个与抽象构件接口一致的接口
   - 具体装饰（Concrete Decorator）角色：负责给构件对象 " 贴上 " 附加的责任
   - 客户（Client）类：通过装饰角色为构件动态地添加职责
+
+

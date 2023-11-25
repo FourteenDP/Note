@@ -13,8 +13,8 @@ date updated: 2023-11-25 13:50:52
 - Wget: `apt install wget`
 - Curl: `apt install curl`
 - Axel: `apt install axel`
-- Nvm: [[Linux安装Node版本管理器Nvm]]
-- Zsh: [[Linux安装命令行工具Oh My Zsh]]
+- Nvm: [[Linux 安装 Node 版本管理器 Nvm]]
+- Zsh: [[Linux 安装命令行工具 Oh My Zsh]]
 - [ZeroTier – Global Area Networking](https://www.zerotier.com/)
 - Openssh-server: [[WSL SSH 远程连接]]
 - [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf#installation): 终端文件管理

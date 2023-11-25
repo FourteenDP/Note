@@ -1,10 +1,8 @@
 ---
-title: call、apply、bind的区别
-aliases:
-  - call、apply、bind 的区别
+title: call、apply、bind 的区别
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-25 13:50:50
+date updated: 2023-11-25 14:19:00
 ---
 
 # call、apply、bind 的区别
@@ -72,3 +70,5 @@ var newTest = test.bind(obj, 1);
 newTest(2); // obj 1 2
 
 ```
+
+

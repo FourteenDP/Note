@@ -1,10 +1,8 @@
 ---
-title: Linux安装命令行工具Oh My Zsh
-aliases:
-  - Linux 安装命令行工具 Oh My Zsh
+title: Linux 安装命令行工具 Oh My Zsh
 tags: []
 date created: 2022-08-09 22:35:37
-date updated: 2023-11-25 13:50:52
+date updated: 2023-11-25 14:22:20
 ---
 
 # Linux 安装命令行工具 Oh My Zsh
@@ -24,7 +22,7 @@ sudo apt install zsh
 
 ## 设置为默认 Shell
 
-![[Linux常用命令#^244e71]]
+![[Linux 常用命令#^244e71]]
 
 ## Oh My Zsh
 
@@ -37,3 +35,5 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+

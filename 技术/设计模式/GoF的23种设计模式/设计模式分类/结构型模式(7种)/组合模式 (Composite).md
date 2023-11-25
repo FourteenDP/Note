@@ -1,10 +1,8 @@
 ---
-title: 组合模式(Composite)
-aliases:
-  - 组合模式 (Composite)
+title: 组合模式 (Composite)
 tags: []
 date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 13:50:51
+date updated: 2023-11-25 14:18:30
 ---
 
 # 组合模式 (Composite)
@@ -19,3 +17,5 @@ date updated: 2023-11-25 13:50:51
   - 树叶构件（Leaf）角色：在组合中表示叶子节点对象，叶子节点没有子节点
   - 树枝构件（Composite）角色：定义有枝节点行为，用来存储子部件，在 Component 接口中实现与子部件有关的操作，如增加 (add) 和删除 (remove) 等
   - 客户（Client）类：通过 Component 接口操纵组合部件的对象
+
+
