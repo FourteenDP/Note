@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/操作系统/Linux/WSL 基本命令.md",
+                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "[\"url\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/WSL 基本命令.md"
+                "file": "技术/工程化/如何给 node_module 下的库打补丁.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/WSL 基本命令.md",
+                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/WSL 基本命令.md",
+                "file": "技术/工程化/如何给 node_module 下的库打补丁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,10 @@
   },
   "active": "a547515d7c6a3c21",
   "lastOpenFiles": [
+    "技术/工程化/Git 子仓库.md",
+    "技术/前端开发/Vue3/笔记/使用vite搭建vue3项目.md",
+    "技术/操作系统/Linux/Linux 开发环境配置.md",
+    "技术/操作系统/Linux/WSL 基本命令.md",
     "技术/操作系统/Linux/WSL 登录 Root.md",
     "技术/操作系统/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
     "技术/前端开发/web 框架与 cocos 的结合.md",
@@ -211,10 +215,6 @@
     "技术/语言/TypeScript/any 和 unknown 的区别.md",
     "技术/语言/CS/C#和.NET关系.md",
     "技术/语言/CS/C#0023和.NET关系.md",
-    "技术/语言/JavaScript/优雅的错误捕获处理.md",
-    "技术/前端开发/JavaScript/为什么使用 Settimeout 实现 Setinterval.md",
-    "拾肆/个人/项目经历.md",
-    "技术/前端开发/HTML&CSS/让 CSS Flex 布局最后一行列表左对齐.md",
     "-附件-/Pasted image 20230204210622.png",
     "-附件-/Linux目录结构.png",
     "-附件-/Pasted image 20220713154807.png",

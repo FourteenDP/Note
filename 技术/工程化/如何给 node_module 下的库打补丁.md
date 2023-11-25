@@ -1,13 +1,16 @@
 ---
-title: 如何给 node_module 下的库打补丁
-tags: []
-date created: 2023-03-11 22:33:07
-date updated: 2023-11-25 03:01:25
+Title: 如何给 node_module 下的库打补丁
+Aliases:
+  - 如何给 node_module 下的库打补丁
+  - 如何给 node_module 的库打补丁
+Tags: []
+date created: 2023-03-11 T22:33:07.000 Z
+date updated: 2023-03-11 T22:35:00.000 Z
+Theme: channing-cyan
+Highlight: atom-one-dark
 ---
 
-# 如何给 node_module 下的库打补丁
-
-## 解决办法如下
+# 解决办法如下
 
 - 直接修改 node_module 中的代码
   - 及其**不优雅**，协作时别人不会安装你修改的代码
@@ -41,6 +44,8 @@ yarn add patch-package postinstall-postinstall -D
 ```
 
 ### 下面以给 `Lodash` 修改 `_.get` 方法为例
+
+> 需要注意的是部分库导出的是压缩后的代码，所以需要压缩的库文件才会将修改生效，可以在 `package.json` 查看导出情况以及更改默认导出入口
 
 ```shell
 # 安装 lodash
@@ -94,14 +99,15 @@ index 8805ff9..79b973b 100644
 +    return 'hello world'
 +  }
    var result = object == null ? undefined : baseGet(object, path);
-   return result === undefined ? defaultValue : result;
+   Return result === undefined ? DefaultValue : result;
  }
 ```
 
 同事只需要运行一下 `npx patch-package` 或者运行 `npm run postinstall` 就会自动把补丁打到 `node_modules` 中啦
 
-![[Pasted image 20230311222955.png]]
 
-## 参考
+![Pasted image 20230311222955.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cb5251a69d6c451db5ced3edc1b29e86~tplv-k3u1fbpfcp-watermark.image?)
+
+## 关联
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)

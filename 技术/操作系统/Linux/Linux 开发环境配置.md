@@ -1,10 +1,8 @@
 ---
-title: WSL 开发环境配置
-aliases:
-  - Linux 开发环境配置
+title: Linux 开发环境配置
 tags: []
 date created: 2022-11-07 21:15:40
-date updated: 2023-11-25 03:01:24
+date updated: 2023-11-25 13:33:14
 ---
 
 # Linux 开发环境配置
@@ -16,3 +14,5 @@ date updated: 2023-11-25 03:01:24
 - [[技术/操作系统/Linux/Linux 常用下载器]]
 - [[Neovim 的安装和配置]]
 - [[Linux 常用工具]]
+
+
