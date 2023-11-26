@@ -67,7 +67,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "lib/EnglishCommon",
+  "customDictionaryPaths": "lib/EnglishCommon.txt",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
