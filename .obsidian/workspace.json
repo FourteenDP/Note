@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 279.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -189,6 +189,8 @@
   },
   "active": "ba5e1d7e4840ec2c",
   "lastOpenFiles": [
+    "README.md",
+    "测试文件.md",
     "lib/Template/日志/周总结.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
     "lib/Template/日志/季总结.md",
@@ -199,7 +201,6 @@
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "拾肆/个人/前端面试手册.md",
-    "测试文件.md",
     "Spaces/Home/Untitled.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
@@ -221,7 +222,6 @@
     "lib/English.txt",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
     "日志/2023/2023-11-25.md",
-    "README.md",
     "-附件-/Pasted image 20221013000116.png",
     "日志/2023/2023-02-28.md",
     "-附件-/Linux目录结构.png",
