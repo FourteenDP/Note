@@ -1,9 +1,9 @@
 ---
 title: 接口隔离原则 ISP(Interface Segregation Principle)
 tags: []
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 10:51:02
 uid: 1683439291489
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 11:27:39
 ---
 
 # 接口隔离原则 ISP(Interface Segregation Principle)

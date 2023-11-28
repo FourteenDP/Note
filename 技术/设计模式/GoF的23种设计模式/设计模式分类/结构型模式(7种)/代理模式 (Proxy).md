@@ -1,9 +1,9 @@
 ---
 title: 代理模式 (Proxy)
 tags: []
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 10:51:03
 uid: 1683439291301
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 11:27:40
 ---
 
 # 代理模式 (Proxy)

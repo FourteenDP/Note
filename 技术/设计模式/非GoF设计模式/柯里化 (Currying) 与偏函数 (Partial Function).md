@@ -1,9 +1,9 @@
 ---
 title: 柯里化 (Currying) 与偏函数 (Partial Function)
 tags: []
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 10:51:02
 uid: 1683439291759
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 11:27:39
 ---
 
 # 柯里化 (Currying) 与偏函数 (Partial Function)
