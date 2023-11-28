@@ -22,7 +22,7 @@ npm install -g @vue/cli
 vue create -p dcloudio/uni-preset-vue my-project
 ```
 
-![[../../-附件-/Pasted image 20230508183251.png]]
+![[Pasted image 20230508183251.png]]
 
 ## Vue 3
 

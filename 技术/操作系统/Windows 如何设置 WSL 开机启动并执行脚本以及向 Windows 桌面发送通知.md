@@ -15,7 +15,7 @@ url: 'https://juejin.cn/post/7235177983311642685'
 
 - 打开 Windows 开机启动执行目录 `Win` + `R` 输入 `shell:startup`,新建一个 `vbs` 脚本
 
-![[../../-附件-/Pasted image 20230520213714.png]]
+![[Pasted image 20230520213714.png]]
 
 ## 编写 WSL 启动脚本
 
@@ -37,12 +37,12 @@ ws.Run "powershell.exe -Command ""wsl -d Debian -u admin""", vbhide
 
 ## WSL 向 Windows 桌面发送通知
 
-![[../../-附件-/Pasted image 20230520220103.png]]
+![[Pasted image 20230520220103.png]]
 
 - 用管理员的方式打开 `PowerShell` 安装 [BurntToast](https://github.com/Windos/BurntToast),执行 `Install-Module -Name BurntToast` 现在你可以尝试，在 `PowerShell` 里向桌面发送通知啦
 - `New-BurntToastNotification`,更多示例请看文档 [BurntToast](https://github.com/Windos/BurntToast)
-![[../../-附件-/Pasted image 20230520221203.png]]
+![[Pasted image 20230520221203.png]]
 
 下面只需要在 WSL 里执行 `PowerShell` 命令就可以啦
 
-![[../../-附件-/Pasted image 20230520222414.png]]
+![[Pasted image 20230520222414.png]]
