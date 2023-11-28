@@ -1,8 +1,9 @@
 ---
 title: 工程化之 GIt 提交自动转换行尾字符 GitAttributes
-tags: 
-date created: 2023-05-08 19:03:21
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2023-05-09 03:03:21'
+date updated: '2023-11-25 22:42:36'
+uid: 1684032009200
 ---
 
 # 工程化之 GIt 提交自动转换行尾字符 GitAttributes

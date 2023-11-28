@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/待完成.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "写作/待完成.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/待完成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "写作/待完成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +189,7 @@
   },
   "active": "d084f91c141f47e5",
   "lastOpenFiles": [
+    "测试文件.md",
     "lib/Run/temp1.md",
     "lib/Run/temp.md",
     "lib/Run/md",
@@ -196,7 +197,6 @@
     "lib/Run",
     "lib/Rrun",
     "README.md",
-    "测试文件.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1976-1989/关于建国以来党的若干历史问题的决议.md",
     "-附件-/原型链.png",
     "lib/Template/日志/周总结.md",

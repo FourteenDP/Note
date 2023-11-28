@@ -1,8 +1,9 @@
 ---
 title: 事件总线 (Event Bus)
-tags: 
-date created: 2023-03-07 13:41:28
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 21:41:28'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291654
 ---
 
 # 事件总线 (Event Bus)

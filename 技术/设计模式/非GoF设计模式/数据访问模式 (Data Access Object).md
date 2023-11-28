@@ -1,8 +1,9 @@
 ---
 title: 数据访问模式 (Data Access Object)
-tags: 
-date created: 2023-03-07 13:41:30
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 21:41:30'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291757
 ---
 
 # 数据访问模式 (Data Access Object)

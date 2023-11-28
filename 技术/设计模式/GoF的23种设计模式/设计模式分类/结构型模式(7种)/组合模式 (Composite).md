@@ -1,8 +1,9 @@
 ---
 title: 组合模式 (Composite)
-tags: 
-date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 22:11:08'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291309
 ---
 
 # 组合模式 (Composite)

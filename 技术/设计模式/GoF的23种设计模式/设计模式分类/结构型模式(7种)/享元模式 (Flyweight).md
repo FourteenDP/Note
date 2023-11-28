@@ -1,8 +1,9 @@
 ---
 title: 享元模式 (Flyweight)
-tags: 
-date created: 2023-03-07 14:11:09
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 22:11:09'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291299
 ---
 
 # 享元模式 (Flyweight)

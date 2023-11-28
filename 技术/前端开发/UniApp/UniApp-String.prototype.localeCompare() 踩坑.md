@@ -1,8 +1,9 @@
 ---
 title: UniApp-String.prototype.localeCompare() 踩坑
-tags: 
-date created: 2022-12-10 16:09:21
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-12-11 00:09:21'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291132
 ---
 
 # UniApp-String.prototype.localeCompare() 踩坑

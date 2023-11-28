@@ -1,8 +1,9 @@
 ---
 title: TypeScript
-tags: 
-date created: 2023-03-10 00:56:46
-date updated: 2023-11-25 14:42:34
+tags: null
+date created: '2023-03-10 08:56:46'
+date updated: '2023-11-25 22:42:34'
+uid: 1683439292200
 ---
 
 # TypeScript

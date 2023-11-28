@@ -1,8 +1,9 @@
 ---
 title: 通过 CLI 构建 UniApp 项目
-tags: 
-date created: 2023-05-08 18:28:07
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2023-05-09 02:28:07'
+date updated: '2023-11-25 22:42:36'
+uid: 1684032009204
 ---
 
 # 通过 CLI 构建 UniApp 项目

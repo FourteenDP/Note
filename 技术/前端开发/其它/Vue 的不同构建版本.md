@@ -1,8 +1,9 @@
 ---
 title: Vue 的不同构建版本
-tags: 
-date created: 2022-06-23 21:55:45
-date updated: 2023-11-25 14:42:37
+tags: null
+date created: '2022-06-24 05:55:45'
+date updated: '2023-11-25 22:42:37'
+uid: 1683439291196
 ---
 
 # Vue 的不同构建版本

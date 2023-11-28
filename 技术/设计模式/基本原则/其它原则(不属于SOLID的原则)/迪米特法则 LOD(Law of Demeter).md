@@ -1,8 +1,9 @@
 ---
 title: 迪米特法则 LOD(Law of Demeter)
-tags: 
-date created: 2023-03-02 14:48:42
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-02 22:48:42'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291528
 ---
 
 # 迪米特法则 LOD(Law of Demeter)

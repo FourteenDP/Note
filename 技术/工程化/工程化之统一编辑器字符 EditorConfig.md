@@ -1,8 +1,9 @@
 ---
 title: 工程化之统一编辑器字符 EditorConfig
-tags: 
-date created: 2023-05-08 18:46:15
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2023-05-09 02:46:15'
+date updated: '2023-11-25 22:42:36'
+uid: 1684032009203
 ---
 
 # 工程化之统一编辑器字符 EditorConfig

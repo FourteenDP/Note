@@ -1,8 +1,9 @@
 ---
 title: Linux 常用命令
-tags: 
-date created: 2022-08-09 22:13:35
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2022-08-10 06:13:35'
+date updated: '2023-11-25 22:42:36'
+uid: 1683439291249
 ---
 
 # Linux 常用命令

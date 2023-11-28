@@ -1,8 +1,9 @@
 ---
 title: Vite 全局样式注入
-tags: 
-date created: 2022-12-12 02:18:30
-date updated: 2023-11-25 14:42:37
+tags: null
+date created: '2022-12-12 10:18:30'
+date updated: '2023-11-25 22:42:37'
+uid: 1683439291194
 ---
 
 # Vite 全局样式注入

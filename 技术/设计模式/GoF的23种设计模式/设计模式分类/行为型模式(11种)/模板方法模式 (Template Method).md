@@ -1,8 +1,9 @@
 ---
 title: 模板方法模式 (Template Method)
-tags: 
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-05-07 22:01:31'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291329
 ---
 
 # 模板方法模式 (Template Method)

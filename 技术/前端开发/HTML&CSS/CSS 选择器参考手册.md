@@ -1,8 +1,9 @@
 ---
 title: CSS 选择器参考手册
-tags: 
-date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-06-21 03:58:18'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291107
 ---
 
 # CSS 选择器参考手册

@@ -1,8 +1,9 @@
 ---
 title: any 和 unknown 的区别
-tags: 
-date created: 2022-12-13 15:02:18
-date updated: 2023-11-25 14:42:34
+tags: null
+date created: '2022-12-13 23:02:18'
+date updated: '2023-11-25 22:42:34'
+uid: 1683439292201
 ---
 
 # any 和 unknown 的区别

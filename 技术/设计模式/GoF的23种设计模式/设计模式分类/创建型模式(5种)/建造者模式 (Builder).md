@@ -1,8 +1,9 @@
 ---
 title: 建造者模式 (Builder)
-tags: 
-date created: 2023-03-07 14:08:23
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 22:08:23'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291293
 ---
 
 # 建造者模式 (Builder)

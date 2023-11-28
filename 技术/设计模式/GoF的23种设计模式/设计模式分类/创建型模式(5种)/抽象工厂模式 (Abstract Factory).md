@@ -1,8 +1,9 @@
 ---
 title: 抽象工厂模式 (Abstract Factory)
-tags: 
-date created: 2023-03-07 14:08:22
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 22:08:22'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291295
 ---
 
 # 抽象工厂模式 (Abstract Factory)

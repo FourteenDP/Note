@@ -1,8 +1,9 @@
 ---
 title: 委托模式 (Delegate)
-tags: 
-date created: 2023-03-07 13:41:29
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 21:41:29'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291656
 ---
 
 # 委托模式 (Delegate)

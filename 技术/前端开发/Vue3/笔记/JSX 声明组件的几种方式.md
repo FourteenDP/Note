@@ -1,8 +1,9 @@
 ---
 title: JSX 声明组件的几种方式
-tags: 
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-25 14:42:37
+tags: null
+date created: '2023-05-07 22:01:31'
+date updated: '2023-11-25 22:42:37'
+uid: 1683439291159
 ---
 
 # JSX 声明组件的几种方式

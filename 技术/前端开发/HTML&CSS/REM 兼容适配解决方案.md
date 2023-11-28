@@ -1,8 +1,9 @@
 ---
 title: REM 兼容适配解决方案
-tags: 
-date created: 2022-12-12 10:52:57
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-12-12 18:52:57'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291108
 ---
 
 # REM 兼容适配解决方案

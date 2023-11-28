@@ -1,8 +1,9 @@
 ---
 title: KISS 原则 (Keep It Simple and Stupid)
-tags: 
-date created: 2023-03-02 14:48:42
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-02 22:48:42'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291500
 ---
 
 # KISS 原则 (Keep It Simple and Stupid)

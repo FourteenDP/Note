@@ -1,8 +1,9 @@
 ---
 title: image 标签图片的白边
-tags: 
-date created: 2022-06-28 10:54:26
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-06-28 18:54:26'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291110
 ---
 
 # image 标签图片的白边

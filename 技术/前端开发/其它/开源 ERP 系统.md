@@ -1,8 +1,9 @@
 ---
 title: 开源 ERP 系统
-tags: 
-date created: 2022-08-03 19:58:55
-date updated: 2023-11-25 14:42:37
+tags: null
+date created: '2022-08-04 03:58:55'
+date updated: '2023-11-25 22:42:37'
+uid: 1683439291208
 ---
 
 # 开源 ERP 系统

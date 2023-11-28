@@ -1,8 +1,9 @@
 ---
 title: 装饰模式 (Decorator)
-tags: 
-date created: 2023-03-07 14:11:08
-date updated: 2023-11-25 14:42:35
+tags: null
+date created: '2023-03-07 22:11:08'
+date updated: '2023-11-25 22:42:35'
+uid: 1683439291312
 ---
 
 # 装饰模式 (Decorator)

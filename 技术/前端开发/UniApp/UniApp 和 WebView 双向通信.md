@@ -1,8 +1,9 @@
 ---
 title: UniApp 和 WebView 双向通信
-tags: 
-date created: 2022-07-20 13:58:09
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-07-20 21:58:09'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291134
 ---
 
 # UniApp 和 WebView 双向通信

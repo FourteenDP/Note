@@ -1,8 +1,9 @@
 ---
 title: Linux 安装卸载 Rust
-tags: 
-date created: 2022-08-14 11:53:49
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2022-08-14 19:53:49'
+date updated: '2023-11-25 22:42:36'
+uid: 1683439291241
 ---
 
 # Linux 安装卸载 Rust

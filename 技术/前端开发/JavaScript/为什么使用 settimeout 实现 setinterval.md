@@ -1,8 +1,9 @@
 ---
 title: 为什么使用 Settimeout 实现 Setinterval
-tags: 
-date created: 2022-06-20 19:58:19
-date updated: 2023-11-25 14:42:38
+tags: null
+date created: '2022-06-21 03:58:19'
+date updated: '2023-11-25 22:42:38'
+uid: 1683439291123
 ---
 
 # 为什么使用 Settimeout 实现 Setinterval

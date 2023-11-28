@@ -1,8 +1,9 @@
 ---
 title: Windows 终端设置代理
-tags: 
-date created: 2022-06-20 19:58:18
-date updated: 2023-11-25 14:42:36
+tags: null
+date created: '2022-06-21 03:58:18'
+date updated: '2023-11-25 22:42:36'
+uid: 1683439291265
 ---
 
 # Windows 终端设置代理
