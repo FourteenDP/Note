@@ -1,17 +1,18 @@
 ---
-title: 为什么使用 settimeout 实现 setinterval
-aliases:
-  - 为什么使用 Settimeout 实现 Setinterval
-tags: []
+title: 为什么使用 setTimeout 实现 setInterval
+tags:
+  - 采集
 uid: 1683439291123
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:42
+date updated: 2023-11-28 15:47:32
 ---
 
-# 为什么使用 Settimeout 实现 Setinterval
+# 为什么使用 setTimeout 实现 setInterval
 
 ## 参考
 
 - [为什么要用 setTimeout 实现 setInterval - 掘金](https://juejin.cn/post/6994969893141479454)
 - [【前端】关于setTimeout的那些事，setTimeout休眠延时。_咸阳湖宣传大使的博客-CSDN博客_settimeout休眠](https://blog.csdn.net/weixin_44201257/article/details/123196921)
 - [setTimeout和setInterval的延迟如何解决？ - 知乎](https://www.zhihu.com/question/29648365/answer/1194944860)
+
+

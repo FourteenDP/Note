@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dece86669a559273",
+        "id": "0b4e1dd6223ec437",
         "type": "tabs",
         "children": [
           {
-            "id": "708888eb8bb4cf3b",
+            "id": "08e0bbb55989beca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件.md"
+                "file": "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md"
               }
             }
           },
@@ -121,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +160,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试文件.md",
+                "file": "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,10 +174,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
@@ -188,23 +188,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "708888eb8bb4cf3b",
+  "active": "08e0bbb55989beca",
   "lastOpenFiles": [
-    "附件/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "测试文件.md",
+    "技术/前端开发/JavaScript/为什么使用 setTimeout 实现 setInterval.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
+    "采集/写给前端的编译原理科普.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "README.md",
+    "测试文件.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
+    "附件/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "待办/📅任务管理.md",
     "待办/任务.md",
-    "技术/前端开发/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "开源/前端开发框架.md",
     "附件/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "开源/开源项目.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
-    "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "采集/CSS 选择器优先级权重 w3c 笔记.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
     "技术/设计模式/设计模式.md",
     "采集/实施前端微服务化的六七种方式.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
@@ -217,7 +219,6 @@
     "技术/操作系统/Linux/WSL 基本命令.md",
     "技术/设计模式/非GoF设计模式/非 GoF 设计模式.md",
     "技术/前端开发/HTML&CSS/采用 CSS 新特新实现虚拟列表.md",
-    "拾肆/个人/2022面试题总结/5、Vue 面试题.md",
     "lib/Run/md",
     "lib/Run/uid.js",
     "lib/Run",
@@ -236,7 +237,6 @@
     "附件/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "未命名.canvas",
     "SVG/submodule和subtree区别.excalidraw.svg",
-    "SVG/后端常见分层.drawio.svg",
     "日志/未命名.canvas"
   ]
 }
