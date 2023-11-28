@@ -1,6 +1,6 @@
 ---
 title: interface 和 type 的区别
-tags: null
+tags: []
 date created: '2022-12-12 23:48:54'
 date updated: '2023-11-25 22:42:34'
 uid: 1683439292210

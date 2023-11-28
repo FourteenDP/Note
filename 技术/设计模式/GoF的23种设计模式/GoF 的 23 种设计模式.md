@@ -1,6 +1,6 @@
 ---
 title: GoF 的 23 种设计模式
-tags: null
+tags: []
 date created: '2023-03-02 09:01:25'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291282

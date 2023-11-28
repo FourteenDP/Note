@@ -1,6 +1,6 @@
 ---
 title: 桥接模式 (Bridge)
-tags: null
+tags: []
 date created: '2023-03-07 22:11:07'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291308

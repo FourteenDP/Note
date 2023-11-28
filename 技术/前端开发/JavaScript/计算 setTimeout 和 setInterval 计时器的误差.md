@@ -1,6 +1,6 @@
 ---
 title: 计算 setTimeout 和 setInterval 计时器的误差
-tags: null
+tags: []
 date created: '2022-12-12 16:55:05'
 date updated: '2023-11-25 22:42:38'
 uid: 1683439291129

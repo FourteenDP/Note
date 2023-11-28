@@ -1,6 +1,6 @@
 ---
 title: 五大原则 (SOLID)
-tags: null
+tags: []
 date created: '2023-03-02 08:27:24'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291383

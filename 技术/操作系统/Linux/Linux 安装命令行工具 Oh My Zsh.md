@@ -1,6 +1,6 @@
 ---
 title: Linux 安装命令行工具 Oh My Zsh
-tags: null
+tags: []
 date created: '2022-08-10 06:35:37'
 date updated: '2023-11-25 22:42:36'
 uid: 1683439291247

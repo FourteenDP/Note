@@ -1,6 +1,6 @@
 ---
 title: String.prototype.localeCompare()
-tags: null
+tags: []
 date created: '2022-12-11 00:56:04'
 date updated: '2023-11-25 22:42:34'
 uid: 1683439292192

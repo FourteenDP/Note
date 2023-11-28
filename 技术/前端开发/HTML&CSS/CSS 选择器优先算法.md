@@ -1,6 +1,6 @@
 ---
 title: CSS 选择器优先算法
-tags: null
+tags: []
 date created: '2022-12-29 23:43:49'
 date updated: '2023-11-25 22:42:38'
 uid: 1683439291093

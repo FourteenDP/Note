@@ -1,6 +1,6 @@
 ---
 title: 依赖倒转原则 DIP(Dependence Inversion Principle)
-tags: null
+tags: []
 date created: '2023-03-02 22:46:23'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291385

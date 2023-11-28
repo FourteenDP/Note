@@ -1,6 +1,6 @@
 ---
 title: 单一职责原则 SRP(Single Responsibility Principle)
-tags: null
+tags: []
 date created: '2023-03-02 22:46:22'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291386

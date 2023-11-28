@@ -1,6 +1,6 @@
 ---
 title: 建造者模式 (Builder)
-tags: null
+tags: []
 date created: '2023-03-07 22:08:23'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291293

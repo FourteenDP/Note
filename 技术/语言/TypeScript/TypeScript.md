@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-tags: null
+tags: []
 date created: '2023-03-10 08:56:46'
 date updated: '2023-11-25 22:42:34'
 uid: 1683439292200

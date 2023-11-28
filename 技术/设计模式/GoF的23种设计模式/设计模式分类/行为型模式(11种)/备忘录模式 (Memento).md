@@ -1,6 +1,6 @@
 ---
 title: 备忘录模式 (Memento)
-tags: null
+tags: []
 date created: '2023-05-07 22:01:31'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291323

@@ -1,6 +1,6 @@
 ---
 title: 柯里化 (Currying) 与偏函数 (Partial Function)
-tags: null
+tags: []
 date created: '2023-03-07 11:33:29'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291759

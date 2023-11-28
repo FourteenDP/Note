@@ -1,6 +1,6 @@
 ---
 title: Linux 查看硬件和系统信息
-tags: null
+tags: []
 date created: '2022-07-19 05:00:05'
 date updated: '2023-11-25 22:42:36'
 uid: 1683439291250

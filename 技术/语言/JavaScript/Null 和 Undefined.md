@@ -1,6 +1,6 @@
 ---
 title: Null 和 Undefined
-tags: null
+tags: []
 date created: '2022-12-13 22:54:20'
 date updated: '2023-11-25 22:42:34'
 uid: 1683439292107

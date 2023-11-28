@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "340adcadd0f5e0b5",
+        "id": "7143252f7b3fdb5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d084f91c141f47e5",
+            "id": "dc8b733c305d02d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作/待完成.md",
+                "file": "README.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": true
               }
             }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#setDefaults",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作/待完成.md"
+                "file": "README.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "02db7ed448796d0d",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作/待完成.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写作/待完成.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d084f91c141f47e5",
+  "active": "dc8b733c305d02d7",
   "lastOpenFiles": [
     "测试文件.md",
+    "lib/Run/node_modules/argparse/CHANGELOG.md",
+    "写作/待完成.md",
+    "写作/UniApp 和 Flutter 通信.md",
     "lib/Run/temp1.md",
     "lib/Run/temp.md",
     "lib/Run/md",
@@ -221,9 +224,6 @@
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "采集/CSS 选择器优先级权重 w3c 笔记.md",
-    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-    "采集/写给前端的编译原理科普.md",
-    "采集/实施前端微服务化的六七种方式.md",
     "lib/script",
     "lib/新建文件夹",
     "-附件-/Pasted image 20221013000116.png",

@@ -1,6 +1,6 @@
 ---
 title: 接口隔离原则 ISP(Interface Segregation Principle)
-tags: null
+tags: []
 date created: '2023-03-02 22:46:23'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291489

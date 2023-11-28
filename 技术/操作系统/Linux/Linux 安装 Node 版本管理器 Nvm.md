@@ -1,6 +1,6 @@
 ---
 title: Linux 安装 Node 版本管理器 Nvm
-tags: null
+tags: []
 date created: '2022-08-10 05:46:04'
 date updated: '2023-11-25 22:42:36'
 uid: 1683439291246

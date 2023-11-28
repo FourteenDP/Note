@@ -1,6 +1,6 @@
 ---
 title: void 和 never 区别
-tags: null
+tags: []
 date created: '2022-12-13 22:45:27'
 date updated: '2023-11-25 22:42:34'
 uid: 1683439292498

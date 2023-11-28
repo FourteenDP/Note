@@ -1,6 +1,6 @@
 ---
 title: 链模式 (Chain Of Responsibility)
-tags: null
+tags: []
 date created: '2023-03-07 21:41:28'
 date updated: '2023-11-25 22:42:35'
 uid: 1683439291762
