@@ -2,7 +2,7 @@
 title: 分析 Vue2 中 Vue 与 VueComponent 的关系
 tags: []
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 10:48:43
+date updated: 2023-11-28 10:51:05
 uid: 1683439291152
 ---
 

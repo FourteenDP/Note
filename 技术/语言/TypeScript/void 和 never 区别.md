@@ -2,7 +2,7 @@
 title: void 和 never 区别
 tags: []
 date created: 2023-05-07 14:01:32
-date updated: 2023-11-28 10:48:39
+date updated: 2023-11-28 10:51:02
 uid: 1683439292498
 ---
 

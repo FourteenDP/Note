@@ -3,7 +3,7 @@ title: CSS 选择器优先级权重 w3c 笔记
 tags:
   - 采集
 date created: 2023-05-07 14:01:33
-date updated: 2023-11-28 10:48:01
+date updated: 2023-11-28 10:50:22
 uid: 1683439293651
 ---
 
