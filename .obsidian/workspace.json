@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
+                "file": "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"created\"]",
+                "query": "[\"updated\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md"
+                "file": "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
+                "file": "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
+                "file": "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,13 @@
   },
   "active": "045f07e50dc53fea",
   "lastOpenFiles": [
+    "技术/操作系统/Linux/WSL 基本命令.md",
+    "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
+    "技术/设计模式/非GoF设计模式/非 GoF 设计模式.md",
+    "技术/前端开发/HTML&CSS/采用 CSS 新特新实现虚拟列表.md",
+    "拾肆/个人/2022面试题总结/5、Vue 面试题.md",
+    "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01- 鸦片战争前的中国.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
@@ -214,13 +221,6 @@
     "lib/Template/日志/周总结.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
     "lib/Template/日志/季总结.md",
-    "lib/Template/日志/月总结.md",
-    "lib/Template/日志/日总结.md",
-    "lib/Template/日志/年总结.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
-    "拾肆/个人/前端面试手册.md",
-    "Spaces/Home/Untitled.md",
     "Spaces/Home",
     "Spaces",
     "lib/Script",
