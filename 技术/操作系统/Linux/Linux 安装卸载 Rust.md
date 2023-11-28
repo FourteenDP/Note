@@ -1,8 +1,8 @@
 ---
 title: Linux 安装卸载 Rust
 tags: []
-date created: '2022-08-14 19:53:49'
-date updated: '2023-11-25 22:42:36'
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 10:48:42
 uid: 1683439291241
 ---
 

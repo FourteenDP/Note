@@ -1,10 +1,10 @@
 ---
 title: 如何给 node_module 下的库打补丁
 tags: []
-date created: '2023-05-07 22:01:31'
-date updated: '2023-11-25 22:42:36'
-url: 'https://juejin.cn/post/7209245221887885372'
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 10:48:42
 uid: 1683439291233
+url: 'https://juejin.cn/post/7209245221887885372'
 ---
 
 # 如何给 node_module 下的库打补丁

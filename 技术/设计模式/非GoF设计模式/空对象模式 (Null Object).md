@@ -1,8 +1,8 @@
 ---
 title: 空对象模式 (Null Object)
 tags: []
-date created: '2023-05-07 22:01:31'
-date updated: '2023-11-25 22:42:35'
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 10:48:40
 uid: 1683439291760
 ---
 

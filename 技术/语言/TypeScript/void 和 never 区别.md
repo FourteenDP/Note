@@ -1,8 +1,8 @@
 ---
 title: void 和 never 区别
 tags: []
-date created: '2022-12-13 22:45:27'
-date updated: '2023-11-25 22:42:34'
+date created: 2023-05-07 14:01:32
+date updated: 2023-11-28 10:48:39
 uid: 1683439292498
 ---
 

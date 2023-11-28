@@ -1,8 +1,10 @@
 ---
-title: 为什么使用 Settimeout 实现 Setinterval
+title: 为什么使用 settimeout 实现 setinterval
+aliases:
+  - 为什么使用 Settimeout 实现 Setinterval
 tags: []
-date created: '2022-06-21 03:58:19'
-date updated: '2023-11-25 22:42:38'
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 10:48:44
 uid: 1683439291123
 ---
 

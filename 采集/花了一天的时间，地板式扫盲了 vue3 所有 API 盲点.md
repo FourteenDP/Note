@@ -1,9 +1,11 @@
 ---
-title: 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
+title: 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
+aliases:
+  - 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
 tags:
   - 采集
-date created: '2023-03-11 01:21:11'
-date updated: '2023-11-25 22:41:55'
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-28 10:48:00
 uid: 1683439293658
 ---
 

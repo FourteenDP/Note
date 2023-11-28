@@ -1,8 +1,8 @@
 ---
 title: UniApp 和 Flutter 通信
 tags: []
-date created: '2023-01-12 21:18:11'
-date updated: '2023-11-25 22:42:39'
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 10:48:48
 uid: 1683439291076
 ---
 

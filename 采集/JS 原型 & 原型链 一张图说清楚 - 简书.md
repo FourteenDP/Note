@@ -2,8 +2,8 @@
 title: JS 原型 & 原型链 一张图说清楚 - 简书
 tags:
   - 采集
-date created: '2023-05-07 22:01:33'
-date updated: '2023-11-25 22:41:56'
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-28 10:48:01
 uid: 1683439293655
 ---
 

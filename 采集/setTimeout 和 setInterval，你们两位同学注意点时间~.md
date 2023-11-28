@@ -2,8 +2,8 @@
 title: setTimeout 和 setInterval，你们两位同学注意点时间~
 tags:
   - 采集
-date created: '2023-01-11 19:00:10'
-date updated: '2023-11-25 22:41:56'
+date created: 2023-05-07 14:01:33
+date updated: 2023-11-28 10:48:01
 uid: 1683439293653
 ---
 
