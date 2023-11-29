@@ -2,6 +2,11 @@
 title: setTimeout 和 setInterval，你们两位同学注意点时间~
 tags:
   - 采集
+  - JavaScript
+  - setTimeout
+  - setInterval
+  - 编程概念
+  - 教程
 uid: 1683439293653
 date created: 2023-05-07 14:01:33
 date updated: 2023-11-28 11:27:04
@@ -25,7 +30,7 @@ date updated: 2023-11-28 11:27:04
     ```
       setTimeout('console.log(123);fn()', 2000)
     复制代码
-    
+
     ```
 
 - 第二个参数 delay，可选，单位是 ms，对于 `setTimeout` 是延迟时间，对于 `setInterval` 是间隔时间，默认都是 0
@@ -36,7 +41,7 @@ date updated: 2023-11-28 11:27:04
         console.log(a, b)
       }, 2000, '我是', '定时器')
     复制代码
-    
+
     ```
 
 ### 3、返回值
@@ -146,13 +151,13 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
   (function() {
     const timeouts = [];
     const messageName = "zero-timeout-message";
-  
+
     // 只有一个回调函数参数
     function setZeroTimeout(fn) {
       timeouts.push(fn);
       window.postMessage(messageName, "*");
     }
-  
+
     function handleMessage(event) {
       if (event.source === window && event.data === messageName) {
         event.stopPropagation();
@@ -162,7 +167,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
         }
       }
     }
-  
+
     window.addEventListener("message", handleMessage, true);
     window.setZeroTimeout = setZeroTimeout;
   })();

@@ -2,6 +2,11 @@
 title: JS 原型 & 原型链 一张图说清楚 - 简书
 tags:
   - 采集
+  - JavaScript
+  - 原型
+  - 原型链
+  - 编程概念
+  - 教程
 uid: 1683439293655
 date created: 2023-05-07 14:01:33
 date updated: 2023-11-28 11:27:04
@@ -45,7 +50,7 @@ var p1 = new Parent();
 
 我们再引出一个概念，开始说过了要想清楚原型就要先搞清楚，`__proto__`、`prototype`、`constructor`。
 
-- 我们记住两点  
+- 我们记住两点
     1.`__proto__`、`constructor` 属性是对象所独有的；
     2.`prototype` 属性是函数独有的；
     3. 上面说过 js 中函数也是对象的一种，那么函数同样也有属性 `__proto__`、`constructor`

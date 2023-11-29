@@ -2,6 +2,11 @@
 title: Win10-VSCode - 添加至右键菜单
 tags:
   - 采集
+  - Windows 10
+  - VSCode
+  - 右键菜单
+  - 教程
+  - 配置
 uid: 1684596658195
 date created: 2023-05-20 23:30:58
 date updated: 2023-11-28 11:27:04
@@ -18,7 +23,7 @@ date updated: 2023-11-28 11:27:04
 ## 教程
 
 1. 新建一个后缀是 `.reg` 的文件，例如: `vs.reg`
-    
+
 2. 用记事本或 `Notepad++` 打开上述 `.reg` 文件，按照自己的需要将下面的代码复制粘贴到 `.reg` 文件中，然后根据自己 `VSCode` 的安装目录修改路径，保存后双击运行即可
 
 ## 配置
@@ -29,11 +34,11 @@ date updated: 2023-11-28 11:27:04
 
 ```
 Windows Registry Editor Version 5.00
- 
+
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
- 
+
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
 @="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%V\""
 
@@ -44,11 +49,11 @@ Windows Registry Editor Version 5.00
 
 ```
 Windows Registry Editor Version 5.00
- 
+
 [HKEY_CLASSES_ROOT\*\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
- 
+
 [HKEY_CLASSES_ROOT\*\shell\VSCode\command]
 @="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%1\""
 
@@ -59,9 +64,9 @@ Windows Registry Editor Version 5.00
 
 ```
 Windows Registry Editor Version 5.00
- 
+
 [HKEY_CLASSES_ROOT\Directory\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
- 
+
 [HKEY_CLASSES_ROOT\Directory\shell\VSCode\command]

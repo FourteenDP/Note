@@ -2,6 +2,11 @@
 title: 花了一天的时间，地板式扫盲了 Vvue3 所有 API 盲点
 tags:
   - 采集
+  - Vue3
+  - API
+  - 学习
+  - 编程
+  - 前端开发
 uid: 1683439293658
 date created: 2023-05-07 14:076130:33
 date updated: 2023-11-28 15:48:232019874
@@ -177,5 +182,3 @@ vue3 的全局 API 包含两个部分：应用实例和通用 API。那它们各
 # 🐣彩蛋 One More Thing
 
 思维导图 `github` 地址：[github.com/Jacqueline7…](https://link.juejin.cn?target=https%3A%2F%2Fgithub.com%2FJacqueline712%2Fvue3-api "https://github.com/Jacqueline712/vue3-api")
-
-

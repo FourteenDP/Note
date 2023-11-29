@@ -2,6 +2,11 @@
 title: CSS 选择器优先级权重 w3c 笔记
 tags:
   - 采集
+  - CSS
+  - 选择器
+  - 优先级
+  - web开发
+  - 教程
 uid: 1683439293651
 date created: 2023-05-07 14:01:33
 date updated: 2023-11-28 11:27:04
