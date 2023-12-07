@@ -1,6 +1,16 @@
 ---
 title: Linux 开发环境配置
-tags: []
+tags: 
+    - Linux
+    - 开发环境
+    - 配置
+    - WSL
+    - 系统代理
+    - 系统镜像源和更新
+    - Debian中文环境
+    - 常用下载器
+    - Neovim
+    - 常用工具
 uid: 1683439291259
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

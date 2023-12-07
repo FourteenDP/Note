@@ -1,6 +1,9 @@
 ---
 title: KISS 原则 (Keep It Simple and Stupid)
-tags: []
+tags: 
+  - 设计模式
+  - 基本原则
+  - 其它原则(不属于SOLID的原则)
 uid: 1683439291500
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

@@ -1,6 +1,11 @@
 ---
 title: 浏览器休眠对 setTimeout 和 setInterval 的影响
-tags: []
+tags: 
+    - JavaScript
+    - 浏览器
+    - setTimeout
+    - setInterval
+    - 事件队列
 uid: 1683439291128
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

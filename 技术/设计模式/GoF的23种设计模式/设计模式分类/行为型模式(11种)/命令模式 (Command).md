@@ -1,6 +1,10 @@
 ---
 title: 命令模式 (Command)
-tags: []
+tags: 
+  - 设计模式
+  - GoF设计模式
+  - 行为型模式
+  - 命令模式 (Command)
 uid: 1683439291321
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

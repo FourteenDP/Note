@@ -1,6 +1,11 @@
 ---
 title: image 标签图片的白边
-tags: []
+tags: 
+  - HTML
+  - CSS
+  - Image
+  - 图片
+  - 标签
 uid: 1683439291110
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

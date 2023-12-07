@@ -1,6 +1,13 @@
 ---
 title: Windows 创建软连接
-tags: []
+tags: 
+  - Windows
+  - 创建软连接
+  - 符号链接
+  - 硬链接
+  - 目录联接
+  - nvm
+  - pnpm
 uid: 1683439291263
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

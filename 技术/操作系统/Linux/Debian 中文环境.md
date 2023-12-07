@@ -1,6 +1,9 @@
 ---
 title: Debian 中文环境
-tags: []
+tags: 
+    - Debian
+    - 设置
+    - 中文
 uid: 1683439291240
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

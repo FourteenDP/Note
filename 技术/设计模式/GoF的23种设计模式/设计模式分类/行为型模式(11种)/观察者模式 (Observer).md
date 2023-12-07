@@ -1,6 +1,10 @@
 ---
 title: 观察者模式 (Observer)
-tags: []
+tags: 
+  - 设计模式
+  - GoF设计模式
+  - 行为型模式
+  - 观察者模式 (Observer)
 uid: 1683439291337
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

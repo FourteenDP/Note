@@ -1,6 +1,10 @@
 ---
 title: Vue3 新增特性
-tags: []
+tags: 
+  - Vue
+  - Vue3
+  - JavaScript
+  - 新特性
 uid: 1683439291164
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

@@ -1,6 +1,8 @@
 ---
 title: 非 GoF 设计模式
-tags: []
+tags: 
+  - 设计模式
+  - 非GoF设计模式
 uid: 1683439291764
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

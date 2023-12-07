@@ -1,6 +1,10 @@
 ---
 title: C#和.NET 关系
-tags: []
+tags: 
+  - 技术
+  - 语言
+  - C#
+  - .NET
 uid: 1683439291804
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

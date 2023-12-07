@@ -1,6 +1,12 @@
 ---
 title: Pinia 与 Vuex
-tags: []
+tags: 
+  - Vue
+  - Vue3
+  - Vuex
+  - Pinia
+  - 状态管理
+  - JavaScript
 uid: 1683439291160
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

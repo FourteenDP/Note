@@ -1,6 +1,11 @@
 ---
 title: void 和 never 区别
-tags: []
+tags: 
+  - 技术
+  - 语言
+  - TypeScript
+  - void
+  - never
 uid: 1683439292498
 date created: 2023-05-07 14:01:32
 date updated: 2023-11-28 11:27:39

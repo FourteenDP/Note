@@ -1,6 +1,10 @@
 ---
 title: WSL 基本命令
-tags: []
+tags: 
+    - WSL
+    - 基本命令
+    - 安装
+    - Linux发行版
 uid: 1683439291258
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

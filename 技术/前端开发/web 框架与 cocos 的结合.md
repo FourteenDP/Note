@@ -1,6 +1,9 @@
 ---
 title: web 框架与 cocos 的结合
-tags: []
+tags: 
+  - JavaScript
+  - Cocos
+  - Web框架
 uid: 1683439291189
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:41

@@ -1,6 +1,11 @@
 ---
 title: interface 和 type 的区别
-tags: []
+tags: 
+  - 技术
+  - 语言
+  - TypeScript
+  - interface
+  - type
 uid: 1683439292210
 date created: 2023-05-07 14:01:32
 date updated: 2023-11-28 11:27:39

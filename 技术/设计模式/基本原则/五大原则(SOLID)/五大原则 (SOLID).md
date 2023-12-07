@@ -1,6 +1,10 @@
 ---
 title: 五大原则 (SOLID)
-tags: []
+tags: 
+  - 设计模式
+  - 基本原则
+  - SOLID
+  - 五大原则 (SOLID)
 uid: 1683439291383
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

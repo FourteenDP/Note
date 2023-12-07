@@ -1,6 +1,11 @@
 ---
 title: Promise
-tags: []
+tags: 
+  - 技术
+  - 语言
+  - JavaScript
+  - 内置对象
+  - Promise
 uid: 1683439292108
 date created: 2023-05-07 14:01:32
 date updated: 2023-11-28 11:27:39

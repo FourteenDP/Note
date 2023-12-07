@@ -1,6 +1,12 @@
 ---
 title: Git 子仓库
-tags: []
+tags: 
+  - Git
+  - 子仓库
+  - 项目管理
+  - Git Submodule
+  - Git Subtree
+  - Monorepo
 uid: 1684032009184
 date created: 2023-05-14 10:40:09
 date updated: 2023-11-28 11:27:41

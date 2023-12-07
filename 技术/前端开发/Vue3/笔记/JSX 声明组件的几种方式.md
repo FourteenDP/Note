@@ -1,6 +1,11 @@
 ---
 title: JSX 声明组件的几种方式
-tags: []
+tags: 
+  - Vue
+  - Vue3
+  - JavaScript
+  - JSX
+  - 组件
 uid: 1683439291159
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

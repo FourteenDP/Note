@@ -1,6 +1,13 @@
 ---
 title: Linux 常用命令
-tags: []
+tags: 
+    - Linux
+    - 常用命令
+    - 软件包管理
+    - shell
+    - 文件操作
+    - 文件夹操作
+    - 环境配置
 uid: 1683439291249
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

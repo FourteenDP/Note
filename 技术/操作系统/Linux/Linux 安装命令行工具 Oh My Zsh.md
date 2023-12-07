@@ -1,6 +1,11 @@
 ---
 title: Linux 安装命令行工具 Oh My Zsh
-tags: []
+tags: 
+    - Linux
+    - 命令行工具
+    - 安装
+    - Zsh
+    - Oh My Zsh
 uid: 1683439291247
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

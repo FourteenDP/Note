@@ -1,6 +1,11 @@
 ---
 title: Uniapp 全局消息提示及其组件的实现
-tags: []
+tags: 
+  - uni-app
+  - 组件
+  - 消息提示
+  - 全局组件
+  - JavaScript
 uid: 1683439291138
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

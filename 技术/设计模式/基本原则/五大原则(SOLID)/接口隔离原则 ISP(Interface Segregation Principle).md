@@ -1,6 +1,10 @@
 ---
 title: 接口隔离原则 ISP(Interface Segregation Principle)
-tags: []
+tags: 
+  - 设计模式
+  - 基本原则
+  - SOLID
+  - 接口隔离原则 ISP(Interface Segregation Principle)
 uid: 1683439291489
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

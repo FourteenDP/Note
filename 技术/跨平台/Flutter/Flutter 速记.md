@@ -1,6 +1,17 @@
 ---
 title: Flutter 速记
-tags: []
+tags: 
+    - Flutter
+    - Getx
+    - Bloc
+    - Rx
+    - Flutter_inappwebview
+    - Auto_route
+    - Image_picker
+    - File_picker
+    - Open_file
+    - Path_provider
+    - Dio
 uid: 1683439292528
 date created: 2023-05-07 14:01:32
 date updated: 2023-11-28 11:27:39

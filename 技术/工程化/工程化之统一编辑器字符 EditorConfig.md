@@ -1,6 +1,11 @@
 ---
 title: 工程化之统一编辑器字符 EditorConfig
-tags: []
+tags: 
+    - 工程化
+    - EditorConfig
+    - 代码格式
+    - 编辑器插件
+    - 代码风格
 uid: 1684032009203
 date created: 2023-05-14 10:40:09
 date updated: 2023-11-28 11:27:40

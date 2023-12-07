@@ -1,6 +1,9 @@
 ---
 title: CSS-BEM 命名规范
-tags: []
+tags: 
+  - CSS
+  - CSS-BEM
+  - 命名规范
 uid: 1683439291099
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:42

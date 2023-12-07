@@ -1,7 +1,10 @@
 ---
 title: 为什么使用 setTimeout 实现 setInterval
 tags:
-  - 采集
+  - JavaScript
+  - setTimeout
+  - setInterval
+  - 事件队列
 uid: 1683439291123
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 15:47:32

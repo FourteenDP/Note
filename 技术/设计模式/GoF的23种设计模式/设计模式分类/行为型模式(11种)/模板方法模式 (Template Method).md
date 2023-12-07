@@ -1,6 +1,10 @@
 ---
 title: 模板方法模式 (Template Method)
-tags: []
+tags: 
+  - 设计模式
+  - GoF设计模式
+  - 行为型模式
+  - 模板方法模式 (Template Method)
 uid: 1683439291329
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

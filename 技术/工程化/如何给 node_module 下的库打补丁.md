@@ -1,12 +1,17 @@
 ---
 title: 如何给 node_module 下的库打补丁
-tags: []
+tags: 
+  - node_module
+  - 打补丁
+  - Patch-package
+  - npm
+  - yarn
+  - yarn patch
 uid: 1683439291233
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:41
 url: 'https://juejin.cn/post/7209245221887885372'
 ---
-
 # 如何给 node_module 下的库打补丁
 
 ## 解决办法如下

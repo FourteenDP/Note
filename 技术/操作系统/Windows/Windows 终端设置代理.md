@@ -1,6 +1,12 @@
 ---
 title: Windows 终端设置代理
-tags: []
+tags: 
+    - Windows
+    - 终端
+    - 设置代理
+    - 临时代理
+    - 长期生效
+    - 测试
 uid: 1683439291265
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:40

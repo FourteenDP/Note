@@ -1,6 +1,16 @@
 ---
 title: 浏览器 URL 字符串长度限制
-tags: []
+tags: 
+    - 浏览器
+    - URL
+    - 字符串长度限制
+    - HTTP协议
+    - RFC规范
+uid: 1683439291216
+date created: 2023-05-07 14:01:31
+date updated: 2023-11-28 11:27:41
+--- - HTTP协议
+    - RFC规范
 uid: 1683439291216
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:41

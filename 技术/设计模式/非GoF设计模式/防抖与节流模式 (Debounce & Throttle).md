@@ -1,6 +1,11 @@
 ---
 title: 防抖与节流模式 (Debounce & Throttle)
-tags: []
+tags: 
+  - JavaScript
+  - 防抖
+  - 节流
+  - 设计模式
+  - 非GoF设计模式
 uid: 1683439291763
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

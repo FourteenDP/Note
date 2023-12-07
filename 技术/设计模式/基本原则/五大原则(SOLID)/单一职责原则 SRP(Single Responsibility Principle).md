@@ -1,6 +1,10 @@
 ---
 title: 单一职责原则 SRP(Single Responsibility Principle)
-tags: []
+tags: 
+  - 设计模式
+  - 基本原则
+  - SOLID
+  - 单一职责原则 SRP(Single Responsibility Principle)
 uid: 1683439291386
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

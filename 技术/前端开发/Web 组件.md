@@ -1,6 +1,9 @@
 ---
 title: Web 组件
-tags: []
+tags: 
+  - JavaScript
+  - Web 组件
+  - Web Components
 uid: 1683439291189
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:41

@@ -1,6 +1,10 @@
 ---
 title: 事件循环（Event Loop）
-tags: []
+tags: 
+  - 技术
+  - 语言
+  - JavaScript
+  - 事件循环
 uid: 1683439292165
 date created: 2023-05-07 14:01:32
 date updated: 2023-11-28 11:27:39

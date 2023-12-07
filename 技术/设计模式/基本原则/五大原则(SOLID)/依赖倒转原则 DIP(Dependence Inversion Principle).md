@@ -1,6 +1,10 @@
 ---
 title: 依赖倒转原则 DIP(Dependence Inversion Principle)
-tags: []
+tags: 
+  - 设计模式
+  - 基本原则
+  - SOLID
+  - 依赖倒转原则 DIP(Dependence Inversion Principle)
 uid: 1683439291385
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

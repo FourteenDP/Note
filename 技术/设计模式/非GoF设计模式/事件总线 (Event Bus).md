@@ -1,6 +1,9 @@
 ---
 title: 事件总线 (Event Bus)
-tags: []
+tags: 
+  - 设计模式
+  - 非GoF设计模式
+  - 事件总线 (Event Bus)
 uid: 1683439291654
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

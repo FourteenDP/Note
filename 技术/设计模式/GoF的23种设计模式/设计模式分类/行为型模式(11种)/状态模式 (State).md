@@ -1,6 +1,10 @@
 ---
 title: 状态模式 (State)
-tags: []
+tags: 
+  - 设计模式
+  - GoF设计模式
+  - 行为型模式
+  - 状态模式 (State)
 uid: 1683439291331
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39

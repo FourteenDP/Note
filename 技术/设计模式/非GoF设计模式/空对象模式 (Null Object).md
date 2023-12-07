@@ -1,6 +1,9 @@
 ---
 title: 空对象模式 (Null Object)
-tags: []
+tags: 
+  - 设计模式
+  - 非GoF设计模式
+  - 空对象模式 (Null Object)
 uid: 1683439291760
 date created: 2023-05-07 14:01:31
 date updated: 2023-11-28 11:27:39
