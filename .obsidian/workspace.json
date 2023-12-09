@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#编程",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,11 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "采集/实施前端微服务化的六七种方式.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "技术/前端开发/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "SVG/后端常见分层.drawio.svg",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "采集/CSS 选择器优先级权重 w3c 笔记.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "技术/前端开发/JavaScript/为什么使用 setTimeout 实现 setInterval.md",
@@ -210,7 +210,6 @@
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "技术/设计模式/设计模式.md",
-    "采集/实施前端微服务化的六七种方式.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "技术/通用/图形渲染引擎.md",
     "未命名.md",
