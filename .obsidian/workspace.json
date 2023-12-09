@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,8 +187,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "SVG/submodule和subtree区别.excalidraw.svg",
+    "技术/操作系统/Linux/Linux 常用工具.md",
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "采集/实施前端微服务化的六七种方式.md",
     "技术/前端开发/JavaScript/为什么使用 settimeout 实现 setinterval.md",
@@ -218,8 +219,6 @@
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "附件/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "拾肆/个人/2022面试题总结/9、web 前端面试宝典.md",
-    "技术/操作系统/Linux/WSL 基本命令.md",
-    "技术/设计模式/非GoF设计模式/非 GoF 设计模式.md",
     "lib/Run/md",
     "lib/Run/uid.js",
     "lib/Run",
