@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lib/template/日志/周总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GoF设计模式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +75,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 388.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "lib/template/日志/周总结.md"
               }
             }
           },
@@ -107,7 +107,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lib/template/日志/周总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,14 +168,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "lib/template/日志/周总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,54 +198,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "fa3e8d969a4dc64a",
   "lastOpenFiles": [
+    "收集/设计模式.md",
+    "lib/template/日志/周总结.md",
+    "收集/行为型模式 (11 种).md",
+    "收集/其它原则 (不属于 SOLID 的原则).md",
+    "pininfo.md",
+    "设计模式.md",
+    "收集/中介者模式 (Mediator).md",
+    "lib/template/日志/月总结.md",
+    "lib/template/日志/日总结.md",
+    "lib/template/日志/年总结.md",
+    "lib/template/日志/季总结.md",
+    "收集/📚知识博客.md",
+    "收集/✨知识社区.md",
+    "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
+    "assets/image",
+    "assets/image/Vue生命周期.png",
+    "assets/image/Pasted Image 20230312050057_351.png",
+    "日志/2023/2023-02-28.md",
+    "assets/image/Pasted Image 20230312050057_436.png",
+    "收集/笔记本禁用自带键盘.md",
     "README.md",
+    "未命名.md",
+    "收集",
     "日志/2023/2023-12-10.md",
     "拾肆/面试/2023.md",
     "自考/押密/国际商务与国际营销.pdf",
     "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
     "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
-    "归档/策略模式 (Strategy).md",
-    "归档/UniApp 和 Flutter 通信.md",
-    "归档/前端推荐书籍.md",
-    "归档/书籍推荐.md",
-    "归档/跨域.md",
-    "归档/浏览器 URL 字符串长度限制.md",
-    "归档/UniApp 开源组件.md",
-    "归档/uniapp 和 flutter 通信相关资料.md",
-    "归档/void 和 never 区别.md",
-    "归档/基本原则.md",
-    "归档/编程范式.md",
-    "归档/设计模式.md",
-    "归档/弱类型、强类型、动态类型、静态类型语言.md",
-    "归档/any 和 unknown 的区别.md",
-    "归档/Promise.md",
-    "归档/3.3- 变量.md",
-    "归档/Function.prototype.apply().md",
-    "归档/String.md",
-    "归档/String.prototype.localeCompare().md",
-    "归档/Promise.all().md",
-    "归档/Lambda 表达式.md",
-    "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
-    "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
+    "收集/策略模式 (Strategy).md",
+    "收集/UniApp 和 Flutter 通信.md",
+    "收集/前端推荐书籍.md",
+    "收集/书籍推荐.md",
+    "收集/跨域.md",
+    "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
+    "assets/image/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets",
-    "归档",
+    "收集",
     "assets/svg/submodule和subtree区别.excalidraw.svg",
     "assets/svg/后端常见分层.drawio.svg",
-    "assets/faf7c09d5d5cc368102455a7e70c2f9.jpg",
+    "assets/image/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "lib/Run/md",
     "lib/run/uid.js",
     "lib/run",
     "lib/Rrun",
-    "assets/原型链.png",
     "Spaces/Home",
-    "Spaces",
-    "lib/Script",
-    "assets/Pasted image 20221013000116.png",
-    "assets/Linux目录结构.png",
     "未命名.canvas",
     "日志/未命名.canvas"
   ]

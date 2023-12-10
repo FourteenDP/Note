@@ -1,7 +1,7 @@
 ---
 title: 计算 setTimeout 和 setInterval 计时器的误差
 tags: 
-    - JavaScript
+    - 计算机/前端开发/JavaScript
     - setTimeout
     - setInterval
     - 计时器

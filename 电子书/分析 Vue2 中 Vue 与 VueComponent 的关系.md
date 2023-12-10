@@ -3,7 +3,7 @@ title: 分析 Vue2 中 Vue 与 VueComponent 的关系
 tags: 
   - Vue
   - VueComponent
-  - JavaScript
+  - 计算机/前端开发/JavaScript
   - 源码
   - 关系图
 uid: 1683439291152

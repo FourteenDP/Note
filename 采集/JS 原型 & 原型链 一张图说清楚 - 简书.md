@@ -2,7 +2,7 @@
 title: JS 原型 & 原型链 一张图说清楚 - 简书
 tags:
   - 采集
-  - JavaScript
+  - 计算机/前端开发/JavaScript
   - 原型
   - 原型链
   - 编程概念

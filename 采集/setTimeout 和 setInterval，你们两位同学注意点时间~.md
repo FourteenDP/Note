@@ -2,7 +2,7 @@
 title: setTimeout 和 setInterval，你们两位同学注意点时间~
 tags:
   - 采集
-  - JavaScript
+  - 计算机/前端开发/JavaScript
   - setTimeout
   - setInterval
   - 编程概念

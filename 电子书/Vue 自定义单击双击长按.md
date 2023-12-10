@@ -2,7 +2,7 @@
 title: Vue 自定义单击双击长按
 tags: 
   - Vue
-  - JavaScript
+  - 计算机/前端开发/JavaScript
   - 单击
   - 双击
   - 长按

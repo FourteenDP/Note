@@ -1,7 +1,7 @@
 ---
 title: 浏览器休眠对 setTimeout 和 setInterval 的影响
 tags: 
-    - JavaScript
+    - 计算机/前端开发/JavaScript
     - 浏览器
     - setTimeout
     - setInterval

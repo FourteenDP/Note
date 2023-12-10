@@ -1,7 +1,7 @@
 ---
 title: 为什么使用 setTimeout 实现 setInterval
 tags:
-  - JavaScript
+  - 计算机/前端开发/JavaScript
   - setTimeout
   - setInterval
   - 事件队列
