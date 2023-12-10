@@ -2,8 +2,70 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1702189568281,
-      "items": [],
+      "ctime": 1702190050789,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "assets"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "lib"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190050789,
+          "items": [],
+          "title": "采集"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "仓库"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "电子书"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "拾肆"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "自考"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "日志"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "归档"
+        },
+        {
+          "type": "file",
+          "ctime": 1702190058969,
+          "path": "README.md",
+          "subpath": "#^-",
+          "title": "README"
+        }
+      ],
       "title": "sortspec"
     }
   ]

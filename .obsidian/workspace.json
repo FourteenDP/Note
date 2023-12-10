@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e47c2bb2e56a4905",
+        "id": "a7713b3bfbaf7d33",
         "type": "tabs",
         "children": [
           {
-            "id": "8886bd901656f8df",
+            "id": "fa3e8d969a4dc64a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -143,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +193,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8886bd901656f8df",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
-    "日志/2023/2023-12-10.md",
     "README.md",
+    "日志/2023/2023-12-10.md",
     "拾肆/面试/2023.md",
     "自考/押密/国际商务与国际营销.pdf",
     "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
