@@ -4,128 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0b4e1dd6223ec437",
+        "id": "bb8fa05c00ee46ee",
         "type": "tabs",
         "children": [
           {
-            "id": "08e0bbb55989beca",
+            "id": "b28284b738fe39fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/UniApp 和 Flutter 通信.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ebba3b9c59058e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/前端推荐书籍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae660030a92f1b8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/书籍推荐.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ba10a62f727228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/前端推荐书籍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e90ef31999198bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/跨域.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3d41f8037f9a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/浏览器 URL 字符串长度限制.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb85256d51f3a4dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/UniApp 开源组件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54efb7c9f13ce9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/uniapp 和 flutter 通信相关资料.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2345ece65ac05545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/Vue3 新增特性.md",
+                "file": "拾肆/面试/2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,13 +34,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4435f7f1e63e5f07",
+            "id": "8308b590c2a15b00",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "079690634def1a54",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
             }
           },
           {
@@ -170,20 +73,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "079690634def1a54",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 788.5
+    "width": 419.5
   },
   "right": {
     "id": "bdf2087d24dbcfa3",
@@ -200,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/Vue3 新增特性.md"
+                "file": "拾肆/面试/2023.md"
               }
             }
           },
@@ -255,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/Vue3 新增特性.md",
+                "file": "拾肆/面试/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/Vue3 新增特性.md",
+                "file": "拾肆/面试/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,34 +197,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4435f7f1e63e5f07",
+  "active": "b28284b738fe39fd",
   "lastOpenFiles": [
-    "归档/Vue3 组件库.md",
-    "归档/Vue3 新增特性.md",
-    "归档/技术/前端开发/前端知识点.md",
-    "归档/8.组件基础.md",
-    "电子书/Vue2 中的页面数据缓存.md",
-    "归档/1.ref 和 reactive 区别.md",
-    "归档/uniapp 和 flutter 通信相关资料.md",
-    "电子书/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
-    "归档/UniApp 和 WebView 双向通信.md",
-    "归档/UniApp 开源组件.md",
-    "归档/Uniapp 全局消息提示及其组件的实现.md",
-    "归档/UniApp 生命周期.md",
-    "归档/UniApp-String.prototype.localeCompare() 踩坑.md",
-    "采集/原型链.md",
-    "归档/REM 兼容适配解决方案.md",
-    "归档/Vue 的不同构建版本.md",
-    "归档/浏览器存储.md",
-    "归档/开发便捷工具.md",
-    "归档/浏览器 URL 字符串长度限制.md",
+    "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
+    "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
+    "归档/策略模式 (Strategy).md",
+    "归档/UniApp 和 Flutter 通信.md",
+    "归档/前端推荐书籍.md",
+    "归档/书籍推荐.md",
     "归档/跨域.md",
-    "归档/Flutter 速记.md",
-    "归档/跨平台开发框架.md",
-    "归档/数据库为什么不使用外键约束.md",
-    "归档/APP 混合开发.md",
-    "归档/Git 子仓库.md",
-    "归档/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+    "归档/浏览器 URL 字符串长度限制.md",
+    "归档/UniApp 开源组件.md",
+    "归档/uniapp 和 flutter 通信相关资料.md",
+    "归档/void 和 never 区别.md",
+    "归档/基本原则.md",
+    "归档/编程范式.md",
+    "归档/设计模式.md",
+    "归档/弱类型、强类型、动态类型、静态类型语言.md",
+    "归档/any 和 unknown 的区别.md",
+    "归档/Promise.md",
+    "归档/3.3- 变量.md",
+    "归档/Function.prototype.apply().md",
+    "归档/String.md",
+    "归档/String.prototype.localeCompare().md",
+    "归档/Promise.all().md",
+    "归档/Lambda 表达式.md",
+    "归档/Git 操作规范.md",
+    "归档/数据结构与算法.md",
+    "归档/状态模式 (State).md",
     "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
