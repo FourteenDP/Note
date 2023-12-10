@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 常用工具.md",
+                "file": "归档/UniApp 和 Flutter 通信.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ebba3b9c59058e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/前端推荐书籍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae660030a92f1b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/书籍推荐.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ba10a62f727228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/前端推荐书籍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e90ef31999198bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "归档/任务.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,6 +118,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "079690634def1a54",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 常用工具.md"
+                "file": "归档/任务.md"
               }
             }
           },
@@ -142,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 常用工具.md",
+                "file": "归档/任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/操作系统/Linux/Linux 常用工具.md",
+                "file": "归档/任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +246,30 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "08e0bbb55989beca",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "技术/原生/原生开发语言和框架.md",
+    "归档/笔记方法.md",
+    "技术/语言/TypeScript/void 和 never 区别.md",
+    "技术/语言/TypeScript/TypeScript.md",
+    "归档/记忆方法.md",
+    "归档/XR.md",
+    "归档/核心能力.md",
+    "归档/开源项目.md",
+    "归档/招聘网站.md",
+    "归档/出色的网站交互设计.md",
+    "归档/字体.md",
+    "归档/前端推荐书籍.md",
+    "归档/书籍推荐.md",
+    "归档/如何编写好的技术文档.md",
+    "归档/UniApp 和 Flutter 通信.md",
+    "README.md",
+    "归档/英语教程.md",
+    "技术/操作系统/Linux/Linux 常用工具.md",
     "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
@@ -198,8 +278,6 @@
     "未命名.md",
     "assets",
     "归档",
-    "README.md",
-    "技术/操作系统/Linux/Linux 常用工具.md",
     "assets/svg/submodule和subtree区别.excalidraw.svg",
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "采集/实施前端微服务化的六七种方式.md",
@@ -208,21 +286,6 @@
     "采集/CSS 选择器优先级权重 w3c 笔记.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "技术/前端开发/JavaScript/为什么使用 setTimeout 实现 setInterval.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
-    "采集/写给前端的编译原理科普.md",
-    "测试文件.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
-    "待办/📅任务管理.md",
-    "待办/任务.md",
-    "开源/前端开发框架.md",
-    "开源/开源项目.md",
-    "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
-    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
-    "技术/设计模式/设计模式.md",
-    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
-    "技术/通用/图形渲染引擎.md",
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "assets/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "lib/Run/md",
     "lib/Run/uid.js",
@@ -235,7 +298,6 @@
     "lib/Template",
     "assets/Pasted image 20221013000116.png",
     "assets/Linux目录结构.png",
-    "assets/Pasted image 20230204210622.png",
     "未命名.canvas",
     "日志/未命名.canvas"
   ]
