@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记本禁用自带键盘.md",
+                "file": "归档/笔记本禁用自带键盘.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记本禁用自带键盘.md"
+                "file": "归档/笔记本禁用自带键盘.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记本禁用自带键盘.md",
+                "file": "归档/笔记本禁用自带键盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记本禁用自带键盘.md",
+                "file": "归档/笔记本禁用自带键盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +203,9 @@
   },
   "active": "26cb9fcb3305ca06",
   "lastOpenFiles": [
+    "归档",
     "README.md",
-    "笔记本禁用自带键盘.md",
+    "归档/笔记本禁用自带键盘.md",
     "技术/操作系统/Linux/Linux 常用工具.md",
     "SVG/submodule和subtree区别.excalidraw.svg",
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
