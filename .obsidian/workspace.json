@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/任务.md",
+                "file": "归档/技术/工程化/项目工程化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/任务.md"
+                "file": "归档/技术/工程化/项目工程化.md"
               }
             }
           },
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/任务.md",
+                "file": "归档/技术/工程化/项目工程化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/任务.md",
+                "file": "归档/技术/工程化/项目工程化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,15 +247,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7e90ef31999198bd",
   "lastOpenFiles": [
-    "lib/Template/日志/日总结.md",
+    "归档/技术/语言/JavaScript/JavaScript红宝书/1.1- 简单的历史回顾.md",
+    "归档/技术/前端开发/其它/前端面试题.md",
+    "归档/技术/工程化/项目工程化.md",
+    "归档/UniApp 和 Flutter 通信.md",
+    "归档/技术/编程范式/编程范式.md",
     "归档/任务.md",
-    "lib/Template/日志/年总结.md",
+    "归档/计算机基础.md",
+    "归档/✨知识社区.md",
+    "归档/设计师的网站.md",
+    "lib/template/日志/日总结.md",
+    "lib/template/日志/年总结.md",
     "README.md",
     "归档/技术/原生/原生开发语言和框架.md",
     "归档/笔记方法.md",
@@ -270,21 +279,13 @@
     "归档/前端推荐书籍.md",
     "归档/书籍推荐.md",
     "归档/如何编写好的技术文档.md",
-    "归档/UniApp 和 Flutter 通信.md",
-    "归档/英语教程.md",
-    "归档/技术/操作系统/Linux/Linux 常用工具.md",
     "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
-    "归档/笔记本禁用自带键盘.md",
-    "未命名.md",
     "assets",
     "归档",
     "assets/svg/submodule和subtree区别.excalidraw.svg",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
-    "采集/实施前端微服务化的六七种方式.md",
-    "归档/技术/前端开发/JavaScript/为什么使用 settimeout 实现 setinterval.md",
     "assets/svg/后端常见分层.drawio.svg",
     "assets/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "lib/Run/md",
@@ -295,7 +296,7 @@
     "Spaces/Home",
     "Spaces",
     "lib/Script",
-    "lib/Template",
+    "lib/template",
     "assets/Pasted image 20221013000116.png",
     "assets/Linux目录结构.png",
     "未命名.canvas",
