@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb8fa05c00ee46ee",
+        "id": "e47c2bb2e56a4905",
         "type": "tabs",
         "children": [
           {
-            "id": "b28284b738fe39fd",
+            "id": "8886bd901656f8df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拾肆/面试/2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "拾肆/面试/2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/面试/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/面试/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +185,16 @@
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
+      "custom-sort:Toggle custom sorting": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "b28284b738fe39fd",
+  "active": "8886bd901656f8df",
   "lastOpenFiles": [
+    "日志/2023/2023-12-10.md",
+    "README.md",
+    "拾肆/面试/2023.md",
+    "自考/押密/国际商务与国际营销.pdf",
     "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
     "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
     "归档/策略模式 (Strategy).md",
@@ -222,9 +218,6 @@
     "归档/String.prototype.localeCompare().md",
     "归档/Promise.all().md",
     "归档/Lambda 表达式.md",
-    "归档/Git 操作规范.md",
-    "归档/数据结构与算法.md",
-    "归档/状态模式 (State).md",
     "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
@@ -242,7 +235,6 @@
     "Spaces/Home",
     "Spaces",
     "lib/Script",
-    "lib/template",
     "assets/Pasted image 20221013000116.png",
     "assets/Linux目录结构.png",
     "未命名.canvas",
