@@ -18,12 +18,6 @@
         },
         {
           "type": "group",
-          "ctime": 1702190050789,
-          "items": [],
-          "title": "采集"
-        },
-        {
-          "type": "group",
           "ctime": 1702190058969,
           "items": [],
           "title": "仓库"
@@ -45,6 +39,12 @@
           "ctime": 1702190058969,
           "items": [],
           "title": "自考"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190050789,
+          "items": [],
+          "title": "采集"
         },
         {
           "type": "group",
