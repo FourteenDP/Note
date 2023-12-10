@@ -3,7 +3,7 @@
   "spellcheck": true,
   "spellcheckLanguages": null,
   "tabSize": 2,
-  "vimMode": true,
+  "vimMode": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "root",
