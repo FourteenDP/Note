@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/技术/工程化/项目工程化.md",
+                "file": "归档/WSL SSH 远程连接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/技术/工程化/项目工程化.md"
+                "file": "归档/WSL SSH 远程连接.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/技术/工程化/项目工程化.md",
+                "file": "归档/WSL SSH 远程连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/技术/工程化/项目工程化.md",
+                "file": "归档/WSL SSH 远程连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,21 +250,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e90ef31999198bd",
+  "active": "4435f7f1e63e5f07",
   "lastOpenFiles": [
+    "归档/✨知识社区.md",
+    "归档/Debian 中文环境.md",
+    "归档/编程范式.md",
+    "仓库/Code-Snippets/README.md",
+    "归档/技术/原生/原生开发语言和框架.md",
+    "归档/技术/工程化/项目工程化.md",
+    "归档/前端推荐书籍.md",
     "归档/技术/语言/JavaScript/JavaScript红宝书/1.1- 简单的历史回顾.md",
     "归档/技术/前端开发/其它/前端面试题.md",
-    "归档/技术/工程化/项目工程化.md",
     "归档/UniApp 和 Flutter 通信.md",
-    "归档/技术/编程范式/编程范式.md",
     "归档/任务.md",
     "归档/计算机基础.md",
-    "归档/✨知识社区.md",
     "归档/设计师的网站.md",
     "lib/template/日志/日总结.md",
     "lib/template/日志/年总结.md",
     "README.md",
-    "归档/技术/原生/原生开发语言和框架.md",
     "归档/笔记方法.md",
     "归档/技术/语言/TypeScript/void 和 never 区别.md",
     "归档/技术/语言/TypeScript/TypeScript.md",
@@ -276,9 +278,6 @@
     "归档/招聘网站.md",
     "归档/出色的网站交互设计.md",
     "归档/字体.md",
-    "归档/前端推荐书籍.md",
-    "归档/书籍推荐.md",
-    "归档/如何编写好的技术文档.md",
     "assets/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
