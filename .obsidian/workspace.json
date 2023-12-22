@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集/笔记本禁用自带键盘.md",
-                "mode": "source",
-                "backlinks": true,
+                "file": "收集/如何给 node_module 下的库打补丁.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"uid\"]",
+                "query": "tag:#yarn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收集/笔记本禁用自带键盘.md"
+                "file": "收集/如何给 node_module 下的库打补丁.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "02db7ed448796d0d",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收集/笔记本禁用自带键盘.md",
+                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收集/笔记本禁用自带键盘.md",
+                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82f774b615a0979",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
+    "收集/笔记本禁用自带键盘.md",
+    "收集/工程化.md",
+    "收集/访问者模式 (Visitor).md",
+    "收集/工程化之 GIt 提交自动转换行尾字符 GitAttributes.md",
     "收集/WSL SSH 远程连接.md",
     "收集/等待者模式 (Waiter Pattern).md",
     "收集/基本原则.md",
@@ -221,10 +225,6 @@
     "收集/Vite 全局样式注入.md",
     "收集/UniApp-String.prototype.localeCompare() 踩坑.md",
     "收集/Git 操作规范.md",
-    "收集/Git 子仓库.md",
-    "收集/GoF 的 23 种设计模式.md",
-    "收集/image 标签图片的白边.md",
-    "收集/JSX 声明组件的几种方式.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",

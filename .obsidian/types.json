@@ -5,6 +5,6 @@
     "date created": "datetime",
     "date updated": "datetime",
     "cssclasses": "multitext",
-    "uid": "text"
+    "uid": "number"
   }
 }
