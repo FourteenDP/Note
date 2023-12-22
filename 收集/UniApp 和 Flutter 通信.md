@@ -1,7 +1,6 @@
 ---
 title: UniApp 和 Flutter 通信
-tags: 
-  - 技术
+tags:
   - 语言
   - Flutter
   - UniApp

@@ -1,7 +1,6 @@
 ---
 title: void 和 never 区别
-tags: 
-  - 技术
+tags:
   - 语言
   - TypeScript
   - void

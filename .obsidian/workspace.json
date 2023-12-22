@@ -11,8 +11,13 @@
             "id": "c82f774b615a0979",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "收集/String.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GoF设计模式",
+                "query": "[\"uid\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "收集/String.md"
+              }
             }
           },
           {
@@ -123,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -144,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "收集/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "收集/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,41 +197,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82f774b615a0979",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
+    "收集/Promise.md",
+    "收集/String.md",
+    "收集/Promise.all().md",
+    "收集/Lambda 表达式.md",
+    "收集/String.prototype.localeCompare().md",
+    "收集/UniApp 和 Flutter 通信.md",
+    "收集/void 和 never 区别.md",
+    "收集/接口和抽象类.md",
+    "收集/前端推荐书籍.md",
+    "收集/技术杂项.md",
+    "收集/箭头函数.md",
+    "收集/弱类型、强类型、动态类型、静态类型语言.md",
+    "收集/计算机基础.md",
+    "收集/3.3- 变量.md",
+    "收集/3.2 - 关键字与保留字.md",
+    "收集/3.1- 语法.md",
+    "收集/2.4-noscript 元素.md",
+    "收集/1.2-JavaScriptr 版本.md",
+    "收集/1.1- 简单的历史回顾.md",
+    "收集/📚知识博客.md",
+    "收集/call、apply、bind 的区别.md",
     "README.md",
     "lib/template/日志/周总结.md",
     "收集/设计模式.md",
     "收集/行为型模式 (11 种).md",
     "收集/其它原则 (不属于 SOLID 的原则).md",
-    "pininfo.md",
-    "设计模式.md",
-    "收集/中介者模式 (Mediator).md",
-    "lib/template/日志/月总结.md",
-    "lib/template/日志/日总结.md",
-    "lib/template/日志/年总结.md",
-    "lib/template/日志/季总结.md",
-    "收集/📚知识博客.md",
-    "收集/✨知识社区.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
     "assets/image/Pasted Image 20230312050057_351.png",
-    "日志/2023/2023-02-28.md",
     "assets/image/Pasted Image 20230312050057_436.png",
-    "收集/笔记本禁用自带键盘.md",
-    "未命名.md",
     "收集",
-    "日志/2023/2023-12-10.md",
-    "拾肆/面试/2023.md",
     "自考/押密/国际商务与国际营销.pdf",
-    "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
-    "拾肆/个人/2022面试题总结/2、JS+JQ 面试题.md",
-    "收集/策略模式 (Strategy).md",
-    "收集/UniApp 和 Flutter 通信.md",
-    "收集/前端推荐书籍.md",
-    "收集/书籍推荐.md",
-    "收集/跨域.md",
     "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/image/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
