@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8699a455ea4873c9",
+        "id": "8ff1800d4b4dd491",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1306926db94169",
+            "id": "7eb6d17d8d47e87c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f1306926db94169",
+  "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
     "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
     "WuCai",
@@ -228,7 +219,6 @@
     "收集/WSL SSH 远程连接.md",
     "收集/等待者模式 (Waiter Pattern).md",
     "收集/基本原则.md",
-    "收集/模板方法模式 (Template Method).md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
