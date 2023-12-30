@@ -1,6 +1,5 @@
 ---
 标题: Linux 安装命令行工具 Oh My Zsh
-笔记ID: 1683439291247
 描述: null
 封面: null
 aliases: []
@@ -11,8 +10,8 @@ tags:
   - Zsh
   - Oh My Zsh
 cssclasses: null
-创建时间: 2023-05-07T14:01:31.000Z
-更新时间: 2023-12-31T01:17:18.000Z
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 02:46:51
 uid: '20230507140131247'
 ---
 
@@ -46,3 +45,5 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+

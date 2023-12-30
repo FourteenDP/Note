@@ -1,6 +1,5 @@
 ---
-标题: YAGNI 原则 (You Ain't Gonna Need It)
-笔记ID: 1683439291502
+标题: "YAGNI 原则 (You Ain't Gonna Need It)"
 描述: null
 封面: null
 aliases: []
@@ -10,8 +9,8 @@ tags:
   - 其它原则(不属于SOLID的原则)
   - YAGNI 原则 (You Ain't Gonna Need It)
 cssclasses: null
-创建时间: 2023-05-07T14:01:31.000Z
-更新时间: 2023-12-31T01:17:20.000Z
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 02:46:53
 uid: '20230507140131502'
 ---
 
@@ -19,3 +18,5 @@ uid: '20230507140131502'
 
 - 定义：You Ain't Gonna Need It，你不会需要它
 - 解释：在设计和编码时，不要去实现你现在不需要的功能，等到真正需要的时候再去实现它
+
+

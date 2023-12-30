@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/写给前端的编译原理科普.md",
+                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/写给前端的编译原理科普.md"
+                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md"
               }
             }
           },
@@ -130,9 +129,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2285573cd75ad9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信箱/XR.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "02db7ed448796d0d",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/写给前端的编译原理科普.md",
+                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/写给前端的编译原理科普.md",
+                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,34 +213,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "f5eb5f0003b93c45",
   "lastOpenFiles": [
-    "信箱/JSX 声明组件的几种方式.md",
-    "采集/写给前端的编译原理科普.md",
+    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
+    "信箱/XR.md",
+    "信箱/WSL SSH 远程连接.md",
+    "信箱/WSL 修改默认安装目录到其他盘.md",
+    "信箱/WSL 系统代理.md",
+    "信箱/WSL 基本命令.md",
+    "信箱/WSL 登录 Root.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/新文化运动/再论问题与主义.md",
+    "信箱/Vue3 新增特性.md",
     "拾肆/个人/稳定的工作.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报在一个时间内的资产阶级方向.md",
+    "信箱/事件循环（Event Loop）.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报的资产阶级方向应当批判.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文化革命五人小组向中央的汇报提纲.md",
-    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
-    "拾肆/个人/退烧药.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/宋硕、陆平、彭佩云在文化革命中究竟干些什么？.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/事情正在起变化.md",
-    "采集/实施前端微服务化的六七种方式.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/青年运动的方向.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/青年要自觉践行社会主义核心价值观.md",
-    "信箱/桥接模式 (Bridge).md",
-    "拾肆/个人/钱钱钱.md",
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/彭德怀万言书.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论相关视频索引.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/林彪同志委托江青同志召开的部队文艺工作座谈会纪要.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/解放战争时期/论人民民主专政.md",
     "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "信箱/链模式 (Chain Of Responsibility).md",
-    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
-    "信箱/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "信箱/单行、多行溢出省略号.md",
+    "信箱/编程范式.md",
+    "信箱/5.事件处理.md",
+    "信箱/2.4-noscript 元素.md",
+    "信箱/1.1- 简单的历史回顾.md",
+    "采集/写给前端的编译原理科普.md",
+    "信箱/JSX 声明组件的几种方式.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报在一个时间内的资产阶级方向.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文化革命五人小组向中央的汇报提纲.md",
     "lib/run/uid.js",
     "lib/run/node_modules/js-yaml/dist/js-yaml.min.js",
     "lib/run/node_modules/js-yaml/dist/js-yaml.js",

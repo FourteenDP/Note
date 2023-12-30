@@ -1,6 +1,5 @@
 ---
 标题: C#和.NET 关系
-笔记ID: 1683439291804
 描述: null
 封面: null
 aliases: []
@@ -10,8 +9,8 @@ tags:
   - C
   - .NET
 cssclasses: null
-创建时间: 2023-05-07T14:01:31.000Z
-更新时间: 2023-12-31T01:17:17.000Z
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 02:46:51
 uid: '20230507140131804'
 ---
 
@@ -23,3 +22,5 @@ uid: '20230507140131804'
 - [Unity各版本对C#版本的支持](https://blog.csdn.net/smile_Ho/article/details/119946986)
 - [VS和.NET版本与C#版本对应关系 - WebApi - 博客园](https://www.cnblogs.com/webapi/p/15204940.html)
 - [Unity各版本C#支持情况 - 掘金](https://juejin.cn/post/7088147774914428941)
+
+

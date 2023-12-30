@@ -1,6 +1,5 @@
 ---
 标题: String.prototype.localeCompare()
-笔记ID: 1683439292192
 描述: null
 封面: null
 aliases: []
@@ -11,8 +10,8 @@ tags:
   - String
   - 方法
 cssclasses: null
-创建时间: 2023-05-07T14:01:32.000Z
-更新时间: 2023-12-31T01:17:18.000Z
+创建时间: 2023-05-07 14:01:32
+更新时间: 2023-12-31 02:46:52
 uid: '20230507140132192'
 ---
 
@@ -59,3 +58,5 @@ console.log(str1.localeCompare(str4, "en", { sensitivity: "base" })); // 0
 ## 参考
 
 - [String.prototype.localeCompare()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
+
+

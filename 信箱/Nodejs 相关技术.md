@@ -1,6 +1,5 @@
 ---
 标题: Nodejs 相关技术
-笔记ID: 1683439291087
 描述: null
 封面: null
 aliases: []
@@ -8,8 +7,8 @@ tags:
   - 技术
   - Nodejs
 cssclasses: null
-创建时间: 2023-05-07T14:01:31.000Z
-更新时间: 2023-12-31T01:17:18.000Z
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 02:46:52
 uid: '20230507140131087'
 ---
 
@@ -77,3 +76,5 @@ uid: '20230507140131087'
 - [ws](https://github.com/websockets/ws)：ws 是一个用于 Node.js 的 WebSocket 客户端和服务器实现。
 - [mqtt](https://www.emqx.cn/mqtt)：MQTT 是一个基于发布/订阅（publish/subscribe）模式的 " 轻量级 " 通讯协议，该协议构建于 TCP/IP 协议之上，由 IBM 在 1999 年发布。
 - [node-ipc](https://github.com/RIAEvangelist/node-ipc)：node-ipc 是一个 Node.js 的进程间通信模块。
+
+

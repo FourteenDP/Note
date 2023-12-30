@@ -1,6 +1,5 @@
 ---
 标题: JSX 声明组件的几种方式
-笔记ID: 1683439291159
 描述: null
 封面: null
 aliases: []
@@ -11,8 +10,8 @@ tags:
   - JSX
   - 组件
 cssclasses: null
-创建时间: 2023-05-07T14:01:31.000Z
-更新时间: 2023-12-31T01:17:17.000Z
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 02:46:51
 uid: '20230507140131159'
 ---
 
@@ -36,3 +35,5 @@ export default defineComponent({
 ```tsx
 export default () => <div>Home</div>
 ```
+
+

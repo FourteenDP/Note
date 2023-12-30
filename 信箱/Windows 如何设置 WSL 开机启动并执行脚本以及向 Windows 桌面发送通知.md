@@ -1,6 +1,5 @@
 ---
 标题: Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
-笔记ID: 1684596658193
 描述: null
 封面: null
 aliases: []
@@ -12,8 +11,8 @@ tags:
   - 发送通知
 cssclasses: null
 发布链接: 'https://juejin.cn/post/7235177983311642685'
-创建时间: 2023-05-20T23:30:58.000Z
-更新时间: 2023-12-31T01:17:19.000Z
+创建时间: 2023-05-20 23:30:58
+更新时间: 2023-12-31 02:46:52
 uid: '20230520233058193'
 ---
 
@@ -56,3 +55,5 @@ ws.Run "powershell.exe -Command ""wsl -d Debian -u admin""", vbhide
 下面只需要在 WSL 里执行 `PowerShell` 命令就可以啦
 
 ![[Pasted image 20230520222414.png]]
+
+
