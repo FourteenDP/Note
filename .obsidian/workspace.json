@@ -11,12 +11,9 @@
             "id": "4fe04d7701b94a69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "code-editor",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "lib/run/uid.js"
               }
             }
           }
@@ -95,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md"
+                "file": "lib/run/uid.js"
               }
             }
           },
@@ -152,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
+                "file": "lib/run/uid.js",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
+                "file": "lib/run/uid.js",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +199,8 @@
   },
   "active": "8308b590c2a15b00",
   "lastOpenFiles": [
+    "信箱/1.2-JavaScriptr 版本.md",
+    "lib/run/uid.js",
     "lib/run/node_modules/minipass/dist/commonjs/package.json",
     "lib/run/node_modules/minipass/dist/commonjs/index.js.map",
     "lib/run/node_modules/minipass/dist/commonjs/index.js",
@@ -211,9 +210,6 @@
     "lib/run/node_modules/minipass/dist/esm/index.js.map",
     "lib/run/node_modules/minipass/dist/esm/index.d.ts.map",
     "lib/run/node_modules/minipass/dist/esm/index.js",
-    "lib/run/node_modules/minipass/dist/esm/index.d.ts",
-    "lib/run/node_modules/minipass/dist/commonjs",
-    "信箱/1.2-JavaScriptr 版本.md",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
