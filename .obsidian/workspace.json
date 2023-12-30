@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/想开发的项目.md",
+                "file": "lib/template/日志/月总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/想开发的项目.md"
+                "file": "lib/template/日志/月总结.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/想开发的项目.md",
+                "file": "lib/template/日志/月总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/想开发的项目.md",
+                "file": "lib/template/日志/月总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,13 @@
   },
   "active": "24bba1723da05147",
   "lastOpenFiles": [
+    "README.md",
+    "lib/template/日志/月总结.md",
+    "lib/template/日志/周总结.md",
+    "lib/template/日志/季总结.md",
+    "lib/template/日志/日总结.md",
+    "lib/template/日志/年总结.md",
+    "拾肆/个人/想开发的项目.md",
     "收集/委托模式 (Delegate).md",
     "收集/前端面试题.md",
     "收集/工程化之统一编辑器字符 EditorConfig.md",
@@ -221,13 +228,6 @@
     "收集/基本原则.md",
     "收集/模板方法模式 (Template Method).md",
     "收集/设计模式.md",
-    "收集/WSL 修改默认安装目录到其他盘.md",
-    "收集/WSL 登录 Root.md",
-    "收集/WSL 系统代理.md",
-    "收集/WSL 基本命令.md",
-    "收集/Web 组件.md",
-    "收集/web 框架与 cocos 的结合.md",
-    "收集/Windows 终端设置代理.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
