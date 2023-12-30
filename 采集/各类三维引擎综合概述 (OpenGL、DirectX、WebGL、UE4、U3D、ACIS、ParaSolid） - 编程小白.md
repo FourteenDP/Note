@@ -1,35 +1,28 @@
 ---
-标题: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎
-tags:
-  - 采集
-  - 三维引擎
-  - OpenGL
-  - DirectX
-  - WebGL
-  - UE4
-  - U3D
-  - ACIS
-  - ParaSolid
-笔记ID: 1683439293658
-创建时间: 2023-05-07 14:01:33
-更新时间: 2023-11-28 11:42:4510:03
+标题 : 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
+tags: 
+作者: bcxiaobai1.github.io
+描述: OpenCV 是 Open Source Computer Vision Library 主要是提供图像处理和视频处理的基础算法库，还涉及一些机器学习的算法。
+域名: bcxiaobai1.github.io
+原文连接: https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/
+创建时间: 2023-12-31 00:05:48
+更新时间: 2023-12-31 00:05:48
 ---
 
-# 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎
+# 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
 
-**原文：**[各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_丰色木夕的博客 - CSDN 博客_3d 引擎](https://blog.csdn.net/youlinhuanyan/article/details/123952013)
 
-## 关于 OpenGL、DirectX、[OpenCV](https://so.csdn.net/so/search?q=OpenCV&spm=1001.2101.3001.7020)
+### 关于 OpenGL、DirectX、OpenCV
 
-### OpenCV
+##### OpenCV
 
-OpenCV 是 Open Source Computer [Vision](https://so.csdn.net/so/search?q=Vision&spm=1001.2101.3001.7020) Library 主要是提供图像处理和视频处理的基础算法库，还涉及一些机器学习的算法。比如你想实现视频的降噪、运动物体的跟踪、目标（比如人脸）的识别这些都是 CV 的领域。它是可以运行在 Linux、Window、和 Mac OS 操作系统上，它是轻量级而且很高效的。
+OpenCV 是 Open Source Computer Vision Library 主要是提供图像处理和视频处理的基础算法库，还涉及一些机器学习的算法。比如你想实现视频的降噪、运动物体的跟踪、目标（比如人脸）的识别这些都是 CV 的领域。它是可以运行在 Linux、Window、和 Mac OS 操作系统上，它是轻量级而且很高效的。
 
-### OpenGL
+##### OpenGL
 
 OpenGL 是 Open Graphics Library 是个定义了一个跨编程语言、跨平台的编程接口规格的专业的图形程序接口。它用于三维图象（二维的亦可），是一个功能强大，调用方便的底层图形库。
 
-### DirectX
+##### DirectX
 
 DirectX 是 Direct eXtension 由微软开发，是许多种 API 的集合体，包含 Direct3D，Direct2D，DirectCompute，XAudio，XIput 等内容。DirectX 主要是面向游戏而开发的一系列硬件资源调用的接口；它的接口范围比较 OpenGL 大
 
@@ -49,4 +42,4 @@ DirectX 是 Direct eXtension 由微软开发，是许多种 API 的集合体，�
 
 最后为大家献上一张图，把上面介绍的关系说清楚
 
-![](https://img-blog.csdnimg.cn/71b1f0d7426e4c21b41a3c17aa9bb89b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Liw6Imy5pyo5aSV,size_20,color_FFFFFF,t_70,g_se,x_16)
+![](https://images2.imgbox.com/a6/99/xf7pEQrP_o.png)
