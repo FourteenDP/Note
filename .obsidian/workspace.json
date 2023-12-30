@@ -11,9 +11,12 @@
             "id": "4fe04d7701b94a69",
             "type": "leaf",
             "state": {
-              "type": "code-editor",
+              "type": "markdown",
               "state": {
-                "file": "lib/run/uid.js"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -92,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/run/uid.js"
+                "file": "README.md"
               }
             }
           },
@@ -149,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lib/run/uid.js",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lib/run/uid.js",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,44 +200,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "4fe04d7701b94a69",
   "lastOpenFiles": [
-    "信箱/1.2-JavaScriptr 版本.md",
+    "信箱/编程范式.md",
     "lib/run/uid.js",
-    "lib/run/node_modules/minipass/dist/commonjs/package.json",
-    "lib/run/node_modules/minipass/dist/commonjs/index.js.map",
-    "lib/run/node_modules/minipass/dist/commonjs/index.js",
-    "lib/run/node_modules/minipass/dist/commonjs/index.d.ts.map",
-    "lib/run/node_modules/minipass/dist/commonjs/index.d.ts",
-    "lib/run/node_modules/minipass/dist/esm/package.json",
-    "lib/run/node_modules/minipass/dist/esm/index.js.map",
-    "lib/run/node_modules/minipass/dist/esm/index.d.ts.map",
-    "lib/run/node_modules/minipass/dist/esm/index.js",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
+    "信箱/2.计算属性.md",
+    "lib/run/node_modules/js-yaml/dist/js-yaml.min.js",
+    "lib/run/node_modules/js-yaml/dist/js-yaml.js",
+    "lib/run/node_modules/js-yaml/dist",
+    "lib/run/node_modules/cross-spawn/lib/util/resolveCommand.js",
+    "lib/run/node_modules/cross-spawn/lib/util/readShebang.js",
+    "lib/run/node_modules/cross-spawn/lib/util/escape.js",
+    "lib/run/node_modules/cross-spawn/lib/parse.js",
+    "lib/run/node_modules/cross-spawn/lib/util",
+    "lib/run/node_modules/cross-spawn/lib/enoent.js",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
+    "lib/run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
+    "lib/run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
     "lib/run/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
     "lib/run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "lib/run/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
     "lib/run/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
+    "lib/run/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
     "lib/run/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
     "lib/run/node_modules/@pkgjs/parseargs/README.md",
-    "lib/run/node_modules/@isaacs/cliui/README.md",
     "lib/run/node_modules/@pkgjs/parseargs/CHANGELOG.md",
+    "lib/run/node_modules/@isaacs/cliui/README.md",
+    "lib/run/node_modules/strip-ansi/readme.md",
     "lib/run/node_modules/wrap-ansi-cjs/readme.md",
     "lib/run/node_modules/wrap-ansi/readme.md",
     "lib/run/node_modules/which/README.md",
     "lib/run/node_modules/which/CHANGELOG.md",
+    "lib/run/node_modules/strip-bom-string/README.md",
     "lib/run/node_modules/strip-ansi-cjs/readme.md",
-    "lib/run/node_modules/strip-ansi/readme.md",
+    "lib/run/node_modules/isexe/README.md",
     "lib/run/node_modules/string-width-cjs/readme.md",
     "lib/run/node_modules/string-width/readme.md",
-    "lib/run/node_modules/shebang-command/readme.md",
-    "信箱/备忘录模式 (Memento).md",
-    "信箱/7.模板引用.md",
+    "lib/run/node_modules/sprintf-js/README.md",
+    "lib/run/node_modules/shebang-regex/readme.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
-    "README.md",
     "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/image/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
