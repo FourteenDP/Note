@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/✨知识社区.md",
+                "file": "信箱/1.2-JavaScriptr 版本.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "079690634def1a54",
+            "id": "f82dd3dfab66f6f0",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/✨知识社区.md"
+                "file": "信箱/1.2-JavaScriptr 版本.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/✨知识社区.md",
+                "file": "信箱/1.2-JavaScriptr 版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/✨知识社区.md",
+                "file": "信箱/1.2-JavaScriptr 版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,16 +192,49 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "custom-sort:Toggle custom sorting": false,
       "code-files:Create Code File": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4fe04d7701b94a69",
   "lastOpenFiles": [
+    "lib/run/package.json",
+    "信箱/备忘录模式 (Memento).md",
+    "信箱/1.2-JavaScriptr 版本.md",
+    "信箱/7.模板引用.md",
+    "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
+    "lib/run/Obsidian目录生成.ts",
+    "自考/押密/商务沟通方法与技能.pdf",
+    "自考/押密/马克思主义基本原理概论.pdf",
+    "自考/押密/国际商务与国际营销.pdf",
+    "README.md",
+    "信箱/5.事件处理.md",
+    "信箱/Vue2 中的页面数据缓存.md",
+    "信箱/Vue 生命周期.md",
+    "信箱/✨知识社区.md",
+    "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
+    "assets/image/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
+    "assets/image/4191a5f8695fa00a6f42af3cc99f906.png",
+    "assets/image/Pasted image 20220708135633.png",
+    "assets/image/盒子模型.png",
+    "assets/svg/后端常见分层.drawio.svg",
+    "assets/image/分析Vue2中的Vue与VueComponent的关系.png",
+    "assets/svg/UniApp生命周期.drawio.svg",
+    "代码/虚拟列表.html",
+    "代码/事件总线(Event Bus).ts",
+    "代码/柯里化(Currying)与偏函数(Partial Function)模式.ts",
+    "代码/看懂这个就懂事件懂事件循环(Event Loop).js",
+    "代码/聚合函数(compose).ts",
+    "代码/观察者模式(Observer).ts",
+    "日志/2023/2023-02-28.md",
+    "日志/2023/2023-12-10.md",
+    "日志/2023/2023-03-01.md",
+    "日志/2023/2023-03-04.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
     "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
@@ -212,42 +245,9 @@
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
     "日志/README.md",
-    "README.md",
     "信箱/UniApp-String.prototype.localeCompare() 踩坑.md",
     "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
-    "信箱/Vue 路由 Keep-alive 实现原理.md",
-    "信箱/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
-    "信箱/Vue2 中的页面数据缓存.md",
-    "lib/template/日志/周总结.md",
-    "lib/template/日志/月总结.md",
-    "lib/template/日志/日总结.md",
-    "lib/template/日志/年总结.md",
-    "lib/template/日志/季总结.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
-    "信箱/1.ref 和 reactive 区别.md",
-    "代码/单例模式(Singleton).ts",
-    "代码/防抖与节流模式(Debounce & Throttle).ts",
-    "代码/抽象工厂模式(Abstract Factory).ts",
-    "代码/工厂方法模式(Factory Method).ts",
-    "代码/事件总线(Event Bus).ts",
-    "代码/Obsidian全屏iframe.html",
-    "代码/LRU算法.ts",
-    "代码/canvas图片裁剪和压缩.html",
-    "代码/观察者模式(Observer).ts",
-    "代码/看懂这个就懂事件懂事件循环(Event Loop).js",
-    "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
-    "assets/image/Vue生命周期.png",
-    "assets/image/Pasted Image 20230312050057_351.png",
-    "assets/image/Pasted Image 20230312050057_436.png",
-    "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
-    "assets/image/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/svg/submodule和subtree区别.excalidraw.svg",
-    "assets/svg/后端常见分层.drawio.svg",
-    "assets/image/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "未命名.canvas",
     "日志/未命名.canvas"
   ]

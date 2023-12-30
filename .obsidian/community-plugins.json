@@ -23,5 +23,7 @@
   "custom-sort",
   "tag-wrangler",
   "obsidian-local-rest-api",
-  "code-files"
+  "code-files",
+  "obsidian-emoji-toolbar",
+  "obsidian-icons-plugin"
 ]

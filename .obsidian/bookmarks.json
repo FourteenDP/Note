@@ -30,21 +30,15 @@
         },
         {
           "type": "group",
-          "ctime": 1702190058969,
-          "items": [],
-          "title": "拾肆"
-        },
-        {
-          "type": "group",
-          "ctime": 1702190058969,
-          "items": [],
-          "title": "日志"
-        },
-        {
-          "type": "group",
           "ctime": 1702190050789,
           "items": [],
           "title": "采集"
+        },
+        {
+          "type": "group",
+          "ctime": 1702190058969,
+          "items": [],
+          "title": "拾肆"
         },
         {
           "type": "group",
@@ -56,17 +50,29 @@
           "type": "group",
           "ctime": 1702190058969,
           "items": [],
-          "title": "信箱"
+          "title": "日志"
         },
         {
-          "type": "file",
+          "type": "group",
+          "ctime": 1703958586978,
+          "items": [],
+          "title": "归档"
+        },
+        {
+          "type": "group",
           "ctime": 1702190058969,
-          "path": "README.md",
-          "subpath": "#^-",
-          "title": "README"
+          "items": [],
+          "title": "信箱"
         }
       ],
       "title": "sortspec"
+    },
+    {
+      "type": "file",
+      "ctime": 1702190058969,
+      "path": "README.md",
+      "subpath": "#^-",
+      "title": "README"
     }
   ]
 }
