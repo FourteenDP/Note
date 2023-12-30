@@ -25,7 +25,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "标题:\n笔记ID:\naliases:\ntags:\ncssclasses:\n描述:\n创建时间:\n更新时间:"
+      "text-to-insert": "标题:\n笔记ID:\naliases:\ntags:\ncssclasses:\n\n创建时间:\n更新时间:"
     },
     "move-tags-to-yaml": {
       "enabled": true,

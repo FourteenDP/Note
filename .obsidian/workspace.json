@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "采集/Win10-VSCode - 添加至右键菜单.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"作者\"]",
+                "query": "[\"原文链接\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "采集/Win10-VSCode - 添加至右键菜单.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "采集/Win10-VSCode - 添加至右键菜单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "采集/Win10-VSCode - 添加至右键菜单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,11 +201,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "4fe04d7701b94a69",
   "lastOpenFiles": [
-    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
-    "README.md",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "README.md",
     "收集/Vue 路由 Keep-alive 实现原理.md",
     "收集/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
     "收集/Vue2 中的页面数据缓存.md",
@@ -234,11 +239,6 @@
     "代码/观察者模式(Observer).ts",
     "收集/Web 组件.md",
     "代码/看懂这个就懂事件懂事件循环(Event Loop).js",
-    "代码/README.md",
-    "收集/HelloWorld.md",
-    "日志/2023/2023-03-04.md",
-    "收集/类型和变量.md",
-    "仓库/Me-Config/README.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image/Vue生命周期.png",
     "assets/image/Pasted Image 20230312050057_351.png",

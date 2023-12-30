@@ -9,7 +9,7 @@ cssclasses:
 域名: www.w3cschool.cn
 创建时间: 2023-12-31 00:19:13
 更新时间: 2023-12-31 00:37:02
-原文连接: https://www.w3cschool.cn/article/67325175.html
+原文链接: https://www.w3cschool.cn/article/67325175.html
 ---
 
 # CSS 选择器优先级权重 - w3cschool 笔记

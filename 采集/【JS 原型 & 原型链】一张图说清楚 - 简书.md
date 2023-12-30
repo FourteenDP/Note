@@ -9,7 +9,7 @@ cssclasses:
 域名: www.jianshu.com
 创建时间: 2023-12-31 00:19:52
 更新时间: 2023-12-31 00:37:02
-原文连接: https://www.jianshu.com/p/423f72d502c2
+原文链接: https://www.jianshu.com/p/423f72d502c2
 ---
 
 # 【JS 原型 & 原型链】一张图说清楚 - 简书

@@ -9,7 +9,7 @@ cssclasses:
 域名: blog.csdn.net
 创建时间: 2023-12-31 00:22:19
 更新时间: 2023-12-31 00:37:02
-原文连接: https://blog.csdn.net/weixin_41714373/article/details/119519589
+原文链接: https://blog.csdn.net/weixin_41714373/article/details/119519589
 ---
 
 # 【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客
