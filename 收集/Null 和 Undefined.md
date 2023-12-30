@@ -1,6 +1,8 @@
 ---
 标题: Null 和 Undefined
 笔记ID: 1683439292107
+描述: 
+封面: 
 aliases: []
 tags:
   - 技术
@@ -9,9 +11,8 @@ tags:
   - "Null"
   - Undefined
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 01:09:57
+更新时间: 2023-12-31 01:17:18
 ---
 
 # Null 和 Undefined

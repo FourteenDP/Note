@@ -1,6 +1,8 @@
 ---
 标题: 开闭原则 OCP(Open Close Principle)
 笔记ID: 1683439291485
+描述: 
+封面: 
 aliases: []
 tags:
   - 计算机/设计模式
@@ -8,9 +10,8 @@ tags:
   - SOLID
   - 开闭原则 OCP(Open Close Principle)
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:10:00
+更新时间: 2023-12-31 01:17:21
 ---
 
 # 开闭原则 OCP(Open Close Principle)

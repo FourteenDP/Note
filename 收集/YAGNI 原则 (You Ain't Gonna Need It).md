@@ -1,6 +1,8 @@
 ---
 标题: "YAGNI 原则 (You Ain't Gonna Need It)"
 笔记ID: 1683439291502
+描述: 
+封面: 
 aliases: []
 tags:
   - 计算机/设计模式
@@ -8,9 +10,8 @@ tags:
   - 其它原则(不属于SOLID的原则)
   - YAGNI 原则 (You Ain't Gonna Need It)
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:09:58
+更新时间: 2023-12-31 01:17:20
 ---
 
 # YAGNI 原则 (You Ain't Gonna Need It)

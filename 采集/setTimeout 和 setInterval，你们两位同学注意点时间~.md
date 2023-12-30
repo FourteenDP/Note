@@ -1,15 +1,16 @@
 ---
 标题: setTimeout 和 setInterval，你们两位同学注意点时间~
 笔记ID: 
+描述: 
+封面: 
 aliases: []
 tags: []
 cssclasses: 
 作者: juejin.cn
-描述: 
 域名: juejin.cn
-创建时间: 2023-12-31 00:21:44
-更新时间: 2023-12-31 00:37:02
 原文链接: https://juejin.cn/post/7028823525125259272
+创建时间: 2023-12-31 00:21:44
+更新时间: 2023-12-31 01:17:46
 ---
 
 # Win10-VSCode - 添加至右键菜单
@@ -70,3 +71,5 @@ Windows Registry Editor Version 5.00
 
 
 ```
+
+

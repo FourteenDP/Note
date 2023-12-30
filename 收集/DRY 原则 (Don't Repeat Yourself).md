@@ -1,6 +1,8 @@
 ---
 标题: "DRY 原则 (Don't Repeat Yourself)"
 笔记ID: 1683439291498
+描述: 
+封面: 
 aliases: []
 tags:
   - 计算机/设计模式
@@ -8,9 +10,8 @@ tags:
   - 其它原则(不属于SOLID的原则)
   - DRY 原则 (Don't Repeat Yourself)
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:09:55
+更新时间: 2023-12-31 01:17:17
 ---
 
 # DRY 原则 (Don't Repeat Yourself)

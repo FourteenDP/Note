@@ -1,6 +1,8 @@
 ---
 标题: Vue Router
 笔记ID: 1683439291162
+描述: 
+封面: 
 aliases: []
 tags:
   - Vue
@@ -8,9 +10,8 @@ tags:
   - 计算机/前端开发/JavaScript
   - Vue Router
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:09:57
+更新时间: 2023-12-31 01:17:19
 ---
 
 # Vue Router

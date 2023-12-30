@@ -1,6 +1,8 @@
 ---
 标题: String.prototype.localeCompare()
 笔记ID: 1683439292192
+描述: 
+封面: 
 aliases: []
 tags:
   - 语言
@@ -9,9 +11,8 @@ tags:
   - String
   - 方法
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 01:09:57
+更新时间: 2023-12-31 01:17:18
 ---
 
 # String.prototype.localeCompare()

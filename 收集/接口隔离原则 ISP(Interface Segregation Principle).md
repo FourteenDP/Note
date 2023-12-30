@@ -1,6 +1,8 @@
 ---
 标题: 接口隔离原则 ISP(Interface Segregation Principle)
 笔记ID: 1683439291489
+描述: 
+封面: 
 aliases: []
 tags:
   - 计算机/设计模式
@@ -8,9 +10,8 @@ tags:
   - SOLID
   - 接口隔离原则 ISP(Interface Segregation Principle)
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:10:01
+更新时间: 2023-12-31 01:17:22
 ---
 
 # 接口隔离原则 ISP(Interface Segregation Principle)

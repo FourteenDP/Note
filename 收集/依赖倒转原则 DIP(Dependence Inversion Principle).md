@@ -1,6 +1,8 @@
 ---
 标题: 依赖倒转原则 DIP(Dependence Inversion Principle)
 笔记ID: 1683439291385
+描述: 
+封面: 
 aliases: []
 tags:
   - 计算机/设计模式
@@ -8,9 +10,8 @@ tags:
   - SOLID
   - 依赖倒转原则 DIP(Dependence Inversion Principle)
 cssclasses: 
-描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:09:59
+更新时间: 2023-12-31 01:17:20
 ---
 
 # 依赖倒转原则 DIP(Dependence Inversion Principle)

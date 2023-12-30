@@ -1,12 +1,13 @@
 ---
 标题: HelloWorld
 笔记ID: 
-aliases: 
-tags: 
-cssclasses: 
 描述: 
+封面: 
+aliases: []
+tags: []
+cssclasses: 
 创建时间: 2023-05-07 17:04:27
-更新时间: 2023-12-31 01:09:55
+更新时间: 2023-12-31 01:17:17
 ---
 
 # C# Hello World
