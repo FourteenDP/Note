@@ -1,10 +1,10 @@
 ---
-标题 : 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
+标题: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
 tags: 
 作者: bcxiaobai1.github.io
 描述: OpenCV 是 Open Source Computer Vision Library 主要是提供图像处理和视频处理的基础算法库，还涉及一些机器学习的算法。
 域名: bcxiaobai1.github.io
-原文连接: https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/
+原文链接: https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/
 创建时间: 2023-12-31 00:05:48
 更新时间: 2023-12-31 00:05:48
 ---

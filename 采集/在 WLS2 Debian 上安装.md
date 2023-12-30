@@ -1,5 +1,5 @@
 ---
-标题: 在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客
+标题: 在 WLS2 Debian 上安装
 笔记ID: 1693378305899
 tags:
   - 采集
@@ -8,14 +8,12 @@ tags:
   - Docker
   - 安装
   - 教程
-笔记ID: 1693378305899
-创建时间: 2023-08-3- 00310 3614:51:45
-更新时间: 2023-11-28 11:27:04
+创建时间: 2023-08-30 14:51:45
+更新时间: 2023-12-31 00:19:38
+原文链接: https://blog.csdn.net/qq_50883920/article/details/120540509
 ---
 
-# 在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客
-
-**原文：**[在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客](https://blog.csdn.net/qq_50883920/article/details/120540509)
+# 在 WLS2 Debian 上安装
 
 ## 在 WLS2 [Debian](https://so.csdn.net/so/search?q=Debian&spm=1001.2101.3001.7020) 上安装 Docker
 
