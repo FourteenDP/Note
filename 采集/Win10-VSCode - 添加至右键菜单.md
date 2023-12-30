@@ -1,20 +1,14 @@
 ---
 标题: Win10-VSCode - 添加至右键菜单
-tags:
-  - 采集
-  - Windows 10
-  - VSCode
-  - 右键菜单
-  - 教程
-  - 配置
-笔记ID: 1684596658195
-创建时间: 2023-05-20 23:30:58
-更新时间: 2023-11-28 11:27:04
+笔记ID: 
+tags: []
+创建时间: 2023-12-31 00:21:44
+更新时间: 2023-12-31 00:21:58
+作者: juejin.cn
+原文连接: https://juejin.cn/post/7028823525125259272
+域名: juejin.cn
+描述: 
 ---
-
-# Win10-VSCode - 添加至右键菜单
-
-**原文：**[Win10-VSCode - 添加至右键菜单](https://juejin.cn/post/7028823525125259272)
 
 # Win10-VSCode - 添加至右键菜单
 
@@ -23,50 +17,56 @@ tags:
 ## 教程
 
 1. 新建一个后缀是 `.reg` 的文件，例如: `vs.reg`
-
+    
 2. 用记事本或 `Notepad++` 打开上述 `.reg` 文件，按照自己的需要将下面的代码复制粘贴到 `.reg` 文件中，然后根据自己 `VSCode` 的安装目录修改路径，保存后双击运行即可
 
 ## 配置
 
 下面为 3 种配置，可根据需要选择
 
-### （一）空白处右键菜单里显示 "Open With Code"
+### （一）空白处右键菜单里显示 "Open with Code"
 
 ```
 Windows Registry Editor Version 5.00
-
+ 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
-
+ 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
 @="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%V\""
 
 
 ```
 
-### （二）选中文件右键菜单里显示 "Open With Code"
+### （二）选中文件右键菜单里显示 "Open with Code"
 
 ```
 Windows Registry Editor Version 5.00
-
+ 
 [HKEY_CLASSES_ROOT\*\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
-
+ 
 [HKEY_CLASSES_ROOT\*\shell\VSCode\command]
 @="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%1\""
 
 
 ```
 
-### （三）选中文件夹右键菜单里显示 "Open With Code"
+### （三）选中文件夹右键菜单里显示 "Open with Code"
 
 ```
 Windows Registry Editor Version 5.00
-
+ 
 [HKEY_CLASSES_ROOT\Directory\shell\VSCode]
 @="Open with Code"
 "Icon"="C:\\Program Files\\Microsoft VS Code\\Code.exe"
-
+ 
 [HKEY_CLASSES_ROOT\Directory\shell\VSCode\command]
+@="\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%V\""
+
+
+```
+
+

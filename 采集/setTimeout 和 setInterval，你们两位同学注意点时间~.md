@@ -1,20 +1,16 @@
 ---
 标题: setTimeout 和 setInterval，你们两位同学注意点时间~
-tags:
-  - 采集
-  - 计算机/前端开发/JavaScript
-  - setTimeout
-  - setInterval
-  - 编程概念
-  - 教程
-笔记ID: 1683439293653
-创建时间: 2023-05-07 14:01:33
-更新时间: 2023-11-28 11:27:04
+笔记ID: 
+tags: []
+创建时间: 2023-12-31 00:21:01
+更新时间: 2023-12-31 00:21:04
+作者: juejin.cn
+原文连接: https://juejin.cn/post/7123440584156512293
+域名: juejin.cn
+描述: 
 ---
 
 # setTimeout 和 setInterval，你们两位同学注意点时间~
-
-**原文：**[setTimeout 和 setInterval，你们两位同学注意点时间~](https://juejin.cn/post/7123440584156512293)
 
 ## 一、基本定义与用法
 
@@ -29,8 +25,8 @@ tags:
 
     ```
       setTimeout('console.log(123);fn()', 2000)
-    复制代码
-
+    
+    
     ```
 
 - 第二个参数 delay，可选，单位是 ms，对于 `setTimeout` 是延迟时间，对于 `setInterval` 是间隔时间，默认都是 0
@@ -40,8 +36,8 @@ tags:
       setTimeout(function (a, b) {
         console.log(a, b)
       }, 2000, '我是', '定时器')
-    复制代码
-
+    
+    
     ```
 
 ### 3、返回值
@@ -63,13 +59,13 @@ tags:
       clearInterval(interval);
     }
   }, 1000)
-复制代码
+
 
 ```
 
 `new Date().getTime() - (startTime + count * 1000)` 理想情况下应该是 0ms，然而事实并不是这样，而是存在着误差：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/413fa6cbed5c46bd8a761f920028fc20~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/413fa6cbed5c46bd8a761f920028fc20~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 ### 2、使用 setTimeout 实现计时
 
@@ -84,13 +80,13 @@ tags:
       timer = setTimeout(doFunc, delay)
     }
   }
-复制代码
+
 
 ```
 
 setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需要在同步代码执行完成后才重新开始计时）：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/88ff9ecaabc44b3ca4bf28da54be81f1~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/88ff9ecaabc44b3ca4bf28da54be81f1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 ## 三、为什么会出现误差
 
@@ -98,7 +94,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 `setTimeout` 遵循的规范由 whatwg 来维护，在 [HTML Standard - 8.6 Timers](https://link.juejin.cn?target=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2Ftimers-and-user-prompts.html%23dom-settimeout "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-settimeout") 中写到了定义定时器的详细步骤，其中有两条：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/48672062a7bd44c1aea12510cf135aa5~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/48672062a7bd44c1aea12510cf135aa5~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 上面的意思就是说，如果设置的 timeout 小于 0，则设置为 0，如果嵌套的层级超过了 5 层（计时器嵌套），并且 timeout 小于 4ms，则设置 timeout 为 4ms。并且，在不同浏览器中出现这种最小延迟的情况有所不同
 
@@ -121,19 +117,19 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
       clearInterval(interval)
     }
   }, 0)
-复制代码
+
 
 ```
 
 测试结果：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71c63773de6a41d491dd52a0c4a12126~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71c63773de6a41d491dd52a0c4a12126~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 虽然没有 10ms 那么大的间隔，但是间隔仍然存在，猜测具体的间隔时间是和浏览器实现以及设备性能有关，无论如何，间隔是确实存在的
 
 另外，当使用 setInterval 时间间隔到点后，仅当队列中没有该定时器的任何其他代码实例时，才会将定时器的代码添加到队列中，如果有的话，则不会添加，造成堵塞，这个也与 JS 的事件循环有关
 
-### 3、未被激活的 Tabs 的定时最小延迟 >= 1000ms
+### 3、未被激活的 tabs 的定时最小延迟 >= 1000ms
 
 为了优化后台 tab 的加载损耗（以及降低耗电量），在未被激活的 tab 中定时器的最小延时限制为 1s(1000ms)，具体时间在不同的浏览器实现中也有差别
 
@@ -151,13 +147,13 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
   (function() {
     const timeouts = [];
     const messageName = "zero-timeout-message";
-
+  
     // 只有一个回调函数参数
     function setZeroTimeout(fn) {
       timeouts.push(fn);
       window.postMessage(messageName, "*");
     }
-
+  
     function handleMessage(event) {
       if (event.source === window && event.data === messageName) {
         event.stopPropagation();
@@ -167,11 +163,11 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
         }
       }
     }
-
+  
     window.addEventListener("message", handleMessage, true);
     window.setZeroTimeout = setZeroTimeout;
   })();
-复制代码
+
 
 ```
 
@@ -189,17 +185,17 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
       setTimeout(doFunc)
     }
   }
-复制代码
+
 
 ```
 
 使用 setTimeout(0) 得到的时间：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/25be124d4f3c49c487a418a4d6fdaf57~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/25be124d4f3c49c487a418a4d6fdaf57~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 将 setTimeout 改成 setZeroTimeout 后得到的时间，时间几乎都在 0～1，至于为什么不是绝对的 0，猜测可能与性能有关，总的来说，时间确实缩短了：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1923f9c7db2949ffba0b96c89e1f55de~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1923f9c7db2949ffba0b96c89e1f55de~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 ### 2、购物网站的秒杀活动
 
@@ -234,7 +230,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
       timeCounter = setTimeout(countDown, nextTime)
     }
   }
-复制代码
+
 
 ```
 
@@ -244,7 +240,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 假设有 `setInterval(function, 100)`，它的执行可能是这样的：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5743630643c24016aed76949a438bbd6~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5743630643c24016aed76949a438bbd6~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
 上图可见，setInterval 每隔 100ms 往队列中添加一个事件；100ms 后，添加 T1 定时器代码至队列中，主线程中还有任务在执行，所以等待，some event 执行结束后执行 T1 定时器代码；又过了 100ms，T2 定时器被添加到队列中，主线程还在执行 T1 代码，所以等待；又过了 100ms，理论上又要往队列里推一个定时器代码，但由于此时 T2 还在队列中，所以 T3 不会被添加，结果就是此时被跳过；然后，T1 定时器执行结束后马上执行了 T2 代码，所以并没有达到定时器间隔的效果
 
@@ -260,7 +256,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
     // do something
     setTimeout(fn, delay)
   }, delay)
-复制代码
+
 
 ```
 
@@ -287,7 +283,7 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
     }
     console.log(Date.now() - start + 'ms');
   })()
-复制代码
+
 
 ```
 
@@ -306,4 +302,6 @@ setTimeout 也同样存在着误差，而且时间越来越大（setTimeout 需�
 
 - [blog.csdn.net/b954960630/…](https://link.juejin.cn?target=https%3A%2F%2Fblog.csdn.net%2Fb954960630%2Farticle%2Fdetails%2F82286486 "https://blog.csdn.net/b954960630/article/details/82286486")
 - [juejin.cn/post/684490…](https://juejin.cn/post/6844903773622501383 "https://juejin.cn/post/6844903773622501383")
-- [dbaron.org/log/2010030…](https://link.juejin.cn?target=https%3A%2F%2Fdbaron.org%2Flog%2F20100309-faster-timeouts "https://dbaron.org/log/20100309-faster-timeouts")
+- [dbaron. org/log/2010030…]( https://link.juejin.cn?target=https%3A%2F%2Fdbaron.org%2Flog%2F20100309-faster-timeouts " https://dbaron.org/log/20100309-faster-timeouts" )
+
+
