@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"uid\"]",
+                "query": "[\"笔记ID\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -129,22 +129,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "2285573cd75ad9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信箱/XR.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "02db7ed448796d0d",
@@ -213,10 +200,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f5eb5f0003b93c45",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
-    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
+    "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
     "信箱/XR.md",
+    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
     "信箱/WSL SSH 远程连接.md",
     "信箱/WSL 修改默认安装目录到其他盘.md",
     "信箱/WSL 系统代理.md",
@@ -240,7 +228,6 @@
     "采集/写给前端的编译原理科普.md",
     "信箱/JSX 声明组件的几种方式.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报在一个时间内的资产阶级方向.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文化革命五人小组向中央的汇报提纲.md",
     "lib/run/uid.js",
     "lib/run/node_modules/js-yaml/dist/js-yaml.min.js",
     "lib/run/node_modules/js-yaml/dist/js-yaml.js",
