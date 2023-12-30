@@ -1,5 +1,7 @@
 ---
 标题: 计算 setTimeout 和 setInterval 计时器的误差
+笔记ID: 1683439291129
+aliases: 
 tags:
   - 计算机/前端开发/JavaScript
   - setTimeout
@@ -8,9 +10,10 @@ tags:
   - 定时器
   - 误差
   - 事件队列
-笔记ID: 1683439291129
+cssclasses: 
+描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-11-28 11:27:42
+更新时间: 2023-12-31 00:38:05
 ---
 
 # 计算 setTimeout 和 setInterval 计时器的误差

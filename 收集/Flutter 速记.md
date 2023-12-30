@@ -1,5 +1,7 @@
 ---
 标题: Flutter 速记
+笔记ID: 1683439292528
+aliases: 
 tags:
   - Flutter
   - Getx
@@ -12,9 +14,10 @@ tags:
   - Open_file
   - Path_provider
   - Dio
-笔记ID: 1683439292528
+cssclasses: 
+描述: 
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-11-28 11:27:39
+更新时间: 2023-12-31 00:37:59
 ---
 
 # Flutter 速记

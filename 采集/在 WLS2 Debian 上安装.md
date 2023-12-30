@@ -14,7 +14,7 @@ cssclasses:
 描述: 
 原文链接: https://blog.csdn.net/qq_50883920/article/details/120540509
 创建时间: 2023-08-30 14:51:45
-更新时间: 2023-12-31 00:36:13
+更新时间: 2023-12-31 00:37:03
 ---
 
 # 在 WLS2 Debian 上安装 Docker
@@ -105,5 +105,3 @@ vim daemon.json
 ```
 
 关于 docker 的使用，敬请期待后续更新！
-
-

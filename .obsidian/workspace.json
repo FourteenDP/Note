@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff1800d4b4dd491",
+        "id": "56f8346c49b1d600",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb6d17d8d47e87c",
+            "id": "4809c45fb8725f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/实施前端微服务化的六七种方式.md",
+                "file": "拾肆/个人/简历待办.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/实施前端微服务化的六七种方式.md"
+                "file": "拾肆/个人/简历待办.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/实施前端微服务化的六七种方式.md",
+                "file": "拾肆/个人/简历待办.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/实施前端微服务化的六七种方式.md",
+                "file": "拾肆/个人/简历待办.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +199,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7eb6d17d8d47e87c",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
-    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
+    "拾肆/个人/感兴趣的事物.md",
+    "拾肆/个人/简历待办.md",
+    "拾肆/个人/防脱生发.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/告各友邦书.md",
+    "拾肆/个人/邓智鹏 - 前端工程师.pdf",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "采集/实施前端微服务化的六七种方式.md",
-    "采集/写给前端的编译原理科普.md",
     "采集/在 WLS2 Debian 上安装.md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
+    "采集/写给前端的编译原理科普.md",
     "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
@@ -212,7 +219,6 @@
     "收集/3.1- 语法.md",
     "收集/命名规范.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
-    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
@@ -222,11 +228,6 @@
     "收集/一维数组转通讯录树.md",
     "收集/为什么使用 settimeout 实现 setinterval.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
-    "收集/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
-    "收集/计算 setTimeout 和 setInterval 计时器的误差.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
-    "收集/数据类型.md",
-    "收集/如何给 node_module 下的库打补丁.md",
     "WuCai",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
@@ -246,7 +247,6 @@
     "assets/image/faf7c09d5d5cc368102455a7e70c2f9.jpg",
     "lib/Run/md",
     "lib/run/uid.js",
-    "lib/run",
     "未命名.canvas",
     "日志/未命名.canvas"
   ]

@@ -1,6 +1,7 @@
 ---
 标题: Git 子仓库
 笔记ID: 1684032009184
+aliases: 
 tags:
   - Git
   - 子仓库
@@ -8,9 +9,11 @@ tags:
   - Git Submodule
   - Git Subtree
   - Monorepo
-创建时间: 2023-05-14 10:40:09
-更新时间: 2023-12-30 23:47:50
+cssclasses: 
+描述: 
 发布链接: https://juejin.cn/post/7230656452497965117
+创建时间: 2023-05-14 10:40:09
+更新时间: 2023-12-31 00:38:00
 ---
 
 # Git 子仓库
@@ -108,5 +111,3 @@ git subtree merge --prefix <path> <branch>
 - [Git子库：submodule与subtree](https://juejin.cn/post/7077775905888124941)
 - [详解Git 分区、配置与日志 - 掘金](https://juejin.cn/post/7075716719917924388)
 - [git subtree教程 - 简书](https://www.jianshu.com/p/d42d330bfead)
-
-

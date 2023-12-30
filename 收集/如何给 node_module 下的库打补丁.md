@@ -1,6 +1,7 @@
 ---
 标题: 如何给 node_module 下的库打补丁
 笔记ID: 1683439291233
+aliases: 
 tags:
   - node_module
   - 打补丁
@@ -9,10 +10,12 @@ tags:
   - yarn
   - yarn
   - patch
-创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-30 23:47:56
+cssclasses: 
+描述: 
 发布链接:
   - https://juejin.cn/post/7209245221887885372
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-31 00:38:03
 ---
 
 # 如何给 node_module 下的库打补丁
@@ -117,5 +120,3 @@ index 8805ff9..79b973b 100644
 ### 关联
 
 - [ds300/patch-package: Fix broken node modules instantly 🏃🏽‍♀️💨](https://github.com/ds300/patch-package)
-
-

@@ -1,22 +1,24 @@
 ---
-标题: 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
-tags: 
+标题: 花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点
+笔记ID: 
+aliases: 
+tags: []
+cssclasses: 
 作者: juejin.cn
 描述: 
 域名: juejin.cn
 原文链接: https://juejin.cn/post/7164159759619194893
 创建时间: 2023-12-31 00:06:56
-更新时间: 2023-12-31 00:06:56
+更新时间: 2023-12-31 00:37:04
 ---
 
 # 花了一天的时间，地板式扫盲了 vue3 所有 API 盲点
 
-
 # 📍前言
 
-最近在一次理解`vue`项目的代码时，发现周一对好多`API`都不太熟悉。这间接导致的问题是，代码理解速度要比平常要慢很多。于是乎，赶忙把`vue API`的学习提上了日程。
+最近在一次理解 `vue` 项目的代码时，发现周一对好多 `API` 都不太熟悉。这间接导致的问题是，代码理解速度要比平常要慢很多。于是乎，赶忙把 `vue API` 的学习提上了日程。
 
-在下面的文章中，将地板式地扫盲`vue3`文档中`API`模块的所有内容，融入周一的理解进行深入介绍。下面就来一起看看吧~🍬
+在下面的文章中，将地板式地扫盲 `vue3` 文档中 `API` 模块的所有内容，融入周一的理解进行深入介绍。下面就来一起看看吧~🍬
 
 # 一、🖇框架搭建
 
@@ -26,16 +28,16 @@ tags:
 
 ## 2、VUE3 API 整体盘点
 
-在`vue3`的全新`API`中，有部分在`vue2`的基础上沿用了。还有另外一部分，是`vue3`所新增加的。我们先来看`vue3 API`文档主要包含哪些内容？
+在 `vue3` 的全新 `API` 中，有部分在 `vue2` 的基础上沿用了。还有另外一部分，是 `vue3` 所新增加的。我们先来看 `vue3 API` 文档主要包含哪些内容？
 
-`vue3 API`主要包含以下六个部分：
+`vue3 API` 主要包含以下六个部分：
 
-*   全局 API —— 全局会用到的 API
-*   组合式 API —— vue3 所拥有的组合式 API
-*   选项式 API —— vue2 所拥有的选项式 API
-*   内置内容 —— 指令、组件、特殊元素和特殊属性
-*   单文件组件 —— 语法定义、
-*   进阶 API —— 渲染函数、服务端渲染、TS 工具类型和自定义渲染
+- 全局 API —— 全局会用到的 API
+- 组合式 API —— vue3 所拥有的组合式 API
+- 选项式 API —— vue2 所拥有的选项式 API
+- 内置内容 —— 指令、组件、特殊元素和特殊属性
+- 单文件组件 —— 语法定义、
+- 进阶 API —— 渲染函数、服务端渲染、TS 工具类型和自定义渲染
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1a558d668bdb4098b5906856113fa41a~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp)
 
@@ -55,7 +57,7 @@ vue3 的全局 API 包含两个部分：应用实例和通用 API。那它们各
 
 # 三、🚲组合式 API
 
-谈到`vue3` ，相信大家最为熟悉的就是 `composition API` 了，也就是 `组合式 API` 。那么，`vue3` 的 `组合式 API` 都给我们带来了什么呢？
+谈到 `vue3` ，相信大家最为熟悉的就是 `composition API` 了，也就是 `组合式 API` 。那么，`vue3` 的 `组合式 API` 都给我们带来了什么呢？
 
 ## 1、setup
 
@@ -175,7 +177,7 @@ vue3 的全局 API 包含两个部分：应用实例和通用 API。那它们各
 
 # 🐣彩蛋 One More Thing
 
-思维导图`github`地址：[github.com/mondaylab/v…](https://link.juejin.cn?target=https%3A%2F%2Fgithub.com%2Fmondaylab%2Fvue3-api "https://github.com/mondaylab/vue3-api")
+思维导图 `github` 地址：[github.com/mondaylab/v…](https://link.juejin.cn?target=https%3A%2F%2Fgithub.com%2Fmondaylab%2Fvue3-api "https://github.com/mondaylab/vue3-api")
 
 `vue3` 入门指南文章推荐：[焕然一新的 Vue 3 中文文档要来了🎉](https://juejin.cn/post/7077701166397653028 "https://juejin.cn/post/7077701166397653028")
 

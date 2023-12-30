@@ -3,7 +3,14 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-linter:lint-all-files-in-folder",
+      "icon": "lint-folder",
+      "name": "Linter: 格式化文件夹中的所有文件",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

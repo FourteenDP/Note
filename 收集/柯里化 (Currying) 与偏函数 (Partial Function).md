@@ -1,14 +1,17 @@
 ---
 标题: 柯里化 (Currying) 与偏函数 (Partial Function)
+笔记ID: 1683439291759
+aliases: 
 tags:
   - 计算机/前端开发/JavaScript
   - 柯里化
   - 偏函数
   - 计算机/设计模式
   - 非GoF设计模式
-笔记ID: 1683439291759
+cssclasses: 
+描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-11-28 11:27:39
+更新时间: 2023-12-31 00:38:04
 ---
 
 # 柯里化 (Currying) 与偏函数 (Partial Function)
