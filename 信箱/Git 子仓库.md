@@ -1,8 +1,8 @@
 ---
 标题: Git 子仓库
 笔记ID: 1684032009184
-描述: 
-封面: 
+描述: null
+封面: null
 aliases: []
 tags:
   - Git
@@ -11,10 +11,11 @@ tags:
   - Git Submodule
   - Git Subtree
   - Monorepo
-cssclasses: 
-发布链接: https://juejin.cn/post/7230656452497965117
-创建时间: 2023-05-14 10:40:09
-更新时间: 2023-12-31 01:17:17
+cssclasses: null
+发布链接: 'https://juejin.cn/post/7230656452497965117'
+创建时间: 2023-05-14T10:40:09.000Z
+更新时间: 2023-12-31T01:17:17.000Z
+uid: '20230514104009184'
 ---
 
 # Git 子仓库

@@ -1,16 +1,17 @@
 ---
 标题: KISS 原则 (Keep It Simple and Stupid)
 笔记ID: 1683439291500
-描述: 
-封面: 
+描述: null
+封面: null
 aliases: []
 tags:
   - 计算机/设计模式
   - 基本原则
   - 其它原则(不属于SOLID的原则)
-cssclasses: 
-创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 01:17:17
+cssclasses: null
+创建时间: 2023-05-07T14:01:31.000Z
+更新时间: 2023-12-31T01:17:17.000Z
+uid: '20230507140131500'
 ---
 
 # KISS 原则 (Keep It Simple and Stupid)

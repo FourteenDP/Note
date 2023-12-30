@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "采集/写给前端的编译原理科普.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"原文链接\"]",
+                "query": "[\"uid\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "采集/写给前端的编译原理科普.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "采集/写给前端的编译原理科普.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "采集/写给前端的编译原理科普.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,17 +195,41 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "custom-sort:Toggle custom sorting": false,
       "code-files:Create Code File": false,
-      "periodic-notes:Open today": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4fe04d7701b94a69",
+  "active": "045f07e50dc53fea",
   "lastOpenFiles": [
-    "信箱/编程范式.md",
+    "信箱/JSX 声明组件的几种方式.md",
+    "采集/写给前端的编译原理科普.md",
+    "拾肆/个人/稳定的工作.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报在一个时间内的资产阶级方向.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报的资产阶级方向应当批判.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文化革命五人小组向中央的汇报提纲.md",
+    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
+    "拾肆/个人/退烧药.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/宋硕、陆平、彭佩云在文化革命中究竟干些什么？.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/事情正在起变化.md",
+    "采集/实施前端微服务化的六七种方式.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/青年运动的方向.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/青年要自觉践行社会主义核心价值观.md",
+    "信箱/桥接模式 (Bridge).md",
+    "拾肆/个人/钱钱钱.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/彭德怀万言书.md",
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论相关视频索引.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/林彪同志委托江青同志召开的部队文艺工作座谈会纪要.md",
+    "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
+    "信箱/链模式 (Chain Of Responsibility).md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "信箱/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "lib/run/uid.js",
-    "信箱/2.计算属性.md",
     "lib/run/node_modules/js-yaml/dist/js-yaml.min.js",
     "lib/run/node_modules/js-yaml/dist/js-yaml.js",
     "lib/run/node_modules/js-yaml/dist",
@@ -214,30 +239,6 @@
     "lib/run/node_modules/cross-spawn/lib/parse.js",
     "lib/run/node_modules/cross-spawn/lib/util",
     "lib/run/node_modules/cross-spawn/lib/enoent.js",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
-    "lib/run/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "lib/run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "lib/run/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
-    "lib/run/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
-    "lib/run/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
-    "lib/run/node_modules/@pkgjs/parseargs/README.md",
-    "lib/run/node_modules/@pkgjs/parseargs/CHANGELOG.md",
-    "lib/run/node_modules/@isaacs/cliui/README.md",
-    "lib/run/node_modules/strip-ansi/readme.md",
-    "lib/run/node_modules/wrap-ansi-cjs/readme.md",
-    "lib/run/node_modules/wrap-ansi/readme.md",
-    "lib/run/node_modules/which/README.md",
-    "lib/run/node_modules/which/CHANGELOG.md",
-    "lib/run/node_modules/strip-bom-string/README.md",
-    "lib/run/node_modules/strip-ansi-cjs/readme.md",
-    "lib/run/node_modules/isexe/README.md",
-    "lib/run/node_modules/string-width-cjs/readme.md",
-    "lib/run/node_modules/string-width/readme.md",
-    "lib/run/node_modules/sprintf-js/README.md",
-    "lib/run/node_modules/shebang-regex/readme.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/image/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
