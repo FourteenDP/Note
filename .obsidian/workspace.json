@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"作者\"]",
+                "query": "[\"发布链接\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "收集/如何给 node_module 下的库打补丁.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,6 +202,10 @@
   },
   "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
+    "收集/使用 vite 搭建 vue3 项目.md",
+    "收集/Git 子仓库.md",
+    "收集/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+    "README.md",
     "收集/原型链.md",
     "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
@@ -218,17 +223,13 @@
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图 PDF.md",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
     "收集/如何给 node_module 下的库打补丁.md",
-    "收集/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "采集/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
     "收集/📚知识博客.md",
     "WuCai",
     "lib/template/日志/月总结.md",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
-    "README.md",
     "lib/template/日志/周总结.md",
-    "lib/template/日志/季总结.md",
-    "lib/template/日志/日总结.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",

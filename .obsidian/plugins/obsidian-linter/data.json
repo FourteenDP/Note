@@ -25,7 +25,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "标题:\naliases:\ntags:"
+      "text-to-insert": "标题:\n笔记ID:\naliases:\ntags:"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -38,7 +38,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "标题\naliases\ntags\nuid\n创建时间\n更新时间",
+      "yaml-key-priority-sort-order": "标题\n笔记ID\naliases\ntags\nuid\n创建时间\n更新时间",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -53,7 +53,7 @@
     },
     "yaml-title": {
       "enabled": true,
-      "title-key": "title",
+      "title-key": "标题",
       "mode": "filename"
     },
     "yaml-title-alias": {

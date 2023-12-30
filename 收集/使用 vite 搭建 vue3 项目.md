@@ -1,5 +1,6 @@
 ---
 标题: 使用 vite 搭建 vue3 项目
+笔记ID: 1683439291167
 tags:
   - Vue
   - Vue3
@@ -7,9 +8,8 @@ tags:
   - 计算机/前端开发/JavaScript
   - TypeScript
   - 环境搭建
-笔记ID: 1683439291167
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-11-28 11:27:42
+更新时间: 2023-12-30 23:47:51
 发布链接: https://juejin.cn/post/7231016319863521337
 ---
 
@@ -183,3 +183,5 @@ import './index.css'
 - [daisui](https://daisyui.com/)
 - [tailwindcss](https://tailwindcss.com/)
 - [babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)
+
+
