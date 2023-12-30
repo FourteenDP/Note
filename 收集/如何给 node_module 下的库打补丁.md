@@ -7,10 +7,12 @@ tags:
   - Patch-package
   - npm
   - yarn
-  - yarn patch
+  - yarn
+  - patch
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-30 23:47:56
-发布链接: https://juejin.cn/post/7209245221887885372
+发布链接:
+  - https://juejin.cn/post/7209245221887885372
 ---
 
 # 如何给 node_module 下的库打补丁
