@@ -5,6 +5,8 @@
     "date created": "datetime",
     "date updated": "datetime",
     "cssclasses": "multitext",
-    "uid": "number"
+    "uid": "number",
+    "创建时间": "datetime",
+    "更新时间": "datetime"
   }
 }

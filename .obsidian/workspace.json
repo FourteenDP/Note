@@ -11,8 +11,13 @@
             "id": "7eb6d17d8d47e87c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md"
+              }
             }
           },
           {
@@ -145,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +201,14 @@
   },
   "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
+    "采集/命名规范.md",
+    "采集/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
+    "采集/计算 setTimeout 和 setInterval 计时器的误差.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
+    "收集/📚知识博客.md",
     "WuCai",
     "lib/template/日志/月总结.md",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
@@ -213,12 +229,6 @@
     "收集/1.1- 简单的历史回顾.md",
     "收集/如何给 node_module 下的库打补丁.md",
     "收集/笔记本禁用自带键盘.md",
-    "收集/工程化.md",
-    "收集/访问者模式 (Visitor).md",
-    "收集/工程化之 GIt 提交自动转换行尾字符 GitAttributes.md",
-    "收集/WSL SSH 远程连接.md",
-    "收集/等待者模式 (Waiter Pattern).md",
-    "收集/基本原则.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
