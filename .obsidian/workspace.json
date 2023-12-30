@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集/2.计算属性.md",
+                "file": "收集/Vue 路由 Keep-alive 实现原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,17 +65,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"更新时间\"]",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收集/2.计算属性.md"
+                "file": "收集/Vue 路由 Keep-alive 实现原理.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收集/2.计算属性.md",
+                "file": "收集/Vue 路由 Keep-alive 实现原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收集/2.计算属性.md",
+                "file": "收集/Vue 路由 Keep-alive 实现原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +200,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045f07e50dc53fea",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
+    "收集/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
+    "收集/Vue 路由 Keep-alive 实现原理.md",
+    "收集/Vue2 中的页面数据缓存.md",
+    "lib/template/日志/周总结.md",
+    "lib/template/日志/月总结.md",
+    "lib/template/日志/日总结.md",
+    "lib/template/日志/年总结.md",
+    "lib/template/日志/季总结.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
+    "收集/UniApp-String.prototype.localeCompare() 踩坑.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "收集/1.ref 和 reactive 区别.md",
+    "收集/3.Class 与 Style 绑定.md",
+    "收集/Vue 的不同构建版本.md",
     "收集/2.计算属性.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01- 鸦片战争前的中国.md",
     "代码/单例模式(Singleton).ts",
     "代码/防抖与节流模式(Debounce & Throttle).ts",
     "代码/抽象工厂模式(Abstract Factory).ts",
@@ -223,22 +238,6 @@
     "收集/类型和变量.md",
     "仓库/Me-Config/README.md",
     "仓库/Markdown-Compile/README.md",
-    "仓库/Script/README.md",
-    "收集/将命令添加到右键.md",
-    "仓库/Script/简阅Metadata.md",
-    "仓库/CS-Hello/README.md",
-    "日志/README.md",
-    "日志/2023/2023-12-10.md",
-    "日志/2023/2023-03-01.md",
-    "日志/2023/2023-02-28.md",
-    "拾肆/个人/简历待办.md",
-    "拾肆/个人/感兴趣的事物.md",
-    "拾肆/个人/防脱生发.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/告各友邦书.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
-    "采集/实施前端微服务化的六七种方式.md",
-    "采集/在 WLS2 Debian 上安装.md",
-    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image/Vue生命周期.png",
     "assets/image/Pasted Image 20230312050057_351.png",

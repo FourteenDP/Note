@@ -1,14 +1,14 @@
 ---
 标题: TypeScript
 笔记ID: 1683439292200
-aliases: 
+aliases: []
 tags:
   - TypeScript
   - 简介
 cssclasses: 
 描述: 
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 00:38:01
+更新时间: 2023-12-31 01:10:00
 ---
 
 # TypeScript

@@ -1,7 +1,7 @@
 ---
 标题: UniApp-String.prototype.localeCompare() 踩坑
 笔记ID: 1683439291132
-aliases: 
+aliases: []
 tags:
   - uni-app
   - 计算机/前端开发/JavaScript
@@ -12,7 +12,7 @@ tags:
 cssclasses: 
 描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 00:38:01
+更新时间: 2023-12-31 01:09:57
 ---
 
 # UniApp-String.prototype.localeCompare() 踩坑

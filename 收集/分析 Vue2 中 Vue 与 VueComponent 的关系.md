@@ -1,14 +1,17 @@
 ---
 标题: 分析 Vue2 中 Vue 与 VueComponent 的关系
+笔记ID: 1683439291152
+aliases: 
 tags:
   - Vue
   - VueComponent
   - 计算机/前端开发/JavaScript
   - 源码
   - 关系图
-笔记ID: 1683439291152
+cssclasses: 
+描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-11-28 11:27:42
+更新时间: 2023-12-31 01:10:03
 ---
 
 # 分析 Vue2 中 Vue 与 VueComponent 的关系

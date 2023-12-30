@@ -1,7 +1,7 @@
 ---
 标题: 工程化之统一编辑器字符 EditorConfig
 笔记ID: 1684032009203
-aliases: 
+aliases: []
 tags:
   - 工程化
   - EditorConfig
@@ -11,7 +11,7 @@ tags:
 cssclasses: 
 描述: 
 创建时间: 2023-05-14 10:40:09
-更新时间: 2023-12-31 00:38:04
+更新时间: 2023-12-31 01:10:00
 ---
 
 # 工程化之统一编辑器字符 EditorConfig

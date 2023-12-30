@@ -1,7 +1,7 @@
 ---
 标题: 为什么使用 settimeout 实现 setinterval
 笔记ID: 1683439291123
-aliases: 
+aliases: []
 tags:
   - 计算机/前端开发/JavaScript
   - setTimeout
@@ -10,7 +10,7 @@ tags:
 cssclasses: 
 描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 00:38:02
+更新时间: 2023-12-31 01:09:58
 ---
 
 # 为什么使用 setTimeout 实现 setInterval

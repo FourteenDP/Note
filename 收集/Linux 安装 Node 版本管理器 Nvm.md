@@ -1,7 +1,7 @@
 ---
 标题: Linux 安装 Node 版本管理器 Nvm
 笔记ID: 1683439291246
-aliases: 
+aliases: []
 tags:
   - Linux
   - Node
@@ -10,7 +10,7 @@ tags:
 cssclasses: 
 描述: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 00:38:00
+更新时间: 2023-12-31 01:09:56
 ---
 
 # Linux 安装 Node 版本管理器 Nvm

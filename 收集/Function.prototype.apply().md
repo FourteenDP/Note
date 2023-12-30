@@ -1,7 +1,7 @@
 ---
 标题: Function.prototype.apply()
 笔记ID: 1683439292177
-aliases: 
+aliases: []
 tags:
   - 技术
   - 语言
@@ -13,7 +13,7 @@ tags:
 cssclasses: 
 描述: 
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 00:37:59
+更新时间: 2023-12-31 01:09:55
 ---
 
 # Function.prototype.apply()
