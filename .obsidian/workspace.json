@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/原型链.md",
+                "file": "收集/原型链.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"原文链接\"]",
+                "query": "[\"作者\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/原型链.md"
+                "file": "收集/原型链.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/原型链.md",
+                "file": "收集/原型链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/原型链.md",
+                "file": "收集/原型链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +199,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
+    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
+    "收集/原型链.md",
+    "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
+    "采集/CSS 选择器优先级权重 w3c 笔记.md",
+    "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
+    "采集/写给前端的编译原理科普.md",
     "采集/为什么使用 settimeout 实现 setinterval.md",
     "采集/数据类型.md",
     "采集/实施前端微服务化的六七种方式.md",
@@ -209,7 +215,6 @@
     "采集/计算 setTimeout 和 setInterval 计时器的误差.md",
     "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
-    "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图 PDF.md",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
     "收集/如何给 node_module 下的库打补丁.md",
@@ -224,11 +229,6 @@
     "lib/template/日志/周总结.md",
     "lib/template/日志/季总结.md",
     "lib/template/日志/日总结.md",
-    "lib/template/日志/年总结.md",
-    "拾肆/个人/想开发的项目.md",
-    "收集/委托模式 (Delegate).md",
-    "收集/前端面试题.md",
-    "收集/工程化之统一编辑器字符 EditorConfig.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
