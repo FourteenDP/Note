@@ -38,7 +38,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "标题\n笔记ID\naliases\ntags\nuid\n创建时间\n更新时间",
+      "yaml-key-priority-sort-order": "标题\n笔记ID\naliases\ntags\n创建时间\n更新时间",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
