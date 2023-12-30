@@ -11,9 +11,12 @@
             "id": "4809c45fb8725f57",
             "type": "leaf",
             "state": {
-              "type": "code-editor",
+              "type": "markdown",
               "state": {
-                "file": "代码/call、apply、bind手写.js"
+                "file": "收集/2.计算属性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -62,16 +65,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"更新时间\"]",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -92,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码/call、apply、bind手写.js"
+                "file": "收集/2.计算属性.md"
               }
             }
           },
@@ -149,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码/call、apply、bind手写.js",
+                "file": "收集/2.计算属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码/call、apply、bind手写.js",
+                "file": "收集/2.计算属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +201,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4809c45fb8725f57",
+  "active": "045f07e50dc53fea",
   "lastOpenFiles": [
-    "代码/canvas图片裁剪和压缩.html",
-    "代码/call、apply、bind手写.js",
-    "代码/LRU算法.ts",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "收集/2.计算属性.md",
+    "代码/单例模式(Singleton).ts",
+    "代码/防抖与节流模式(Debounce & Throttle).ts",
+    "代码/抽象工厂模式(Abstract Factory).ts",
+    "代码/工厂方法模式(Factory Method).ts",
+    "代码/事件总线(Event Bus).ts",
     "代码/Obsidian全屏iframe.html",
+    "代码/LRU算法.ts",
+    "代码/canvas图片裁剪和压缩.html",
+    "代码/观察者模式(Observer).ts",
+    "收集/Web 组件.md",
+    "代码/看懂这个就懂事件懂事件循环(Event Loop).js",
     "README.md",
     "代码/README.md",
     "收集/HelloWorld.md",
@@ -222,26 +235,17 @@
     "拾肆/个人/感兴趣的事物.md",
     "拾肆/个人/防脱生发.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/告各友邦书.md",
-    "拾肆/个人/邓智鹏 - 前端工程师.pdf",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
     "采集/实施前端微服务化的六七种方式.md",
     "采集/在 WLS2 Debian 上安装.md",
     "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
-    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
-    "采集/写给前端的编译原理科普.md",
-    "WuCai",
-    "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
-    "assets/image",
     "assets/image/Vue生命周期.png",
     "assets/image/Pasted Image 20230312050057_351.png",
     "assets/image/Pasted Image 20230312050057_436.png",
-    "收集",
-    "自考/押密/国际商务与国际营销.pdf",
     "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
     "assets/image/19b670df6cb54c4ebdc17a114b5dc97c_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
     "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets",
     "assets/svg/submodule和subtree区别.excalidraw.svg",
     "assets/svg/后端常见分层.drawio.svg",
     "assets/image/faf7c09d5d5cc368102455a7e70c2f9.jpg",
