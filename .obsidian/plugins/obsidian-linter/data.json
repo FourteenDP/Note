@@ -25,7 +25,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "标题:\n笔记ID:\naliases:\ntags:"
+      "text-to-insert": "标题\n笔记ID\naliases\ntags\ncssclasses\n描述\n创建时间\n更新时间"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -38,7 +38,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "标题\n笔记ID\naliases\ntags\n创建时间\n更新时间",
+      "yaml-key-priority-sort-order": "标题\n笔记ID\naliases\ntags\ncssclasses\n作者\n描述\n域名\n原文链接\n发布链接\n创建时间\n更新时间",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
