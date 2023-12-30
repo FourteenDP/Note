@@ -8,19 +8,26 @@
   "refreshNotes": false,
   "notesToRefresh": [],
   "reimportShowConfirmation": true,
-  "lastCursor": "",
+  "lastCursor": "eyJsYXN0SGlnaGxpZ2h0UEtJRCI6MCwibG5pIjowLCJja1BLSUQiOjAsImNrTklEIjowLCJja1QiOjAsInMiOjE3MDM5NDY3MjY3MTk1NDJ9",
   "dataVersion": 0,
-  "downloadEP": "",
-  "notePaths": {},
+  "downloadEP": "https://marker.dotalk.cn",
+  "notePaths": {
+    "H88FCFM": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md"
+  },
   "exportConfig": {
-    "pageMirrorStyle": 2,
-    "truncateTile255": 0,
-    "writeStyle": 2,
+    "titleFormat": 14,
+    "titleTemplate": "{{title}}",
+    "writeStyle": 1,
+    "titleStyle": 2,
     "highlightStyle": 1,
     "annotationStyle": 1,
-    "tagStyle": 1,
-    "obTemplate": "",
-    "titleTemplate": "",
+    "tagStyle": 2,
+    "haveWuCaiTag": 1,
+    "obTemplate": "---\n标题: \"{{title}}\"\n笔记ID: {{noteid}}\n笔记类型: {{notetype}}\n星标: {{isstar}}\ntags: {{mergedtags}}\n{% if not isdailynote %}\n域名: {{domain}}\n域名2: {{domain2}}\n作者: \"{{author}}\"\n原文链接: \"{{url}}\"\n{% endif %}\n五彩链接: \"{{wucaiurl}}\"\n划线数量: {{highlightcount}}\n创建时间: {{createat}}\n更新时间: {{updateat}}\n---\n\n## {{title}} \n\n## 页面笔记\n{% block pagenote %}\n{{pagenote}}\n{% endblock %}\n\n{% block highlights %}\n{% if isdailynote  %}\n## Daily note\n{{ highlights | style_dailynote }}\n{% else %}\n## 划线列表\n{% for item in highlights %}\n{{ item | style1({prefix:\"> \", anno:\"> __想法__：\", color:\"█  \"}) }}\n{% endfor %}\n{% endif %}\n{% endblock %}\n\n{% if not isdailynote %}\n## 全文剪藏\n{% block mdcontent %}\n{{mdcontent}}\n{% endblock %}\n{% endif %}\n",
+    "obTemplateVer": 0,
+    "pageMirrorStyle": 1,
+    "truncateTile255": 0,
+    "IgnoreEmptyNote": 1,
     "obQuery": ""
   }
 }

@@ -11,8 +11,13 @@
             "id": "9f1306926db94169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md"
+              }
             }
           },
           {
@@ -146,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +199,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "9f1306926db94169",
   "lastOpenFiles": [
+    "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
+    "WuCai",
     "lib/template/日志/月总结.md",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
     "README.md",
@@ -237,7 +247,6 @@
     "lib/Run/md",
     "lib/run/uid.js",
     "lib/run",
-    "lib/Rrun",
     "未命名.canvas",
     "日志/未命名.canvas"
   ]
