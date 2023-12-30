@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c5079ac5437849",
+        "id": "4edf64e47932429a",
         "type": "tabs",
         "children": [
           {
-            "id": "c82f774b615a0979",
+            "id": "a0e563408ed6c9af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "收集/如何给 node_module 下的库打补丁.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "收集/如何给 node_module 下的库打补丁.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收集/如何给 node_module 下的库打补丁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +189,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "a0e563408ed6c9af",
   "lastOpenFiles": [
+    "收集/如何给 node_module 下的库打补丁.md",
     "收集/笔记本禁用自带键盘.md",
     "收集/工程化.md",
     "收集/访问者模式 (Visitor).md",
@@ -224,7 +217,6 @@
     "收集/void 和 never 区别.md",
     "收集/Vite 全局样式注入.md",
     "收集/UniApp-String.prototype.localeCompare() 踩坑.md",
-    "收集/Git 操作规范.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
