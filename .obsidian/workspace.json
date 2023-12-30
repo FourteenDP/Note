@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"annotation-target\"]",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md"
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
+                "file": "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,14 +199,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7eb6d17d8d47e87c",
+  "active": "8308b590c2a15b00",
   "lastOpenFiles": [
+    "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近代史纲要思维导图 PDF.md",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.md",
     "收集/如何给 node_module 下的库打补丁.md",
     "收集/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
-    "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
     "采集/命名规范.md",
     "采集/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
