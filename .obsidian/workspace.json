@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4edf64e47932429a",
+        "id": "f26a72a1b2af061d",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e563408ed6c9af",
+            "id": "24bba1723da05147",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "收集/抽象工厂模式 (Abstract Factory).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -71,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "收集/抽象工厂模式 (Abstract Factory).md"
+              }
             }
           },
           {
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "收集/抽象工厂模式 (Abstract Factory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "收集/抽象工厂模式 (Abstract Factory).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +199,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a0e563408ed6c9af",
+  "active": "24bba1723da05147",
   "lastOpenFiles": [
+    "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
+    "收集/3.Class 与 Style 绑定.md",
+    "收集/4.条件和列表渲染.md",
+    "收集/1.1- 简单的历史回顾.md",
     "收集/如何给 node_module 下的库打补丁.md",
     "收集/笔记本禁用自带键盘.md",
     "收集/工程化.md",
@@ -217,10 +227,6 @@
     "收集/Vue3 生命周期.md",
     "收集/Vue Router.md",
     "收集/Vue 组件通信方式.md",
-    "收集/Vue 的不同构建版本.md",
-    "收集/void 和 never 区别.md",
-    "收集/Vite 全局样式注入.md",
-    "收集/UniApp-String.prototype.localeCompare() 踩坑.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
