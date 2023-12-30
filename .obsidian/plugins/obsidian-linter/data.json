@@ -25,7 +25,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "title:\naliases:\ntags:"
+      "text-to-insert": "标题:\naliases:\ntags:"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -38,17 +38,17 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\naliases\ntags\nuid\ndate created\ndate updated",
+      "yaml-key-priority-sort-order": "标题\naliases\ntags\nuid\n创建时间\n更新时间",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
+      "date-created-key": "创建时间",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date updated",
+      "date-modified-key": "更新时间",
       "format": "YYYY-MM-DD HH:mm:ss"
     },
     "yaml-title": {
@@ -245,10 +245,8 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "-附件-",
-    "日志",
+    "assets",
     "仓库",
-    "Excalidraw",
     "lib"
   ],
   "linterLocale": "system-default",

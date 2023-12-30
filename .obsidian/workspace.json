@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集/原型链.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收集/原型链.md"
+                "file": "README.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收集/原型链.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收集/原型链.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,8 @@
   },
   "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
-    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "收集/原型链.md",
+    "采集/在 WLS2 Debian 上安装 docker_byte-jie 的博客 - CSDN 博客.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
     "采集/CSS 选择器优先级权重 w3c 笔记.md",
     "WuCai/微服务全做错了谷歌提出新方法成本直接降9倍-H88FCFM.md",
