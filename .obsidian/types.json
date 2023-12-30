@@ -2,11 +2,10 @@
   "types": {
     "aliases": "aliases",
     "tags": "tags",
-    "date created": "datetime",
-    "date updated": "datetime",
     "cssclasses": "multitext",
-    "uid": "number",
     "创建时间": "datetime",
-    "更新时间": "datetime"
+    "更新时间": "datetime",
+    "笔记ID": "number",
+    "发布连接": "multitext"
   }
 }

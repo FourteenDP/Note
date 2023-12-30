@@ -1,13 +1,13 @@
 ---
-title: 责任链模式 (Chain Of Responsibility)
-tags: 
+标题: 责任链模式 (Chain Of Responsibility)
+tags:
   - 计算机/设计模式
   - GoF设计模式
   - 行为型模式
   - 责任链模式
-uid: 1683439291341
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:39
+笔记ID: 1683439291341
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:39
 ---
 
 # 责任链模式 (Chain Of Responsibility)

@@ -1,31 +1,31 @@
 ---
-title: Linux 常用工具
-tags: 
-    - Linux
-    - 常用工具
-    - Vim
-    - Neovim
-    - Git
-    - Wget
-    - Curl
-    - Axel
-    - Nvm
-    - Zsh
-    - ZeroTier
-    - Openssh-server
-    - fzf
-    - zsh-vi-mode
-    - starship
-    - Homebrew
-    - tldr
-    - gvm
-    - nvm
-    - pyenv
-    - build-essential
-    - Ranger
-uid: 1683439291243
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:40
+标题: Linux 常用工具
+tags:
+  - Linux
+  - 常用工具
+  - Vim
+  - Neovim
+  - Git
+  - Wget
+  - Curl
+  - Axel
+  - Nvm
+  - Zsh
+  - ZeroTier
+  - Openssh-server
+  - fzf
+  - zsh-vi-mode
+  - starship
+  - Homebrew
+  - tldr
+  - gvm
+  - nvm
+  - pyenv
+  - build-essential
+  - Ranger
+笔记ID: 1683439291243
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:40
 ---
 
 # Linux 常用工具

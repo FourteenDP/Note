@@ -1,13 +1,13 @@
 ---
-title: 里氏替换原则 LSP(Liskov Substitution Principle)
-tags: 
+标题: 里氏替换原则 LSP(Liskov Substitution Principle)
+tags:
   - 计算机/设计模式
   - 基本原则
   - SOLID
   - 里氏替换原则 LSP(Liskov Substitution Principle)
-uid: 1683439291492
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:39
+笔记ID: 1683439291492
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:39
 ---
 
 # 里氏替换原则 LSP(Liskov Substitution Principle)

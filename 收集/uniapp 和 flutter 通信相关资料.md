@@ -1,5 +1,5 @@
 ---
-title: uniapp 和 flutter 通信相关资料
+标题: uniapp 和 flutter 通信相关资料
 tags:
   - uni-app
   - flutter
@@ -8,9 +8,9 @@ tags:
   - 跨平台
   - 原生
   - Webiew
-uid: 1683439291140
-date created: 2023-05-07 14:01:31
-date updated: 2023-12-10 13:54:4132
+笔记ID: 1683439291140
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-10 13:54:4132
 ---
 
 # uniapp 和 flutter 通信相关资料

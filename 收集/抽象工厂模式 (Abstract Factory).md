@@ -1,9 +1,9 @@
 ---
-title: 抽象工厂模式 (Abstract Factory)
+标题: 抽象工厂模式 (Abstract Factory)
 tags: []
-uid: 1683439291295
-date created: 2023-05-07 14:01:31
-date updated: 2023-12-30 20:59:56
+笔记ID: 1683439291295
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-12-30 20:59:56
 ---
 
 # 抽象工厂模式 (Abstract Factory)

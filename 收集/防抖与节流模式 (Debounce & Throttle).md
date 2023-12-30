@@ -1,14 +1,14 @@
 ---
-title: 防抖与节流模式 (Debounce & Throttle)
-tags: 
+标题: 防抖与节流模式 (Debounce & Throttle)
+tags:
   - 计算机/前端开发/JavaScript
   - 防抖
   - 节流
   - 计算机/设计模式
   - 非GoF设计模式
-uid: 1683439291763
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:39
+笔记ID: 1683439291763
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:39
 ---
 
 # 防抖与节流模式 (Debounce & Throttle)

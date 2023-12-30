@@ -1,13 +1,13 @@
 ---
-title: UniApp 和 Flutter 通信
+标题: UniApp 和 Flutter 通信
 tags:
   - 语言
   - Flutter
   - UniApp
   - 通信
-uid: 1683439291076
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:43
+笔记ID: 1683439291076
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:43
 ---
 
 # UniApp 和 Flutter 通信

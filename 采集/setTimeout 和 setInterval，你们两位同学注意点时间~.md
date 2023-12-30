@@ -1,5 +1,5 @@
 ---
-title: setTimeout 和 setInterval，你们两位同学注意点时间~
+标题: setTimeout 和 setInterval，你们两位同学注意点时间~
 tags:
   - 采集
   - 计算机/前端开发/JavaScript
@@ -7,9 +7,9 @@ tags:
   - setInterval
   - 编程概念
   - 教程
-uid: 1683439293653
-date created: 2023-05-07 14:01:33
-date updated: 2023-11-28 11:27:04
+笔记ID: 1683439293653
+创建时间: 2023-05-07 14:01:33
+更新时间: 2023-11-28 11:27:04
 ---
 
 # setTimeout 和 setInterval，你们两位同学注意点时间~

@@ -1,15 +1,15 @@
 ---
-title: Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
-tags: 
-    - Windows
-    - WSL
-    - 开机启动
-    - 执行脚本
-    - 发送通知
-uid: 1684596658193
-date created: 2023-05-20 23:30:58
-date updated: 2023-11-28 11:27:40
-url: 'https://juejin.cn/post/7235177983311642685'
+标题: Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知
+tags:
+  - Windows
+  - WSL
+  - 开机启动
+  - 执行脚本
+  - 发送通知
+笔记ID: 1684596658193
+创建时间: 2023-05-20 23:30:58
+更新时间: 2023-11-28 11:27:40
+发布连接: https://juejin.cn/post/7235177983311642685
 ---
 
 # Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知

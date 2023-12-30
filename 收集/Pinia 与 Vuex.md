@@ -1,15 +1,15 @@
 ---
-title: Pinia 与 Vuex
-tags: 
+标题: Pinia 与 Vuex
+tags:
   - Vue
   - Vue3
   - Vuex
   - Pinia
   - 状态管理
   - 计算机/前端开发/JavaScript
-uid: 1683439291160
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:42
+笔记ID: 1683439291160
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:42
 ---
 
 # Pinia 与 Vuex

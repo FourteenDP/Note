@@ -1,13 +1,13 @@
 ---
-title: 为什么使用 setTimeout 实现 setInterval
+标题: 为什么使用 setTimeout 实现 setInterval
 tags:
   - 计算机/前端开发/JavaScript
   - setTimeout
   - setInterval
   - 事件队列
-uid: 1683439291123
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 15:47:32
+笔记ID: 1683439291123
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 15:47:32
 ---
 
 # 为什么使用 setTimeout 实现 setInterval

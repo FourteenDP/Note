@@ -1,14 +1,14 @@
 ---
-title: 工程化之 GIt 提交自动转换行尾字符 GitAttributes
-tags: 
-    - 工程化
-    - Git
-    - 自动转换
-    - 行尾字符
-    - GitAttributes
-uid: 1684032009200
-date created: 2023-05-14 10:40:09
-date updated: 2023-11-28 11:27:41
+标题: 工程化之 GIt 提交自动转换行尾字符 GitAttributes
+tags:
+  - 工程化
+  - Git
+  - 自动转换
+  - 行尾字符
+  - GitAttributes
+笔记ID: 1684032009200
+创建时间: 2023-05-14 10:40:09
+更新时间: 2023-11-28 11:27:41
 ---
 
 # 工程化之 GIt 提交自动转换行尾字符 GitAttributes

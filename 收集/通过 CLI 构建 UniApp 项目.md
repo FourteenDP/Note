@@ -1,15 +1,15 @@
 ---
-title: 通过 CLI 构建 UniApp 项目
-tags: 
-    - CLI
-    - UniApp
-    - 项目构建
-    - Vue2
-    - Vue3
-    - npm
-uid: 1684032009204
-date created: 2023-05-14 10:40:09
-date updated: 2023-11-28 11:27:40
+标题: 通过 CLI 构建 UniApp 项目
+tags:
+  - CLI
+  - UniApp
+  - 项目构建
+  - Vue2
+  - Vue3
+  - npm
+笔记ID: 1684032009204
+创建时间: 2023-05-14 10:40:09
+更新时间: 2023-11-28 11:27:40
 ---
 # 通过 CLI 构建 UniApp 项目
 

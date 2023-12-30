@@ -1,14 +1,14 @@
 ---
-title: interface 和 type 的区别
-tags: 
+标题: interface 和 type 的区别
+tags:
   - 技术
   - 语言
   - TypeScript
   - interface
   - type
-uid: 1683439292210
-date created: 2023-05-07 14:01:32
-date updated: 2023-11-28 11:27:39
+笔记ID: 1683439292210
+创建时间: 2023-05-07 14:01:32
+更新时间: 2023-11-28 11:27:39
 ---
 
 # interface 和 type 的区别

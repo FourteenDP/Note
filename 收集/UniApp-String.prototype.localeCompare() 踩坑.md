@@ -1,15 +1,15 @@
 ---
-title: UniApp-String.prototype.localeCompare() 踩坑
-tags: 
+标题: UniApp-String.prototype.localeCompare() 踩坑
+tags:
   - uni-app
   - 计算机/前端开发/JavaScript
   - String
   - localeCompare
   - 踩坑
   - 纸板
-uid: 1683439291132
-date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:42
+笔记ID: 1683439291132
+创建时间: 2023-05-07 14:01:31
+更新时间: 2023-11-28 11:27:42
 ---
 
 # UniApp-String.prototype.localeCompare() 踩坑
