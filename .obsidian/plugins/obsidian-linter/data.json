@@ -247,7 +247,8 @@
   "foldersToIgnore": [
     "assets",
     "仓库",
-    "lib"
+    "lib",
+    "日志"
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

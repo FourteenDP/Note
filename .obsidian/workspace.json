@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/简历待办.md",
+                "file": "日志/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/简历待办.md"
+                "file": "日志/README.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/简历待办.md",
+                "file": "日志/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/简历待办.md",
+                "file": "日志/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +199,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "4809c45fb8725f57",
   "lastOpenFiles": [
-    "拾肆/个人/感兴趣的事物.md",
+    "日志/2023/2023-12-10.md",
+    "日志/2023/2023-03-04.md",
+    "日志/2023/2023-03-01.md",
+    "日志/2023/2023-02-28.md",
+    "日志/README.md",
+    "README.md",
     "拾肆/个人/简历待办.md",
+    "拾肆/个人/感兴趣的事物.md",
     "拾肆/个人/防脱生发.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/告各友邦书.md",
     "拾肆/个人/邓智鹏 - 前端工程师.pdf",
@@ -215,7 +221,6 @@
     "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
-    "README.md",
     "收集/3.1- 语法.md",
     "收集/命名规范.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
@@ -223,11 +228,6 @@
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
     "采集/WSL WSLg 中显示中文（解决中文乱码）_wslg 中文 _lincs_ 的博客 - CSDN 博客.md",
     "采集/JS 原型 & 原型链 一张图说清楚 - 简书.md",
-    "采集/CSS 选择器优先级权重 w3c 笔记.md",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
-    "收集/一维数组转通讯录树.md",
-    "收集/为什么使用 settimeout 实现 setinterval.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦.md",
     "WuCai",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
