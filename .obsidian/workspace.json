@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"发布链接\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +201,9 @@
   },
   "active": "7eb6d17d8d47e87c",
   "lastOpenFiles": [
-    "收集/命名规范.md",
+    "收集/3.1- 语法.md",
     "README.md",
+    "收集/命名规范.md",
     "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
     "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
     "采集/在 WLS2 Debian 上安装.md",
@@ -226,7 +227,6 @@
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid）_ 丰色木夕的博客 - CSDN 博客 _3d 引擎.md",
     "收集/数据类型.md",
     "收集/如何给 node_module 下的库打补丁.md",
-    "收集/使用 vite 搭建 vue3 项目.md",
     "WuCai",
     "自考/资料/KM01-中国近现代史纲要/06-中国近现代史纲要题目/答案/~$代史】第六章.docx",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
