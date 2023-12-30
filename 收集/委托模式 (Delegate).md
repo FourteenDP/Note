@@ -1,12 +1,12 @@
 ---
 title: 委托模式 (Delegate)
-tags: 
+tags:
   - 计算机/设计模式
   - GoF设计模式
-  - 委托模式 (Delegate)
+  - 委托模式
 uid: 1683439291656
 date created: 2023-05-07 14:01:31
-date updated: 2023-11-28 11:27:39
+date updated: 2023-12-30 21:03:31
 ---
 
 # 委托模式 (Delegate)
@@ -20,3 +20,5 @@ date updated: 2023-11-28 11:27:39
   - 抽象委托者（Delegate）：定义一个委托方法，用于调用具体委托者的方法
   - 具体委托者（ConcreteDelegate）：实现抽象委托者的委托方法，负责具体的业务逻辑
   - 委托者（Client）：通过抽象委托者调用具体委托者的委托方法
+
+

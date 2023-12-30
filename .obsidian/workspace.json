@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集/抽象工厂模式 (Abstract Factory).md",
+                "file": "收集/委托模式 (Delegate).md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收集/抽象工厂模式 (Abstract Factory).md"
+                "file": "收集/委托模式 (Delegate).md"
               }
             }
           },
@@ -147,12 +147,12 @@
             }
           },
           {
-            "id": "cfa9364162b6c8ae",
+            "id": "608076fbddae2570",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "收集/抽象工厂模式 (Abstract Factory).md",
+                "file": "收集/委托模式 (Delegate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "收集/抽象工厂模式 (Abstract Factory).md",
+                "file": "收集/委托模式 (Delegate).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,6 +201,10 @@
   },
   "active": "24bba1723da05147",
   "lastOpenFiles": [
+    "收集/前端面试题.md",
+    "收集/工程化之统一编辑器字符 EditorConfig.md",
+    "收集/观察者模式 (Observer).md",
+    "收集/抽象工厂模式 (Abstract Factory).md",
     "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
     "收集/3.Class 与 Style 绑定.md",
     "收集/4.条件和列表渲染.md",
@@ -223,10 +227,6 @@
     "收集/web 框架与 cocos 的结合.md",
     "收集/Windows 终端设置代理.md",
     "收集/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
-    "收集/Vue3 新增特性.md",
-    "收集/Vue3 生命周期.md",
-    "收集/Vue Router.md",
-    "收集/Vue 组件通信方式.md",
     "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
     "assets/image",
     "assets/image/Vue生命周期.png",
