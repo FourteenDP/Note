@@ -21,9 +21,11 @@
   "obsidian-icon-folder",
   "file-tree-alternative",
   "custom-sort",
-  "tag-wrangler",
   "obsidian-local-rest-api",
   "code-files",
   "obsidian-emoji-toolbar",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "obsidian-code-preview",
+  "tag-wrangler",
+  "obsidian-tagfolder"
 ]

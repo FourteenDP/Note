@@ -2,6 +2,7 @@
 标题: 里氏替换原则 LSP(Liskov Substitution Principle)
 描述: null
 封面: null
+uid: '20230507140131492'
 aliases: []
 tags:
   - 计算机/设计模式
@@ -10,8 +11,7 @@ tags:
   - 里氏替换原则 LSP(Liskov Substitution Principle)
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:55
-uid: '20230507140131492'
+更新时间: 2023-12-31 03:07:31
 ---
 
 # 里氏替换原则 LSP(Liskov Substitution Principle)

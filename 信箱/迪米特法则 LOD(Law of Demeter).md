@@ -2,6 +2,7 @@
 标题: 迪米特法则 LOD(Law of Demeter)
 描述: null
 封面: null
+uid: '20230507140131528'
 aliases: []
 tags:
   - 计算机/设计模式
@@ -10,8 +11,7 @@ tags:
   - 迪米特法则 LOD(Law of Demeter)
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:55
-uid: '20230507140131528'
+更新时间: 2023-12-31 03:07:31
 ---
 
 # 迪米特法则 LOD(Law of Demeter)

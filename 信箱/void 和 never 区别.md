@@ -2,6 +2,7 @@
 标题: void 和 never 区别
 描述: null
 封面: null
+uid: '20230507140132498'
 aliases: []
 tags:
   - 语言
@@ -10,8 +11,7 @@ tags:
   - never
 cssclasses: null
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 02:46:52
-uid: '20230507140132498'
+更新时间: 2023-12-31 03:07:34
 ---
 
 # void 和 never 区别
@@ -49,5 +49,3 @@ function infiniteLoop(): never {
   while (true) {}
 }
 ```
-
-

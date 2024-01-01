@@ -2,6 +2,7 @@
 标题: JSX 声明组件的几种方式
 描述: null
 封面: null
+uid: '20230507140131159'
 aliases: []
 tags:
   - Vue
@@ -11,8 +12,7 @@ tags:
   - 组件
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140131159'
+更新时间: 2023-12-31 03:07:35
 ---
 
 # JSX 声明组件的几种方式
@@ -35,5 +35,3 @@ export default defineComponent({
 ```tsx
 export default () => <div>Home</div>
 ```
-
-

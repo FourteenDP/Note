@@ -2,6 +2,7 @@
 标题: Linux 常用命令
 描述: null
 封面: null
+uid: '20230507140131249'
 aliases: []
 tags:
   - Linux
@@ -13,8 +14,7 @@ tags:
   - 环境配置
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140131249'
+更新时间: 2023-12-31 03:07:34
 ---
 
 # Linux 常用命令
@@ -30,5 +30,3 @@ uid: '20230507140131249'
 - 删除包并且删除包的配置文件: `apt remove --purge packageName`
 - 删除未使用的依赖项 `apt --purge autoremove`
 - 刷新 shell 环境:`source ~/.zshrc
-
-

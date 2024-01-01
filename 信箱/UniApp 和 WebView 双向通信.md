@@ -2,6 +2,7 @@
 标题: UniApp 和 WebView 双向通信
 描述: null
 封面: null
+uid: '20230507140131134'
 aliases: []
 tags:
   - uni-app
@@ -9,8 +10,7 @@ tags:
   - 通信
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:52
-uid: '20230507140131134'
+更新时间: 2023-12-31 03:07:34
 ---
 
 # UniApp 和 WebView 双向通信
@@ -106,5 +106,3 @@ export default {
   },
 }
 ```
-
-

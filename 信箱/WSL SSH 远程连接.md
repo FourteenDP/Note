@@ -2,6 +2,7 @@
 标题: WSL SSH 远程连接
 描述: null
 封面: null
+uid: '20230507140131256'
 aliases: []
 tags:
   - WSL
@@ -12,8 +13,7 @@ tags:
   - 配置信息
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:52
-uid: '20230507140131256'
+更新时间: 2023-12-31 03:07:34
 ---
 
 # WSL SSH 远程连接
@@ -41,5 +41,3 @@ PermitRootLogin yes
 `service ssh start`
 - 查看状态
 `service ssh status`
-
-

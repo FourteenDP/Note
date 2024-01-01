@@ -2,6 +2,7 @@
 标题: Linux 安装卸载 Rust
 描述: null
 封面: null
+uid: '20230507140131241'
 aliases: []
 tags:
   - Linux
@@ -10,8 +11,7 @@ tags:
   - Rust
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140131241'
+更新时间: 2023-12-31 03:07:35
 ---
 
 # Linux 安装卸载 Rust
@@ -27,5 +27,3 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```shell
 rustup self uninstall
 ```
-
-

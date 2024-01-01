@@ -2,6 +2,7 @@
 标题: Linux 系统镜像源和更新
 描述: null
 封面: null
+uid: '20230507140131245'
 aliases: []
 tags:
   - Linux
@@ -9,8 +10,7 @@ tags:
   - 系统更新
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140131245'
+更新时间: 2023-12-31 03:07:34
 ---
 
 # Linux 系统镜像源和更新
@@ -80,5 +80,3 @@ deb https://mirrors.ustc.edu.cn/debian-security/ bullseye-security main contrib 
 - [Debian 源使用帮助 — USTC Mirror Help 文档](https://mirrors.ustc.edu.cn/help/debian.html)
 - [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)
 - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
-
-

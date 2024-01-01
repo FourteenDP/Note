@@ -2,6 +2,7 @@
 标题: WSL 基本命令
 描述: null
 封面: null
+uid: '20230507140131258'
 aliases: []
 tags:
   - WSL
@@ -10,8 +11,7 @@ tags:
   - Linux发行版
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:53
-uid: '20230507140131258'
+更新时间: 2023-12-31 03:07:34
 ---
 
 以下 WSL 命令以 PowerShell 或 Windows 命令提示符支持的格式列出。若要通过 Bash/Linux 发行版命令行运行这些命令，必须将 `wsl` 替换为 `wsl.exe`。
@@ -269,5 +269,3 @@ lxrun /[Argument]
 ### 参考
 
 - [WSL 的基本命令 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/basic-commands#install-a-specific-linux-distribution)
-
-

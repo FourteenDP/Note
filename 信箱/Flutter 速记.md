@@ -2,6 +2,7 @@
 标题: Flutter 速记
 描述: null
 封面: null
+uid: '20230507140132528'
 aliases: []
 tags:
   - Flutter
@@ -17,8 +18,7 @@ tags:
   - Dio
 cssclasses: null
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140132528'
+更新时间: 2023-12-31 03:07:35
 ---
 
 # Flutter 速记
@@ -67,5 +67,3 @@ Final 后赋值只赋值一次
 
 - [Flutter 系列（三）：Flutter 特点及常用 Widget 介绍 - 掘金](https://juejin.cn/post/7134343543975313445)
 - [Flutter-常用Widget - 掘金](https://juejin.cn/post/7025196336253239303)
-
-

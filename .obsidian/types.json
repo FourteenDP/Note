@@ -5,7 +5,6 @@
     "cssclasses": "multitext",
     "创建时间": "datetime",
     "更新时间": "datetime",
-    "笔记ID": "number",
     "发布链接": "multitext"
   }
 }

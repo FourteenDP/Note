@@ -2,6 +2,7 @@
 标题: Linux 安装命令行工具 Oh My Zsh
 描述: null
 封面: null
+uid: '20230507140131247'
 aliases: []
 tags:
   - Linux
@@ -11,8 +12,7 @@ tags:
   - Oh My Zsh
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140131247'
+更新时间: 2023-12-31 03:07:35
 ---
 
 # Linux 安装命令行工具 Oh My Zsh
@@ -45,5 +45,3 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
-

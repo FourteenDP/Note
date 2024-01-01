@@ -2,6 +2,7 @@
 标题: call、apply、bind 的区别
 描述: null
 封面: null
+uid: '20230507140132159'
 aliases: []
 tags:
   - 技术
@@ -12,8 +13,7 @@ tags:
   - bind
 cssclasses: null
 创建时间: 2023-05-07 14:01:32
-更新时间: 2023-12-31 02:46:51
-uid: '20230507140132159'
+更新时间: 2023-12-31 03:07:35
 ---
 
 # call、apply、bind 的区别
@@ -81,5 +81,3 @@ var newTest = test.bind(obj, 1);
 newTest(2); // obj 1 2
 
 ```
-
-

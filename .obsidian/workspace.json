@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "38cedb2068c355e9",
+    "id": "1c54c3a2ed33450d",
     "type": "split",
     "children": [
       {
-        "id": "e3f4060043ca37c2",
+        "id": "3da95eeade098e84",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe04d7701b94a69",
+            "id": "73fd89756eb3464c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a39e03d6977959a",
+    "id": "62ae2ea48e6835cf",
     "type": "split",
     "children": [
       {
-        "id": "fc4ffa477dba5605",
+        "id": "273e4b23c1b43640",
         "type": "tabs",
         "children": [
           {
-            "id": "8308b590c2a15b00",
+            "id": "085664c0cbf141e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,15 +44,7 @@
             }
           },
           {
-            "id": "f82dd3dfab66f6f0",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef531fe3486be49a",
+            "id": "35d4d6c869fff749",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -60,47 +52,47 @@
             }
           },
           {
-            "id": "045f07e50dc53fea",
+            "id": "d5118a4973f82239",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"笔记ID\"]",
+                "query": "tag:#计算机/设计模式",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 300
   },
   "right": {
-    "id": "bdf2087d24dbcfa3",
+    "id": "fc281553ae42aec0",
     "type": "split",
     "children": [
       {
-        "id": "8f3b831dde16bfc1",
+        "id": "bdaa332700573093",
         "type": "tabs",
-        "dimension": 65.58441558441558,
         "children": [
           {
-            "id": "80c90690f4b570fc",
+            "id": "c5a46b66b690ff64",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md"
+                "file": "信箱/访问者模式 (Visitor).md"
               }
             }
           },
           {
-            "id": "fa4b02c1a44c2a5f",
+            "id": "ae59fc5b65293e5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,7 +103,7 @@
             }
           },
           {
-            "id": "6aeb687fe0375554",
+            "id": "27ef0ac8aabb8ce7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -123,23 +115,29 @@
             }
           },
           {
-            "id": "f5eb5f0003b93c45",
+            "id": "16d9f6cbf7d4fa00",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "000e72a154be7e1f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "02db7ed448796d0d",
+        "id": "a612b30a8fa6aff7",
         "type": "tabs",
-        "dimension": 34.41558441558441,
         "children": [
           {
-            "id": "5e92cd887cc77faa",
+            "id": "61e44e295b788f53",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -147,12 +145,12 @@
             }
           },
           {
-            "id": "608076fbddae2570",
+            "id": "24819b3b2407bc34",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,91 +162,77 @@
             }
           },
           {
-            "id": "dddc5de1bc6f68e4",
+            "id": "847937bd18fad8d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
+      "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "switcher:打开快速切换": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "omnisearch:Omnisearch": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "custom-sort:Toggle custom sorting": false,
       "code-files:Create Code File": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "8308b590c2a15b00",
+  "active": "73fd89756eb3464c",
   "lastOpenFiles": [
-    "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
-    "信箱/XR.md",
-    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
-    "信箱/WSL SSH 远程连接.md",
-    "信箱/WSL 修改默认安装目录到其他盘.md",
-    "信箱/WSL 系统代理.md",
-    "信箱/WSL 基本命令.md",
-    "信箱/WSL 登录 Root.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/新文化运动/再论问题与主义.md",
-    "信箱/Vue3 新增特性.md",
-    "拾肆/个人/稳定的工作.md",
-    "信箱/事件循环（Event Loop）.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报的资产阶级方向应当批判.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/解放战争时期/论人民民主专政.md",
+    "信箱/链模式 (Chain Of Responsibility).md",
+    "信箱/访问者模式 (Visitor).md",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+    "信箱/惰性模式 (Lazy Initialization).md",
+    "信箱/空对象模式 (Null Object).md",
+    "信箱/行为型模式 (11 种).md",
+    "信箱/观察者模式 (Observer).md",
+    "信箱/防抖与节流模式 (Debounce & Throttle).md",
+    "信箱/等待者模式 (Waiter Pattern).md",
+    "信箱/备忘录模式 (Memento).md",
+    "信箱/解释器模式 (Interpreter).md",
+    "信箱/责任链模式 (Chain Of Responsibility).md",
+    "信箱/模板方法模式 (Template Method).md",
+    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+    "代码/LRU算法.ts",
+    "代码/工厂方法模式(Factory Method).ts",
+    "代码/观察者模式(Observer).ts",
+    "代码/Obsidian全屏iframe.html",
+    "信箱/单例模式 (Singleton).md",
+    "未命名",
+    "代码/防抖与节流模式(Debounce & Throttle).ts",
+    "信箱/抽象工厂模式 (Abstract Factory).md",
+    "代码/抽象工厂模式(Abstract Factory).ts",
+    "信箱/迪米特法则 LOD(Law of Demeter).md",
+    "信箱/迭代器模式 (Iterator).md",
+    "信箱/✨知识社区.md",
+    "信箱/策略模式 (Strategy).md",
     "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
-    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
-    "信箱/单行、多行溢出省略号.md",
-    "信箱/编程范式.md",
-    "信箱/5.事件处理.md",
-    "信箱/2.4-noscript 元素.md",
+    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
+    "信箱/中介者模式 (Mediator).md",
+    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
     "信箱/1.1- 简单的历史回顾.md",
-    "采集/写给前端的编译原理科普.md",
-    "信箱/JSX 声明组件的几种方式.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/文汇报在一个时间内的资产阶级方向.md",
-    "lib/run/uid.js",
-    "lib/run/node_modules/js-yaml/dist/js-yaml.min.js",
-    "lib/run/node_modules/js-yaml/dist/js-yaml.js",
-    "lib/run/node_modules/js-yaml/dist",
-    "lib/run/node_modules/cross-spawn/lib/util/resolveCommand.js",
-    "lib/run/node_modules/cross-spawn/lib/util/readShebang.js",
-    "lib/run/node_modules/cross-spawn/lib/util/escape.js",
-    "lib/run/node_modules/cross-spawn/lib/parse.js",
-    "lib/run/node_modules/cross-spawn/lib/util",
-    "lib/run/node_modules/cross-spawn/lib/enoent.js",
-    "assets/image/1cb0c4e10bfc2a0b4d780380775ab2a.jpg",
-    "assets/image/5e73e0dc5d3849890674e2ae0b4a50c.jpg",
-    "assets/image/74f06fb7a35143b798b010b0481d853f_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/image/567e4179118647d59f000763a3bc5046_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp",
-    "assets/image/4191a5f8695fa00a6f42af3cc99f906.png",
-    "assets/image/Pasted image 20220708135633.png",
-    "assets/image/盒子模型.png",
-    "assets/svg/后端常见分层.drawio.svg",
-    "assets/image/分析Vue2中的Vue与VueComponent的关系.png",
-    "assets/svg/UniApp生命周期.drawio.svg",
-    "未命名.canvas",
-    "日志/未命名.canvas"
+    "信箱/设计模式分类.md"
   ]
 }
