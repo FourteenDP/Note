@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "信箱/观察者模式 (Observer).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md"
+                "file": "信箱/观察者模式 (Observer).md"
               }
             }
           },
@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "信箱/观察者模式 (Observer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "信箱/观察者模式 (Observer).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,13 +202,14 @@
   },
   "active": "73fd89756eb3464c",
   "lastOpenFiles": [
-    "信箱/链模式 (Chain Of Responsibility).md",
+    "信箱/非 GoF 设计模式.md",
+    "信箱/观察者模式 (Observer).md",
     "信箱/访问者模式 (Visitor).md",
+    "信箱/链模式 (Chain Of Responsibility).md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/惰性模式 (Lazy Initialization).md",
     "信箱/空对象模式 (Null Object).md",
     "信箱/行为型模式 (11 种).md",
-    "信箱/观察者模式 (Observer).md",
     "信箱/防抖与节流模式 (Debounce & Throttle).md",
     "信箱/等待者模式 (Waiter Pattern).md",
     "信箱/备忘录模式 (Memento).md",
@@ -232,7 +234,6 @@
     "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
     "信箱/中介者模式 (Mediator).md",
     "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
-    "信箱/1.1- 简单的历史回顾.md",
-    "信箱/设计模式分类.md"
+    "信箱/1.1- 简单的历史回顾.md"
   ]
 }

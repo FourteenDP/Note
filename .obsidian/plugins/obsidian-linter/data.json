@@ -238,7 +238,7 @@
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
       "enabled": false,
