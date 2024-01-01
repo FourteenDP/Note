@@ -1,15 +1,15 @@
 ---
 标题: 责任链模式 (Chain Of Responsibility)
-描述: null
-封面: null
-uid: '20230507140131341'
-aliases: []
+描述: 
+封面: 
+uid: 20230507140131340
+aliases: 
 tags:
   - 计算机/设计模式
   - GoF设计模式
   - 行为型模式
   - 责任链模式
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:32
 ---
