@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/观察者模式 (Observer).md",
+                "file": "信箱/基本原则.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/观察者模式 (Observer).md"
+                "file": "信箱/基本原则.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/观察者模式 (Observer).md",
+                "file": "信箱/基本原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/观察者模式 (Observer).md",
+                "file": "信箱/基本原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,11 @@
   },
   "active": "73fd89756eb3464c",
   "lastOpenFiles": [
-    "信箱/非 GoF 设计模式.md",
+    "信箱/五大原则 (SOLID).md",
+    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "信箱/基本原则.md",
     "信箱/观察者模式 (Observer).md",
+    "信箱/非 GoF 设计模式.md",
     "信箱/访问者模式 (Visitor).md",
     "信箱/链模式 (Chain Of Responsibility).md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
@@ -231,9 +234,6 @@
     "信箱/✨知识社区.md",
     "信箱/策略模式 (Strategy).md",
     "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
-    "信箱/中介者模式 (Mediator).md",
-    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
-    "信箱/1.1- 简单的历史回顾.md"
+    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md"
   ]
 }
