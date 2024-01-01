@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/基本原则.md",
+                "file": "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/基本原则.md"
+                "file": "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/基本原则.md",
+                "file": "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/基本原则.md",
+                "file": "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +202,17 @@
   },
   "active": "73fd89756eb3464c",
   "lastOpenFiles": [
+    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
+    "信箱/链模式 (Chain Of Responsibility).md",
+    "信箱/命令模式 (Command).md",
+    "信箱/模板方法模式 (Template Method).md",
+    "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
+    "信箱/基本原则.md",
     "信箱/五大原则 (SOLID).md",
     "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
-    "信箱/基本原则.md",
     "信箱/观察者模式 (Observer).md",
     "信箱/非 GoF 设计模式.md",
     "信箱/访问者模式 (Visitor).md",
-    "信箱/链模式 (Chain Of Responsibility).md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/惰性模式 (Lazy Initialization).md",
     "信箱/空对象模式 (Null Object).md",
@@ -218,7 +222,6 @@
     "信箱/备忘录模式 (Memento).md",
     "信箱/解释器模式 (Interpreter).md",
     "信箱/责任链模式 (Chain Of Responsibility).md",
-    "信箱/模板方法模式 (Template Method).md",
     "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",
@@ -231,9 +234,6 @@
     "代码/抽象工厂模式(Abstract Factory).ts",
     "信箱/迪米特法则 LOD(Law of Demeter).md",
     "信箱/迭代器模式 (Iterator).md",
-    "信箱/✨知识社区.md",
-    "信箱/策略模式 (Strategy).md",
-    "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md"
+    "信箱/✨知识社区.md"
   ]
 }
