@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/中介者模式 (Mediator).md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/中介者模式 (Mediator).md"
+                "file": "README.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/中介者模式 (Mediator).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/中介者模式 (Mediator).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +201,14 @@
   },
   "active": "73fd89756eb3464c",
   "lastOpenFiles": [
+    "信箱/中介者模式 (Mediator).md",
+    "代码/观察者模式(Observer).ts",
     "信箱/责任链模式 (Chain Of Responsibility).md",
     "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
     "信箱/数据访问模式 (Data Access Object).md",
     "信箱/模板方法模式 (Template Method).md",
     "信箱/其它原则 (不属于 SOLID 的原则).md",
     "信箱/链模式 (Chain Of Responsibility).md",
-    "信箱/中介者模式 (Mediator).md",
     "信箱/委托模式 (Delegate).md",
     "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
     "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
@@ -229,9 +229,7 @@
     "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",
-    "代码/观察者模式(Observer).ts",
     "代码/Obsidian全屏iframe.html",
-    "信箱/单例模式 (Singleton).md",
     "未命名",
     "代码/防抖与节流模式(Debounce & Throttle).ts",
     "代码/抽象工厂模式(Abstract Factory).ts"
