@@ -6,7 +6,7 @@ uid: '20230507140131528'
 aliases: []
 tags:
   - 计算机/设计模式
-  - 基本原则
+  - 计算机/设计模式/基本原则
   - 其它原则(不属于SOLID的原则)
   - 迪米特法则 LOD(Law of Demeter)
 cssclasses: null

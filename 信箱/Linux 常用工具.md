@@ -5,7 +5,7 @@
 uid: '20230507140131243'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 常用工具
   - Vim
   - Neovim
@@ -23,7 +23,7 @@ tags:
   - Homebrew
   - tldr
   - gvm
-  - nvm
+  - Nvm
   - pyenv
   - build-essential
   - Ranger

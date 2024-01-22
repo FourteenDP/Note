@@ -6,7 +6,7 @@ uid: '20230507140131256'
 aliases: []
 tags:
   - WSL
-  - Linux
+  - 计算机/Linux
   - SSH
   - 远程连接
   - 服务安装

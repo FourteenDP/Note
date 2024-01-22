@@ -5,7 +5,7 @@
 uid: '20230507140131259'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 开发环境
   - 配置
   - WSL

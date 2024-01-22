@@ -6,7 +6,7 @@ uid: '20230507140131498'
 aliases: []
 tags:
   - 计算机/设计模式
-  - 基本原则
+  - 计算机/设计模式/基本原则
   - 其它原则(不属于SOLID的原则)
   - DRY 原则 (Don't Repeat Yourself)
 cssclasses: null

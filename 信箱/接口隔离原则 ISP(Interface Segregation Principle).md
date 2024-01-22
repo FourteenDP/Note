@@ -6,7 +6,7 @@ uid: '20230507140131489'
 aliases: []
 tags:
   - 计算机/设计模式
-  - 基本原则
+  - 计算机/设计模式/基本原则
   - SOLID
   - 接口隔离原则 ISP(Interface Segregation Principle)
 cssclasses: null

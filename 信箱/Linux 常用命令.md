@@ -5,7 +5,7 @@
 uid: '20230507140131249'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 常用命令
   - 软件包管理
   - shell

@@ -5,7 +5,7 @@
 uid: '20230507140131242'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 常用下载器
   - Wget
   - Curl

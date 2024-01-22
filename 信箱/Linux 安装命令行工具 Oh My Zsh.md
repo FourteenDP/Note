@@ -5,7 +5,7 @@
 uid: '20230507140131247'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 命令行工具
   - 安装
   - Zsh

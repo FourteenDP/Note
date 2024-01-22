@@ -6,7 +6,7 @@ uid: '20230507140131485'
 aliases: []
 tags:
   - 计算机/设计模式
-  - 基本原则
+  - 计算机/设计模式/基本原则
   - SOLID
   - 开闭原则 OCP(Open Close Principle)
 cssclasses: null

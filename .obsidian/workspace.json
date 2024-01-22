@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSS",
+                "query": "tag:#行为型模式",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,

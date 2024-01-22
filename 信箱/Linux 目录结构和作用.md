@@ -5,7 +5,7 @@
 uid: '20230507140131252'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 目录结构
   - 文件系统
 cssclasses: null

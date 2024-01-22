@@ -5,7 +5,7 @@
 uid: '20230507140131245'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - 系统镜像源
   - 系统更新
 cssclasses: null

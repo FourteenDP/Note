@@ -5,7 +5,7 @@
 uid: '20230507140131246'
 aliases: []
 tags:
-  - Linux
+  - 计算机/Linux
   - Node
   - 版本管理
   - Nvm

@@ -6,7 +6,7 @@ uid: 20230507140131384
 aliases: 
 tags:
   - 计算机/设计模式
-  - 基本原则
+  - 计算机/设计模式/基本原则
   - SOLID
   - 依赖倒转原则
   - DIP(Dependence
