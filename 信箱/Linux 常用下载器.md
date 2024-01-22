@@ -7,9 +7,9 @@ aliases: []
 tags:
   - 计算机/Linux
   - 计算机/Linux/常用下载器
-  - Wget
-  - Curl
-  - Axel
+  - 计算机/Linux/下载工具/Wget
+  - 计算机/Linux/下载工具/Curl
+  - 计算机/Linux/下载工具/Axel
   - aria2
 cssclasses: null
 创建时间: 2023-05-07 14:01:31

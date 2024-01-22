@@ -10,9 +10,9 @@ tags:
   - Vim
   - 计算机/Linux/Neovim
   - 计算机/技术/Git
-  - Wget
-  - Curl
-  - Axel
+  - 计算机/Linux/下载工具/Wget
+  - 计算机/Linux/下载工具/Curl
+  - 计算机/Linux/下载工具/Axel
   - 计算机/Linux/Nvm
   - 计算机/Linux/Zsh
   - ZeroTier

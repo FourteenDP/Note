@@ -8,9 +8,9 @@ tags:
   - node_module
   - 打补丁
   - Patch-package
-  - npm
-  - yarn
-  - yarn
+  - 计算机/工程化/npm
+  - 计算机/前端/yarn
+  - 计算机/前端/yarn
   - patch
 cssclasses: null
 发布链接:

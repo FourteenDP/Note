@@ -10,7 +10,7 @@ tags:
   - 项目管理
   - 计算机/技术/Git Submodule
   - 计算机/技术/Git Subtree
-  - Monorepo
+  - 计算机/工程化
 cssclasses: null
 发布链接: 'https://juejin.cn/post/7230656452497965117'
 创建时间: 2023-05-14 10:40:09

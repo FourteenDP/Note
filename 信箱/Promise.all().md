@@ -9,7 +9,7 @@ tags:
   - 计算机/语言
   - 计算机/前端/JavaScript
   - 计算机/语言/JavaScript/内置对象
-  - Promise
+  - 计算机/语言/Promise
   - 计算机/语言/JavaScript/方法
   - Promise.all()
 cssclasses: null
