@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -199,7 +199,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73fd89756eb3464c",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
     "信箱/中介者模式 (Mediator).md",
     "代码/观察者模式(Observer).ts",
