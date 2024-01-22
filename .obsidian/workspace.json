@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/UniApp 生命周期.md",
+                "file": "信箱/设计师的网站.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#跨平台",
+                "query": "tag:#系统代理",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/UniApp 生命周期.md"
+                "file": "信箱/设计师的网站.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/UniApp 生命周期.md",
+                "file": "信箱/设计师的网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/UniApp 生命周期.md",
+                "file": "信箱/设计师的网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,14 @@
   },
   "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
+    "信箱/书籍推荐.md",
+    "信箱/前端推荐书籍.md",
+    "信箱/前端面试题.md",
+    "信箱/前端开发知识点.md",
+    "信箱/浏览器 URL 字符串长度限制.md",
+    "信箱/1.2-JavaScriptr 版本.md",
+    "信箱/1.1- 简单的历史回顾.md",
+    "信箱/UniApp 生命周期.md",
     "信箱/开源项目.md",
     "信箱/开源设计素材.md",
     "信箱/开源 ERP 系统.md",
@@ -222,14 +230,6 @@
     "信箱/1.ref 和 reactive 区别.md",
     "信箱/7.模板引用.md",
     "信箱/响应式语法糖 $ref.md",
-    "信箱/Lambda 表达式.md",
-    "信箱/C#和.NET 关系.md",
-    "信箱/弱类型、强类型、动态类型、静态类型语言.md",
-    "信箱/String.prototype.localeCompare().md",
-    "信箱/Promise.all().md",
-    "信箱/Function.prototype.apply().md",
-    "信箱/WSL 基本命令.md",
-    "信箱/Neovim 的安装和配置.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",

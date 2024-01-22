@@ -7,7 +7,7 @@ aliases: []
 tags:
   - 计算机/Linux/Neovim
   - 计算机/Linux/安装
-  - 配置
+  - 计算机/Linux/配置
   - 计算机/Linux/Debian
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
