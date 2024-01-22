@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/Linux",
+                "query": "tag:#unknown",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 385.5
   },
   "right": {
     "id": "fc281553ae42aec0",
@@ -202,10 +202,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a34e955419439cc8",
+  "active": "000e72a154be7e1f",
   "lastOpenFiles": [
-    "信箱/如何给 node_module 下的库打补丁.md",
+    "未命名.md",
     "信箱/工程化.md",
+    "信箱/如何给 node_module 下的库打补丁.md",
     "信箱/工程化之 GIt 提交自动转换行尾字符 GitAttributes.md",
     "信箱/项目工程化.md",
     "信箱/使用 vite 搭建 vue3 项目.md",
@@ -229,7 +230,6 @@
     "采集/在 WLS2 Debian 上安装.md",
     "采集/写给前端的编译原理科普.md",
     "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
-    "采集/实施前端微服务化的六七种方式.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",
