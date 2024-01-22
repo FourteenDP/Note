@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/图形渲染引擎.md",
+                "file": "信箱/Linux 常用工具.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zsh-vi-mode",
+                "query": "tag:计算机/Linux/Zsh",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/图形渲染引擎.md"
+                "file": "信箱/Linux 常用工具.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/图形渲染引擎.md",
+                "file": "信箱/Linux 常用工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/图形渲染引擎.md",
+                "file": "信箱/Linux 常用工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "a34e955419439cc8",
   "lastOpenFiles": [
-    "未命名.md",
     "信箱/图形渲染引擎.md",
+    "未命名.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2012/实现中华民族伟大复兴是中华民族近代以来最伟大的梦想.md",
     "拾肆/个人/发简历常用语.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",

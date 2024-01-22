@@ -1,33 +1,13 @@
 ---
 标题: Linux 常用工具
-描述: null
-封面: null
-uid: '20230507140131243'
-aliases: []
+描述: 
+封面: 
+uid: "20230507140131243"
+aliases: 
 tags:
   - 计算机/Linux
   - 计算机/Linux/常用工具
-  - Vim
-  - 计算机/Linux/Neovim
-  - 计算机/技术/Git
-  - 计算机/Linux/下载工具/Wget
-  - 计算机/Linux/下载工具/Curl
-  - 计算机/Linux/下载工具/Axel
-  - 计算机/Linux/Nvm
-  - 计算机/Linux/Zsh
-  - ZeroTier
-  - Openssh-server
-  - fzf
-  - zsh-vi-mode
-  - starship
-  - Homebrew
-  - tldr
-  - gvm
-  - 计算机/Linux/Nvm
-  - pyenv
-  - build-essential
-  - Ranger
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:34
 ---
