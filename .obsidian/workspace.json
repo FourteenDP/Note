@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/template/日志/季总结.md",
+                "file": "信箱/行为型模式 (11 种).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#计算机/设计模式/GoF设计模式/行为型模式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/template/日志/季总结.md"
+                "file": "信箱/行为型模式 (11 种).md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lib/template/日志/季总结.md",
+                "file": "信箱/行为型模式 (11 种).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lib/template/日志/季总结.md",
+                "file": "信箱/行为型模式 (11 种).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +210,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "9abf706c2a626af8",
   "lastOpenFiles": [
+    "信箱/备忘录模式 (Memento).md",
+    "信箱/访问者模式 (Visitor).md",
+    "信箱/观察者模式 (Observer).md",
+    "信箱/策略模式 (Strategy).md",
+    "信箱/迭代器模式 (Iterator).md",
+    "信箱/解释器模式 (Interpreter).md",
+    "信箱/命令模式 (Command).md",
+    "信箱/模板方法模式 (Template Method).md",
+    "信箱/责任链模式 (Chain Of Responsibility).md",
+    "信箱/中介者模式 (Mediator).md",
+    "信箱/状态模式 (State).md",
+    "信箱/等待者模式 (Waiter Pattern).md",
+    "信箱/迪米特法则 LOD(Law of Demeter).md",
+    "信箱/防抖与节流模式 (Debounce & Throttle).md",
+    "信箱/代理模式 (Proxy).md",
+    "信箱/创建型模式 (5 种).md",
+    "信箱/单例模式 (Singleton).md",
+    "信箱/设计模式分类.md",
+    "lib/template/日志/季总结.md",
     "日志/README.md",
     "lib/template/日志/周总结.md",
     "信箱/node 的 process.nextTick.md",
@@ -218,25 +238,6 @@
     "拾肆/个人/JavaScript 面试精讲.md",
     "信箱/HelloWorld.md",
     "信箱/APP 混合开发.md",
-    "拾肆/个人/All in One 笔记工具.md",
-    "拾肆/个人/桌子舒适大小.md",
-    "拾肆/个人/专升本.md",
-    "拾肆/个人/涨薪申请.md",
-    "lib/template/日志/月总结.md",
-    "信箱/移动端跨平台开发框架.md",
-    "拾肆/个人/小孩子涨高.md",
-    "信箱/小程序容器技术.md",
-    "拾肆/个人/项目经历.md",
-    "拾肆/公司/广东灯总管科技有限公司/项目.md",
-    "拾肆/个人/想开发的项目.md",
-    "拾肆/个人/稳定的工作.md",
-    "拾肆/个人/退烧药.md",
-    "lib/template/日志/日总结.md",
-    "拾肆/个人/钱钱钱.md",
-    "信箱/前端微服务.md",
-    "lib/template/日志/季总结.md",
-    "拾肆/个人/前端面试手册.md",
-    "拾肆/个人/简历/前端开发 - 邓智鹏 -20 岁 - 副本 - 副本.md",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
