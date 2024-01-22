@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/工程化.md",
+                "file": "信箱/颜色.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unknown",
+                "query": "tag:#计算机/工程化",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/工程化.md"
+                "file": "信箱/颜色.md"
               }
             }
           },
@@ -107,7 +107,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/工程化.md",
+                "file": "信箱/颜色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/工程化.md",
+                "file": "信箱/颜色.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "000e72a154be7e1f",
+  "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
-    "未命名.md",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
+    "信箱/颜色.md",
+    "信箱/设计师的网站.md",
+    "信箱/出色的网站交互设计.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
+    "拾肆/个人/2022面试题总结/1、HTML+CSS 面试题.md",
     "信箱/工程化.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "未命名.md",
     "信箱/如何给 node_module 下的库打补丁.md",
     "信箱/工程化之 GIt 提交自动转换行尾字符 GitAttributes.md",
     "信箱/项目工程化.md",
@@ -223,13 +230,6 @@
     "信箱/跨平台开发框架.md",
     "信箱/3.2 - 关键字与保留字.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
-    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
-    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
-    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
-    "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
-    "采集/在 WLS2 Debian 上安装.md",
-    "采集/写给前端的编译原理科普.md",
-    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",
