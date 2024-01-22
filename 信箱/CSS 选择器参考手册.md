@@ -5,7 +5,7 @@
 uid: '20230507140131107'
 aliases: []
 tags:
-  - CSS
+  - 计算机/前端/CSS
   - CSS选择器
   - 手册
 cssclasses: null

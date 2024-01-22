@@ -6,8 +6,8 @@ uid: '20230507140132108'
 aliases: []
 tags:
   - 技术
-  - 语言
-  - 计算机/前端开发/JavaScript
+  - 计算机/语言
+  - 计算机/前端/JavaScript
   - 内置对象
   - Promise
 cssclasses: null

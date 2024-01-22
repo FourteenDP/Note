@@ -5,8 +5,8 @@
 uid: '20230507140131146'
 aliases: []
 tags:
-  - Vue
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/Vue
+  - 计算机/前端/JavaScript
   - 单击
   - 双击
   - 长按

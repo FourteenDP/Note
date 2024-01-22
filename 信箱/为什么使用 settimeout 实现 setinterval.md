@@ -5,7 +5,7 @@
 uid: '20230507140131123'
 aliases: []
 tags:
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/JavaScript
   - setTimeout
   - setInterval
   - 事件队列

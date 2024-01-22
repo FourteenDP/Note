@@ -5,7 +5,7 @@
 uid: '20230507140132498'
 aliases: []
 tags:
-  - 语言
+  - 计算机/语言
   - TypeScript
   - void
   - never

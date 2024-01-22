@@ -5,7 +5,7 @@
 uid: '20230507140131108'
 aliases: []
 tags:
-  - CSS
+  - 计算机/前端/CSS
   - HTML
   - REM
   - 兼容适配

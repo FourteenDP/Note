@@ -6,7 +6,7 @@ uid: '20230507140131657'
 aliases: []
 tags:
   - 计算机/设计模式
-  - 非GoF设计模式
+  - 计算机/设计模式/非GoF设计模式
   - 惰性模式 (Lazy Initialization)
 cssclasses: null
 创建时间: 2023-05-07 14:01:31

@@ -5,8 +5,8 @@
 uid: '20230507140131143'
 aliases: []
 tags:
-  - Vue
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/Vue
+  - 计算机/前端/JavaScript
   - 组件通信
 cssclasses: null
 创建时间: 2023-05-07 14:01:31

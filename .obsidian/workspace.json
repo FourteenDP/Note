@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/解释器模式 (Interpreter).md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/设计模式/GoF设计模式",
+                "query": "tag:#CSS",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/解释器模式 (Interpreter).md"
+                "file": "信箱/访问者模式 (Visitor).md"
               }
             }
           },
@@ -99,7 +99,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/解释器模式 (Interpreter).md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/解释器模式 (Interpreter).md",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +202,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
+    "信箱/前端推荐书籍.md",
+    "信箱/访问者模式 (Visitor).md",
+    "信箱/解释器模式 (Interpreter).md",
     "信箱/迭代器模式 (Iterator).md",
     "信箱/策略模式 (Strategy).md",
     "信箱/备忘录模式 (Memento).md",
-    "信箱/访问者模式 (Visitor).md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "日志/README.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
@@ -231,8 +233,6 @@
     "日志/2024/2024-01-22.md",
     "日志/2024",
     "日志/2023/2023-12-10.md",
-    "日志/2023/2023-03-01.md",
-    "日志/2023/2023-03-04.md",
     "代码/观察者模式(Observer).ts",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",

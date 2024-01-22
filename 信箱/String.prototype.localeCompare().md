@@ -5,8 +5,8 @@
 uid: '20230507140132192'
 aliases: []
 tags:
-  - 语言
-  - 计算机/前端开发/JavaScript
+  - 计算机/语言
+  - 计算机/前端/JavaScript
   - 内置对象
   - String
   - 方法

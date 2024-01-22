@@ -5,7 +5,7 @@
 uid: '20230507140131128'
 aliases: []
 tags:
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/JavaScript
   - 浏览器
   - setTimeout
   - setInterval

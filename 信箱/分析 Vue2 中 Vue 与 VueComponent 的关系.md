@@ -5,9 +5,9 @@
 uid: '20230507140131152'
 aliases: []
 tags:
-  - Vue
+  - 计算机/前端/Vue
   - VueComponent
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/JavaScript
   - 源码
   - 关系图
 cssclasses: null

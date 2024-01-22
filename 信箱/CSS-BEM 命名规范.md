@@ -5,7 +5,7 @@
 uid: '20230507140131099'
 aliases: []
 tags:
-  - CSS
+  - 计算机/前端/CSS
   - CSS-BEM
   - 命名规范
 cssclasses: null

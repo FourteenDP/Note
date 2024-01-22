@@ -6,7 +6,7 @@ uid: '20230507140131805'
 aliases: []
 tags:
   - 技术
-  - 语言
+  - 计算机/语言
   - C
   - Lambda
 cssclasses: null

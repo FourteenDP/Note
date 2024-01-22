@@ -5,10 +5,10 @@
 uid: '20230507140131167'
 aliases: []
 tags:
-  - Vue
-  - Vue3
+  - 计算机/前端/Vue
+  - 计算机/前端/Vue3
   - Vite
-  - 计算机/前端开发/JavaScript
+  - 计算机/前端/JavaScript
   - TypeScript
   - 环境搭建
 cssclasses: null
