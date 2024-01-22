@@ -9,7 +9,7 @@ tags:
   - 计算机/前端/Vue3
   - Vite
   - 计算机/前端/JavaScript
-  - TypeScript
+  - 计算机/语言/TypeScript
   - 环境搭建
 cssclasses: null
 发布链接: 'https://juejin.cn/post/7231016319863521337'

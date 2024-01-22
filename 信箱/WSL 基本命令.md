@@ -5,7 +5,7 @@
 uid: '20230507140131258'
 aliases: []
 tags:
-  - WSL
+  - 计算机/Linux/WSL
   - 基本命令
   - 安装
   - Linux发行版

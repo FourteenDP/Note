@@ -6,7 +6,7 @@ uid: '20230520233058193'
 aliases: []
 tags:
   - Windows
-  - WSL
+  - 计算机/Linux/WSL
   - 开机启动
   - 执行脚本
   - 发送通知

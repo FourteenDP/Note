@@ -6,7 +6,7 @@ uid: '20230514104009200'
 aliases: []
 tags:
   - 工程化
-  - Git
+  - 计算机/技术/Git
   - 自动转换
   - 行尾字符
   - GitAttributes

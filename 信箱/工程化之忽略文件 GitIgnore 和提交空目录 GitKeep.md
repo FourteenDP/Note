@@ -6,7 +6,7 @@ uid: '20230514104009202'
 aliases: []
 tags:
   - 工程化
-  - Git
+  - 计算机/技术/Git
   - 忽略文件
   - 提交空目录
   - .gitignore

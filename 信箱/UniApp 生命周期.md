@@ -5,7 +5,7 @@
 uid: '20230507140131136'
 aliases: []
 tags:
-  - uni-app
+  - 计算机/前端/uni-app
   - 生命周期
   - 计算机/前端/JavaScript
 cssclasses: null

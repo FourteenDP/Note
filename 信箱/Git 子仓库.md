@@ -5,11 +5,11 @@
 uid: '20230514104009184'
 aliases: []
 tags:
-  - Git
+  - 计算机/技术/Git
   - 子仓库
   - 项目管理
-  - Git Submodule
-  - Git Subtree
+  - 计算机/技术/Git Submodule
+  - 计算机/技术/Git Subtree
   - Monorepo
 cssclasses: null
 发布链接: 'https://juejin.cn/post/7230656452497965117'

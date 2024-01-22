@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#行为型模式",
+                "query": "tag:#红宝书",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md"
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/访问者模式 (Visitor).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +204,18 @@
   },
   "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
-    "信箱/前端推荐书籍.md",
+    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+    "信箱/基本原则.md",
+    "信箱/迪米特法则 LOD(Law of Demeter).md",
     "信箱/访问者模式 (Visitor).md",
+    "信箱/前端推荐书籍.md",
     "信箱/解释器模式 (Interpreter).md",
     "信箱/迭代器模式 (Iterator).md",
     "信箱/策略模式 (Strategy).md",
     "信箱/备忘录模式 (Memento).md",
-    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "日志/README.md",
     "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
     "采集/写给前端的编译原理科普.md",
@@ -225,14 +230,9 @@
     "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "信箱/Vue3 新增特性.md",
-    "信箱/命名规范.md",
-    "信箱/Vue3 生命周期.md",
-    "信箱/web 框架与 cocos 的结合.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
-    "日志/2024/2024-01-22.md",
     "日志/2024",
-    "日志/2023/2023-12-10.md",
     "代码/观察者模式(Observer).ts",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",

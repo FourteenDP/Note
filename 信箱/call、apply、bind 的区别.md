@@ -5,7 +5,7 @@
 uid: '20230507140132159'
 aliases: []
 tags:
-  - 技术
+  - 计算机/技术
   - 计算机/语言
   - 计算机/前端/JavaScript
   - call

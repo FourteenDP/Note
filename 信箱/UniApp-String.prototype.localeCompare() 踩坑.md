@@ -5,7 +5,7 @@
 uid: '20230507140131132'
 aliases: []
 tags:
-  - uni-app
+  - 计算机/前端/uni-app
   - 计算机/前端/JavaScript
   - String
   - localeCompare

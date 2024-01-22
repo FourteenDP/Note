@@ -5,7 +5,7 @@
 uid: '20230507140131135'
 aliases: []
 tags:
-  - uni-app
+  - 计算机/前端/uni-app
   - 开源项目
   - 组件
 cssclasses: null

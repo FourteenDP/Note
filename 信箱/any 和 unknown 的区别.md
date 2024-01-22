@@ -5,9 +5,9 @@
 uid: '20230507140132201'
 aliases: []
 tags:
-  - 技术
+  - 计算机/技术
   - 计算机/语言
-  - TypeScript
+  - 计算机/语言/TypeScript
   - any
   - unknown
 cssclasses: null

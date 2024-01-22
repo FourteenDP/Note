@@ -5,7 +5,7 @@
 uid: '20230507140132200'
 aliases: []
 tags:
-  - TypeScript
+  - 计算机/语言/TypeScript
   - 简介
 cssclasses: null
 创建时间: 2023-05-07 14:01:32

@@ -7,7 +7,7 @@ aliases:
 tags:
   - 计算机/设计模式
   - 计算机/设计模式/GoF设计模式
-  - 行为型模式
+  - 计算机/设计模式/GoF设计模式/行为型模式
   - 中介者模式
   - (Mediator)
 cssclasses: 

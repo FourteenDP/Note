@@ -9,7 +9,7 @@ tags:
   - 常用工具
   - Vim
   - Neovim
-  - Git
+  - 计算机/技术/Git
   - Wget
   - Curl
   - Axel

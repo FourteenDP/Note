@@ -6,7 +6,7 @@ uid: '20230507140132498'
 aliases: []
 tags:
   - 计算机/语言
-  - TypeScript
+  - 计算机/语言/TypeScript
   - void
   - never
 cssclasses: null

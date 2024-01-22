@@ -5,7 +5,7 @@
 uid: '20230507140131254'
 aliases: []
 tags:
-  - WSL
+  - 计算机/Linux/WSL
   - 登录
   - Root
 cssclasses: null

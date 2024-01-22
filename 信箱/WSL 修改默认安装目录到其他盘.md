@@ -5,7 +5,7 @@
 uid: '20230507140131257'
 aliases: []
 tags:
-  - WSL
+  - 计算机/Linux/WSL
   - 默认安装目录
 cssclasses: null
 创建时间: 2023-05-07 14:01:31

@@ -8,7 +8,7 @@ tags:
   - 计算机/Linux
   - 开发环境
   - 配置
-  - WSL
+  - 计算机/Linux/WSL
   - 系统代理
   - 系统镜像源和更新
   - Debian中文环境
