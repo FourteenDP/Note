@@ -1,14 +1,12 @@
 ---
 标题: 惰性模式 (Lazy Initialization)
-描述: null
-封面: null
-uid: '20230507140131657'
-aliases: []
+描述: 
+封面: 
+uid: "20230507140131657"
+aliases: 
 tags:
-  - 计算机/设计模式
   - 计算机/设计模式/非GoF设计模式
-  - 惰性模式 (Lazy Initialization)
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:32
 ---

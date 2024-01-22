@@ -2,8 +2,8 @@
 标题: 非 GoF 设计模式
 描述: 
 封面: 
-uid: '20230507140131764'
-aliases: []
+uid: 20230507140131764
+aliases: 
 tags:
   - 计算机/设计模式/非GoF设计模式
 cssclasses: 
