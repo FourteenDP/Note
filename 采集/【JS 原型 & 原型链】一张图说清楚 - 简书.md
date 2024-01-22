@@ -1,14 +1,15 @@
 ---
 标题: 【JS 原型 & 原型链】一张图说清楚 - 简书
-描述: null
-封面: null
-uid: '20231231001952960'
-aliases: []
-tags: []
-cssclasses: null
+描述: 
+封面: 
+uid: "20231231001952960"
+aliases: 
+tags:
+  - 采集
+cssclasses: 
 作者: jianshu.com
 域名: www.jianshu.com
-原文链接: 'https://www.jianshu.com/p/423f72d502c2'
+原文链接: https://www.jianshu.com/p/423f72d502c2
 创建时间: 2023-12-31 00:19:52
 更新时间: 2023-12-31 03:07:00
 ---

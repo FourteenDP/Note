@@ -4,7 +4,8 @@
 封面: 
 uid: 20231231001913180
 aliases: 
-tags: 
+tags:
+  - 采集
 cssclasses: 
 作者: w3cschool.cn
 域名: www.w3cschool.cn

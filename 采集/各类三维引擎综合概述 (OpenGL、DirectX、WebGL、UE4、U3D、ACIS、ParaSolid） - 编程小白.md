@@ -1,14 +1,15 @@
 ---
 标题: 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
-描述: ''
-封面: null
-uid: '20231231000548229'
-aliases: []
-tags: []
-cssclasses: null
+描述: ""
+封面: 
+uid: "20231231000548229"
+aliases: 
+tags:
+  - 采集
+cssclasses: 
 作者: bcxiaobai1.github.io
 域名: bcxiaobai1.github.io
-原文链接: 'https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/'
+原文链接: https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/
 创建时间: 2023-12-31 00:05:48
 更新时间: 2023-12-31 03:06:59
 ---
