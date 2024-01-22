@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44530572ac47492f",
+        "id": "55e739fce0fa0beb",
         "type": "tabs",
         "children": [
           {
-            "id": "a34e955419439cc8",
+            "id": "39cffc4b78cf06e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+                "file": "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#历史",
+                "query": "tag:计算机/设计模式/基本原则/五大原则SOLID",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -82,11 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 599.5
   },
   "right": {
     "id": "fc281553ae42aec0",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md"
+                "file": "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md"
               }
             }
           },
@@ -137,19 +138,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "4a47243f958fe614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01- 鸦片战争前的中国.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+                "file": "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+                "file": "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,14 +210,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a34e955419439cc8",
+  "active": "39cffc4b78cf06e3",
   "lastOpenFiles": [
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
+    "信箱/五大原则 (SOLID).md",
+    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+    "信箱/基本原则.md",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "自考/资料/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
     "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
+    "信箱/虚拟列表.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/中国近现代历史文献选集.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2014/《中共中央关于全面推进依法治国若干重大问题的决定》的说明.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
-    "自考/资料/KM01-中国近现代史纲要/02-中国近代史时间轴/中国近代史时间轴.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——在中国共产党第十五次全国代表大会上的报告.md",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
@@ -246,13 +241,6 @@
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1976-1989/关于建国以来党的若干历史问题的决议.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2013/关于坚持和发展中国特色社会主义的几个问题.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/波茨坦公告.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/欢呼北大的一张大字报.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/几次侵华战争与不平等条约/对华战争.md",
-    "拾肆/个人/简历Plus/邓智鹏 - 前端工程师.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1976-1989/必须旗帜鲜明地反对动乱.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/把我国建设成为社会主义的现代化强国.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
-    "信箱/前端开发知识点.md",
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近现代史纲要思维导图.pdf",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
