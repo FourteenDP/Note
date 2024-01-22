@@ -1,11 +1,10 @@
 ---
-标题: "YAGNI 原则 (You Ain't Gonna Need It)"
+标题: YAGNI 原则 (You Ain't Gonna Need It)
 描述: 
 封面: 
 uid: "20230507140131502"
-aliases: []
+aliases: 
 tags:
-  - 计算机/设计模式
   - 计算机/设计模式/基本原则
 cssclasses: 
 创建时间: 2023-05-07 14:01:31

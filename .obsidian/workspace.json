@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "信箱/KISS 原则 (Keep It Simple and Stupid).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/前端/Vue",
+                "query": "tag:#计算机/设计模式/基本原则/五大原则SOLID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md"
+                "file": "信箱/KISS 原则 (Keep It Simple and Stupid).md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "信箱/KISS 原则 (Keep It Simple and Stupid).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "信箱/KISS 原则 (Keep It Simple and Stupid).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,19 +210,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ae59fc5b65293e5e",
+  "active": "9abf706c2a626af8",
   "lastOpenFiles": [
-    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
-    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/基本原则.md",
     "信箱/五大原则 (SOLID).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
-    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
-    "信箱/开闭原则 OCP(Open Close Principle).md",
-    "信箱/非 GoF 设计模式.md",
     "信箱/迪米特法则 LOD(Law of Demeter).md",
-    "信箱/KISS 原则 (Keep It Simple and Stupid).md",
+    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
+    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
+    "信箱/KISS 原则 (Keep It Simple and Stupid).md",
+    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "信箱/非 GoF 设计模式.md",
     "信箱/链模式 (Chain Of Responsibility).md",
     "信箱/等待者模式 (Waiter Pattern).md",
     "信箱/委托模式 (Delegate).md",
