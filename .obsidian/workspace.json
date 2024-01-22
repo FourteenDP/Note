@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/五大原则 (SOLID).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/设计模式/基本原则/五大原则SOLID",
+                "query": "tag:#计算机/前端/Vue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/接口隔离原则 ISP(Interface Segregation Principle).md"
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,15 +210,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "720a7a2a0e0bfaf0",
+  "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
-    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
-    "信箱/五大原则 (SOLID).md",
     "信箱/基本原则.md",
-    "信箱/非 GoF 设计模式.md",
-    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "信箱/五大原则 (SOLID).md",
     "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
+    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "信箱/非 GoF 设计模式.md",
     "信箱/迪米特法则 LOD(Law of Demeter).md",
     "信箱/KISS 原则 (Keep It Simple and Stupid).md",
     "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
@@ -232,7 +233,6 @@
     "信箱/防抖与节流模式 (Debounce & Throttle).md",
     "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
     "信箱/设计模式.md",
-    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "信箱/创建型模式 (5 种).md",
     "信箱/建造者模式 (Builder).md",
     "信箱/策略模式 (Strategy).md",
