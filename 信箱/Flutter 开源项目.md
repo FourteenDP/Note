@@ -5,8 +5,8 @@
 uid: '20230507140132530'
 aliases: []
 tags:
-  - Flutter
-  - 开源项目
+  - 计算机/前端/Flutter
+  - 计算机/开源项目
   - Bruno
   - Kraken
   - Web 渲染引擎

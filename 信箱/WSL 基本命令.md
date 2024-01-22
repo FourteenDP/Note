@@ -1,15 +1,15 @@
 ---
 标题: WSL 基本命令
-描述: null
-封面: null
-uid: '20230507140131258'
-aliases: []
+描述: 
+封面: 
+uid: 20230507140131256
+aliases: 
 tags:
   - 计算机/Linux/WSL
   - 基本命令
-  - 安装
+  - 计算机/Linux/安装
   - Linux发行版
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:34
 ---

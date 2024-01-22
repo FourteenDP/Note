@@ -5,7 +5,7 @@
 uid: '20230507140131110'
 aliases: []
 tags:
-  - HTML
+  - 计算机/前端/HTML
   - 计算机/前端/CSS
   - Image
   - 图片

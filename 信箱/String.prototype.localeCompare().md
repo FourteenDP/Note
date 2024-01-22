@@ -1,16 +1,16 @@
 ---
 标题: String.prototype.localeCompare()
-描述: null
-封面: null
-uid: '20230507140132192'
-aliases: []
+描述: 
+封面: 
+uid: 20230507140132190
+aliases: 
 tags:
   - 计算机/语言
   - 计算机/前端/JavaScript
-  - 内置对象
-  - String
-  - 方法
-cssclasses: null
+  - 计算机/语言/JavaScript/内置对象
+  - 计算机/语言/String
+  - 计算机/语言/JavaScript/方法
+cssclasses: 
 创建时间: 2023-05-07 14:01:32
 更新时间: 2023-12-31 03:07:34
 ---

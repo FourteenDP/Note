@@ -7,7 +7,7 @@ aliases: []
 tags:
   - 计算机/Linux
   - 命令行工具
-  - 安装
+  - 计算机/Linux/安装
   - Zsh
   - Oh My Zsh
 cssclasses: null

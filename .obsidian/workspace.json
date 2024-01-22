@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
+                "file": "信箱/String.prototype.localeCompare().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/语言/红宝书",
+                "query": "tag:#计算机/前端/Vue3",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md"
+                "file": "信箱/String.prototype.localeCompare().md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
+                "file": "信箱/String.prototype.localeCompare().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/1.2-JavaScriptr 版本.md",
+                "file": "信箱/String.prototype.localeCompare().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +202,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73fd89756eb3464c",
+  "active": "d5118a4973f82239",
   "lastOpenFiles": [
+    "信箱/String.md",
+    "信箱/String.prototype.localeCompare().md",
+    "信箱/Windows 创建软连接.md",
+    "信箱/Promise.all().md",
+    "信箱/Function.prototype.apply().md",
+    "信箱/WSL 基本命令.md",
+    "信箱/Neovim 的安装和配置.md",
+    "信箱/Linux 安装卸载 Rust.md",
+    "信箱/Linux 安装命令行工具 Oh My Zsh.md",
+    "采集/在 WLS2 Debian 上安装.md",
+    "信箱/1.2-JavaScriptr 版本.md",
     "信箱/3.1- 语法.md",
     "信箱/3.2 - 关键字与保留字.md",
     "信箱/3.3- 变量.md",
     "信箱/1.1- 简单的历史回顾.md",
-    "信箱/1.2-JavaScriptr 版本.md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
     "信箱/开闭原则 OCP(Open Close Principle).md",
@@ -220,16 +230,6 @@
     "信箱/解释器模式 (Interpreter).md",
     "信箱/迭代器模式 (Iterator).md",
     "信箱/策略模式 (Strategy).md",
-    "信箱/备忘录模式 (Memento).md",
-    "日志/README.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
-    "采集/写给前端的编译原理科普.md",
-    "采集/Win10-VSCode - 添加至右键菜单.md",
-    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
-    "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
-    "采集/在 WLS2 Debian 上安装.md",
-    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
-    "采集/实施前端微服务化的六七种方式.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",

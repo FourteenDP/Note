@@ -6,7 +6,7 @@ uid: '20230507140131253'
 aliases: []
 tags:
   - Neovim
-  - 安装
+  - 计算机/Linux/安装
   - 配置
   - Debian
 cssclasses: null

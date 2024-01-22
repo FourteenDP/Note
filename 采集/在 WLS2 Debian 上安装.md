@@ -10,7 +10,7 @@ tags:
   - WLS2
   - Debian
   - Docker
-  - 安装
+  - 计算机/Linux/安装
   - 教程
 cssclasses: 
 原文链接: https://blog.csdn.net/qq_50883920/article/details/120540509

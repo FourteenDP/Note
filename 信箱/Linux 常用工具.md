@@ -13,7 +13,7 @@ tags:
   - Wget
   - Curl
   - Axel
-  - Nvm
+  - 计算机/Linux/Nvm
   - Zsh
   - ZeroTier
   - Openssh-server
@@ -23,7 +23,7 @@ tags:
   - Homebrew
   - tldr
   - gvm
-  - Nvm
+  - 计算机/Linux/Nvm
   - pyenv
   - build-essential
   - Ranger

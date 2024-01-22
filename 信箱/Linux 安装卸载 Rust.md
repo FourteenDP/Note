@@ -6,7 +6,7 @@ uid: '20230507140131241'
 aliases: []
 tags:
   - 计算机/Linux
-  - 安装
+  - 计算机/Linux/安装
   - 卸载
   - Rust
 cssclasses: null

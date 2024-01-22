@@ -5,7 +5,7 @@
 uid: '20230507140131208'
 aliases: []
 tags:
-  - 开源项目
+  - 计算机/开源项目
   - ERP系统
   - 管理系统
 cssclasses: null

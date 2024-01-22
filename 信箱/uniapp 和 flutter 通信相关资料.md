@@ -8,7 +8,7 @@ tags:
   - 计算机/前端/uni-app
   - flutter
   - app
-  - 通信
+  - 计算机/前端/通信
   - 跨平台
   - 原生
   - Webiew

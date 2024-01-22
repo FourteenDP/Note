@@ -6,7 +6,7 @@ uid: '20230507140131189'
 aliases: []
 tags:
   - 计算机/前端/JavaScript
-  - 组件
+  - 计算机/前端/组件
   - Web
   - Components
 cssclasses: null

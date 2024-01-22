@@ -7,7 +7,7 @@ aliases: []
 tags:
   - 计算机/前端/uni-app
   - 计算机/前端/JavaScript
-  - String
+  - 计算机/语言/String
   - localeCompare
   - 踩坑
   - 纸板
