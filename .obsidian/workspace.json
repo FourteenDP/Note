@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/README.md",
+                "file": "lib/template/日志/季总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/README.md"
+                "file": "lib/template/日志/季总结.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/README.md",
+                "file": "lib/template/日志/季总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/README.md",
+                "file": "lib/template/日志/季总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +209,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "000e72a154be7e1f",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "日志/README.md",
     "lib/template/日志/周总结.md",
     "信箱/node 的 process.nextTick.md",
     "拾肆/个人/Me.md",
@@ -232,7 +232,6 @@
     "拾肆/个人/稳定的工作.md",
     "拾肆/个人/退烧药.md",
     "lib/template/日志/日总结.md",
-    "日志/README.md",
     "拾肆/个人/钱钱钱.md",
     "信箱/前端微服务.md",
     "lib/template/日志/季总结.md",
