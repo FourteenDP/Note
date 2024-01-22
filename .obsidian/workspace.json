@@ -11,12 +11,9 @@
             "id": "73fd89756eb3464c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "code-editor",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "lib/run/Obsidian目录生成.ts"
               }
             }
           }
@@ -79,6 +76,7 @@
       {
         "id": "bdaa332700573093",
         "type": "tabs",
+        "dimension": 58.90538033395176,
         "children": [
           {
             "id": "c5a46b66b690ff64",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "lib/run/uid.js"
               }
             }
           },
@@ -129,12 +127,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a612b30a8fa6aff7",
         "type": "tabs",
+        "dimension": 41.09461966604824,
         "children": [
           {
             "id": "61e44e295b788f53",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lib/run/uid.js",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "lib/run/uid.js",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,32 +199,34 @@
   },
   "active": "085664c0cbf141e9",
   "lastOpenFiles": [
-    "信箱/中介者模式 (Mediator).md",
-    "代码/观察者模式(Observer).ts",
-    "信箱/责任链模式 (Chain Of Responsibility).md",
-    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
-    "信箱/数据访问模式 (Data Access Object).md",
-    "信箱/模板方法模式 (Template Method).md",
-    "信箱/其它原则 (不属于 SOLID 的原则).md",
-    "信箱/链模式 (Chain Of Responsibility).md",
-    "信箱/委托模式 (Delegate).md",
-    "信箱/柯里化 (Currying) 与偏函数 (Partial Function).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
-    "信箱/命令模式 (Command).md",
-    "信箱/基本原则.md",
-    "信箱/五大原则 (SOLID).md",
-    "信箱/观察者模式 (Observer).md",
-    "信箱/非 GoF 设计模式.md",
-    "信箱/访问者模式 (Visitor).md",
+    "lib/run/Obsidian目录生成.ts",
+    "日志/README.md",
+    "日志/2024/2024-01-22.md",
+    "日志/2024",
+    "日志/2023/2023-12-10.md",
+    "日志/2023/2023-03-01.md",
+    "日志/2023/2023-03-04.md",
+    "日志/2023/2023-02-28.md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
-    "信箱/惰性模式 (Lazy Initialization).md",
-    "信箱/空对象模式 (Null Object).md",
-    "信箱/行为型模式 (11 种).md",
-    "信箱/防抖与节流模式 (Debounce & Throttle).md",
-    "信箱/等待者模式 (Waiter Pattern).md",
-    "信箱/备忘录模式 (Memento).md",
-    "信箱/解释器模式 (Interpreter).md",
-    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
+    "信箱/3.2 - 关键字与保留字.md",
+    "信箱/3.3- 变量.md",
+    "信箱/3.Class 与 Style 绑定.md",
+    "信箱/4.条件和列表渲染.md",
+    "信箱/6.监听器.md",
+    "信箱/7.模板引用.md",
+    "信箱/6.表单输入绑定.md",
+    "信箱/2.计算属性.md",
+    "信箱/1.ref 和 reactive 区别.md",
+    "信箱/2.4-noscript 元素.md",
+    "信箱/1.2-JavaScriptr 版本.md",
+    "信箱/1.1- 简单的历史回顾.md",
+    "信箱/✨知识社区.md",
+    "信箱/📚知识博客.md",
+    "README.md",
+    "信箱/CSS- 单位.md",
+    "信箱/责任链模式 (Chain Of Responsibility).md",
+    "信箱/Vue 自定义单击双击长按.md",
+    "代码/观察者模式(Observer).ts",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",
     "代码/Obsidian全屏iframe.html",

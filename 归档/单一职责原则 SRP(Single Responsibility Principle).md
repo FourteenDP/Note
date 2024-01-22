@@ -2,7 +2,7 @@
 标题: 单一职责原则 SRP(Single Responsibility Principle)
 描述: 
 封面: 
-uid: "20230507140131386"
+uid: 20230507140131384
 aliases: 
 tags:
   - 计算机/设计模式
