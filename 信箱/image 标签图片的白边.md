@@ -1,16 +1,13 @@
 ---
 标题: image 标签图片的白边
-描述: null
-封面: null
-uid: '20230507140131110'
-aliases: []
+描述: 
+封面: 
+uid: 20230507140131110
+aliases: 
 tags:
   - 计算机/前端/HTML
   - 计算机/前端/CSS
-  - Image
-  - 图片
-  - 标签
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:43
 ---

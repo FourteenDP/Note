@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/设计模式分类.md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/设计模式分类.md"
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/设计模式分类.md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/设计模式分类.md",
+                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +209,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9abf706c2a626af8",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
-    "信箱/等待者模式 (Waiter Pattern).md",
+    "信箱/备忘录模式 (Memento).md",
+    "信箱/image 标签图片的白边.md",
     "信箱/设计模式分类.md",
+    "信箱/等待者模式 (Waiter Pattern).md",
     "信箱/单例模式 (Singleton).md",
     "信箱/链模式 (Chain Of Responsibility).md",
     "信箱/代理模式 (Proxy).md",
@@ -236,8 +237,6 @@
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
-    "信箱/非 GoF 设计模式.md",
-    "信箱/委托模式 (Delegate).md",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
