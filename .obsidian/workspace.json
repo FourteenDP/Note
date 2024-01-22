@@ -11,9 +11,12 @@
             "id": "73fd89756eb3464c",
             "type": "leaf",
             "state": {
-              "type": "code-editor",
+              "type": "markdown",
               "state": {
-                "file": "lib/run/Obsidian目录生成.ts"
+                "file": "信箱/访问者模式 (Visitor).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -54,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/设计模式",
+                "query": "tag:#浏览器",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -63,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -84,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/run/uid.js"
+                "file": "信箱/访问者模式 (Visitor).md"
               }
             }
           },
@@ -95,7 +99,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -127,7 +131,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -148,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lib/run/uid.js",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lib/run/uid.js",
+                "file": "信箱/访问者模式 (Visitor).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,35 +202,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
-    "lib/run/Obsidian目录生成.ts",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "日志/README.md",
+    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
+    "采集/写给前端的编译原理科普.md",
+    "采集/Win10-VSCode - 添加至右键菜单.md",
+    "采集/setTimeout 和 setInterval，你们两位同学注意点时间~.md",
+    "采集/CSS 选择器优先级权重 - w3cschool 笔记.md",
+    "采集/在 WLS2 Debian 上安装.md",
+    "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
+    "采集/实施前端微服务化的六七种方式.md",
+    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
+    "信箱/Vue3 新增特性.md",
+    "信箱/命名规范.md",
+    "信箱/Vue3 生命周期.md",
+    "信箱/web 框架与 cocos 的结合.md",
+    "lib/run/Obsidian目录生成.ts",
+    "lib/run/uid.js",
     "日志/2024/2024-01-22.md",
     "日志/2024",
     "日志/2023/2023-12-10.md",
     "日志/2023/2023-03-01.md",
     "日志/2023/2023-03-04.md",
     "日志/2023/2023-02-28.md",
-    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/3.2 - 关键字与保留字.md",
     "信箱/3.3- 变量.md",
     "信箱/3.Class 与 Style 绑定.md",
-    "信箱/4.条件和列表渲染.md",
-    "信箱/6.监听器.md",
-    "信箱/7.模板引用.md",
-    "信箱/6.表单输入绑定.md",
-    "信箱/2.计算属性.md",
-    "信箱/1.ref 和 reactive 区别.md",
-    "信箱/2.4-noscript 元素.md",
-    "信箱/1.2-JavaScriptr 版本.md",
-    "信箱/1.1- 简单的历史回顾.md",
-    "信箱/✨知识社区.md",
-    "信箱/📚知识博客.md",
-    "README.md",
-    "信箱/CSS- 单位.md",
-    "信箱/责任链模式 (Chain Of Responsibility).md",
-    "信箱/Vue 自定义单击双击长按.md",
     "代码/观察者模式(Observer).ts",
     "代码/LRU算法.ts",
     "代码/工厂方法模式(Factory Method).ts",
