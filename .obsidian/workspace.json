@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3da95eeade098e84",
+        "id": "44530572ac47492f",
         "type": "tabs",
         "children": [
           {
-            "id": "73fd89756eb3464c",
+            "id": "a34e955419439cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/开源项目.md",
+                "file": "信箱/UniApp 生命周期.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#跨平台",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/开源项目.md"
+                "file": "信箱/UniApp 生命周期.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/开源项目.md",
+                "file": "信箱/UniApp 生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/开源项目.md",
+                "file": "信箱/UniApp 生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "ae59fc5b65293e5e",
   "lastOpenFiles": [
-    "信箱/开源设计素材.md",
     "信箱/开源项目.md",
+    "信箱/开源设计素材.md",
+    "信箱/开源 ERP 系统.md",
     "信箱/英语教程.md",
     "采集/在 WLS2 Debian 上安装.md",
     "信箱/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
@@ -229,7 +230,6 @@
     "信箱/Function.prototype.apply().md",
     "信箱/WSL 基本命令.md",
     "信箱/Neovim 的安装和配置.md",
-    "信箱/Linux 安装卸载 Rust.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",
