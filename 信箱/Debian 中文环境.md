@@ -5,7 +5,7 @@
 uid: '20230507140131240'
 aliases: []
 tags:
-  - Debian
+  - 计算机/Linux/Debian
   - 设置
   - 中文
 cssclasses: null

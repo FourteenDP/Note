@@ -8,8 +8,8 @@ tags:
   - 计算机/Linux
   - 命令行工具
   - 计算机/Linux/安装
-  - Zsh
-  - Oh My Zsh
+  - 计算机/Linux/Zsh
+  - Oh My 计算机/Linux/Zsh
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:35

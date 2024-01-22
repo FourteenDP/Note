@@ -7,7 +7,7 @@ aliases: []
 tags:
   - 计算机/Linux
   - Node
-  - 版本管理
+  - 计算机/开发/版本管理
   - 计算机/Linux/Nvm
 cssclasses: null
 创建时间: 2023-05-07 14:01:31

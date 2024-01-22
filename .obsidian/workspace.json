@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/String.prototype.localeCompare().md",
+                "file": "信箱/开源设计素材.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/前端/Vue3",
+                "query": "tag:#开源",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/String.prototype.localeCompare().md"
+                "file": "信箱/开源设计素材.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/String.prototype.localeCompare().md",
+                "file": "信箱/开源设计素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/String.prototype.localeCompare().md",
+                "file": "信箱/开源设计素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,34 +202,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "73fd89756eb3464c",
   "lastOpenFiles": [
+    "信箱/开源项目.md",
+    "信箱/开源设计素材.md",
+    "信箱/英语教程.md",
+    "采集/在 WLS2 Debian 上安装.md",
+    "信箱/分析 Vue2 中 Vue 与 VueComponent 的关系.md",
     "信箱/String.md",
-    "信箱/String.prototype.localeCompare().md",
+    "信箱/基本原则.md",
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/Windows 创建软连接.md",
+    "信箱/Windows 如何设置 WSL 开机启动并执行脚本以及向 Windows 桌面发送通知.md",
+    "信箱/Windows 终端设置代理.md",
+    "信箱/为什么使用 settimeout 实现 setinterval.md",
+    "信箱/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
+    "信箱/计算 setTimeout 和 setInterval 计时器的误差.md",
+    "信箱/1.ref 和 reactive 区别.md",
+    "信箱/7.模板引用.md",
+    "信箱/响应式语法糖 $ref.md",
+    "信箱/Lambda 表达式.md",
+    "信箱/C#和.NET 关系.md",
+    "信箱/弱类型、强类型、动态类型、静态类型语言.md",
+    "信箱/String.prototype.localeCompare().md",
     "信箱/Promise.all().md",
     "信箱/Function.prototype.apply().md",
     "信箱/WSL 基本命令.md",
     "信箱/Neovim 的安装和配置.md",
     "信箱/Linux 安装卸载 Rust.md",
-    "信箱/Linux 安装命令行工具 Oh My Zsh.md",
-    "采集/在 WLS2 Debian 上安装.md",
-    "信箱/1.2-JavaScriptr 版本.md",
-    "信箱/3.1- 语法.md",
-    "信箱/3.2 - 关键字与保留字.md",
-    "信箱/3.3- 变量.md",
-    "信箱/1.1- 简单的历史回顾.md",
-    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
-    "信箱/开闭原则 OCP(Open Close Principle).md",
-    "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
-    "信箱/基本原则.md",
-    "信箱/迪米特法则 LOD(Law of Demeter).md",
-    "信箱/访问者模式 (Visitor).md",
-    "信箱/前端推荐书籍.md",
-    "信箱/解释器模式 (Interpreter).md",
-    "信箱/迭代器模式 (Iterator).md",
-    "信箱/策略模式 (Strategy).md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",

@@ -6,15 +6,15 @@ uid: '20230507140131243'
 aliases: []
 tags:
   - 计算机/Linux
-  - 常用工具
+  - 计算机/Linux/常用工具
   - Vim
-  - Neovim
+  - 计算机/Linux/Neovim
   - 计算机/技术/Git
   - Wget
   - Curl
   - Axel
   - 计算机/Linux/Nvm
-  - Zsh
+  - 计算机/Linux/Zsh
   - ZeroTier
   - Openssh-server
   - fzf

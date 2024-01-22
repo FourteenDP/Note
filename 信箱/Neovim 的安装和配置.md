@@ -5,10 +5,10 @@
 uid: '20230507140131253'
 aliases: []
 tags:
-  - Neovim
+  - 计算机/Linux/Neovim
   - 计算机/Linux/安装
   - 配置
-  - Debian
+  - 计算机/Linux/Debian
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:34

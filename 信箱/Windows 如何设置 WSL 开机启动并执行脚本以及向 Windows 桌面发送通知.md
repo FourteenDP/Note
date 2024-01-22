@@ -5,7 +5,7 @@
 uid: '20230520233058193'
 aliases: []
 tags:
-  - Windows
+  - 计算机/Windows
   - 计算机/Linux/WSL
   - 开机启动
   - 执行脚本

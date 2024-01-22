@@ -5,7 +5,7 @@
 uid: '20230507140131265'
 aliases: []
 tags:
-  - Windows
+  - 计算机/Windows
   - 终端
   - 设置代理
   - 临时代理
