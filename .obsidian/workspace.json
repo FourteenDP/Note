@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "面试题",
+                "query": "tag:#KM01-中国近现代史纲要",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,7 +250,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ae59fc5b65293e5e",
+  "active": "3052b806e18b9457",
   "lastOpenFiles": [
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
     "自考/资料/KM01-中国近现代史纲要/00-中国近现代史相关视频/中国近代史相关视频索引.md",
