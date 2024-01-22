@@ -1,15 +1,13 @@
 ---
 标题: void 和 never 区别
-描述: null
-封面: null
-uid: '20230507140132498'
-aliases: []
+描述: 
+封面: 
+uid: "20230507140132498"
+aliases: 
 tags:
   - 计算机/语言
   - 计算机/语言/TypeScript
-  - void
-  - never
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07 14:01:32
 更新时间: 2023-12-31 03:07:34
 ---

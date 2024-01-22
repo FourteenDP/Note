@@ -1,17 +1,15 @@
 ---
 标题: Pinia 与 Vuex
-描述: null
-封面: null
-uid: '20230507140131160'
-aliases: []
+描述: 
+封面: 
+uid: "20230507140131160"
+aliases: 
 tags:
   - 计算机/前端/Vue
   - 计算机/前端/Vue3
-  - Vuex
-  - Pinia
-  - 状态管理
   - 计算机/前端/JavaScript
-cssclasses: null
+  - 计算机/前端/状态管理
+cssclasses: 
 创建时间: 2023-05-07 14:01:31
 更新时间: 2023-12-31 03:07:34
 ---

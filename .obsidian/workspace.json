@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/UniApp 和 WebView 双向通信.md",
+                "file": "信箱/工程化.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WebView",
+                "query": "tag:#计算机/Linux",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -75,11 +75,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "fc281553ae42aec0",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/UniApp 和 WebView 双向通信.md"
+                "file": "信箱/工程化.md"
               }
             }
           },
@@ -107,7 +107,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/UniApp 和 WebView 双向通信.md",
+                "file": "信箱/工程化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/UniApp 和 WebView 双向通信.md",
+                "file": "信箱/工程化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,17 @@
   },
   "active": "a34e955419439cc8",
   "lastOpenFiles": [
+    "信箱/如何给 node_module 下的库打补丁.md",
+    "信箱/工程化.md",
+    "信箱/工程化之 GIt 提交自动转换行尾字符 GitAttributes.md",
+    "信箱/项目工程化.md",
+    "信箱/使用 vite 搭建 vue3 项目.md",
+    "信箱/通过 CLI 构建 UniApp 项目.md",
+    "信箱/工程化之忽略文件 GitIgnore 和提交空目录 GitKeep.md",
+    "信箱/void 和 never 区别.md",
+    "信箱/Pinia 与 Vuex.md",
+    "信箱/uniapp 和 flutter 通信相关资料.md",
+    "信箱/UniApp 和 WebView 双向通信.md",
     "信箱/Flutter 开源项目.md",
     "信箱/Vue 路由 Keep-alive 实现原理.md",
     "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
@@ -219,17 +230,6 @@
     "采集/写给前端的编译原理科普.md",
     "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
     "采集/实施前端微服务化的六七种方式.md",
-    "采集/你肯定用过这八种设计模式，面试官问起不要没话讲啦！.md",
-    "采集/花了一天的时间，地板式扫盲了 Vue3 所有 API 盲点.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
-    "信箱/XR.md",
-    "信箱/Linux 常用工具.md",
-    "信箱/图形渲染引擎.md",
-    "未命名.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/2012-/2012/实现中华民族伟大复兴是中华民族近代以来最伟大的梦想.md",
-    "拾肆/个人/发简历常用语.md",
-    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/《民报》发刊词.md",
-    "信箱/前端工作笔记.md",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",

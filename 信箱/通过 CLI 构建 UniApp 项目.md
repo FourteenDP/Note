@@ -1,17 +1,14 @@
 ---
 标题: 通过 CLI 构建 UniApp 项目
-描述: null
-封面: null
-uid: '20230514104009204'
-aliases: []
+描述: 
+封面: 
+uid: "20230514104009204"
+aliases: 
 tags:
-  - CLI
   - 计算机/前端/UniApp
-  - 项目构建
-  - Vue2
   - 计算机/前端/Vue3
   - 计算机/工程化/npm
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-14 10:40:09
 更新时间: 2023-12-31 03:07:31
 ---
