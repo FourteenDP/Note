@@ -7,7 +7,7 @@ aliases: []
 tags: []
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 03:07:33
+更新时间: 2024-01-22 16:57:36
 ---
 
 # 单例模式 (Singleton)
@@ -26,6 +26,7 @@ cssclasses: null
     - 双重检查锁定：在第一次调用时实例化，在多线程环境下能保持高性能
 
 ![[Pasted image 20230302212615.png]]
+
 ```preview
 path: /代码/单例模式(Singleton).ts
 ```

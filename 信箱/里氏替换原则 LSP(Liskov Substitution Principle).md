@@ -11,7 +11,7 @@ tags:
   - 里氏替换原则 LSP(Liskov Substitution Principle)
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 03:07:31
+更新时间: 2024-01-22 16:57:29
 ---
 
 # 里氏替换原则 LSP(Liskov Substitution Principle)

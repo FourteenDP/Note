@@ -3,7 +3,7 @@
 描述: ""
 封面: 
 uid: "20231231000548229"
-aliases: 
+aliases: []
 tags:
   - 采集
 cssclasses: 
@@ -11,7 +11,7 @@ cssclasses:
 域名: bcxiaobai1.github.io
 原文链接: https://bcxiaobai1.github.io/posts/2b69b7fb8e0cd0685d4e00efb81b627b/
 创建时间: 2023-12-31 00:05:48
-更新时间: 2023-12-31 03:06:59
+更新时间: 2024-01-22 16:56:21
 ---
 
 # 各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白
@@ -47,5 +47,3 @@ DirectX 是 Direct eXtension 由微软开发，是许多种 API 的集合体，�
 最后为大家献上一张图，把上面介绍的关系说清楚
 
 ![](https://images2.imgbox.com/a6/99/xf7pEQrP_o.png)
-
-

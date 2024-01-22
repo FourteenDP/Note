@@ -3,7 +3,7 @@
 描述: 
 封面: 
 uid: 20230520233058196
-aliases: 
+aliases: []
 tags:
   - 采集
 cssclasses: 
@@ -11,7 +11,7 @@ cssclasses:
 域名: juejin.cn
 原文链接: https://juejin.cn/post/7028823525125259272
 创建时间: 2023-05-20 23:30:58
-更新时间: 2023-12-31 03:07:00
+更新时间: 2024-01-22 16:56:22
 ---
 
 # Win10-VSCode - 添加至右键菜单
@@ -72,5 +72,3 @@ Windows Registry Editor Version 5.00
 
 
 ```
-
-

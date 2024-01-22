@@ -10,7 +10,7 @@ tags:
   - 其它原则(不属于SOLID的原则)
 cssclasses: null
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 03:07:35
+更新时间: 2024-01-22 16:57:42
 ---
 
 # KISS 原则 (Keep It Simple and Stupid)

@@ -3,7 +3,7 @@
 描述: 
 封面: 
 uid: 20230507140131256
-aliases: 
+aliases: []
 tags:
   - 计算机/Linux/WSL
   - 基本命令
@@ -11,7 +11,7 @@ tags:
   - Linux发行版
 cssclasses: 
 创建时间: 2023-05-07 14:01:31
-更新时间: 2023-12-31 03:07:34
+更新时间: 2024-01-22 16:57:39
 ---
 
 以下 WSL 命令以 PowerShell 或 Windows 命令提示符支持的格式列出。若要通过 Bash/Linux 发行版命令行运行这些命令，必须将 `wsl` 替换为 `wsl.exe`。
