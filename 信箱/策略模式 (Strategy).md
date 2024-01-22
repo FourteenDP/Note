@@ -6,7 +6,7 @@ uid: '20230507140131332'
 aliases: []
 tags:
   - 计算机/设计模式
-  - GoF设计模式
+  - 计算机/设计模式/GoF设计模式
   - 行为型模式
   - 策略模式
 cssclasses: null
