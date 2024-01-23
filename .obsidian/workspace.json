@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md"
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,34 +210,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "9abf706c2a626af8",
   "lastOpenFiles": [
-    "信箱/备忘录模式 (Memento).md",
-    "信箱/image 标签图片的白边.md",
-    "信箱/设计模式分类.md",
-    "信箱/等待者模式 (Waiter Pattern).md",
-    "信箱/单例模式 (Singleton).md",
-    "信箱/链模式 (Chain Of Responsibility).md",
-    "信箱/代理模式 (Proxy).md",
-    "信箱/防抖与节流模式 (Debounce & Throttle).md",
-    "信箱/空对象模式 (Null Object).md",
-    "信箱/GoF 的 23 种设计模式.md",
-    "信箱/命令模式 (Command).md",
-    "信箱/抽象工厂模式 (Abstract Factory).md",
-    "信箱/创建型模式 (5 种).md",
-    "信箱/工厂方法模式 (Factory Method).md",
-    "信箱/DRY 原则 (Don't Repeat Yourself).md",
-    "信箱/其它原则 (不属于 SOLID 的原则).md",
-    "信箱/YAGNI 原则 (You Ain't Gonna Need It).md",
-    "信箱/KISS 原则 (Keep It Simple and Stupid).md",
-    "信箱/迪米特法则 LOD(Law of Demeter).md",
-    "信箱/基本原则.md",
-    "信箱/五大原则 (SOLID).md",
-    "信箱/里氏替换原则 LSP(Liskov Substitution Principle).md",
-    "信箱/开闭原则 OCP(Open Close Principle).md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/猛回头.md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+    "信箱/行为型模式 (11 种).md",
+    "信箱/五大原则 (SOLID).md",
+    "信箱/链模式 (Chain Of Responsibility).md",
+    "信箱/空对象模式 (Null Object).md",
+    "信箱/开闭原则 OCP(Open Close Principle).md",
     "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
-    "信箱/依赖倒转原则 DIP(Dependence Inversion Principle).md",
+    "信箱/基本原则.md",
+    "信箱/观察者模式 (Observer).md",
+    "信箱/非 GoF 设计模式.md",
+    "信箱/访问者模式 (Visitor).md",
+    "信箱/单一职责原则 SRP(Single Responsibility Principle).md",
+    "归档/设计模式/观察者模式 (Observer).md",
+    "归档/设计模式/访问者模式 (Visitor).md",
+    "归档/设计模式/非 GoF 设计模式.md",
+    "归档/设计模式/基本原则.md",
+    "归档/设计模式/空对象模式 (Null Object).md",
+    "归档/设计模式/链模式 (Chain Of Responsibility).md",
+    "归档/设计模式/行为型模式 (11 种).md",
+    "归档/设计模式/开闭原则 OCP(Open Close Principle).md",
+    "归档/设计模式/五大原则 (SOLID).md",
+    "归档/设计模式",
+    "信箱/3.1- 语法.md",
+    "信箱/备忘录模式 (Memento).md",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
@@ -245,7 +247,6 @@
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
     "日志/2024",
-    "代码/观察者模式(Observer).ts",
-    "代码/LRU算法.ts"
+    "代码/观察者模式(Observer).ts"
   ]
 }
