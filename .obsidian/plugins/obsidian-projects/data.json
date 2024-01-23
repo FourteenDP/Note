@@ -52,7 +52,7 @@
             "criteria": [
               {
                 "field": "uid",
-                "order": "desc",
+                "order": "asc",
                 "enabled": true
               }
             ]

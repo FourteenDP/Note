@@ -207,8 +207,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "a081a4bed2dee0dc",
   "lastOpenFiles": [
+    "采集/坑：ssh： connect to host github-com port 22： Connection refused.md",
+    "未整理/Lambda 表达式.md",
     "日志/2024/2024-01-22.md",
     "日志/2024/2024-01-23.md",
     "日志/2024",
@@ -235,7 +237,6 @@
     "未整理/弱类型、强类型、动态类型、静态类型语言.md",
     "未整理/📚知识博客.md",
     "未整理/1.ref 和 reactive 区别.md",
-    "未整理/1.1- 简单的历史回顾.md",
     "归档",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
@@ -250,7 +251,6 @@
     "assets/svg",
     "assets/image",
     "assets",
-    "采集/坑：ssh： connect to host github-com port 22： Connection refused.md",
     "归档",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
