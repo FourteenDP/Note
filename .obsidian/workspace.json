@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4888bacc27270480",
+        "id": "5df71044aa6e4de7",
         "type": "tabs",
         "children": [
           {
-            "id": "9abf706c2a626af8",
+            "id": "c2cb1ea936473d5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -57,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/设计模式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,12 +200,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9abf706c2a626af8",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1949-1976/炮打司令部——我的一张大字报.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/猛回头.md",
-    "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "信箱/行为型模式 (11 种).md",
     "信箱/五大原则 (SOLID).md",
     "信箱/链模式 (Chain Of Responsibility).md",
@@ -238,7 +229,6 @@
     "归档/设计模式/五大原则 (SOLID).md",
     "归档/设计模式",
     "信箱/3.1- 语法.md",
-    "信箱/备忘录模式 (Memento).md",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
