@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/VIM速查.md",
+                "file": "信箱/社区&博客.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/VIM速查.md"
+                "file": "信箱/社区&博客.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/VIM速查.md",
+                "file": "信箱/社区&博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/VIM速查.md",
+                "file": "信箱/社区&博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ab6fdf56ed8c90c",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "信箱/VIM速查.md",
     "信箱/社区&博客.md",
     "未整理/弱类型、强类型、动态类型、静态类型语言.md",
     "未整理/📚知识博客.md",
@@ -258,7 +259,6 @@
     "原/Linux 开发环境配置.md",
     "原/YAGNI 原则 (You Ain't Gonna Need It).md",
     "原/截图.md",
-    "原/开源项目.md",
     "日志/2024",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
