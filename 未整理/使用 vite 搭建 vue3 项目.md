@@ -1,7 +1,7 @@
 ---
 标题: 使用 vite 搭建 vue3 项目
-描述: 
-封面: 
+描述:
+封面:
 uid: "20230507140131167"
 aliases: []
 tags:
@@ -10,7 +10,7 @@ tags:
   - 计算机/前端/JavaScript
   - 计算机/语言/TypeScript
   - 计算机/前端/工程化
-cssclasses: 
+cssclasses:
 发布链接:
   - https://juejin.cn/post/7231016319863521337
 创建时间: 2023-05-07 14:01:31

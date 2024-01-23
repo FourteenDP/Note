@@ -1,12 +1,12 @@
 ---
 标题: 里氏替换原则 LSP(Liskov Substitution Principle)
-描述: 
-封面: 
-uid: 20230507140131492
-aliases: 
+描述:
+封面:
+uid: 20,230,507,140,131,492
+aliases:
 tags:
   - 计算机/设计模式/基本原则/五大原则SOLID
-cssclasses: 
+cssclasses:
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:29
 ---

@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "信箱",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "tags": {
+                "width": 514
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d7e5b217-35e1-4ac6-b60b-4cbfea2452f6",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e7cc4838-3f45-4390-b3ef-bf5f5ac2872e",
+          "name": "日历",
+          "type": "calendar"
+        }
+      ],
+      "id": "fdd558b7-e566-4c0c-a15a-3cc689ab5bcb",
+      "name": "项目管理"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

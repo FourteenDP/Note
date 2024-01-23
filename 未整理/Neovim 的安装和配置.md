@@ -1,15 +1,15 @@
 ---
 标题: Neovim 的安装和配置
-描述: null
-封面: null
-uid: '20230507140131253'
+描述:
+封面:
+uid: "20230507140131253"
 aliases: []
 tags:
   - 计算机/Linux/Neovim
   - 计算机/Linux/安装
   - 计算机/Linux/配置
   - 计算机/Linux/Debian
-cssclasses: null
+cssclasses:
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:42
 ---

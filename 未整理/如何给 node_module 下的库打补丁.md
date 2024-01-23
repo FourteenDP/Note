@@ -1,8 +1,8 @@
 ---
 标题: 如何给 node_module 下的库打补丁
-描述: null
-封面: null
-uid: '20230507140131233'
+描述:
+封面:
+uid: "20230507140131233"
 aliases: []
 tags:
   - node_module
@@ -12,7 +12,7 @@ tags:
   - 计算机/前端/yarn
   - 计算机/前端/yarn
   - patch
-cssclasses: null
+cssclasses:
 发布链接:
   - https://juejin.cn/post/7209245221887885372
 创建时间: 2023-05-07 14:01:31

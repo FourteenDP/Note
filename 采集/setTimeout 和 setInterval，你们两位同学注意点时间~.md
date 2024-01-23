@@ -1,11 +1,11 @@
 ---
 标题: setTimeout 和 setInterval，你们两位同学注意点时间~
-描述: 
-封面: 
-uid: 20230507140133652
-aliases: 
+描述:
+封面:
+uid: 20,230,507,140,133,652
+aliases:
 tags: []
-cssclasses: 
+cssclasses:
 作者: juejin.cn
 域名: juejin.cn
 原文链接: https://juejin.cn/post/7028823525125259272

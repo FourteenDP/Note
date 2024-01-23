@@ -1,12 +1,12 @@
 ---
 标题: 链模式 (Chain Of Responsibility)
-描述: 
-封面: 
-uid: 20230507140131760
-aliases: 
+描述:
+封面:
+uid: 20,230,507,140,131,760
+aliases:
 tags:
   - 计算机/设计模式/非GoF设计模式
-cssclasses: 
+cssclasses:
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:29
 ---

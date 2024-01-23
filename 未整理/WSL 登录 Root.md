@@ -1,14 +1,14 @@
 ---
 标题: WSL 登录 Root
-描述: null
-封面: null
-uid: 20230507140131254
+描述:
+封面:
+uid: 20,230,507,140,131,256
 aliases: []
 tags:
   - 计算机/Linux/WSL
   - 登录
   - Root
-cssclasses: null
+cssclasses:
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 19:02:53
 ---

@@ -1,12 +1,12 @@
 ---
 标题: 依赖倒转原则 DIP(Dependence Inversion Principle)
-描述: 
-封面: 
-uid: 20230507140131384
-aliases: 
+描述:
+封面:
+uid: 20,230,507,140,131,384
+aliases:
 tags:
   - 计算机/设计模式/基本原则/五大原则SOLID
-cssclasses: 
+cssclasses:
 创建时间: 2023-05-07 14:01:31
 更新时间: 2024-01-22 16:57:36
 ---
