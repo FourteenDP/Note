@@ -21,8 +21,26 @@
             "fieldConfig": {
               "tags": {
                 "width": 514
+              },
+              "name": {
+                "hide": false
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "uid",
+              "path",
+              "标题",
+              "创建时间",
+              "发布链接",
+              "更新时间",
+              "描述",
+              "域名",
+              "原文链接",
+              "作者",
+              "aliases",
+              "tags"
+            ]
           },
           "filter": {
             "conditions": []
@@ -31,28 +49,17 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "uid",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "d7e5b217-35e1-4ac6-b60b-4cbfea2452f6",
           "name": "表格",
           "type": "table"
-        },
-        {
-          "config": {
-            "interval": "month"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "e7cc4838-3f45-4390-b3ef-bf5f5ac2872e",
-          "name": "日历",
-          "type": "calendar"
         }
       ],
       "id": "fdd558b7-e566-4c0c-a15a-3cc689ab5bcb",
