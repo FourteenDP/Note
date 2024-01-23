@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/2.计算属性.md",
+                "file": "信箱/2.4-noscript 元素.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,6 +32,7 @@
       {
         "id": "273e4b23c1b43640",
         "type": "tabs",
+        "dimension": 68.18181818181817,
         "children": [
           {
             "id": "085664c0cbf141e9",
@@ -83,6 +84,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "4c1689b1981a8e4d",
+        "type": "tabs",
+        "dimension": 31.818181818181817,
+        "children": [
+          {
+            "id": "61e44e295b788f53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/2.计算属性.md"
+                "file": "信箱/2.4-noscript 元素.md"
               }
             }
           },
@@ -138,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -147,20 +162,12 @@
         "dimension": 41.09461966604824,
         "children": [
           {
-            "id": "61e44e295b788f53",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "24819b3b2407bc34",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/2.计算属性.md",
+                "file": "信箱/2.4-noscript 元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,14 +184,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/2.计算属性.md",
+                "file": "信箱/2.4-noscript 元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,7 +217,11 @@
   },
   "active": "7ab6fdf56ed8c90c",
   "lastOpenFiles": [
+    "日志/2024/2024-01-23.md",
     "信箱/2.4-noscript 元素.md",
+    "日志/2024",
+    "信箱/2.计算属性.md",
+    "信箱/7.模板引用.md",
     "信箱/1.2-JavaScriptr 版本.md",
     "信箱/any 和 unknown 的区别.md",
     "信箱/开源项目.md",
@@ -234,9 +244,6 @@
     "信箱/开闭原则 OCP(Open Close Principle).md",
     "信箱/接口隔离原则 ISP(Interface Segregation Principle).md",
     "信箱/基本原则.md",
-    "信箱/观察者模式 (Observer).md",
-    "信箱/非 GoF 设计模式.md",
-    "信箱/访问者模式 (Visitor).md",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
@@ -245,7 +252,6 @@
     "自考/资料/KM01-中国近现代史纲要/03-PDF-中国近现代史纲要思维导图/中国近现代史纲要思维导图.pdf",
     "lib/run/Obsidian目录生成.ts",
     "lib/run/uid.js",
-    "日志/2024",
     "代码/观察者模式(Observer).ts"
   ]
 }
