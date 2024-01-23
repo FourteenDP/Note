@@ -3,9 +3,8 @@
 描述: CSS 的选择器是必学内容，多种选择器都有各自的用法，本篇文章来为您介绍选择器的优先级。
 封面: 
 uid: 20231231001913180
-aliases: []
-tags:
-  - 采集
+aliases: 
+tags: []
 cssclasses: 
 作者: w3cschool.cn
 域名: www.w3cschool.cn
