@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未整理/✨知识社区.md",
+                "file": "信箱/VIM速查.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/✨知识社区.md"
+                "file": "信箱/VIM速查.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/✨知识社区.md",
+                "file": "信箱/VIM速查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/✨知识社区.md",
+                "file": "信箱/VIM速查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +218,9 @@
   },
   "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "信箱/社区&博客.md",
+    "未整理/弱类型、强类型、动态类型、静态类型语言.md",
     "未整理/📚知识博客.md",
-    "未整理/✨知识社区.md",
     "未整理/1.ref 和 reactive 区别.md",
     "未整理/1.2-JavaScriptr 版本.md",
     "未整理/1.1- 简单的历史回顾.md",
@@ -258,7 +259,6 @@
     "原/YAGNI 原则 (You Ain't Gonna Need It).md",
     "原/截图.md",
     "原/开源项目.md",
-    "原/8.组件基础.md",
     "日志/2024",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
