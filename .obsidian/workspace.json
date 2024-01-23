@@ -11,8 +11,13 @@
             "id": "c2cb1ea936473d5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md"
+              }
             }
           },
           {
@@ -153,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +211,12 @@
   },
   "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01- 鸦片战争前的中国.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02- 鸦片战争前的世界.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
+    "自考/KM01-中国近现代史纲要/中国近现代史纲要.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
     "归档/单一职责原则 SRP(Single Responsibility Principle).md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/抗日战争时期/新民主主义论.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1989-2002/爱国主义和我国知识分子的使命.md",
@@ -222,13 +237,7 @@
     "归档/设计模式/访问者模式 (Visitor).md",
     "归档/设计模式/非 GoF 设计模式.md",
     "归档/设计模式/基本原则.md",
-    "归档/设计模式/空对象模式 (Null Object).md",
-    "归档/设计模式/链模式 (Chain Of Responsibility).md",
-    "归档/设计模式/行为型模式 (11 种).md",
-    "归档/设计模式/开闭原则 OCP(Open Close Principle).md",
-    "归档/设计模式/五大原则 (SOLID).md",
     "归档/设计模式",
-    "信箱/3.1- 语法.md",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
     "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
