@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5df71044aa6e4de7",
+        "id": "3953a924b24cd809",
         "type": "tabs",
         "children": [
           {
-            "id": "c2cb1ea936473d5c",
+            "id": "7ab6fdf56ed8c90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+                "file": "信箱/2.计算属性.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md"
+                "file": "信箱/2.计算属性.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+                "file": "信箱/2.计算属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
+                "file": "信箱/2.计算属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 799.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +209,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "7ab6fdf56ed8c90c",
   "lastOpenFiles": [
+    "信箱/2.4-noscript 元素.md",
+    "信箱/1.2-JavaScriptr 版本.md",
+    "信箱/any 和 unknown 的区别.md",
+    "信箱/开源项目.md",
+    "信箱/代码生成.md",
+    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/01- 鸦片战争前的中国.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/02- 鸦片战争前的世界.md",
-    "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/《四洲志》.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/清朝最后一个封建王朝.md",
     "自考/KM01-中国近现代史纲要/中国近现代史纲要.md",
     "自考/KM01-中国近现代史纲要/Z01-反对外国侵略斗争/J01-鸦片战争前/英国资产阶级革命.md",
@@ -232,11 +237,6 @@
     "信箱/观察者模式 (Observer).md",
     "信箱/非 GoF 设计模式.md",
     "信箱/访问者模式 (Visitor).md",
-    "信箱/单一职责原则 SRP(Single Responsibility Principle).md",
-    "归档/设计模式/观察者模式 (Observer).md",
-    "归档/设计模式/访问者模式 (Visitor).md",
-    "归档/设计模式/非 GoF 设计模式.md",
-    "归档/设计模式/基本原则.md",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
