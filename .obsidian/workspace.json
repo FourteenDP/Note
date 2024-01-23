@@ -11,8 +11,13 @@
             "id": "7ab6fdf56ed8c90c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未整理/✨知识社区.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -97,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 282.5
   },
   "right": {
     "id": "fc281553ae42aec0",
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未整理/✨知识社区.md"
+              }
             }
           },
           {
@@ -161,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未整理/✨知识社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未整理/✨知识社区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +218,12 @@
   },
   "active": "7ab6fdf56ed8c90c",
   "lastOpenFiles": [
+    "未整理/1.2-JavaScriptr 版本.md",
+    "未整理/📚知识博客.md",
+    "未整理/1.1- 简单的历史回顾.md",
+    "未整理/✨知识社区.md",
+    "README.md",
+    "归档",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
     "assets/image/分析Vue2中的Vue与VueComponent的关系.png",
@@ -219,11 +234,9 @@
     "assets/image/Pasted image 20230520220103.png",
     "assets/image/Pasted image 20230508183251.png",
     "assets/image/Pasted image 20230520213714.png",
-    "assets/image/Pasted image 20230519231046.png",
     "assets/svg",
     "assets/image",
     "assets",
-    "README.md",
     "采集/坑：ssh： connect to host github-com port 22： Connection refused.md",
     "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
     "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
@@ -246,14 +259,10 @@
     "原/开源项目.md",
     "原/8.组件基础.md",
     "原/2.4-noscript 元素.md",
-    "原/✨知识社区.md",
-    "日志/2024/2024-01-23.md",
     "日志/2024",
-    "原/2.计算属性.md",
     "归档/设计模式",
     "拾肆/个人/1.m4a",
     "自考/押密/马克思主义基本原理概论.pdf",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf",
-    "自考/押密/国际商务与国际营销.pdf"
+    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论.pdf"
   ]
 }
