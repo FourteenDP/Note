@@ -43,19 +43,19 @@
             ]
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": []
           },
           "sort": {
-            "criteria": [
-              {
-                "field": "uid",
-                "order": "asc",
-                "enabled": true
-              }
-            ]
+            "criteria": []
           },
           "id": "d7e5b217-35e1-4ac6-b60b-4cbfea2452f6",
           "name": "表格",
