@@ -11,12 +11,9 @@
             "id": "566626c04f954af4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "拾肆/个人/防脱生发.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "拾肆/个人/惠州市技师学院-毕业证.pdf"
               }
             }
           }
@@ -83,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/防脱生发.md"
+                "file": "拾肆/个人/惠州市技师学院-毕业证.pdf"
               }
             }
           },
@@ -169,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/防脱生发.md",
+                "file": "拾肆/个人/惠州市技师学院-毕业证.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/防脱生发.md",
+                "file": "拾肆/个人/惠州市技师学院-毕业证.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,16 +214,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "拾肆/个人/面试题-客服平台前端 -外包笔试题 (4)(2)(1)(1).pdf",
+    "拾肆/个人/惠州市技师学院-毕业证.pdf",
+    "拾肆/个人/基本自我介绍.md",
+    "拾肆/个人/简历/简历模板.pdf",
+    "拾肆/个人/简历/简历个人意见.pdf",
+    "拾肆/医疗/退烧药.md",
+    "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
+    "拾肆/医疗/防脱生发.md",
+    "拾肆/医疗",
     "拾肆/个人/小孩子涨高.md",
-    "拾肆/个人/防脱生发.md",
     "拾肆/个人/简历/简历待办.md",
     "拾肆/个人/简历/发简历常用语.md",
     "拾肆/个人/兴趣.md",
-    "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
     "拾肆/个人/简历/邓智鹏 - 前端工程师.pdf",
-    "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "未整理/面试录音.m4a",
     "拾肆/个人/~$前端 历时1个月收获7个offer.docx",
     "未整理/面试录音1.m4a",
@@ -236,9 +238,6 @@
     "未整理/Linux 目录结构和作用.md",
     "lib/Template/日志/周总结.md",
     "代码/虚拟列表.html",
-    "代码/Obsidian全屏iframe.html",
-    "代码/call、apply、bind手写.js",
-    "代码/优雅的错误捕获处理.ts",
     "拾肆/个人/JavaScript 面试精讲.md",
     "lib/Template/日志/日总结.md",
     "未整理/2022面试题总结/3、JS 高级面试题.md",
@@ -253,9 +252,6 @@
     "未整理/2022面试题总结/9、web 前端面试宝典.md",
     "未整理/2022面试题总结/7、项目中的问题.md",
     "未整理/2022面试题总结/6、git 及 webpack 及 react 及小程序的问题.md",
-    "未整理/2022面试题总结/5、Vue 面试题.md",
-    "未整理/2022面试题总结/4、ES6 面试题.md",
-    "未整理/2022面试题总结/2、JS+JQ 面试题.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",

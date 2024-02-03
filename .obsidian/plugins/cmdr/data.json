@@ -9,6 +9,12 @@
       "icon": "lint-folder",
       "name": "Linter: 格式化文件夹中的所有文件",
       "mode": "any"
+    },
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "将文件移动到其他文件夹",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],
