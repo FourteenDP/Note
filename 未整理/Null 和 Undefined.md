@@ -2,17 +2,17 @@
 标题: Null 和 Undefined
 描述: null
 封面: null
-uid: '20230507140132107'
+uid: 20240123112806996
 aliases: []
 tags:
   - 计算机/技术
   - 计算机/语言
   - 计算机/前端/JavaScript
-  - "Null"
+  - 'Null'
   - Undefined
 cssclasses: null
-创建时间: 2023-05-07 14:01:32
-更新时间: 2024-01-22 16:57:42
+创建时间: 2023-05-07T14:01:32.000Z
+更新时间: 2024-01-22T16:57:42.000Z
 ---
 
 # Null 和 Undefined

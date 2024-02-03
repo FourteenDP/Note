@@ -1,14 +1,14 @@
 ---
 标题: 柯里化 (Currying) 与偏函数 (Partial Function)
-描述:
-封面:
-uid: 20,230,507,140,131,760
-aliases:
+描述: null
+封面: null
+uid: 20240123112807436
+aliases: null
 tags:
   - 计算机/设计模式/非GoF设计模式
-cssclasses:
-创建时间: 2023-05-07 14:01:31
-更新时间: 2024-01-22 16:57:31
+cssclasses: null
+创建时间: 2023-05-07T14:01:31.000Z
+更新时间: 2024-01-22T16:57:31.000Z
 ---
 
 # 柯里化 (Currying) 与偏函数 (Partial Function)

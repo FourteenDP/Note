@@ -1,15 +1,15 @@
 ---
 标题: 计算 setTimeout 和 setInterval 计时器的误差
-描述:
-封面:
-uid: "20230507140131129"
+描述: null
+封面: null
+uid: 20240123112807464
 aliases: []
 tags:
   - 计算机/前端/JavaScript
   - 计算机/前端/事件队列
-cssclasses:
-创建时间: 2023-05-07 14:01:31
-更新时间: 2024-01-22 16:57:30
+cssclasses: null
+创建时间: 2023-05-07T14:01:31.000Z
+更新时间: 2024-01-22T16:57:30.000Z
 ---
 
 # 计算 setTimeout 和 setInterval 计时器的误差

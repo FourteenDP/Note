@@ -1,16 +1,16 @@
 ---
 标题: setTimeout 和 setInterval，你们两位同学注意点时间~
-描述:
-封面:
-uid: 20,230,507,140,133,652
-aliases:
+描述: null
+封面: null
+uid: 20240123112809260
+aliases: null
 tags: []
-cssclasses:
+cssclasses: null
 作者: juejin.cn
 域名: juejin.cn
-原文链接: https://juejin.cn/post/7028823525125259272
-创建时间: 2023-05-07 14:01:33
-更新时间: 2024-01-22 16:56:22
+原文链接: 'https://juejin.cn/post/7028823525125259272'
+创建时间: 2023-05-07T14:01:33.000Z
+更新时间: 2024-01-22T16:56:22.000Z
 ---
 
 # Win10-VSCode - 添加至右键菜单

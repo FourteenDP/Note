@@ -1,15 +1,15 @@
 ---
 标题: 在 WLS2 Debian 上安装
-描述: 
-封面: 
-uid: 20230830145145900
+描述: null
+封面: null
+uid: 20240123112809280
 aliases:
   - 在 WLS2 Debian 上安装 Docker
 tags: []
-cssclasses: 
-原文链接: https://blog.csdn.net/qq_50883920/article/details/120540509
-创建时间: 2023-08-30 14:51:45
-更新时间: 2024-01-22 16:56:19
+cssclasses: null
+原文链接: 'https://blog.csdn.net/qq_50883920/article/details/120540509'
+创建时间: 2023-08-30T14:51:45.000Z
+更新时间: 2024-01-22T16:56:19.000Z
 ---
 
 # 在 WLS2 Debian 上安装 Docker

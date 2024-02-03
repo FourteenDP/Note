@@ -11,8 +11,13 @@
             "id": "566626c04f954af4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未整理/Flutter 速记.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未整理/Flutter 速记.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未整理/Flutter 速记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未整理/Flutter 速记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,36 +218,43 @@
   },
   "active": "566626c04f954af4",
   "lastOpenFiles": [
-    "未整理/Flutter 速记.md",
     "信箱/VIM速查.md",
     "信箱/安卓原生开发速记.md",
-    "README.md",
     "归档/社区&博客.md",
+    "lib/Template/日志/周总结.md",
+    "未整理/Flutter 速记.md",
+    "lib/Template/日志/季总结.md",
+    "lib/Template/日志/年总结.md",
+    "lib/Template/日志/日总结.md",
+    "lib/Template/日志/月总结.md",
+    "lib/Run/Obsidian目录生成.ts",
+    "lib/Run/node_modules/argparse/lib/action/store/true.js",
+    "lib/Run/node_modules/argparse/lib/action/store/false.js",
+    "lib/Run/node_modules/argparse/lib/action/store/constant.js",
+    "lib/Run/node_modules/argparse/lib/action/append/constant.js",
+    "lib/Run/node_modules/argparse/lib/help/formatter.js",
+    "lib/Run/node_modules/argparse/lib/help/added_formatters.js",
+    "lib/Run/node_modules/argparse/lib/argument/group.js",
+    "lib/Run/node_modules/argparse/lib/argument/exclusive.js",
+    "lib/Run/node_modules/argparse/lib/argument/error.js",
+    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
+    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
+    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
+    "lib/Run/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
+    "lib/Run/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
+    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
+    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
+    "lib/Run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
+    "lib/Run/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
+    "lib/Run/node_modules/@pkgjs/parseargs/README.md",
+    "lib/Run/node_modules/@pkgjs/parseargs/CHANGELOG.md",
+    "lib/Run/node_modules/@isaacs/cliui/README.md",
+    "lib/Run/node_modules/wrap-ansi/readme.md",
+    "lib/Run/node_modules/strip-bom-string/README.md",
+    "lib/Run/node_modules/which/README.md",
+    "lib/Run/node_modules/which/CHANGELOG.md",
+    "lib/Run/node_modules/wrap-ansi-cjs/readme.md",
     "assets/Pasted image 20240203174515.png",
-    "未整理/1.1- 简单的历史回顾.md",
-    "采集/坑：ssh： connect to host github-com port 22： Connection refused.md",
-    "未整理/Lambda 表达式.md",
-    "日志/2024/2024-01-22.md",
-    "日志/2024/2024-01-23.md",
-    "日志/2024",
-    "自考/资料/KM02-马克思主义基本原理概论/马克思主义基本原理概论相关视频索引.md",
-    "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
-    "未整理/外观 (门面) 模式 (Facade).md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
-    "未整理/抽象工厂模式 (Abstract Factory).md",
-    "未整理/代理模式 (Proxy).md",
-    "未整理/备忘录模式 (Memento).md",
-    "未整理/五大原则 (SOLID).md",
-    "未整理/依赖倒转原则 DIP(Dependence Inversion Principle).md",
-    "未整理/策略模式 (Strategy).md",
-    "未整理/委托模式 (Delegate).md",
-    "未整理/1.2-JavaScriptr 版本.md",
-    "归档",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
     "assets/image/分析Vue2中的Vue与VueComponent的关系.png",
@@ -247,13 +263,6 @@
     "assets/image/Pasted image 20230520222414.png",
     "assets/image/Pasted image 20230520221203.png",
     "assets/image/Pasted image 20230520220103.png",
-    "assets/image/Pasted image 20230508183251.png",
-    "assets/svg",
-    "assets/image",
-    "assets",
-    "归档",
-    "归档/设计模式",
-    "拾肆/个人/1.m4a",
-    "自考/押密/马克思主义基本原理概论.pdf"
+    "assets/image/Pasted image 20230508183251.png"
   ]
 }
