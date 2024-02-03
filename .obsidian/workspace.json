@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:医疗",
+                "query": "tag:#计算机/前端/CSS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "信箱/Vim速查.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "信箱/Vim速查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "信箱/Vim速查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +218,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b44e6ebb3382356e",
+  "active": "d5118a4973f82239",
   "lastOpenFiles": [
+    "README.md",
     "信箱/Vim速查.md",
     "信箱/Flutter 速记.md",
     "信箱/安卓原生开发速记.md",
@@ -254,7 +256,6 @@
     "lib/Run/node_modules/wrap-ansi/readme.md",
     "lib/Run/node_modules/which/README.md",
     "lib/Run/node_modules/which/CHANGELOG.md",
-    "lib/Run/node_modules/strip-bom-string/README.md",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png",
     "assets/Pasted image 20240203174515.png",
