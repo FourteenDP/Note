@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未整理/英语教程.md",
+                "file": "未整理/Git 操作规范.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/英语教程.md"
+                "file": "未整理/Git 操作规范.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/英语教程.md",
+                "file": "未整理/Git 操作规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/英语教程.md",
+                "file": "未整理/Git 操作规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "566626c04f954af4",
   "lastOpenFiles": [
+    "未整理/Git 子仓库.md",
+    "采集/Git Submodule 命令使用与详细教程.md",
+    "未整理/英语教程.md",
     "日志/README.md",
     "拾肆/个人/Vue3——基础内容部分(小满版本).pdf",
     "拾肆/个人/2022面试题总结/8、人资问题.md",
@@ -251,9 +254,6 @@
     "lib/Template/日志/日总结.md",
     "lib/Template/日志/周总结.md",
     "lib/Template/日志/季总结.md",
-    "lib/Template/日志/年总结.md",
-    "lib/Template/日志/月总结.md",
-    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
