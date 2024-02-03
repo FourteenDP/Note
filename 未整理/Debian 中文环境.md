@@ -1,14 +1,12 @@
 ---
 标题: Debian 中文环境
-描述: null
-封面: null
+描述: 
+封面: 
 uid: 20240123112806910
-aliases: []
+aliases: 
 tags:
   - 计算机/Linux/Debian
-  - 设置
-  - 中文
-cssclasses: null
+cssclasses: 
 创建时间: 2023-05-07T14:01:31.000Z
 更新时间: 2024-01-22T16:57:44.000Z
 ---

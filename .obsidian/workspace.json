@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未整理/Linux 目录结构和作用.md",
+                "file": "未整理/Debian 中文环境.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/Linux 目录结构和作用.md"
+                "file": "未整理/Debian 中文环境.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/Linux 目录结构和作用.md",
+                "file": "未整理/Debian 中文环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/Linux 目录结构和作用.md",
+                "file": "未整理/Debian 中文环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +218,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5118a4973f82239",
+  "active": "566626c04f954af4",
   "lastOpenFiles": [
+    "未整理/Linux 目录结构和作用.md",
     "lib/Template/日志/周总结.md",
     "代码/虚拟列表.html",
     "代码/Obsidian全屏iframe.html",
@@ -255,7 +256,6 @@
     "信箱/Vim速查.md",
     "未整理/Vite 全局样式注入.md",
     "未整理/void 和 never 区别.md",
-    "信箱/Flutter 速记.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
