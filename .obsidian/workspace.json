@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/简历/简历待办.md",
+                "file": "拾肆/个人/防脱生发.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:计算机/Linux",
+                "query": "tag:医疗",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/简历/简历待办.md"
+                "file": "拾肆/个人/防脱生发.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/简历/简历待办.md",
+                "file": "拾肆/个人/防脱生发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/简历/简历待办.md",
+                "file": "拾肆/个人/防脱生发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,12 +218,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "566626c04f954af4",
+  "active": "d5118a4973f82239",
   "lastOpenFiles": [
-    "拾肆/个人/简历/发简历常用语.md",
-    "拾肆/个人/简历/简历待办.md",
-    "拾肆/个人/兴趣.md",
+    "拾肆/个人/小孩子涨高.md",
     "拾肆/个人/防脱生发.md",
+    "拾肆/个人/简历/简历待办.md",
+    "拾肆/个人/简历/发简历常用语.md",
+    "拾肆/个人/兴趣.md",
     "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
     "拾肆/个人/简历/邓智鹏 - 前端工程师.pdf",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
@@ -254,7 +256,6 @@
     "未整理/2022面试题总结/5、Vue 面试题.md",
     "未整理/2022面试题总结/4、ES6 面试题.md",
     "未整理/2022面试题总结/2、JS+JQ 面试题.md",
-    "未整理/2022面试题总结/1、HTML+CSS 面试题.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
