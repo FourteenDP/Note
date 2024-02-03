@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未整理/Debian 中文环境.md",
+                "file": "拾肆/个人/感兴趣的事物.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/Debian 中文环境.md"
+                "file": "拾肆/个人/感兴趣的事物.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/Debian 中文环境.md",
+                "file": "拾肆/个人/感兴趣的事物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/Debian 中文环境.md",
+                "file": "拾肆/个人/感兴趣的事物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,20 +219,26 @@
   },
   "active": "566626c04f954af4",
   "lastOpenFiles": [
+    "拾肆/个人/防脱生发.md",
+    "拾肆/个人/简历/发简历常用语.md",
+    "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
+    "拾肆/个人/简历/邓智鹏 - 前端工程师.pdf",
+    "拾肆/个人/感兴趣的事物.md",
+    "拾肆/个人/惠州市技师学院-毕业证.pdf",
+    "未整理/面试录音.m4a",
+    "拾肆/个人/~$前端 历时1个月收获7个offer.docx",
+    "未整理/面试录音1.m4a",
+    "未整理/Debian 中文环境.md",
+    "拾肆/个人/简历",
     "未整理/Linux 目录结构和作用.md",
     "lib/Template/日志/周总结.md",
     "代码/虚拟列表.html",
     "代码/Obsidian全屏iframe.html",
     "代码/call、apply、bind手写.js",
     "代码/优雅的错误捕获处理.ts",
-    "拾肆/个人/2.m4a",
     "拾肆/个人/JavaScript 面试精讲.md",
     "lib/Template/日志/日总结.md",
     "未整理/2022面试题总结/3、JS 高级面试题.md",
-    "拾肆/个人/PDF文稿.pdf",
-    "归档/Vue3——Router4教程(小满版本).pdf",
-    "归档/TypeScript基础笔记(小满版本).pdf",
-    "归档/Vue3——基础内容部分(小满版本).pdf",
     "未整理/Git 操作规范.md",
     "归档/社区&博客.md",
     "未整理/Vue 的不同构建版本.md",
@@ -249,13 +254,6 @@
     "未整理/2022面试题总结/4、ES6 面试题.md",
     "未整理/2022面试题总结/2、JS+JQ 面试题.md",
     "未整理/2022面试题总结/1、HTML+CSS 面试题.md",
-    "拾肆/个人/Me.md",
-    "归档/Vue3——pinia部分(小满版本).pdf",
-    "拾肆/个人/All in One 笔记工具.md",
-    "未整理/CSS 选择器优先算法.md",
-    "信箱/Vim速查.md",
-    "未整理/Vite 全局样式注入.md",
-    "未整理/void 和 never 区别.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
