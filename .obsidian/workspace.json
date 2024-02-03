@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拾肆/个人/桌子舒适大小.md",
+                "file": "拾肆/个人/All in One 笔记工具.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拾肆/个人/桌子舒适大小.md"
+                "file": "拾肆/个人/All in One 笔记工具.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/桌子舒适大小.md",
+                "file": "拾肆/个人/All in One 笔记工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/桌子舒适大小.md",
+                "file": "拾肆/个人/All in One 笔记工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +219,21 @@
   },
   "active": "085664c0cbf141e9",
   "lastOpenFiles": [
-    "拾肆/个人/租房合同确认版.pdf",
-    "拾肆/个人/专升本.md",
-    "拾肆/个人/涨薪申请.md",
-    "拾肆/个人/兴趣.md",
-    "拾肆/个人/想开发的项目.md",
+    "拾肆/个人/租房/租房合同确认版.pdf",
+    "拾肆/个人/其它/桌子舒适大小.md",
+    "拾肆/个人/其它/专升本.md",
+    "拾肆/个人/其它/涨薪申请.md",
+    "拾肆/个人/其它/钱钱钱.md",
+    "拾肆/个人/个人信息/惠州市技师学院-毕业证.pdf",
+    "拾肆/个人/个人信息",
+    "拾肆/个人/简历/辞职通知 - 邓某某 - 范文.md",
+    "拾肆/个人/其它",
+    "拾肆/个人/租房",
+    "拾肆/个人/其它/兴趣.md",
+    "拾肆/个人/其它/想开发的项目.md",
     "拾肆/医疗/小孩子涨高.md",
-    "拾肆/个人/稳定的工作.md",
-    "拾肆/个人/钱钱钱.md",
+    "拾肆/个人/其它/稳定的工作.md",
     "拾肆/基本自我介绍.md",
-    "拾肆/个人/惠州市技师学院-毕业证.pdf",
-    "拾肆/个人/辞职通知 - 邓某某 - 范文.md",
     "拾肆/个人/简历/项目经历.md",
     "未整理/2022面试题总结/前端面试手册.md",
     "未整理/2022面试题总结/面试题-高频次.md",
@@ -242,9 +246,6 @@
     "拾肆/个人/简历/简历待办.md",
     "拾肆/个人/简历/发简历常用语.md",
     "拾肆/个人/简历/邓智鹏 - 前端工程师.pdf",
-    "未整理/面试录音.m4a",
-    "拾肆/个人/~$前端 历时1个月收获7个offer.docx",
-    "未整理/面试录音1.m4a",
     "未整理/Debian 中文环境.md",
     "未整理/Linux 目录结构和作用.md",
     "lib/Template/日志/周总结.md",
@@ -253,7 +254,6 @@
     "未整理/2022面试题总结/3、JS 高级面试题.md",
     "未整理/Git 操作规范.md",
     "归档/社区&博客.md",
-    "未整理/Vue 的不同构建版本.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
