@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/未命名.md",
+                "file": "信箱/安卓原生开发.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/未命名.md"
+                "file": "信箱/安卓原生开发.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/未命名.md",
+                "file": "信箱/安卓原生开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/未命名.md",
+                "file": "信箱/安卓原生开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,11 +216,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd89802e533e68c8",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
-    "信箱/VIM速查.md",
-    "信箱/未命名.md",
+    "未整理/1.1- 简单的历史回顾.md",
+    "信箱/安卓原生开发.md",
     "归档/社区&博客.md",
+    "信箱/VIM速查.md",
     "采集/坑：ssh： connect to host github-com port 22： Connection refused.md",
     "未整理/Lambda 表达式.md",
     "日志/2024/2024-01-22.md",
@@ -245,7 +246,6 @@
     "未整理/委托模式 (Delegate).md",
     "未整理/1.2-JavaScriptr 版本.md",
     "未整理/弱类型、强类型、动态类型、静态类型语言.md",
-    "未整理/📚知识博客.md",
     "归档",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
