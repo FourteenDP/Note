@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未整理/Flutter 速记.md",
+                "file": "未整理/英语教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算机/设计模式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/Flutter 速记.md"
+                "file": "未整理/英语教程.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/Flutter 速记.md",
+                "file": "未整理/英语教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/Flutter 速记.md",
+                "file": "未整理/英语教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,16 +216,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "566626c04f954af4",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
-    "信箱/VIM速查.md",
+    "未整理/CSS 选择器优先算法.md",
+    "信箱/Vim速查.md",
+    "未整理/Vite 全局样式注入.md",
+    "未整理/void 和 never 区别.md",
+    "信箱/Flutter 速记.md",
     "信箱/安卓原生开发速记.md",
     "归档/社区&博客.md",
+    "lib/Template/日志/日总结.md",
     "lib/Template/日志/周总结.md",
-    "未整理/Flutter 速记.md",
     "lib/Template/日志/季总结.md",
     "lib/Template/日志/年总结.md",
-    "lib/Template/日志/日总结.md",
     "lib/Template/日志/月总结.md",
     "lib/Run/Obsidian目录生成.ts",
     "lib/Run/node_modules/argparse/lib/action/store/true.js",
@@ -251,9 +254,6 @@
     "lib/Run/node_modules/@isaacs/cliui/README.md",
     "lib/Run/node_modules/wrap-ansi/readme.md",
     "lib/Run/node_modules/strip-bom-string/README.md",
-    "lib/Run/node_modules/which/README.md",
-    "lib/Run/node_modules/which/CHANGELOG.md",
-    "lib/Run/node_modules/wrap-ansi-cjs/readme.md",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
     "assets/image/原型链.png",
