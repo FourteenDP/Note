@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f67608a3a0e8e639",
+        "id": "022a8d53e69c4aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "23dc98f15a48c15b",
+            "id": "11490ad1e319fbc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拾肆/个人/2024 计划.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "拾肆/个人/2024 计划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拾肆/个人/2024 计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拾肆/个人/2024 计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,11 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23dc98f15a48c15b",
+  "active": "11490ad1e319fbc9",
   "lastOpenFiles": [
-    "拾肆/个人/Me.md",
-    "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "拾肆/个人/2024 计划.md",
+    "拾肆/个人/惠州市技师学院-毕业证.pdf",
+    "拾肆/个人/Me.md",
     "拾肆/简历/基本自我介绍.md",
     "拾肆/简历/发简历常用语.md",
     "归档/社区&博客.md",
