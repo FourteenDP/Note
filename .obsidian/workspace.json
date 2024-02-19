@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/Vim速查.md",
+                "file": "信箱/安卓原生开发速记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/Vim速查.md"
+                "file": "信箱/安卓原生开发速记.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/Vim速查.md",
+                "file": "信箱/安卓原生开发速记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/Vim速查.md",
+                "file": "信箱/安卓原生开发速记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,15 +231,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "1a361af30628e6e8",
   "lastOpenFiles": [
+    "信箱/Flutter 速记.md",
+    "信箱/Vim速查.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "README.md",
     "日志/2024/2024-02-19.md",
     "日志/2024",
     "信箱/安卓原生开发速记.md",
-    "信箱/Flutter 速记.md",
-    "信箱/Vim速查.md",
     "未整理/笔记本禁用自带键盘.md",
     "lib/Template/日志/周总结.md",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
