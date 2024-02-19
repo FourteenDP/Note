@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0150e53af2b0b56",
+        "id": "be4e1398715d12cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e901ee2a1856cf80",
+            "id": "593c02e19f75867d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信箱/Vim速查.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "信箱/Vim速查.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/Vim速查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/Vim速查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,22 +207,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e901ee2a1856cf80",
+  "active": "593c02e19f75867d",
   "lastOpenFiles": [
+    "归档/TypeScript基础笔记(小满版本).pdf",
+    "归档/Vue3——基础内容部分(小满版本).pdf",
+    "归档/社区&博客.md",
     "信箱/Flutter 速记.md",
+    "信箱/Vim速查.md",
     "信箱/安卓原生开发速记.md",
     "拾肆/个人/Me.md",
     "拾肆/个人/2024 计划.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "拾肆/简历/基本自我介绍.md",
     "拾肆/简历/发简历常用语.md",
-    "归档/社区&博客.md",
     "拾肆/简历/简历待办.md",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
     "拾肆/租房/租房合同确认版.pdf",
-    "信箱/Vim速查.md",
     "assets/Pasted image 20240219194210.png",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "README.md",
@@ -242,7 +235,6 @@
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
-    "lib/Run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015/text.js",
     "lib/Run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
