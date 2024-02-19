@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "022a8d53e69c4aa5",
+        "id": "c0150e53af2b0b56",
         "type": "tabs",
         "children": [
           {
-            "id": "11490ad1e319fbc9",
+            "id": "e901ee2a1856cf80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "信箱/Vim速查.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "信箱/Vim速查.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "信箱/Vim速查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "信箱/Vim速查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,11 +216,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "11490ad1e319fbc9",
+  "active": "e901ee2a1856cf80",
   "lastOpenFiles": [
+    "信箱/Flutter 速记.md",
+    "信箱/安卓原生开发速记.md",
+    "拾肆/个人/Me.md",
     "拾肆/个人/2024 计划.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
-    "拾肆/个人/Me.md",
     "拾肆/简历/基本自我介绍.md",
     "拾肆/简历/发简历常用语.md",
     "归档/社区&博客.md",
@@ -220,8 +231,6 @@
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
     "拾肆/租房/租房合同确认版.pdf",
-    "信箱/安卓原生开发速记.md",
-    "信箱/Flutter 速记.md",
     "信箱/Vim速查.md",
     "assets/Pasted image 20240219194210.png",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
