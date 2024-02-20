@@ -11,8 +11,13 @@
             "id": "593c02e19f75867d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未整理/任务.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未整理/任务.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未整理/任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未整理/任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,14 +218,20 @@
   },
   "active": "593c02e19f75867d",
   "lastOpenFiles": [
-    "归档/TypeScript基础笔记(小满版本).pdf",
+    "未整理/CSS-BEM 命名规范.md",
+    "未整理/任务.md",
+    "未整理/node 的 process.nextTick.md",
+    "未整理/REM 兼容适配解决方案.md",
+    "未整理/Vue 路由 Keep-alive 实现原理.md",
     "归档/Vue3——基础内容部分(小满版本).pdf",
+    "未整理/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
+    "拾肆/个人/2024 计划.md",
+    "归档/TypeScript基础笔记(小满版本).pdf",
     "归档/社区&博客.md",
     "信箱/Flutter 速记.md",
     "信箱/Vim速查.md",
     "信箱/安卓原生开发速记.md",
     "拾肆/个人/Me.md",
-    "拾肆/个人/2024 计划.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "拾肆/简历/基本自我介绍.md",
     "拾肆/简历/发简历常用语.md",
@@ -234,18 +249,12 @@
     "lib/Template/日志/周总结.md",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
-    "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
     "lib/Run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
     "lib/Run/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
-    "lib/Run/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
-    "lib/Run/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
-    "lib/Run/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
-    "lib/Run/node_modules/@pkgjs/parseargs/README.md",
-    "lib/Run/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png",
     "assets/Pasted image 20240203174515.png",
