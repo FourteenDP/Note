@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/ERP 系统数据打通.md",
+                "file": "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/ERP 系统数据打通.md"
+                "file": "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/ERP 系统数据打通.md",
+                "file": "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/ERP 系统数据打通.md",
+                "file": "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,10 +216,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "b30a3e708d5bf6f4",
   "lastOpenFiles": [
-    "信箱/快速建站.md",
+    "拾肆/个人/2024 计划.md",
+    "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md",
+    "拾肆/个人/Me.md",
     "信箱/ERP 系统数据打通.md",
+    "信箱/快速建站.md",
     "信箱/电商&外贸.md",
     "信箱/安卓原生开发速记.md",
     "归档/Vue3——Router4教程(小满版本).pdf",
@@ -233,11 +236,9 @@
     "未整理/Vue 路由 Keep-alive 实现原理.md",
     "归档/Vue3——基础内容部分(小满版本).pdf",
     "未整理/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
-    "拾肆/个人/2024 计划.md",
     "归档/TypeScript基础笔记(小满版本).pdf",
     "归档/社区&博客.md",
     "信箱/Vim速查.md",
-    "拾肆/个人/Me.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "拾肆/简历/基本自我介绍.md",
     "拾肆/简历/发简历常用语.md",
@@ -254,7 +255,6 @@
     "未整理/笔记本禁用自带键盘.md",
     "lib/Template/日志/周总结.md",
     "lib/Run/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
-    "lib/Run/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png",
     "assets/Pasted image 20240203174515.png",
