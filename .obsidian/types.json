@@ -6,6 +6,7 @@
     "创建时间": "datetime",
     "更新时间": "datetime",
     "发布链接": "multitext",
-    "uid": "number"
+    "uid": "number",
+    "整理": "checkbox"
   }
 }
