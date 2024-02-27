@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信箱/电商&外贸.md",
+                "file": "时间笔记/202402271154.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信箱/电商&外贸.md"
+                "file": "时间笔记/202402271154.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信箱/电商&外贸.md",
+                "file": "时间笔记/202402271154.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信箱/电商&外贸.md",
+                "file": "时间笔记/202402271154.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,18 +216,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b30a3e708d5bf6f4",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "信箱/Vim速查.md",
     "信箱/安卓原生开发速记.md",
-    "信箱/电商&外贸.md",
+    "时间笔记/202402271154.md",
+    "电商&外贸.md",
+    "信箱/快速建站.md",
+    "README.md",
+    "信箱/ERP 系统数据打通.md",
+    "拾肆/个人/2024 计划.md",
+    "时间笔记/202402271152.md",
     "时间笔记/202402230808.md",
     "归档/Flutter 速记.md",
-    "信箱/ERP 系统数据打通.md",
-    "信箱/快速建站.md",
-    "信箱/Vim速查.md",
     "时间笔记",
     "拾肆/个人/Me.md",
-    "拾肆/个人/2024 计划.md",
     "拾肆/阿里服务.md",
     "采集/Git Submodule 命令使用与详细教程.md",
     "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
@@ -246,11 +249,8 @@
     "未整理/CSS-BEM 命名规范.md",
     "未整理/node 的 process.nextTick.md",
     "未整理/REM 兼容适配解决方案.md",
-    "未整理/Vue 路由 Keep-alive 实现原理.md",
     "归档/Vue3——基础内容部分(小满版本).pdf",
-    "未整理/浏览器休眠对 setTimeout 和 setInterval 的影响.md",
     "归档/TypeScript基础笔记(小满版本).pdf",
-    "归档/社区&博客.md",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
