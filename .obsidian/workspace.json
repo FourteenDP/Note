@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e780611d9ed992",
+        "id": "abd5e62e6331dee8",
         "type": "tabs",
         "children": [
           {
-            "id": "b30a3e708d5bf6f4",
+            "id": "6d2e2487d784e02a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "归档/Vue3——pinia部分(小满版本).pdf"
+                "file": "时间笔记/202402281716.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/Vue3——pinia部分(小满版本).pdf"
+                "file": "时间笔记/202402281716.md"
               }
             }
           },
@@ -164,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/Vue3——pinia部分(小满版本).pdf",
+                "file": "时间笔记/202402281716.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/Vue3——pinia部分(小满版本).pdf",
+                "file": "时间笔记/202402281716.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,17 +216,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b30a3e708d5bf6f4",
+  "active": "6d2e2487d784e02a",
   "lastOpenFiles": [
-    "拾肆/个人/Me.md",
+    "时间笔记/202402281716.md",
+    "时间笔记/202402271154.md",
+    "时间笔记/202402271555.md",
     "信箱/安卓原生开发速记.md",
+    "归档/Vue3——pinia部分(小满版本).pdf",
+    "拾肆/个人/Me.md",
     "归档/Vim速查.md",
     "归档/Vue3——Router4教程(小满版本).pdf",
-    "归档/Vue3——pinia部分(小满版本).pdf",
     "归档/Flutter 速记.md",
     "归档/Vue3——基础内容部分(小满版本).pdf",
     "归档/TypeScript基础笔记(小满版本).pdf",
-    "时间笔记/202402271154.md",
     "电商&外贸.md",
     "信箱/快速建站.md",
     "README.md",
@@ -247,7 +252,6 @@
     "未整理/任务.md",
     "未整理/image 标签图片的白边.md",
     "未整理/CSS-BEM 命名规范.md",
-    "未整理/node 的 process.nextTick.md",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
