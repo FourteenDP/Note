@@ -19,12 +19,12 @@
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
   "openInSameTab": false,
-  "showRefreshButton": false,
+  "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
-  "darkMode": false,
+  "darkMode": true,
   "randomBackground": false,
   "lastOpenedFiles": false,
   "bookmarkManager": {
@@ -48,7 +48,7 @@
   },
   "treeData": [
     {
-      "id": "89ac013a8fe6b523",
+      "id": "ad792628c9062760",
       "parent": 0,
       "droppable": true,
       "text": "Surfing",

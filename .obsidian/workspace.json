@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1fe32b4f6a09f2",
+        "id": "7933b98144426d01",
         "type": "tabs",
         "children": [
           {
-            "id": "89ac013a8fe6b523",
+            "id": "ad792628c9062760",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.bing.com/search?q=vs s 重置默认设置"
+                "url": "https://www.bing.com/search?q=Visual Studio 重置默认设置"
               }
             }
           }
@@ -220,7 +220,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89ac013a8fe6b523",
+  "active": "ad792628c9062760",
   "lastOpenFiles": [
     "时间笔记/202402271154.md",
     "代码转换工具.md",
@@ -265,4 +265,7 @@
     "assets/image/Pasted image 20240123101848.png",
     "assets/Pasted image 20240203174515.png",
     "assets/image/盒子模型.png",
-    "assets/i
+    "assets/image/原型链.png",
+    "assets/image/分析Vue2中的Vue与VueComponent的关系.png"
+  ]
+}
