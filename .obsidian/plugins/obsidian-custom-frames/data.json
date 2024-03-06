@@ -1,9 +1,20 @@
 {
   "frames": [
     {
-      "url": "https://outlook.live.com/calendar/0/view/month",
-      "displayName": "Home",
-      "icon": "home",
+      "url": "https://web.shiguangxu.com/",
+      "displayName": "tdoo",
+      "icon": "check-circle",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://v.flomoapp.com/mine",
+      "displayName": "flomo",
+      "icon": "blinds",
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": true,

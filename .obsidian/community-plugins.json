@@ -23,7 +23,6 @@
   "custom-sort",
   "obsidian-local-rest-api",
   "code-files",
-  "obsidian-emoji-toolbar",
   "obsidian-icons-plugin",
   "obsidian-code-preview",
   "tag-wrangler",
@@ -31,5 +30,8 @@
   "colored-tags",
   "multi-tag",
   "multi-properties",
-  "obsidian-projects"
+  "obsidian-projects",
+  "home-tab",
+  "obsidian-custom-frames",
+  "obsidian-emoji-toolbar"
 ]

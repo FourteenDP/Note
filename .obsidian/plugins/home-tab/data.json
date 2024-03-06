@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": true,
+  "recentFilesStore": [
+    {
+      "filepath": "时间笔记/202402271154.md",
+      "timestamp": 1709716656361
+    },
+    {
+      "filepath": "时间笔记/202402281716.md",
+      "timestamp": 1709716618502
+    },
+    {
+      "filepath": "未整理/前端三大件兼容性查询.md",
+      "timestamp": 1709716566140
+    },
+    {
+      "filepath": "未整理/开发便捷工具.md",
+      "timestamp": 1709716565932
+    },
+    {
+      "filepath": "信箱/安卓原生开发速记.md",
+      "timestamp": 1709716518191
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
+}

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eaeace4720e56759",
+        "id": "cf3b141f237d17ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3f38f185b2222a4f",
+            "id": "5bc1c48d3b0b4147",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "时间笔记/202402271154.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "时间笔记/202402271154.md"
+              }
             }
           },
           {
@@ -147,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a612b30a8fa6aff7",
@@ -160,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "时间笔记/202402271154.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "时间笔记/202402271154.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +199,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open tdoo": false,
+      "obsidian-custom-frames:Open flomo": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
@@ -207,24 +219,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f38f185b2222a4f",
+  "active": "5bc1c48d3b0b4147",
   "lastOpenFiles": [
     "时间笔记/202402281716.md",
-    "时间笔记/202402271154.md",
-    "时间笔记/202402271555.md",
+    "时间笔记/202403061716.md",
+    "未整理/前端三大件兼容性查询.md",
+    "未整理/开发便捷工具.md",
     "信箱/安卓原生开发速记.md",
-    "归档/Vue3——pinia部分(小满版本).pdf",
+    "时间笔记/202402271154.md",
+    "README.md",
+    "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "拾肆/个人/Me.md",
+    "拾肆/个人/2024 计划.md",
+    "未命名.md",
+    "日志.md",
+    "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/警世钟.md",
+    "采集/写给前端的编译原理科普.md",
+    "归档/Flutter 速记.md",
+    "时间笔记/202402271555.md",
+    "归档/Vue3——pinia部分(小满版本).pdf",
     "归档/Vim速查.md",
     "归档/Vue3——Router4教程(小满版本).pdf",
-    "归档/Flutter 速记.md",
     "归档/Vue3——基础内容部分(小满版本).pdf",
     "归档/TypeScript基础笔记(小满版本).pdf",
     "电商&外贸.md",
     "信箱/快速建站.md",
-    "README.md",
     "信箱/ERP 系统数据打通.md",
-    "拾肆/个人/2024 计划.md",
     "时间笔记/202402271152.md",
     "时间笔记/202402230808.md",
     "时间笔记",
@@ -233,16 +253,8 @@
     "采集/微服务全做错了！谷歌提出新方法，成本直接降 9 倍！.md",
     "采集/在 WLS2 Debian 上安装.md",
     "采集/Win10-VSCode - 添加至右键菜单.md",
-    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
     "assets/Pasted image 20240220143629.png",
     "assets/Pasted image 20240220143624.png",
-    "采集/Linux 实例 SWAP 分区的配置和常见问题如何处理 - 阿里云帮助中心.md",
-    "拾肆/阿里云.md",
-    "拾肆/个人/惠州市技师学院-毕业证.pdf",
-    "未整理/Vue 组件通信方式.md",
-    "未整理/任务.md",
-    "未整理/image 标签图片的白边.md",
-    "未整理/CSS-BEM 命名规范.md",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
