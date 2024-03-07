@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a261aee620e8b9",
+        "id": "3b634c91ec89d6df",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f742dd4ef05e2f",
+            "id": "3640675c6651e810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端系列教程.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0898ee32c2d52983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码转换工具.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "custom-frames-tdoo",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "代码转换工具.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码转换工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码转换工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,14 +214,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "zk-prefixer:创建时间戳笔记": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0898ee32c2d52983",
+  "active": "3640675c6651e810",
   "lastOpenFiles": [
-    "时间笔记/202403071107.md",
     "前端系列教程.md",
+    "代码转换工具.md",
+    "时间笔记/202403071107.md",
     "采集/Visual Studio 完全重置的方法.md",
     "信箱/Visual Studio 恢复默认设置.md",
     "信箱/安卓原生开发速记.md",
@@ -252,7 +230,6 @@
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "代码/Obsidian全屏iframe.html",
     "时间笔记/202402271154.md",
-    "代码转换工具.md",
     "assets/Pasted image 20240306172700.png",
     "README.md",
     "未整理/代码生成.md",
