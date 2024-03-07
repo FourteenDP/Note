@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7933b98144426d01",
+        "id": "38d5598f79aa11ff",
         "type": "tabs",
         "children": [
           {
-            "id": "ad792628c9062760",
+            "id": "6617b55ac1080e79",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://www.bing.com/search?q=Visual Studio 重置默认设置"
+                "file": "Visual Studio 恢复默认设置.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -123,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Visual Studio 恢复默认设置.md"
+              }
             }
           },
           {
@@ -171,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Visual Studio 恢复默认设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Visual Studio 恢复默认设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +227,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad792628c9062760",
+  "active": "6617b55ac1080e79",
   "lastOpenFiles": [
+    "Visual Studio 恢复默认设置.md",
+    "[Visual Studio] 重置默认设置 还原默认设置 - 名字什么都是浮云 - 博客园.md",
+    "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
+    "代码/Obsidian全屏iframe.html",
     "时间笔记/202402271154.md",
     "代码转换工具.md",
     "assets/Pasted image 20240306172700.png",
@@ -252,14 +263,11 @@
     "时间笔记/202402271152.md",
     "时间笔记/202402230808.md",
     "时间笔记",
-    "拾肆/阿里服务.md",
-    "采集/Git Submodule 命令使用与详细教程.md",
     "assets/Pasted image 20240220143629.png",
     "assets/Pasted image 20240220143624.png",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
     "拾肆/公司/~$年终工作总结.docx",
-    "拾肆/租房/租房合同确认版.pdf",
     "assets/Pasted image 20240219194210.png",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png",
