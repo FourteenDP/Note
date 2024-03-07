@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3b634c91ec89d6df",
+        "id": "b9a9aa9a052197dc",
         "type": "tabs",
         "children": [
           {
-            "id": "3640675c6651e810",
+            "id": "5bb7e1bc8f81ef57",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-tdoo",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "时间笔记/202403071107.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -121,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "时间笔记/202403071107.md"
+              }
             }
           },
           {
@@ -169,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "时间笔记/202403071107.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "时间笔记/202403071107.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,23 +227,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3640675c6651e810",
+  "active": "5bb7e1bc8f81ef57",
   "lastOpenFiles": [
+    "时间笔记/202402281716.md",
+    "时间笔记/202402271154.md",
+    "时间笔记/202403071107.md",
+    "信箱/Visual Studio 恢复默认设置.md",
     "前端系列教程.md",
     "代码转换工具.md",
-    "时间笔记/202403071107.md",
     "采集/Visual Studio 完全重置的方法.md",
-    "信箱/Visual Studio 恢复默认设置.md",
     "信箱/安卓原生开发速记.md",
     "[Visual Studio] 重置默认设置 还原默认设置 - 名字什么都是浮云 - 博客园.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "代码/Obsidian全屏iframe.html",
-    "时间笔记/202402271154.md",
     "assets/Pasted image 20240306172700.png",
     "README.md",
     "未整理/代码生成.md",
     "未整理/开发便捷工具.md",
-    "时间笔记/202402281716.md",
     "时间笔记/202403061716.md",
     "未整理/前端三大件兼容性查询.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
