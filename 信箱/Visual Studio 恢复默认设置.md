@@ -7,7 +7,7 @@ aliases: []
 tags: []
 cssclasses: 
 创建时间: 2024-03-07 08:37:24
-更新时间: 2024-03-07 08:39:15
+更新时间: 2024-03-07 09:44:54
 ---
 
 # Visual Studio 恢复默认设吹
@@ -21,3 +21,7 @@ cssclasses:
 1、依次选择 " 开始 → Visual Studio 2022 → VS2022 开发人员命令提示 "，打开 " 命令提示符 " 窗口。
 
 2、输入 devenv /ResetSettings，如图 5 所示：
+
+### 三、完全重置
+
+[[Visual Studio 完全重置的方法]]

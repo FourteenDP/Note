@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "798a35d3e08aba68",
+        "id": "e2a261aee620e8b9",
         "type": "tabs",
         "children": [
           {
-            "id": "274fcadd53e52bcd",
+            "id": "d0f742dd4ef05e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "采集/Visual Studio 完全重置的方法.md",
+                "file": "前端系列教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采集/Visual Studio 完全重置的方法.md"
+                "file": "前端系列教程.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采集/Visual Studio 完全重置的方法.md",
+                "file": "前端系列教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采集/Visual Studio 完全重置的方法.md",
+                "file": "前端系列教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "274fcadd53e52bcd",
+  "active": "d0f742dd4ef05e2f",
   "lastOpenFiles": [
+    "前端系列教程.md",
     "采集/Visual Studio 完全重置的方法.md",
     "信箱/Visual Studio 恢复默认设置.md",
     "信箱/安卓原生开发速记.md",
@@ -261,7 +262,6 @@
     "电商&外贸.md",
     "信箱/快速建站.md",
     "信箱/ERP 系统数据打通.md",
-    "时间笔记/202402271152.md",
     "时间笔记",
     "assets/Pasted image 20240220143629.png",
     "assets/Pasted image 20240220143624.png",
