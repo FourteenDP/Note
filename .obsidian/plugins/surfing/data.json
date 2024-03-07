@@ -46,18 +46,6 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "ad792628c9062760",
-      "parent": 0,
-      "droppable": true,
-      "text": "[Visual Studio] 重置默认设置 还原默认设置 - 名字什么都是浮云 - 博客园",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true
 }
