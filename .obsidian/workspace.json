@@ -11,11 +11,30 @@
             "id": "7cc90b96709bd711",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3606f9ebcec6138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未整理/开发便捷工具.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未整理/开发便捷工具.md"
+              }
             }
           },
           {
@@ -169,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未整理/开发便捷工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未整理/开发便捷工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +223,9 @@
     "hiddenItems": {
       "obsidian-custom-frames:Open tdoo": false,
       "obsidian-custom-frames:Open flomo": false,
+      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "custom-sort:Toggle custom sorting": false,
       "code-files:Create Code File": false,
@@ -218,23 +241,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cc90b96709bd711",
+  "active": "d3606f9ebcec6138",
   "lastOpenFiles": [
-    "信箱/Visual Studio 恢复默认设置.md",
+    "未整理/前端工具.md",
+    "未整理/开发便捷工具.md",
+    "未整理/其他工具.md",
+    "代码转换工具.md",
+    "README.md",
     "信箱/安卓原生开发速记.md",
+    "日志/2024/2024-03-11.md",
+    "日志/2024",
+    "信箱/Visual Studio 恢复默认设置.md",
     "时间笔记/202402271154.md",
     "时间笔记/202402281716.md",
     "时间笔记/202403071107.md",
     "前端系列教程.md",
-    "代码转换工具.md",
     "采集/Visual Studio 完全重置的方法.md",
     "[Visual Studio] 重置默认设置 还原默认设置 - 名字什么都是浮云 - 博客园.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "代码/Obsidian全屏iframe.html",
     "assets/Pasted image 20240306172700.png",
-    "README.md",
     "未整理/代码生成.md",
-    "未整理/开发便捷工具.md",
     "时间笔记/202403061716.md",
     "未整理/前端三大件兼容性查询.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
@@ -247,18 +274,14 @@
     "归档/Flutter 速记.md",
     "时间笔记/202402271555.md",
     "归档/Vue3——pinia部分(小满版本).pdf",
-    "归档/Vim速查.md",
     "归档/Vue3——Router4教程(小满版本).pdf",
     "归档/Vue3——基础内容部分(小满版本).pdf",
     "归档/TypeScript基础笔记(小满版本).pdf",
-    "电商&外贸.md",
-    "信箱/快速建站.md",
     "时间笔记",
     "assets/Pasted image 20240220143629.png",
     "assets/Pasted image 20240220143624.png",
     "拾肆/简历/简历模板.pdf",
     "拾肆/简历/简历个人意见.pdf",
-    "拾肆/公司/~$年终工作总结.docx",
     "assets/Pasted image 20240219194210.png",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png",
