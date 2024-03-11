@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8967fa6e483240f3",
+        "id": "a19ee94d21a3312d",
         "type": "tabs",
         "children": [
           {
-            "id": "06eecc1b216545c2",
+            "id": "9eba87ccf962fc1b",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-flomo",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "拾肆/阿里服务.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -122,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时间笔记/202402281716.md"
+                "file": "拾肆/阿里服务.md"
               }
             }
           },
@@ -171,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "拾肆/阿里服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "拾肆/阿里服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +227,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "085664c0cbf141e9",
+  "active": "9eba87ccf962fc1b",
   "lastOpenFiles": [
+    "README.md",
+    "assets/svg/UniApp生命周期.drawio.svg",
+    "assets/svg/submodule和subtree区别.excalidraw.svg",
+    "assets/svg/后端常见分层.drawio.svg",
+    "assets/svg/构建知识库.svg",
+    "时间笔记/202402281716.md",
     "时间笔记/202402271154.md",
     "时间笔记/202403071107.md",
-    "时间笔记/202402281716.md",
     "时间笔记/202403111057.md",
     "信箱/前端系列教程.md",
     "归档/代码转换工具.md",
@@ -233,7 +245,6 @@
     "未整理/其他工具.md",
     "未整理/代码生成.md",
     "信箱/Visual Studio 恢复默认设置.md",
-    "README.md",
     "信箱/安卓原生开发速记.md",
     "日志/2024/2024-03-11.md",
     "日志/2024",
@@ -251,7 +262,6 @@
     "日志.md",
     "自考/资料/KM01-中国近现代史纲要/05-中国近现代历史文献选集/1840-1949/辛亥革命/警世钟.md",
     "采集/写给前端的编译原理科普.md",
-    "归档/Flutter 速记.md",
     "归档/Vue3——pinia部分(小满版本).pdf",
     "归档/Vue3——Router4教程(小满版本).pdf",
     "归档/Vue3——基础内容部分(小满版本).pdf",
@@ -263,10 +273,6 @@
     "拾肆/简历/简历个人意见.pdf",
     "assets/Pasted image 20240219194210.png",
     "assets/image/Pasted image 20240203174515.png",
-    "assets/image/Pasted image 20240123101848.png",
-    "assets/Pasted image 20240203174515.png",
-    "assets/image/盒子模型.png",
-    "assets/image/原型链.png",
-    "assets/image/分析Vue2中的Vue与VueComponent的关系.png"
+    "assets/image/Pasted image 20240123101848.png"
   ]
 }
