@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8095314880668a",
+        "id": "b2be3eb357f4d9d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc90b96709bd711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3606f9ebcec6138",
+            "id": "2dabcc40dfdb08b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,27 +227,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3606f9ebcec6138",
+  "active": "2dabcc40dfdb08b9",
   "lastOpenFiles": [
-    "未整理/前端工具.md",
+    "代码转换工具.md",
     "未整理/开发便捷工具.md",
     "未整理/其他工具.md",
-    "代码转换工具.md",
+    "未整理/前端工具.md",
+    "未整理/代码生成.md",
+    "信箱/Visual Studio 恢复默认设置.md",
     "README.md",
     "信箱/安卓原生开发速记.md",
+    "前端系列教程.md",
     "日志/2024/2024-03-11.md",
     "日志/2024",
-    "信箱/Visual Studio 恢复默认设置.md",
     "时间笔记/202402271154.md",
     "时间笔记/202402281716.md",
     "时间笔记/202403071107.md",
-    "前端系列教程.md",
     "采集/Visual Studio 完全重置的方法.md",
     "[Visual Studio] 重置默认设置 还原默认设置 - 名字什么都是浮云 - 博客园.md",
     "采集/花了一天的时间，地板式扫盲了 vue3 所有 API 盲点.md",
     "代码/Obsidian全屏iframe.html",
     "assets/Pasted image 20240306172700.png",
-    "未整理/代码生成.md",
     "时间笔记/202403061716.md",
     "未整理/前端三大件兼容性查询.md",
     "拾肆/个人/惠州市技师学院-毕业证.pdf",
