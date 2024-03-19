@@ -11,8 +11,13 @@
             "id": "17687ee7d02fe89f",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -105,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "fc281553ae42aec0",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未整理/Neovim 的安装和配置.md"
+                "file": "归档/VSCode远程链接WSL1时无法安装插件.md"
               }
             }
           },
@@ -172,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未整理/Neovim 的安装和配置.md",
+                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未整理/Neovim 的安装和配置.md",
+                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,6 +229,7 @@
   },
   "active": "17687ee7d02fe89f",
   "lastOpenFiles": [
+    "归档/VSCode远程链接WSL1时无法安装插件.md",
     "未整理/Neovim 的安装和配置.md",
     "未整理/Linux 常用工具.md",
     "未整理/Linux 开发环境配置.md",
@@ -255,7 +260,6 @@
     "未整理/开发便捷工具.md",
     "未整理/前端工具.md",
     "未整理/其他工具.md",
-    "未整理/代码生成.md",
     "日志/2024",
     "代码/Obsidian全屏iframe.html",
     "assets/Pasted image 20240306172700.png",

@@ -24,6 +24,10 @@
   "unresolvedLinks": true,
   "recentFilesStore": [
     {
+      "filepath": "VSCode远程链接WSL1时无法安装插件.md",
+      "timestamp": 1710836002946
+    },
+    {
       "filepath": "未整理/Neovim 的安装和配置.md",
       "timestamp": 1710831637182
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "未整理/Linux 常用下载器.md",
       "timestamp": 1710830064629
-    },
-    {
-      "filepath": "未整理/Debian 中文环境.md",
-      "timestamp": 1710830050110
     }
   ],
   "starredFileStore": [],
