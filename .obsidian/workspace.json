@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6d49cc59b9574b0e",
+        "id": "582c0735c51688f0",
         "type": "tabs",
         "children": [
           {
-            "id": "f3876013c4fcfe58",
+            "id": "7fe41b525be189e4",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-flomo",
+              "type": "home-tab-view",
               "state": {}
             }
           }
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#计算机/前端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -222,7 +223,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3876013c4fcfe58",
+  "active": "d5118a4973f82239",
   "lastOpenFiles": [
     "拾肆/阿里服务.md",
     "README.md",
