@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63602ae9efbd5602",
+        "id": "528269e32737b418",
         "type": "tabs",
         "children": [
           {
-            "id": "17687ee7d02fe89f",
+            "id": "8cafc0ebd3991ff3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -227,7 +222,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17687ee7d02fe89f",
+  "active": "8cafc0ebd3991ff3",
   "lastOpenFiles": [
     "归档/VSCode远程链接WSL1时无法安装插件.md",
     "未整理/Neovim 的安装和配置.md",
