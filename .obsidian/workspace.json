@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "528269e32737b418",
+        "id": "3e5a0a376bd80c54",
         "type": "tabs",
         "children": [
           {
-            "id": "8cafc0ebd3991ff3",
+            "id": "f18d6b1cfb890c8c",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/VSCode远程链接WSL1时无法安装插件.md"
+                "file": "未整理/基本原则.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
+                "file": "未整理/基本原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/VSCode远程链接WSL1时无法安装插件.md",
+                "file": "未整理/基本原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +223,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cafc0ebd3991ff3",
+  "active": "f18d6b1cfb890c8c",
   "lastOpenFiles": [
+    "未整理/核心能力.md",
+    "未整理/观察者模式 (Observer).md",
+    "拾肆/阿里服务.md",
     "归档/VSCode远程链接WSL1时无法安装插件.md",
     "未整理/Neovim 的安装和配置.md",
     "未整理/Linux 常用工具.md",
@@ -240,7 +244,6 @@
     "拾肆/简历/邓智鹏 - 前端工程师.pdf",
     "未整理/WSL 登录 Root.md",
     "未整理/Linux 常用命令.md",
-    "拾肆/阿里服务.md",
     "README.md",
     "assets/svg/UniApp生命周期.drawio.svg",
     "assets/svg/submodule和subtree区别.excalidraw.svg",
@@ -253,8 +256,6 @@
     "信箱/前端系列教程.md",
     "归档/代码转换工具.md",
     "未整理/开发便捷工具.md",
-    "未整理/前端工具.md",
-    "未整理/其他工具.md",
     "日志/2024",
     "代码/Obsidian全屏iframe.html",
     "assets/Pasted image 20240306172700.png",
